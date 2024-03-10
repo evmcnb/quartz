@@ -15,7 +15,8 @@ export default (() => {
     const path = url.pathname as FullSlug
     const baseDir = fileData.slug === "404" ? path : pathToRoot(fileData.slug!)
 
-    const iconPath = joinSegments(baseDir, "static/icon.png")
+    const iconPathLight = joinSegments(baseDir, "static/icon.png")
+    const iconPathDark = joinSegments(baseDir, "static/icon-dark.png")
     const ogImagePath = `https://${cfg.baseUrl}/static/og-image.png`
 
     return (
@@ -35,7 +36,10 @@ export default (() => {
         {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
-        <link rel="icon" href={iconPath} />
+
+        <link rel="icon" href={iconPathLight} media="(prefers-color-scheme: dark" />
+        <link rel="icon" href={iconPathDark} media="(prefers-color-scheme: light" />
+
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
         {css.map((href) => (
