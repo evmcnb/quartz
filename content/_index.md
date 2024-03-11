@@ -1,6 +1,6 @@
 ---
 tags: 
-title: _index
+title: Nosos Notes
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
 date modified: 2024-03-11

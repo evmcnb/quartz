@@ -37,6 +37,29 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
+// export const homePageContentLayout: PageLayout = {
+//   beforeBody: [
+//     // Component.Breadcrumbs(),
+//     Component.ArticleTitle(),
+//     Component.ContentMeta(),
+//     Component.TagList(),
+//     Component.MobileOnly(Component.TableOfContents()),
+//   ],
+//   left: [
+//     Component.PageTitle(),
+//     Component.Darkmode(),
+//     Component.MobileOnly(Component.Spacer()),
+//     Component.Search(),
+//     Component.DesktopOnly(Component.RecentNotes()),
+//     Component.DesktopOnly(Component.Explorer()),
+//   ],
+//   right: [
+//     Component.Graph(),
+//     Component.DesktopOnly(Component.TableOfContents()),
+//     Component.Backlinks(),
+//   ],
+// }
+
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.ArticleTitle(), Component.ContentMeta()],

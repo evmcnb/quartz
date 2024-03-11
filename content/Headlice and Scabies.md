@@ -1,6 +1,7 @@
 ---
-tags: Dermatology
-title: "**Head Lice**"
+tags:
+  - Dermatology
+title: Head Lice and Scabies
 date created: Saturday, December 23rd 2023, 1:48:19 pm
 date modified: 2024-03-11
 date: 2024-01-11
