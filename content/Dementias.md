@@ -2,7 +2,6 @@
 tags:
   - Neurology
   - Geriatrics
-  - AIassisted
 title: Dementias
 date created: Wednesday, October 18th 2023, 1:38:15 pm
 date modified: 2024-03-11

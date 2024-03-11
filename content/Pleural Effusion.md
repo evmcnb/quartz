@@ -2,61 +2,60 @@
 title: Pleural Effusion
 tags:
   - Respiratory
-  - AIassisted
 date created: Wednesday, August 16th 2023, 1:49:49 pm
 date modified: 2024-03-11
-aliases: []
+aliases: 
 date: 2024-01-14
 ---
-Pleural effusion is a medical condition characterized by the accumulation of excess fluid in the pleural space. This buildup of fluid can compress the lungs, leading to breathing difficulties and other symptoms.
+Exudative - high protein content (>30g/L)
+Transudative - lower protein (<30g/L)
+
+Transudate **tame** - fluids leak from intact vessels so **low protein** 
+
+Exudates **extreme** - from pathological capillaries so **high protein**
+
+### Light's criteria
+
+|                         | Transudative                                                                                                      | Exudative                                                                                                                                                   |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mechanism               | Capillary hydrostatic pressure                                                                                    | Capillary permeability                                                                                                                                      |
+| Protein (pleural/serum) | <0.5                                                                                                              | >0.5                                                                                                                                                        |
+| LDH                     | <0.6 or<br><br>Pleural LDH < 2/3 upper limit of normal serum LDH                                                  | >0.6 or<br><br>Pleural LDH > 2/3 upper limit of normal serum LDH                                                                                            |
+| Common Causes           | Hypoalbuminaemia (cirrhosis, nephrotic syndrome)<br><br>Congestive Heart Failure<br><br>Constrictive Pericarditis | Autoimmune disease (inflammatory)<br><br>Oesophageal rupture<br><br>Infection (TB, fungal, empyema)<br><br>Palignancy<br><br>Pancreatitis <br><br>Post-CABG |
+
 ## Causes/Factors
 
 Pleural effusion can result from various underlying causes, including:
 
-1. **Infections:** Bacterial, viral, or fungal infections affecting the lungs, such as [[pneumonia]] or [[Tuberculosis]].
-2. **Congestive [[Heart Failure]]:** Weakened heart function can lead to fluid accumulation in the lungs.
-3. **Cancer:** Lung cancer, breast cancer, and other cancers can cause pleural effusion.
-4. **[[pulmonary embolism]]:** Blood clots in the lungs can lead to inflammation and fluid buildup.
-5. **Liver or Kidney Disease:** Impaired liver or kidney function can disrupt fluid balance and cause effusion.
-6. **Inflammatory Conditions:** Conditions like [[Systemic Lupus Erythematosus|lupus]] or [[Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] can lead to inflammation and fluid buildup.
-7. **Trauma:** Chest injuries or surgeries can result in pleural effusion.
-8. **Certain Medications:** Some drugs can cause fluid retention.
+#### Exudative - related to inflammation 
+- Cancer
+- Infection
+- RA
 
-## Symptoms
+#### Transudative - fluid moving into the pleural space
+- Congestive heart failure
+- Hypoalbuminaemia
+- Hypothyroidism
+- Meigs syndrome
 
-Symptoms of pleural effusion can vary depending on the amount of fluid present and the underlying cause. Common symptoms include:
+## Presentation 
 
-- **Shortness of Breath:** Feeling breathless, especially during physical activity.
-- **Chest Pain:** Sharp or dull pain in the chest, often worsened by deep breathing or coughing.
-- **Cough:** Dry or productive cough, which may produce blood-tinged sputum.
-- **Reduced Breath Sounds:** Decreased or absent breath sounds on the affected side during auscultation.
-- **Fever:** Especially if the effusion is caused by infection.
-- **Fatigue:** Feeling tired and weak due to reduced lung function.
-
-## Signs
-
-- **Dullness to Percussion:** When tapping the chest, the sound may be dull over the area of the effusion.
-- **Decreased Breath Sounds:** Reduced or absent breath sounds when listening with a stethoscope.
-- **Tracheal Shift:** The trachea may shift away from the affected side in large effusions.
+- Shortness of breath
+- Dullness to percussion
+- Reduced breath sounds
+- Tracheal deviation **away** from the effusion 
 
 ## Diagnostic Tests
 
-To diagnose pleural effusion and determine its underlying cause, healthcare professionals may perform various tests, including:
-
-- **Chest X-ray:** Provides an initial visualization of the pleural space and any fluid accumulation.
-- **Ultrasound:** Helps visualize the amount and location of fluid in real-time.
-- **CT Scan:** Offers detailed cross-sectional images for a better assessment of the pleural space.
-- **Thoracentesis:** Removal of fluid from the pleural space for analysis.
-- **Pleural Fluid Analysis:** Examination of the fluid to determine its composition and underlying cause.
+- **CXR:** blunting of costophrenic angle, fluid in lung fissures, meniscus, mass effect
+- **USS and CT** can detect smaller effusions, estimate volume and may identify cause
+- **Pleural fluid analysis** requires a sample taken by aspiration or chest drain. This helps establish the underlying cause by measuring the protein content, LDH, cell count, pH, glucose and microbiology testing.
 
 ## Management
 
-The management of pleural effusion depends on its underlying cause. Treatment aims to alleviate symptoms, remove excess fluid, and address the root cause. Treatment options include:
-
-1. **Thoracentesis:** Draining the excess fluid from the pleural space to relieve symptoms and facilitate diagnosis.
-2. **Medications:** Depending on the cause, medications such as antibiotics, diuretics, or anti-inflammatory drugs may be prescribed.
-3. **Treat Underlying Cause:** Addressing the condition causing the effusion, such as treating infections or managing heart failure.
-4. **Surgical Interventions:** In some cases, surgical procedures may be necessary to remove fluid or prevent future accumulations.
+- **Conservative management** for small effusions. Treat underlying problem instead
+- Pleural aspiration - needle through the chest wall, temporary relief
+- Chest drain may be used but can reoccur when taken out. 
 
 ## Complications/Red Flags
 

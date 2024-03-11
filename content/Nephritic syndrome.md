@@ -1,15 +1,21 @@
 ---
-tags: [Nephrology, AIassisted]
+tags:
+  - Nephrology
 title: Nephritic syndrome
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
 date: 2023-11-12
 ---
 
+ A group of features that occur with **nephritis**:
+ - Haematuria
+ - Oliguria
+ - Proteinuria
+ - Fluid retention
 
-**Difference between nephritic and [[Nephrotic syndrome|nephrotic]] syndrome**
-- haematuria in nephritic
-- proteinuria in [[Nephrotic syndrome|nephrotic]]
+> [!tip] Difference between **nephritic** and **[[Nephrotic syndrome|nephrotic]]** syndrome
+>- haematuria in nephritic
+>- proteinuria in [[Nephrotic syndrome|nephrotic]]
 
 ## Causes/Factors
 

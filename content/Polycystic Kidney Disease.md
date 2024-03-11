@@ -1,5 +1,6 @@
 ---
-tags: [Nephrology, AIassisted]
+tags:
+  - Nephrology
 title: Polycystic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
@@ -36,6 +37,13 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 - **Kidney Stones:** Due to cysts interfering with urinary drainage.
 - **Renal Dysfunction:** Impaired kidney function over time.
 
+
+**Extra-renal manifestations** include:
+- Cerebral aneurysms
+- Hepatic, splenic, pancreatic, ovarian and prostatic cysts
+- Mitral regurgitation
+- Colonic diverticula
+
 ## Signs
 
 - **Enlarged Kidneys:** Visible enlargement due to cyst growth.
@@ -49,11 +57,14 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 
 ## Management
 
-1. **Blood Pressure Control:** Medications to manage hypertension and protect the kidneys.
-2. **Pain Management:** Pain relievers for abdominal or back pain.
-3. **Infection Prevention:** Preventing urinary tract infections.
-4. **Dietary Changes:** Managing salt, protein, and fluid intake.
-5. **Monitoring Kidney Function:** Regular checks on kidney function.
+
+- **Tolvaptan** (vasopressin receptor antagonist) can slow the development of cysts and the progression of renal failure in **autosomal dominant** PCKD
+- **_Antihypertensives_** for hypertension (e.g., ACE inhibitors)
+- **_Analgesia_** for acute pain
+- **_Antibiotics_** for infections (e.g., UTIs or cyst infections)
+- **_Drainage_** of symptomatic can be performed by aspiration or surgery
+- **_Dialysis_** for end-stage renal failure
+- **_Renal transplant_** for end-stage renal failure
 
 ## Complications/red Flags
 

@@ -1,59 +1,52 @@
 ---
 tags:
   - Dermatology
-  - AIassisted
 title: Acne vulgaris
 date created: Saturday, December 23rd 2023, 2:01:46 pm
 date modified: 2024-03-11
 date: 2024-01-14
+aliases:
+  - Acne
 ---
-Acne vulgaris is a common skin condition characterized by the presence of comedones (blackheads and whiteheads), papules, pustules, nodules, and cysts. It usually affects areas with a high density of sebaceous glands, such as the face, chest, and back.
+Acne is caused by chronic inflammation with out without localised infection within pockets of skin - pilosebaceous units that contain the fair follicles and sebaceous glands
 
-## **Causes/Factors:**
+The inflammation comes from increased sebum production trapping dead skin cells (keratin). Androgenic hormones increase the production of sebum. Swollen and inflamed units are called **comedones**. 
 
-- **Excess Sebum Production:** Overproduction of oil by sebaceous glands.
-- **Clogged Hair Follicles:** Resulting in the formation of comedones.
-- **Bacterial Infection:** Propionibacterium acnes.
-- **Hormonal Changes:** Especially during adolescence.
-- **Genetic Factors:** Family history may contribute.
+## Clinical Presentation:
 
-## **Clinical Presentation:**
+- Macules - flat marks on skin
+- Papules - small lumps on skin
+- Pustules - small lumps containing pus
+- Comedomes - skin coloured papules - blocked pilosebaceous units
+- Blackheads - open comedones with black pigmentation
+- Ice pick scars - small indentations in the skin that remain after acne lesions heal
+- Hypertrophic scars - small lumps in skin that remain...
+- Rolling scars are irregular wave like irregularities
 
-- **Comedones:** Open (blackheads) and closed (whiteheads).
-- **Inflammatory Lesions:** Papules, pustules, nodules, and cysts.
-- **Scarring:** In severe cases or if lesions are manipulated.
+## Management
 
-## **Treatment:**
+Aim of treatment is to reduce the symptoms, risk of scaring and psychosocial impact. 
 
-### 1. **Topical Treatments:**
+> [!warning]
+> Always explore the psychosocial burden and any potential anxiety and depression that may be associated with the condition 
 
-- _Retinoids (e.g., Tretinoin, Adapalene):_ Unclog pores and promote cell turnover.
-- _Benzoyl Peroxide:_ Kills bacteria and reduces inflammation.
-- _Topical Antibiotics:_ (e.g., Clindamycin) to control bacterial growth.
+- If mild no treatment may be an option
+- **Topical benzyol peroxide** - reduces inflammation, helps unblock the comedomes and is toxic to the P. acnes bacteria  
+- **Topical retinoids** - chemicals related to vitamin A that slow the production of sebum
+- **Topical antibiotics** - clindamycin 
+- **Oral antibiotics** - lymecycline
+- **Oral contraceptive pill** - can help female patients stabilise hormones to slow production of sebum 
 
-### 2. **Oral Medications:**
+### Isotretinoin (*Roaccutane*)
 
-- _Oral Antibiotics:_ (e.g., Doxycycline) for moderate to severe acne.
-- _Hormonal Therapy:_ (e.g., oral contraceptives) for females with hormonal acne.
-- _Isotretinoin:_ Reserved for severe, resistant cases due to potential side effects.
+- Very effective at clearing the skin - but with very harsh side effects
 
-### 3. **Procedures:**
+>[!danger]
+>It is so strongly teratogenic patients must use at least 2 forms of contraception before prescribing it
+>They must stop isotretinoin for at least a month before becoming pregnant 
 
-- _Extraction of Comedones:_ Manual removal of blackheads and whiteheads.
-- _Chemical Peels:_ Promote exfoliation and unclog pores.
-- _Laser Therapy:_ Targets bacteria and reduces sebum production.
+**Other side effects**
+- Dry skin and lips
+- Photosensitivity
+- Depression, anxiety, aggression and ***suicidal ideation***. Patients need to be screen for mental health issues prior to treatment
 
-### 4. **Skincare:**
-
-- _Gentle Cleansing:_ Avoid harsh scrubs that can worsen inflammation.
-- _Non-comedogenic Products:_ Use skincare and makeup products that won't clog pores.
-
-### 5. **Lifestyle Modifications:**
-
-- _Dietary Changes:_ Some evidence suggests a link between diet and acne.
-- _Stress Management:_ Stress can exacerbate acne.
-
-## **Complications/Red Flags:**
-
-- **Scarring:** Especially in severe or untreated cases.
-- **Psychosocial Impact:** Acne can significantly impact self-esteem and mental health.

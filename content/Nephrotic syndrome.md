@@ -16,15 +16,18 @@ GBM has negative charge to repel proteins
 
 ## Causes/Factors
 
-- [[Minimal change disease]] (children)
-- Membranous nephropathy
-- Focal Segmental Glomerulosclerosis
+- **[[Minimal change disease]]** - most common cause in children. Usually idiopathic and treated with steroids
+- Membranous nephropathy - most common cause in adults
+- Focal Segmental Glomerulosclerosis - most common cause in adults
 - [[Diabetes Mellitus]]
 - [[Systemic Lupus Erythematosus]]
 - Amyloid
 
 - [[HIV]], HEP B&C, malaria
 - NSAIDs
+
+> [!tip]
+> Minimal change disease often comes up in exams. If there's a 2-5 year old child with oedema proteinuria and low albumin the diagnosis is likely nephrotic syndrome. 
 
 ## Symptoms
 

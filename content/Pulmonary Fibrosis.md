@@ -1,6 +1,7 @@
 ---
 title: Pulmonary Fibrosis
-tags: [Respiratory, AIassisted]
+tags:
+  - Respiratory
 date created: Wednesday, August 16th 2023, 1:57:16 pm
 date modified: 2024-03-11
 date: 2023-09-18
@@ -12,10 +13,14 @@ Pulmonary fibrosis is a progressive lung disease characterized by the scarring a
 Pulmonary fibrosis can have various causes or factors, including:
 
 1. **Idiopathic Pulmonary Fibrosis (IPF):** The most common form with an unknown cause.
-2. **Environmental Exposures:** Prolonged exposure to asbestos, silica, coal dust, or other environmental irritants.
-3. **Autoimmune Diseases:** Conditions like [[Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] or systemic sclerosis can lead to lung fibrosis.
-4. **Medications:** Some medications, such as certain chemotherapy drugs or heart medications.
-5. **Genetics:** Rare genetic mutations can lead to familial forms of pulmonary fibrosis.
+2. **Environmental Exposures:** Prolonged exposure to asbestos, silica, coal dust, or other environmental irritants. [[Industrial dust diseases]]
+3. **Autoimmune Diseases:** Conditions like [[Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] or [[Systemic Lupus Erythematosus]] can lead to lung fibrosis. [[Sarcoidosis]]
+4. **Medications:** 
+	- Amiodarone (also causes grey/blue skin)
+	- Cyclophosphamide
+	- Methotrexate
+	- Nitrofurantoin
+5. **Cryptogenic Organising Pneumonia** focal area of inflammation of the lung tissue. Triggered by lots of different things
 6. **Infections:** Certain lung infections can result in scarring and fibrosis.
 
 ## Symptoms
@@ -38,19 +43,27 @@ Symptoms of pulmonary fibrosis can develop gradually and worsen over time:
 
 Diagnosing pulmonary fibrosis involves various tests to assess lung function and identify underlying causes:
 
-- **Pulmonary Function Tests (PFTs):** Measures lung capacity and how well the lungs move air.
-- **High-Resolution CT Scan (HRCT):** Provides detailed images of lung tissue to identify scarring.
-- **Bronchoscopy:** Visual examination of the airways using a thin, flexible tube.
+- CXR - diffuse opacities
+
+![[z_attachments/Pasted image 20240311200431.png|475]] 
+
+- **Spirometry** may be normal or show a restrictive pattern 
+	- **_FEV1_** and **_FVC_** are **_equally reduced_** 
+	- FEV1:FVC ratio **greater than 70%**
+- **High-Resolution CT Scan (HRCT):** typical "ground glass" appearance
 - **Lung Biopsy:** A tissue sample from the lung to confirm the presence of fibrosis and determine its cause.
 
 ## Management
 
 There is currently no cure for pulmonary fibrosis, but management aims to slow disease progression and improve symptoms. Treatment options include:
 
-1. **Medications:** Corticosteroids and other immunosuppressants to reduce inflammation.
-2. **Oxygen Therapy:** Supplemental oxygen to alleviate breathing difficulties and improve oxygen levels.
-3. **Pulmonary Rehabilitation:** Exercise programs to improve lung function and overall fitness.
-4. **Lung Transplantation:** For severe cases, a lung transplant may be considered.
+- Remove or treat the underlying cause
+- Home oxygen where there is hypoxia
+- Stop smoking
+- Physiotherapy and pulmonary rehabilitation
+- Pneumococcal and flu vaccine
+- **_Advanced care planning_** and palliative care where appropriate
+- Lung transplant is an option, but the risks and benefits need careful consideration
 
 ## Complications/Red Flags
 

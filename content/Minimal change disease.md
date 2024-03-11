@@ -1,10 +1,13 @@
 ---
-tags: [Nephrology, AIassisted]
+tags:
+  - Nephrology
 title: Minimal change disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
 date: 2023-09-18
 ---
+**Most common cause of glomerulonephritis in children**
+
 
 Minimal Change Disease (MCD) is a type of kidney disorder characterised by damage to the glomeruli. No change on histology under light microscopy 
 
@@ -29,7 +32,7 @@ Possible autoimmune condition where T cells release substances that damage the g
 
 - **Urinalysis:** Detects proteinuria and other abnormalities in the urine.
 - **Blood Tests:** To assess kidney function, protein levels, and lipid levels.
-- **Kidney Biopsy:** A definitive diagnosis often requires a kidney tissue sample, which shows minimal changes under the microscope.
+- **Kidney Biopsy:** A definitive diagnosis often requires a kidney tissue sample, which shows *minimal changes* under the microscope.
 
 ## Management
 

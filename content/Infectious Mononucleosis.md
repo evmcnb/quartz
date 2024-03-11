@@ -1,5 +1,7 @@
 ---
-tags: [Respiratory, InfectiousDisease, AIassisted]
+tags:
+  - Respiratory
+  - InfectiousDisease
 title: Infectious Mononucleosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
@@ -8,6 +10,7 @@ date: 2023-09-18
 
 Glandular fever
 Spread through saliva caused almost exclusively from EBV
+
 ![[z_attachments/Pasted image 20230823125619.png]]
 ## Causes/Factors
 
@@ -15,15 +18,12 @@ Spread through saliva caused almost exclusively from EBV
 
 ## Symptoms
 
-- **Fatigue:**
-- **Fever:** 
-- **Sore Throat:** 
-- **Swollen Lymph Nodes:** 
-- **Enlarged Spleen and Liver:** 
-- **Rash:** Occasionally, a rash can develop.
-- **Muscle Aches:** Generalised body aches.
-- **Headache:** Pain in the head.
-- **Loss of Appetite:** Reduced desire to eat.
+- Fever
+- Sore throat
+- Fatigue
+- **_Lymphadenopathy_** (swollen lymph nodes)
+- Tonsillar enlargement
+- **_Splenomegaly_** and in rare cases **_splenic rupture_**
 ## Signs
 
 - **Swollen Lymph Nodes:** Palpable and tender lymph nodes, especially in the neck and armpits.
@@ -32,23 +32,22 @@ Spread through saliva caused almost exclusively from EBV
 ## Diagnostic Tests
 
 - **Physical Exam:** Evaluation of symptoms, particularly swollen lymph nodes, sore throat, and fever.
-- **Monospot Test:** Blood test to detect EBV VCA IgM and IgG.
-- **Complete Blood Count (CBC):** May show elevated white blood cell count.
+- **Monospot Test:** this introduces the patient’s blood to **_red blood cells_** from **_horses_**. Heterophile antibodies (if present) will react to the horse red blood cells and give a positive result.
+- **Viral capsid antigen:** tests for specific EBV antibodies. IgM for acute infection, IgG for immunity. 
 - **Liver Function Tests:** To assess liver function and detect any abnormalities.
 - **Throat swabs**
 
 ## Management
 
-1. **Rest:** Adequate rest to help the body recover.
-2. **Hydration:** Drinking fluids to stay hydrated.
-3. **Pain and Fever Relief:** Over-the-counter pain relievers and antipyretics.
-4. **Avoiding Contact Sports:** To prevent risk of splenic rupture due to enlarged spleen.
-5. **Avoiding Alcohol:** To avoid additional strain on the liver.
+1. **Rest:** Usually self limiting
+2. **Avoiding Contact Sports:** To prevent risk of splenic rupture due to enlarged spleen.
+3. **Avoiding Alcohol:** To avoid additional strain on the liver.
 
 ## Complications/red Flags
 
 - **Splenic Rupture:** Enlarged spleen can be vulnerable to injury.
-- **Secondary Infections:** Weakened immune system can lead to other infections.
-- **Prolonged Fatigue:** Some individuals experience fatigue for several weeks or months.
+- **Glomerulonephritis**
+- **Haemolytic anaemia**
+- **Chronic Fatigue:** Some individuals experience fatigue for several weeks or months.
 
 - Avoid ampicillin & amoxycillin with EBV as may cause rash

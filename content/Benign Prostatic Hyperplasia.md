@@ -1,5 +1,6 @@
 ---
-tags: [Urology, AIassisted]
+tags:
+  - Urology
 title: Benign Prostatic Hyperplasia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
@@ -20,30 +21,45 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 
 ## Symptoms
 
-- **Urinary Frequency:** Need to urinate more often than usual.
-- **Urgency:** Sudden and strong urge to urinate.
-- **Nocturia:** Need to wake up during the night to urinate.
-- **Weak Urine Stream:** Reduced force and caliber of the urine stream.
-- **Difficulty Starting and Stopping:** Trouble initiating and ending urination.
-- **Incomplete Emptying:** Feeling that the bladder isn't fully emptied after urination.
+- Hesitancy
+- Weak flow
+- Urgency 
+- Frequency 
+- Intermittency
+- Straining
+- Terminal dribbling
+- Incomplete emptying 
+- Nocturia 
 ## Signs
 
-- **Enlarged Prostate:** Detected during a digital rectal exam.
-- **Urinary Symptoms:** As described above.
-
+- Smooth symmetrical, slightly soft enlarged prostate on **DRE**
+- Abdominal mass - palpable bladder and other abnormalities 
 ## Diagnostic Tests
 
 - **Digital Rectal Exam (DRE):** Examination of the prostate through the rectum to assess its size and texture.
 - **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate BPH or other prostate conditions).
-- **Urinalysis:** To rule out urinary tract infections or other conditions.
+- **Urinalysis:** To rule out urinary tract infections, haematuria and other pathology
+
+> [!info] Prostate-specific antigen
+> Known to be unreliable with a high rate of false positives (75%) and false negatives (15%). Common causes of raised PSA are:
+> - Prostate cancer
+> - BPH
+> - Prostatitis
+> - Urinary tract infections
+> - Vigorous exercise (cycling especially)
+> - Recent ejaculation or prostate stimulation
+
+^a09e56
 
 ## Management
 
 1. **Watchful Waiting:** For mild symptoms, regular monitoring without immediate treatment.
-2. **Lifestyle Changes:** Reducing caffeine and alcohol intake, limiting fluids before bedtime.
-3. **Medications:** Alpha-blockers to relax prostate muscles, 5-alpha reductase inhibitors to reduce DHT levels.
-4. **Minimally Invasive Procedures:** Transurethral resection of the prostate (TURP), laser therapy, prostate stents.
-5. **Surgery:** In severe cases, surgical removal of the enlarged part of the prostate.
+2. **Medications**:
+	- alpha blockers - tamsulosin. Relax smooth muscle with rapid symptom improvement. Notable side effect of **postural hypotension**
+	- 5-alpha reductase inhibitors - finasteride. Prevent the conversion of testosterone to DHT which is more potent. 6 months of treatment for effects to result in symptoms.
+3. **Surgery**
+	- Transurethral resection of prostate most common surgical treatment
+	- *Others* - Transurethral electrovaporisation of the prostate (TEVAP/TUVP), holmium laser enucleation of the prostate (HoLEP), open prostatectomy
 
 ## Complications/red Flags
 

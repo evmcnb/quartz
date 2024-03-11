@@ -6,6 +6,7 @@ date created: Saturday, October 7th 2023, 4:44:52 pm
 date modified: 2024-03-11
 aliases:
   - Pneumoconiosis
+  - Hypersensitivity pneumonitis
 date: 2024-01-14
 ---
 For all of these diseases patients can claim compensation through _Industrial Injuries Act_
@@ -34,3 +35,11 @@ Inhalation of silica particles which are very fibrinogenic
 Inhalation of asbestos fibres. It was used for fire proofing, pipe lagging, electrical wire insulation and roof felt
 - Similar to other fibrotic lung diseases
 - Also causes pleural plaques and increases risk of bronchial adenocarcinoma and [[pleural mesothelioma]]
+
+
+## Others
+
+- **_Bird-fancier’s lung_** is a reaction to bird droppings
+- **_Farmer’s lung_** is a reaction to mouldy spores in hay
+- **_Mushroom worker’s lung_** is a reaction to specific mushroom antigens
+- **_Malt worker’s lung_** is a reaction to mould on barley**
