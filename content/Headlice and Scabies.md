@@ -6,9 +6,6 @@ date created: Saturday, December 23rd 2023, 1:48:19 pm
 date modified: 2024-03-11
 date: 2024-01-11
 ---
-
-# **Head Lice**
-
 **Overview:** Head lice are tiny insects that infest the hair and scalp, causing itching. Spread through head-to-head contact, especially common among children.
 
 **Causes/Factors:**
