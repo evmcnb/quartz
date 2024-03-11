@@ -3,8 +3,8 @@ tags:
   - Gastroenterology
 title: Peptic ulcers
 date created: Friday, February 16th 2024, 3:21:32 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Friday, February 16th 2024, 3:36:36 pm
+date modified: 2024-03-11
+date: 2024-02-16
 ---
  ![[z_attachments/Pasted image 20240216152202.png|475]]
 

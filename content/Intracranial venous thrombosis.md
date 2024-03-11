@@ -5,8 +5,8 @@ tags:
   - Cardiovascular
 title: Intracranial venous thrombosis
 date created: Thursday, October 5th 2023, 1:38:54 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Thursday, October 5th 2023, 2:01:46 pm
+date modified: 2024-03-11
+date: 2023-10-05
 ---
 Thrombosis of the cerebral sinuses or veins causes cerebral infarction but much rarer than arterial disease.
 

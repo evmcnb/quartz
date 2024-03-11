@@ -3,10 +3,10 @@ tags:
   - Ophthalmology
 title: Uveitis
 date created: Friday, February 9th 2024, 11:49:47 am
-date modified: Monday, March 11th 2024, 12:20:36 pm
+date modified: 2024-03-11
 aliases:
   - Iritis
-date: Friday, February 9th 2024, 12:30:14 pm
+date: 2024-02-09
 ---
 > [!info] Classification and terms
 > Anterior uveitis (iritis) - involves inflammation of the iris and adjacent structures within the anterior chamber

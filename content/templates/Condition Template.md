@@ -1,8 +1,8 @@
 ---
 tags: 
 title: Condition Template
-date: Friday, February 9th 2024, 2:11:31 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date: 2024-02-09
+date modified: 2024-03-11
 ---
 
 ## Causes/Factors

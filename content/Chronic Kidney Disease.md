@@ -2,8 +2,8 @@
 tags: [Nephrology]
 title: Chronic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Sunday, November 12th 2023, 5:21:02 pm
+date modified: 2024-03-11
+date: 2023-11-12
 ---
 
 - Abnormalities of kidney function or structure present on at least 2 occasions >3 months apart.

@@ -3,10 +3,10 @@ tags:
   - Cardiovascular
 title: Cardiovascular drugs
 date created: Thursday, October 26th 2023, 11:57:16 am
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date modified: 2024-03-11
 aliases:
   - Cardio drugs
-date: Friday, January 19th 2024, 9:46:22 am
+date: 2024-01-19
 ---
 
 ## Anti-platelet

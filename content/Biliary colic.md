@@ -2,8 +2,8 @@
 tags: [Gastroenterology]
 title: Biliary colic
 date created: Friday, February 23rd 2024, 12:31:29 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, February 23rd 2024, 12:32:39 pm
+date modified: 2024-03-11
+date: 2024-02-23
 ---
 
 Biliary colic is the most common complication of **gallstones**. It refers to the **acute, painful spasm** of the **gallbladder wall** due to a gallstone temporarily blocking the neck of the gallbladder, cystic duct or common bile duct.1,2

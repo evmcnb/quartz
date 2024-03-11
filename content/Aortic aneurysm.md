@@ -2,8 +2,8 @@
 tags: [Surgery]
 title: Aortic aneurysm
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Saturday, February 17th 2024, 10:53:48 am
+date modified: 2024-03-11
+date: 2024-02-17
 ---
 
 Aortic aneurysm is a localized, abnormal dilation of the aortic wall.

@@ -2,8 +2,8 @@
 tags: [Urology, AIassisted]
 title: Cryptorchidism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
-date: Monday, September 18th 2023, 10:07:14 am
+date modified: 2024-03-11
+date: 2023-09-18
 ---
 
 Cryptorchidism, also known as undescended testis, is a condition in which one or both testicles do not descend into the scrotum during fetal development. Normally, the testes develop in the abdomen and gradually descend into the scrotum before birth or shortly thereafter. In cases of cryptorchidism, the testicle(s) remain in the abdomen, groin, or along the pathway of descent.

@@ -6,8 +6,8 @@ tags:
   - Dermatology
   - AIassisted
 date created: Wednesday, August 16th 2023, 2:04:33 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Monday, September 18th 2023, 10:07:14 am
+date modified: 2024-03-11
+date: 2023-09-18
 ---
 Sarcoidosis is a rare inflammatory disease that can affect multiple organs, most commonly the lungs and lymph nodes. The condition is characterized by the formation of small clumps of inflammatory cells, known as granulomas, in various parts of the body. Sarcoidosis can have a wide range of symptoms and can affect people of any age, gender, or ethnic background.
 

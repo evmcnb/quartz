@@ -2,8 +2,8 @@
 tags: [Endocrinology, AIassisted]
 title: "Grave's disease"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Wednesday, September 27th 2023, 11:00:59 pm
+date modified: 2024-03-11
+date: 2023-09-27
 ---
 ## Brief Overview
 

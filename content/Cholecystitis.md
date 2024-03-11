@@ -2,8 +2,8 @@
 tags: [Gastroenterology, Surgery]
 title: Cholecystitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, February 23rd 2024, 12:37:44 pm
+date modified: 2024-03-11
+date: 2024-02-23
 ---
 Acute cholecystitis refers to the **acute inflammation** of the **gallbladder**, with 90% of cases being **secondary to gallstones**.
 

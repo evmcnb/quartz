@@ -5,8 +5,8 @@ tags:
   - Surgery
 title: Melanoma
 date created: Friday, November 10th 2023, 1:26:02 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, November 10th 2023, 1:47:51 pm
+date modified: 2024-03-11
+date: 2023-11-10
 ---
 Melanoma is a type of skin cancer that originates from pigment-producing cells called melanocytes. It is known for its potential to metastasize (spread) to other parts of the body, making early detection and treatment crucial. Melanoma is less common than other types of skin cancer but is more likely to become invasive and potentially life-threatening.
 

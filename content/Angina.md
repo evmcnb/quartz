@@ -2,8 +2,8 @@
 tags: [Cardiovascular, AIassisted]
 title: Angina
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Sunday, November 12th 2023, 5:19:52 pm
+date modified: 2024-03-11
+date: 2023-11-12
 ---
 
 Pain due to partial blockage of a coronary vessel. Can be stable or unstable

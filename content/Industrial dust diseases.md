@@ -3,10 +3,10 @@ tags:
   - Respiratory
 title: Industrial dust diseases
 date created: Saturday, October 7th 2023, 4:44:52 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
+date modified: 2024-03-11
 aliases:
   - Pneumoconiosis
-date: Sunday, January 14th 2024, 8:36:17 pm
+date: 2024-01-14
 ---
 For all of these diseases patients can claim compensation through _Industrial Injuries Act_
 ### Coal worker's pneumoconiosis

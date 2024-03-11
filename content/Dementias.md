@@ -5,8 +5,8 @@ tags:
   - AIassisted
 title: Dementias
 date created: Wednesday, October 18th 2023, 1:38:15 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Tuesday, January 23rd 2024, 12:03:36 pm
+date modified: 2024-03-11
+date: 2024-01-23
 ---
 
 | Type of Dementia            | Common Symptoms                                                                                                       | Pathology                                                                            | Risk Factors                                                                                                                     | Treatment/Management                                                                                                                                                             |

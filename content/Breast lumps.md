@@ -5,8 +5,8 @@ tags:
   - Oncology
 title: Breast lumps
 date created: Tuesday, February 20th 2024, 3:59:54 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Monday, March 11th 2024, 12:19:41 pm
+date modified: 2024-03-11
+date: 2024-03-11
 ---
 Benign breast lumps - see [[Breast carcinoma]] for malignant
 

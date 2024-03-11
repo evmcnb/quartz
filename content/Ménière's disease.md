@@ -3,8 +3,8 @@ tags:
   - ENT
 title: "Ménière's disease"
 date created: Monday, February 19th 2024, 8:01:29 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, February 23rd 2024, 10:36:47 am
+date modified: 2024-03-11
+date: 2024-02-23
 ---
 Long term inner ear disorder that causes recurrent attacks of vertigo and symptoms of hearing loss and tinnitus.
 

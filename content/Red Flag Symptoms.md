@@ -1,8 +1,8 @@
 ---
 tags: 
 title: Red Flag Symptoms
-date: Thursday, November 30th 2023, 2:07:26 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
+date: 2023-11-30
+date modified: 2024-03-11
 ---
 
 ## Cancer

@@ -3,8 +3,8 @@ tags:
   - Ophthalmology
 title: Eyelid Disorders
 date created: Wednesday, January 24th 2024, 1:04:07 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Wednesday, February 7th 2024, 12:26:58 pm
+date modified: 2024-03-11
+date: 2024-02-07
 ---
 
 ## [[Blepharitis]]

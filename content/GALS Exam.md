@@ -6,8 +6,8 @@ tags:
   - Incomplete
 title: GALS Exam
 date created: Thursday, November 16th 2023, 6:08:10 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
-date: Wednesday, November 22nd 2023, 12:38:12 pm
+date modified: 2024-03-11
+date: 2023-11-22
 ---
 
 ## Introduction

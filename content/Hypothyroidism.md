@@ -4,8 +4,8 @@ tags:
   - AIassisted
 title: Hypothyroidism
 date created: Sunday, September 24th 2023, 5:31:12 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Wednesday, September 27th 2023, 11:00:59 pm
+date modified: 2024-03-11
+date: 2023-09-27
 ---
 - Underactive thyroid
 

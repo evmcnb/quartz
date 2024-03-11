@@ -4,8 +4,8 @@ tags:
   - Antibiotic
 title: Penicillins
 date created: Thursday, September 28th 2023, 12:38:13 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Thursday, September 28th 2023, 12:59:03 pm
+date modified: 2024-03-11
+date: 2023-09-28
 ---
 - Beta lactam (cell wall synthesis inhibitors)
 - Natural penicillins and synthetic (**amoxicillin** and **piperacillin**)

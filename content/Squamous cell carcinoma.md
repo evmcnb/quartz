@@ -5,8 +5,8 @@ tags:
   - Surgery
 title: Squamous cell carcinoma
 date created: Friday, November 10th 2023, 1:20:36 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, November 10th 2023, 1:35:10 pm
+date modified: 2024-03-11
+date: 2023-11-10
 ---
 May begin as [[Lumps#Solar (actinic) keratosis|solar (actinic) keratosis]] or be found on the lips of smokers or long standing ulcers (Marjolin's ulcer)
 

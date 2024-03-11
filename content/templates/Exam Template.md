@@ -1,8 +1,8 @@
 ---
 tags: 
 title: Exam Template
-date: Tuesday, October 24th 2023, 9:07:34 am
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date: 2023-10-24
+date modified: 2024-03-11
 ---
 
 ## Introduction

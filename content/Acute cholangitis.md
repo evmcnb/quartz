@@ -4,8 +4,8 @@ tags:
   - Surgery
 title: Acute cholangitis
 date created: Friday, February 23rd 2024, 12:26:59 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, February 23rd 2024, 12:50:26 pm
+date modified: 2024-03-11
+date: 2024-02-23
 ---
 
 Acute bacterial infection of the biliary tree and one of the **most severe complication of gallstones**

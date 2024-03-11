@@ -2,8 +2,8 @@
 tags: [Nephrology, AIassisted]
 title: Minimal change disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Monday, September 18th 2023, 10:07:14 am
+date modified: 2024-03-11
+date: 2023-09-18
 ---
 
 Minimal Change Disease (MCD) is a type of kidney disorder characterised by damage to the glomeruli. No change on histology under light microscopy 

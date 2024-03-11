@@ -5,8 +5,8 @@ tags:
   - OSCE
 title: Mental State Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Wednesday, November 8th 2023, 12:28:18 pm
+date modified: 2024-03-11
+date: 2023-11-08
 ---
 
 ### Appearance

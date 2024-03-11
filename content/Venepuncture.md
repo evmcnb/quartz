@@ -2,8 +2,8 @@
 tags: [OSCE]
 title: Venepuncture
 date created: Tuesday, October 24th 2023, 12:07:03 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Tuesday, October 24th 2023, 12:17:33 pm
+date modified: 2024-03-11
+date: 2023-10-24
 ---
 
 ## Prepare equipment

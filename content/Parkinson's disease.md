@@ -4,8 +4,8 @@ tags:
   - Incomplete
 title: "Parkinson's disease"
 date created: Thursday, September 28th 2023, 1:38:19 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Tuesday, January 23rd 2024, 12:38:52 pm
+date modified: 2024-03-11
+date: 2024-01-23
 ---
 - Lack of dopamine
 - Symptoms begin when 80% of dopamine producing cells (substantia nigra) have died

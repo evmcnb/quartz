@@ -4,8 +4,8 @@ tags:
   - Examination
 title: Breast Exam
 date created: Monday, February 5th 2024, 5:10:32 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Wednesday, February 7th 2024, 12:21:19 pm
+date modified: 2024-03-11
+date: 2024-02-07
 ---
 
 ## Introduction

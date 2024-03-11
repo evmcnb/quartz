@@ -4,8 +4,8 @@ tags:
   - MSK
 title: Osteoarthritis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Wednesday, November 29th 2023, 1:34:10 pm
+date modified: 2024-03-11
+date: 2023-11-29
 ---
 
 "Wear and tear" - nothing to do from immune system

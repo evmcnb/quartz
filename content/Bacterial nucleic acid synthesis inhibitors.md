@@ -4,8 +4,8 @@ tags:
   - Antibiotic
 title: Bacterial nucleic acid synthesis inhibitors
 date created: Friday, September 29th 2023, 11:44:35 am
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Thursday, October 5th 2023, 8:41:10 am
+date modified: 2024-03-11
+date: 2023-10-05
 ---
 ## Folate synthesis inhibitors
 

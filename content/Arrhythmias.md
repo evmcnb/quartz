@@ -3,8 +3,8 @@ tags:
   - Cardiovascular
 title: Arrhythmias
 date created: Sunday, November 12th 2023, 6:12:32 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Sunday, November 12th 2023, 6:25:36 pm
+date modified: 2024-03-11
+date: 2023-11-12
 ---
 Arrhythmias are:
 1. common

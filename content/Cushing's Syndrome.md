@@ -3,8 +3,8 @@ tags:
   - Endocrinology
 title: "Cushing's Syndrome"
 date created: Wednesday, November 1st 2023, 1:15:33 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, November 10th 2023, 2:25:55 pm
+date modified: 2024-03-11
+date: 2023-11-10
 ---
 
 When too much cortisol is present. 

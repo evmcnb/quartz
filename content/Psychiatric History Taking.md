@@ -4,8 +4,8 @@ tags:
   - OSCE
 title: Psychiatric History Taking
 date created: Friday, January 19th 2024, 9:50:27 am
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Friday, January 19th 2024, 11:29:30 am
+date modified: 2024-03-11
+date: 2024-01-19
 ---
 Table to fill out in your mind for a psychological condition. 
 

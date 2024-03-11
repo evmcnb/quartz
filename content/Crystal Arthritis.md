@@ -3,9 +3,9 @@ tags:
   - Rheumatology
 title: Crystal Arthritis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date modified: 2024-03-11
 aliases: []
-date: Wednesday, November 29th 2023, 1:42:46 pm
+date: 2023-11-29
 ---
 Crystal arthropathies are a group of joint disorders caused by the formation and deposition of crystals within the joints. The two primary types are gout and pseudogout (calcium pyrophosphate deposition disease).
 

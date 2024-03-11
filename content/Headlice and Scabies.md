@@ -2,8 +2,8 @@
 tags: Dermatology
 title: "**Head Lice**"
 date created: Saturday, December 23rd 2023, 1:48:19 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
-date: Thursday, January 11th 2024, 1:15:47 pm
+date modified: 2024-03-11
+date: 2024-01-11
 ---
 
 # **Head Lice**

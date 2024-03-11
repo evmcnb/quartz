@@ -2,8 +2,8 @@
 tags: [Ophthalmology]
 title: Conjunctivitis
 date created: Wednesday, January 24th 2024, 1:26:03 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
-date: Friday, February 9th 2024, 1:57:37 pm
+date modified: 2024-03-11
+date: 2024-02-09
 ---
 Inflammation of the conjunctiva
 

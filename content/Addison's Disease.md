@@ -2,8 +2,8 @@
 tags: [Endocrinology, Rheumatology]
 title: "Addison's Disease"
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Wednesday, November 1st 2023, 1:14:47 pm
+date modified: 2024-03-11
+date: 2023-11-01
 ---
 
 Primary adrenal cortical insufficiency - not enough steroid hormones

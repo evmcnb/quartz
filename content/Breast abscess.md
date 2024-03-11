@@ -4,8 +4,8 @@ tags:
   - Surgery
 title: Breast abscess
 date created: Tuesday, February 20th 2024, 4:50:05 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Friday, February 23rd 2024, 10:36:47 am
+date modified: 2024-03-11
+date: 2024-02-23
 ---
 - **_Lactational abscess_** (associated with breastfeeding) 
 - **_Non-lactational abscess_** (unrelated to breastfeeding)

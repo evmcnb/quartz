@@ -2,8 +2,8 @@
 tags: [Surgery, Gastroenterology]
 title: Inguinal hernia
 date created: Tuesday, February 13th 2024, 1:40:45 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
-date: Friday, February 16th 2024, 3:16:36 pm
+date modified: 2024-03-11
+date: 2024-02-16
 ---
 
 **Reducible** - the contents of the hernia can be manipulated back into their original position through the defect. Left alone or repaired electively 

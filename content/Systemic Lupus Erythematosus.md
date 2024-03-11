@@ -11,8 +11,8 @@ tags:
   ]
 title: Systemic Lupus Erythematosus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Monday, September 18th 2023, 10:07:14 am
+date modified: 2024-03-11
+date: 2023-09-18
 ---
 
 Systemic Lupus Erythematosus (SLE) is a complex autoimmune disease that can affect multiple organs and systems in the body. It is a Type III hypersensitivity reaction. SLE varies widely in its presentation and severity.

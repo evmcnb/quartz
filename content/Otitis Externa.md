@@ -2,8 +2,8 @@
 tags: [ENT, Respiratory]
 title: Otitis Externa
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Sunday, March 10th 2024, 2:42:22 pm
+date modified: 2024-03-11
+date: 2024-03-10
 ---
 
 Ear canal is the only skin-lined cul-de-sac in the body

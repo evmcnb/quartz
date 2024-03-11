@@ -3,8 +3,8 @@ tags:
   - Endocrinology
 title: Hypoglycaemia
 date created: Thursday, January 11th 2024, 1:43:54 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Thursday, January 11th 2024, 2:12:25 pm
+date modified: 2024-03-11
+date: 2024-01-11
 ---
 Commonest endocrine emergency
 

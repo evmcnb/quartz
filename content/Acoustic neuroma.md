@@ -4,11 +4,11 @@ tags:
   - Surgery
 title: Acoustic neuroma
 date created: Monday, February 19th 2024, 7:49:07 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date modified: 2024-03-11
 aliases:
   - Vestibular schwannoma
   - Cerebellopontine angle tumours
-date: Friday, February 23rd 2024, 10:36:47 am
+date: 2024-02-23
 ---
 Benign tumours of the Schwann cells surrounding the auditory nerve - also called vestibular schwannoma
 

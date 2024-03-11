@@ -4,8 +4,8 @@ tags:
   - Incomplete
 title: Obstructive Sleep Apnoea
 date created: Wednesday, November 22nd 2023, 12:38:18 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
-date: Wednesday, November 22nd 2023, 12:47:27 pm
+date modified: 2024-03-11
+date: 2023-11-22
 ---
 Episodes of partial or complete airway occlusion during sleep. The obstruction can lead to poor quality sleep and leave the patient feeling fatigued in the morning despite thinking they got a good nights rest
 

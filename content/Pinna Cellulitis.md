@@ -2,8 +2,8 @@
 tags: [Respiratory, ENT]
 title: Pinna Cellulitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 11th 2024, 12:20:37 pm
-date: Monday, September 18th 2023, 10:07:14 am
+date modified: 2024-03-11
+date: 2023-09-18
 ---
 
 Pinna Cellulitis is a bacterial skin infection affecting the external part of the ear, known as the pinna or auricle. Associated with trauma (ear piercing & acupuncture) surgery or burns

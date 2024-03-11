@@ -2,8 +2,8 @@
 tags: Dermatology
 title: Viral exanthema
 date created: Tuesday, January 2nd 2024, 4:17:49 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Monday, March 11th 2024, 12:19:41 pm
+date modified: 2024-03-11
+date: 2024-03-11
 ---
 A wide spread rash that accompanies a viral infection. Quite common. Can appear anywhere but often start on face or trunk and then spread.  
 

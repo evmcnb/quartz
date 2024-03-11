@@ -1,8 +1,8 @@
 ---
 tags: 
 title: Drug Template
-date: Wednesday, September 27th 2023, 11:00:59 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date: 2023-09-27
+date modified: 2024-03-11
 ---
 
 Example drugs:

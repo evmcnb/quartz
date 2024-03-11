@@ -1,11 +1,11 @@
 ---
 title: Glasgow Coma Scale
 date created: Wednesday, October 4th 2023, 4:35:16 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date modified: 2024-03-11
 tags:
   - OSCE
   - Examination
-date: Thursday, October 5th 2023, 8:41:10 am
+date: 2023-10-05
 ---
 The **Glasgow Coma Scale (GCS)** is a neurological assessment tool used to evaluate a patient's level of consciousness and neurological functioning.
 

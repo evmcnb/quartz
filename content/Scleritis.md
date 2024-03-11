@@ -3,8 +3,8 @@ tags:
   - Ophthalmology
 title: Scleritis
 date created: Friday, February 9th 2024, 1:57:42 pm
-date modified: Monday, March 11th 2024, 12:20:39 pm
-date: Friday, February 9th 2024, 2:25:00 pm
+date modified: 2024-03-11
+date: 2024-02-09
 ---
 A severe sight threatening inflammatory conditions characterised by inflammation of the sclera 
 

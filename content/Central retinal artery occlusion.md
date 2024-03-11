@@ -4,8 +4,8 @@ tags:
   - Acute
 title: Central retinal artery occlusion
 date created: Friday, February 9th 2024, 12:58:43 pm
-date modified: Monday, March 11th 2024, 12:20:36 pm
-date: Friday, February 9th 2024, 1:24:23 pm
+date modified: 2024-03-11
+date: 2024-02-09
 ---
 
 Sudden blockage of the central retinal artery leading to ischaemia of the inner retina 

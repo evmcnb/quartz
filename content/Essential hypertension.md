@@ -3,11 +3,11 @@ tags:
   - Cardiovascular
 title: Essential hypertension
 date created: Tuesday, October 17th 2023, 4:07:47 pm
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date modified: 2024-03-11
 aliases:
   - hypertension
   - Hypertension
-date: Sunday, January 14th 2024, 8:36:17 pm
+date: 2024-01-14
 ---
 95% of all hypertension without a clear underlying medical cause. It is the most important risk factor for pre-mature death and CVD. 
 

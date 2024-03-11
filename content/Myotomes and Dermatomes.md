@@ -1,12 +1,12 @@
 ---
 title: Dermatomes
 date created: Wednesday, September 20th 2023, 10:30:13 am
-date modified: Monday, March 11th 2024, 12:20:38 pm
+date modified: 2024-03-11
 tags:
   - OSCE
   - Examination
   - Neurology
-date: Friday, February 23rd 2024, 11:43:18 am
+date: 2024-02-23
 ---
 
 The myotomes are the group of muscles innervated by a single spinal nerve root
