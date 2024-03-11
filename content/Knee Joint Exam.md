@@ -1,8 +1,9 @@
 ---
 tags: [MSK, OSCE, Examination]
-title: Knee MSK Exam
+title: Knee Joint Exam
 date created: Saturday, November 4th 2023, 5:03:20 pm
-date modified: Saturday, November 4th 2023, 5:03:39 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Thursday, January 11th 2024, 1:15:47 pm
 ---
 
 ## Introduction

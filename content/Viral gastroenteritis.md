@@ -4,7 +4,8 @@ tags:
   - Gastroenterology
 title: Viral gastroenteritis
 date created: Friday, February 23rd 2024, 12:11:52 pm
-date modified: Friday, February 23rd 2024, 12:12:21 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Friday, February 23rd 2024, 12:26:05 pm
 ---
 Gastroenteritis is inflammation all the way from the stomach to the intestines
 

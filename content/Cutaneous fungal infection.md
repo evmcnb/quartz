@@ -2,9 +2,10 @@
 tags:
   - Dermatology
   - InfectiousDisease
-title: Cutaneous fungal infection
+title: Management
 date created: Thursday, December 21st 2023, 5:07:02 pm
-date modified: Thursday, December 21st 2023, 5:07:15 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Thursday, January 11th 2024, 1:15:47 pm
 ---
 ## Dermatophytosis
 

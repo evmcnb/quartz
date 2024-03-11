@@ -11,7 +11,8 @@ tags:
   - Oncology
 title: Obesity
 date created: Saturday, January 13th 2024, 5:34:03 pm
-date modified: Saturday, January 13th 2024, 5:35:04 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 A BMI >$30 kg/m^3$ 
 

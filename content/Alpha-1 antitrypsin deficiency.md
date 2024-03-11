@@ -2,7 +2,8 @@
 tags: [Gastroenterology, Respiratory]
 title: Alpha-1 antitrypsin deficiency
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Monday, September 18th 2023, 10:07:14 am
 ---
 
 An inherited disorder affecting lung ([[emphysema]]) and liver ([[Liver Cirrhosis]]). A1AT is a glycoprotein and a serine protease inhibitor made in the liver which controls inflammatory cascades. In children more likely to cause liver symptoms, in adults more lung.

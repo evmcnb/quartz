@@ -2,7 +2,8 @@
 tags: [Gastroenterology]
 title: Ulcerative Colitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Monday, September 18th 2023, 10:07:14 am
 ---
 
 The inflammatory bowel diseases (IBD), ulcerative colitis and [[Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.

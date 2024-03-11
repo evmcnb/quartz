@@ -4,7 +4,8 @@ tags:
   - AIassisted
 title: Impetigo
 date created: Saturday, December 16th 2023, 2:14:14 pm
-date modified: Saturday, December 16th 2023, 2:14:41 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Thursday, January 11th 2024, 1:15:47 pm
 ---
 Impetigo is a highly contagious bacterial skin infection primarily affecting children, although it can occur in people of all ages. It is characterized by the development of red sores or blisters, often around the nose and mouth, which can burst and form golden-coloured crusts. Impetigo is typically caused by *Staphylococcus aureus* or *Streptococcus pyogenes* bacteria.
  

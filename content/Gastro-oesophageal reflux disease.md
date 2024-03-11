@@ -3,7 +3,8 @@ tags:
   - Gastroenterology
 title: Gastro-oesophageal reflux disease
 date created: Tuesday, February 13th 2024, 1:02:56 pm
-date modified: Tuesday, February 13th 2024, 1:04:56 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Friday, February 16th 2024, 3:21:46 pm
 ---
 
 Chronic reflux of gastric contents back into the oesophagus resulting gastritis

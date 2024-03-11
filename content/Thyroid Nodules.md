@@ -2,7 +2,8 @@
 tags: Endocrinology
 title: Thyroid Nodules
 date created: Saturday, January 13th 2024, 4:56:45 pm
-date modified: Saturday, January 13th 2024, 5:01:55 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 Thyroid nodules are abnormal growths or lumps that develop within the thyroid gland, which is located in the neck. While most thyroid nodules are (benign), some may require further evaluation to rule out malignancy.
 

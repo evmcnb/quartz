@@ -1,9 +1,10 @@
 ---
 title: ECG Lead Placement & Interpretation
 date created: Saturday, October 14th 2023, 9:07:50 pm
-date modified: Sunday, October 15th 2023, 11:17:55 am
+date modified: Monday, March 11th 2024, 12:20:39 pm
 tags:
   - Cardiovascular
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 ## Lead Placement
 

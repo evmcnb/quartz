@@ -4,7 +4,8 @@ tags:
   - Gastroenterology
 title: Appendicitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Friday, February 16th 2024, 4:14:32 pm
 ---
 
 Most common surgical emergency - highest incidence between 10-20 y/os

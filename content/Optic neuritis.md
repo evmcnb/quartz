@@ -3,7 +3,8 @@ tags:
   - Ophthalmology
 title: Optic neuritis
 date created: Friday, February 9th 2024, 1:25:31 pm
-date modified: Friday, February 9th 2024, 1:28:00 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Friday, February 9th 2024, 1:43:57 pm
 ---
 
 Optic neuritis is a broad term expressing inflammation, degeneration, or demyelination of the optic nerve. It includes:  

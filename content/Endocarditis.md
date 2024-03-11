@@ -2,12 +2,13 @@
 tags:
   - Cardiovascular
   - InfectiousDisease
-  - "#Incomplete"
+  - "Incomplete"
 title: Endocarditis
 date created: Wednesday, November 1st 2023, 1:29:07 pm
-date modified: Wednesday, November 1st 2023, 1:29:25 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
 aliases:
   - Infective endocarditis
+date: Wednesday, November 1st 2023, 3:45:52 pm
 ---
 Fever + new murmur = infective endocarditis until proven otherwise
 

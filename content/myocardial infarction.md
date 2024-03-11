@@ -2,7 +2,8 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Sunday, November 12th 2023, 5:23:12 pm
 ---
 
 Belongs to a group of [[Acute Coronary Syndrome|acute coronary syndromes]] along with unstable [[Angina]]. These share a common pathology atherosclerotic plaque rupture, thrombosis and inflammation. However may also be rarely due to emboli, coronary spasm or vasculitis

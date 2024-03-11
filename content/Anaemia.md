@@ -3,7 +3,8 @@ tags:
   - Haematology
 title: Anaemia
 date created: Friday, November 10th 2023, 1:52:37 pm
-date modified: Friday, November 10th 2023, 1:53:28 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Friday, November 10th 2023, 2:15:13 pm
 ---
 A low haemoglobin (Hb) concentration <135 g/L for men <115 g/L women.
 

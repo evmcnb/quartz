@@ -4,7 +4,8 @@ tags:
   - Examination
 title: Lower Limb Vascular Exam
 date created: Tuesday, October 24th 2023, 5:29:00 pm
-date modified: Tuesday, October 24th 2023, 5:29:56 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Tuesday, October 31st 2023, 10:42:49 pm
 ---
 ## Introduction
 

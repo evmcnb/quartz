@@ -3,9 +3,10 @@ tags:
   - Ophthalmology
 title: Macular degeneration
 date created: Friday, February 9th 2024, 12:29:47 pm
-date modified: Friday, February 9th 2024, 12:36:42 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
 aliases:
   - Age-related macular degeneration
+date: Friday, February 9th 2024, 12:57:45 pm
 ---
 Lots of different classifications for age related macular degeneration (AMD)
 

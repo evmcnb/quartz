@@ -3,7 +3,8 @@ tags:
   - Ophthalmology
 title: Blepharitis
 date created: Wednesday, February 7th 2024, 12:26:58 pm
-date modified: Wednesday, February 7th 2024, 12:27:07 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Wednesday, February 7th 2024, 12:56:58 pm
 ---
 
 Common chronic inflammatory condition affecting the margin of the eyelids

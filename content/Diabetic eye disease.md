@@ -3,9 +3,10 @@ tags:
   - Endocrinology
 title: Diabetic eye disease
 date created: Saturday, January 13th 2024, 5:13:31 pm
-date modified: Saturday, January 13th 2024, 5:17:53 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
 aliases:
   - Diabetic retinopathy
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 Most common forms are diabetic retinopathy, diabetic macular oedema and cataracts
 

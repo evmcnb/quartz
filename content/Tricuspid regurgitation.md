@@ -2,7 +2,8 @@
 tags: [Cardiovascular, AIassisted]
 title: Tricuspid regurgitation
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:05:27 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Wednesday, September 27th 2023, 11:00:59 pm
 ---
 
 Blood leaking back through the tricuspid valve

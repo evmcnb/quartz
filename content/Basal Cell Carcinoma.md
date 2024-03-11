@@ -3,7 +3,8 @@ tags:
   - Dermatology
 title: Basal Cell Carcinoma
 date created: Friday, November 10th 2023, 12:35:59 pm
-date modified: Friday, November 10th 2023, 12:36:10 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Friday, November 10th 2023, 12:47:14 pm
 ---
 aka rodent ulcer 
 

@@ -4,7 +4,8 @@ tags:
   - Cardiovascular
 title: Transient Ischemic Attack
 date created: Wednesday, October 4th 2023, 12:34:39 pm
-date modified: Wednesday, October 4th 2023, 12:58:13 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Thursday, October 5th 2023, 8:41:10 am
 ---
 Ischaemic usually embolic neurological event with symptoms that resolve within 24hr
 

@@ -3,7 +3,8 @@ tags:
   - Dermatology
 title: Cellulitis
 date created: Thursday, November 30th 2023, 12:35:16 pm
-date modified: Thursday, November 30th 2023, 12:39:11 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 Cellulitis is a common bacterial skin infection that affects the deeper layers of the skin and the subcutaneous tissues. It typically occurs when bacteria enter the skin through a break or crack, causing redness, swelling, and pain. Cellulitis can occur anywhere on the body and may spread rapidly if left untreated.
 

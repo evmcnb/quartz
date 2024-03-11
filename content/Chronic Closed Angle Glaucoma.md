@@ -3,7 +3,8 @@ tags:
   - Ophthalmology
 title: Chronic Closed Angle Glaucoma
 date created: Thursday, January 25th 2024, 2:08:27 pm
-date modified: Thursday, January 25th 2024, 2:10:25 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Thursday, January 25th 2024, 2:35:56 pm
 ---
 ![[z_attachments/Pasted image 20240125141057.png]]
 

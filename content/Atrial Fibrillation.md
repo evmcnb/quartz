@@ -2,7 +2,8 @@
 tags: [Cardiovascular]
 title: Atrial Fibrillation
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Wednesday, January 31st 2024, 2:20:23 pm
 ---
 
 A rapid irregular atrial rhythm at 300-600 bpm. The AV node blocks most of these impulses and only responds intermittently (hence irregular QRS). Cardiac output is reduced by 10-20% as ventricles are not primed properly by atria

@@ -2,9 +2,10 @@
 tags:
   - Haematology
   - OSCE
-title: Blood Test Interpretation
+title: "Full Blood Count "
 date created: Thursday, January 18th 2024, 6:16:55 pm
-date modified: Thursday, January 18th 2024, 6:17:21 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Friday, January 19th 2024, 9:46:22 am
 ---
 # Full Blood Count 
 

@@ -4,7 +4,8 @@ tags:
   - OSCE
 title: Upper and Lower Limb Neurological Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Friday, February 23rd 2024, 11:35:44 am
 ---
 
 ## Quick reference

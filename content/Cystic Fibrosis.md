@@ -2,7 +2,8 @@
 tags: [Respiratory]
 title: Cystic Fibrosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:11:16 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Monday, September 18th 2023, 10:07:14 am
 ---
 
 1 in 25 people carry the mutation - autosomal recessive. Mutation in CFTR gene on chromosome 7

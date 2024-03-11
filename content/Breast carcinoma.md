@@ -5,7 +5,8 @@ tags:
   - Surgery
 title: Breast carcinoma
 date created: Tuesday, February 20th 2024, 3:09:44 pm
-date modified: Tuesday, February 20th 2024, 3:14:48 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Friday, February 23rd 2024, 10:36:47 am
 ---
 
 Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for women (1% of UK cases are male)

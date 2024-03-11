@@ -3,7 +3,8 @@ tags:
   - Cardiovascular
 title: Aortic regurgitation
 date created: Sunday, November 12th 2023, 5:54:55 pm
-date modified: Sunday, November 12th 2023, 5:57:15 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Sunday, November 12th 2023, 6:11:38 pm
 ---
 
 Inadequate closure of the aortic valve during diastole that allows for reverse blood flow through the aortic valve - putting increases load on the left ventricle

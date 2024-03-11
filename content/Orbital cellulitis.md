@@ -4,7 +4,8 @@ tags:
   - Acute
 title: Orbital cellulitis
 date created: Wednesday, January 24th 2024, 1:38:01 pm
-date modified: Wednesday, January 24th 2024, 1:38:15 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Thursday, January 25th 2024, 12:52:48 pm
 ---
 Infection that involves the muscle and fat within the orbit - posterior to the orbital septum
 

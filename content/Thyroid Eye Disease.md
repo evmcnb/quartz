@@ -4,10 +4,11 @@ tags:
   - Ophthalmology
 title: Thyroid Eye Disease
 date created: Saturday, January 13th 2024, 3:36:24 pm
-date modified: Saturday, January 13th 2024, 3:37:31 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
 aliases:
   - Graves' orbitopathy
   - Graves' ophthalmopathy
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 Autoimmune condition associated with [[Grave's disease]] seen in 25-50% of people with Graves'.
 

@@ -1,8 +1,9 @@
 ---
 tags: [Dermatology, Oncology, Surgery]
-title: Lumps
+title: History & Exam
 date created: Friday, November 10th 2023, 12:48:36 pm
-date modified: Friday, November 10th 2023, 12:48:56 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Wednesday, November 29th 2023, 1:08:19 pm
 ---
 ## Terminology
 

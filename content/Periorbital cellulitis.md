@@ -2,7 +2,8 @@
 tags: [Ophthalmology]
 title: Periorbital cellulitis
 date created: Wednesday, January 24th 2024, 1:22:42 pm
-date modified: Wednesday, January 24th 2024, 1:23:03 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Wednesday, January 24th 2024, 1:37:42 pm
 ---
 An infection in the eyelid tissues **anterior to the orbital septum**
 

@@ -4,7 +4,8 @@ tags:
   - Neurology
 title: Vasovagal syncope
 date created: Sunday, November 12th 2023, 6:28:57 pm
-date modified: Sunday, November 12th 2023, 6:29:10 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Sunday, November 12th 2023, 6:37:15 pm
 ---
 
 Vasovagal Syncope is a common cause of fainting (syncope) characterised by a sudden drop in heart rate and blood pressure, leading to a temporary loss of consciousness. 

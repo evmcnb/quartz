@@ -4,7 +4,8 @@ tags:
   - AIassisted
 title: Urticaria
 date created: Saturday, December 16th 2023, 2:17:10 pm
-date modified: Saturday, December 16th 2023, 2:17:33 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Thursday, January 11th 2024, 1:15:47 pm
 ---
 Urticaria, commonly known as hives, is a skin condition characterized by the sudden and transient appearance of red, raised, and intensely itchy welts or wheals on the skin. These welts can vary in size and shape and typically resolve within minutes to hours, often leaving no trace. Urticaria is a common skin manifestation resulting from a complex interplay of immune and inflammatory processes.
 

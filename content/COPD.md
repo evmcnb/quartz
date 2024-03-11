@@ -2,7 +2,8 @@
 tags: [Respiratory]
 title: COPD
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:11:14 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Thursday, November 16th 2023, 1:33:47 pm
 ---
 
 - Chronic _obstructive_ pulmonary disease

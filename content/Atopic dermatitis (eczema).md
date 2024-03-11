@@ -2,9 +2,10 @@
 tags:
   - Dermatology
   - Incomplete
-title: Atopic dermatitis and eczema
+title: Atopic dermatitis (eczema)
 date created: Wednesday, November 29th 2023, 1:00:52 pm
-date modified: Wednesday, November 29th 2023, 1:01:04 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Monday, March 11th 2024, 12:19:41 pm
 ---
 Acute or chronic inflammation of the dermis. Often appears in childhood and can continue to adulthood. 
 

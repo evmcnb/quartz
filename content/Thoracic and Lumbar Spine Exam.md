@@ -6,7 +6,8 @@ tags:
   - OSCE
 title: Thoracic and Lumbar Spine Exam
 date created: Saturday, November 4th 2023, 5:20:05 pm
-date modified: Saturday, November 4th 2023, 5:20:22 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Saturday, November 4th 2023, 5:37:08 pm
 ---
 
 ## Introduction

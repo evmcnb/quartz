@@ -4,7 +4,8 @@ tags:
   - Acute
 title: Retinal detachment
 date created: Friday, February 9th 2024, 1:45:37 pm
-date modified: Friday, February 9th 2024, 1:46:28 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Friday, February 9th 2024, 1:57:11 pm
 ---
 Separation of the inner neurosensory retina from the underlying retinal pigment epithelium which allows vitreous fluid to accumulate in the sub-retinal space
 

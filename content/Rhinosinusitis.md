@@ -3,9 +3,10 @@ tags:
   - ENT
 title: Rhinosinusitis
 date created: Saturday, February 17th 2024, 4:41:18 pm
-date modified: Saturday, February 17th 2024, 4:41:26 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
 aliases:
   - Sinusitis
+date: Friday, February 23rd 2024, 10:36:47 am
 ---
 Inflammation of the paranasal sinuses. Usually accompanied by inflammation of the nasal cavity - rhinosinusitis 
 

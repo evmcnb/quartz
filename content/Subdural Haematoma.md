@@ -4,7 +4,8 @@ tags:
   - Cardiovascular
 title: Subdural Haematoma
 date created: Wednesday, October 4th 2023, 3:33:55 pm
-date modified: Wednesday, October 4th 2023, 3:42:56 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Thursday, October 5th 2023, 8:41:10 am
 ---
 Very treatable condition in those whose conscious level fluctuates and in those having an "evolving stroke"
 

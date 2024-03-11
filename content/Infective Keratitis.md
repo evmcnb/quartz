@@ -2,7 +2,8 @@
 tags: [Ophthalmology]
 title: Infective Keratitis
 date created: Wednesday, February 7th 2024, 12:58:38 pm
-date modified: Wednesday, February 7th 2024, 12:59:04 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Wednesday, February 7th 2024, 2:01:14 pm
 ---
 
 > [!danger] Sight threatening infection

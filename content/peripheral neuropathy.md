@@ -3,7 +3,8 @@ tags:
   - Neurology
 title: peripheral neuropathy
 date created: Friday, February 23rd 2024, 11:43:25 am
-date modified: Friday, February 23rd 2024, 11:47:07 am
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Friday, February 23rd 2024, 12:11:14 pm
 ---
 Primary condition of the peripheral nerves causing symmetrical motor and/or sensory symptoms and signs in the limbs
 

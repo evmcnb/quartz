@@ -4,7 +4,8 @@ tags:
   - Antibiotic
 title: Bacterial protein synthesis inhibitors
 date created: Friday, September 29th 2023, 11:20:24 am
-date modified: Wednesday, October 4th 2023, 12:31:40 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Saturday, November 4th 2023, 4:45:09 pm
 ---
 ## Aminoglycosides
 _Gentamicin, Tobramycin, Amikacin_

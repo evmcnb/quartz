@@ -2,7 +2,8 @@
 tags: [Respiratory]
 title: Epiglottitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:11:20 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Monday, September 18th 2023, 10:07:14 am
 ---
 
 Emergency cause of sore throat - life threatening.

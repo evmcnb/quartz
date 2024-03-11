@@ -4,7 +4,8 @@ tags:
   - AIassisted
 title: Acne vulgaris
 date created: Saturday, December 23rd 2023, 2:01:46 pm
-date modified: Tuesday, January 2nd 2024, 3:27:29 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 Acne vulgaris is a common skin condition characterized by the presence of comedones (blackheads and whiteheads), papules, pustules, nodules, and cysts. It usually affects areas with a high density of sebaceous glands, such as the face, chest, and back.
 

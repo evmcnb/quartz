@@ -1,8 +1,10 @@
 ---
-title: Nosos - Notes
+tags: 
+title: _index
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Saturday, February 17th 2024, 10:53:48 am
 ---
 
 ![[z_attachments/logo5.png|245]]

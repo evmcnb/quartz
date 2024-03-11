@@ -4,7 +4,8 @@ tags:
   - ENT
 title: "Sjögren's syndrome"
 date created: Saturday, October 7th 2023, 4:44:55 pm
-date modified: Saturday, October 7th 2023, 5:04:16 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Thursday, October 12th 2023, 7:04:50 am
 ---
 Sjögren's Syndrome is a chronic autoimmune disorder characterized by inflammation and dysfunction of the exocrine glands, primarily the salivary and lacrimal glands. This results in symptoms of dry eyes and dry mouth, but it can also affect various other organs and systems in the body. Sjögren's Syndrome is often associated with other autoimmune conditions.
 

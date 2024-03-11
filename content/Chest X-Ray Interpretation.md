@@ -6,7 +6,8 @@ tags:
   - Cardiovascular
 title: Chest X-Ray Interpretation
 date created: Tuesday, October 10th 2023, 10:10:52 am
-date modified: Tuesday, October 10th 2023, 10:11:10 am
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Saturday, February 17th 2024, 10:53:48 am
 ---
 > [!info] Note for this page
 > All of the images will have no pathology unless indicated otherwise

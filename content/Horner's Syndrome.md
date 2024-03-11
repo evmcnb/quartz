@@ -1,8 +1,9 @@
 ---
 tags: [Neurology, AIassisted]
-title: Horner's Syndrome
+title: "Horner's Syndrome"
 date created: Wednesday, August 16th 2023, 1:45:57 pm
-date modified: Wednesday, August 16th 2023, 1:51:48 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Monday, September 18th 2023, 10:07:14 am
 ---
 
 Also known as oculosympathetic palsy, is a neurological condition characterized by a set of symptoms resulting from disruption of the sympathetic nerve pathway that controls certain involuntary functions of the eye and face. This disruption can be caused by various underlying medical conditions affecting the sympathetic nervous system.

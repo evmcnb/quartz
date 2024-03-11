@@ -4,7 +4,8 @@ tags:
   - ENT
 title: Benign Paroxysmal Positional Vertigo
 date created: Friday, November 10th 2023, 12:03:50 pm
-date modified: Friday, November 10th 2023, 12:15:08 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Friday, November 10th 2023, 12:32:21 pm
 ---
  Occurs on head movement due to disruption of small calcium crystals (canolithiasis) in the inner ear which can stimulate nerve endings causing dizziness 
 

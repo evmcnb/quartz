@@ -4,7 +4,8 @@ tags:
   - Cardiovascular
 title: cor pulmonale
 date created: Sunday, November 12th 2023, 5:22:40 pm
-date modified: Sunday, November 12th 2023, 5:36:26 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Sunday, November 12th 2023, 5:48:12 pm
 ---
 Cor Pulmonale right sided [[Heart Failure]] caused by chronic pulmonary artery hypertension.
 

@@ -3,6 +3,8 @@ tags:
   - Neurology
   - Geriatrics
 title: Delirium
+date: Friday, January 19th 2024, 11:15:56 am
+date modified: Monday, March 11th 2024, 12:20:38 pm
 ---
 
 Acute and fluctuating disturbance in attention and awareness

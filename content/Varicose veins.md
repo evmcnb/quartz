@@ -4,7 +4,8 @@ tags:
   - Surgery
 title: Varicose veins
 date created: Tuesday, October 17th 2023, 4:33:58 pm
-date modified: Tuesday, October 17th 2023, 5:11:20 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Saturday, October 21st 2023, 9:13:59 am
 ---
 Long, tortuous & dilated veins of the superficial venous system
 

@@ -2,7 +2,8 @@
 tags: [Urology, AIassisted]
 title: Benign Prostatic Hyperplasia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 10:20:03 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Monday, March 11th 2024, 12:19:41 pm
 ---
 
 Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostate gland, which is located just below the bladder and surrounds the urethra. Increased number of both stromal and glandular cells in the prostate

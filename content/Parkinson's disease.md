@@ -2,9 +2,10 @@
 tags:
   - Neurology
   - Incomplete
-title: Parkinson's disease
+title: "Parkinson's disease"
 date created: Thursday, September 28th 2023, 1:38:19 pm
-date modified: Thursday, September 28th 2023, 1:40:33 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Tuesday, January 23rd 2024, 12:38:52 pm
 ---
 - Lack of dopamine
 - Symptoms begin when 80% of dopamine producing cells (substantia nigra) have died

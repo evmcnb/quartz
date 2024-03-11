@@ -4,7 +4,8 @@ tags:
   - Oncology
 title: Urothelial Carcinoma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:12:25 pm
+date modified: Monday, March 11th 2024, 12:20:37 pm
+date: Wednesday, September 27th 2023, 11:00:59 pm
 ---
 
 aka transitional cell carcinoma

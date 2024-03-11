@@ -4,7 +4,8 @@ tags:
   - OSCE
 title: Sick Day Rules
 date created: Monday, November 27th 2023, 12:28:18 pm
-date modified: Monday, November 27th 2023, 12:35:53 pm
+date modified: Monday, March 11th 2024, 12:20:36 pm
+date: Monday, November 27th 2023, 1:15:52 pm
 ---
 Some medications require good kidney function. During sick days or periods of dehydration they should be stopped to preserve the kidneys. Stop for 3 days and see if illness improves - keep stopped if fluid intake is not enough
 

@@ -3,7 +3,8 @@ tags:
   - Dermatology
 title: Cutaneous Warts
 date created: Tuesday, January 2nd 2024, 3:39:02 pm
-date modified: Tuesday, January 2nd 2024, 3:44:57 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Sunday, January 14th 2024, 8:36:17 pm
 ---
 Small rough growths that are caused by the infection of keratinocytes with HPV. They can appear anywhere but most commonly seen on the hands and feet
 

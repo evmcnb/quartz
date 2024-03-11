@@ -4,7 +4,8 @@ tags:
   - Acute
 title: Epistaxis
 date created: Saturday, February 17th 2024, 4:15:38 pm
-date modified: Saturday, February 17th 2024, 4:16:56 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Friday, February 23rd 2024, 10:36:47 am
 ---
 Damage to the blood vessels of the nasal mucosa
 

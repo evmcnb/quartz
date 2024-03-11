@@ -4,7 +4,8 @@ tags:
   - Antibiotic
 title: Cephalosporins
 date created: Thursday, September 28th 2023, 12:56:34 pm
-date modified: Thursday, September 28th 2023, 1:06:02 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Thursday, September 28th 2023, 1:07:36 pm
 ---
 - $\beta$-lactam (cell wall synthesis inhibitors)
 - More modifiable than penicillins so $\therefore$ largest group of available antibiotics

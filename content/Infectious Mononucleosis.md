@@ -2,7 +2,8 @@
 tags: [Respiratory, InfectiousDisease, AIassisted]
 title: Infectious Mononucleosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, August 2nd 2023, 7:11:21 pm
+date modified: Monday, March 11th 2024, 12:20:38 pm
+date: Monday, September 18th 2023, 10:07:14 am
 ---
 
 Glandular fever

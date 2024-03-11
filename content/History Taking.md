@@ -3,7 +3,8 @@ tags:
   - OSCE
 title: History Taking
 date created: Tuesday, September 26th 2023, 6:07:01 pm
-date modified: Tuesday, September 26th 2023, 6:31:5246 pm
+date modified: Monday, March 11th 2024, 12:20:39 pm
+date: Wednesday, September 27th 2023, 11:00:59 pm
 ---
 
 ## Introduction
