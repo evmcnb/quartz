@@ -9,12 +9,12 @@ date: 2024-01-19
 ---
 Table to fill out in your mind for a psychological condition. 
 
-|               | Biological | Phsychological | Social |
-| ------------- | ---------- | -------------- | ------ |
-| Predisposing  |            |                |        |
-| Precipitating |            |                |        |
-| Perpetuating  |            |                |        |
-| Protective              |            |                |        |
+|               | Biological | Psychological | Social |
+| ------------- | ---------- | ------------- | ------ |
+| Predisposing  |            |               |        |
+| Precipitating |            |               |        |
+| Perpetuating  |            |               |        |
+| Protective    |            |               |        |
 ## Introduction
 
 - **Wash hands** (and don PPE if needed)
@@ -37,7 +37,7 @@ Depending on the situation, information may be need to be gathered from a collat
 
 ## History of presenting complaint
 
-- Low mood (depression)
+- Low mood ([[Depression]])
 - Self-harm/suicidal ideation
 - Elevated mood and energy (hypomania and mania)
 - Anxiety, panic attacks, or phobias
