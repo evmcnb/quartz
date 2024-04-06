@@ -12,6 +12,12 @@ Can only effect colon - "never" past ileocaecal value
 ![|650](z_attachments/650-1.png)
 Extra intestinal manifestations
 
+The severity of UC is usually classified as being mild, moderate or severe:  
+
+- mild: < 4 stools/day, only a small amount of blood
+- moderate: 4-6 stools/day, varying amounts of blood, no systemic upset
+- severe: >6 bloody stools per day + features of systemic upset (pyrexia, tachycardia, anaemia, raised inflammatory markers)
+
 ## Causes/Factors
 
 Inappropriate immune response against (?abnormal) colonic flora in genetically susceptible individuals - failure to maintain tolerance

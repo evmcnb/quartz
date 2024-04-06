@@ -50,6 +50,7 @@ Paracetamol Overdose
 Autoimmune hepatitis
 
 - Rare long term
+- Associated with the presence of anti-nuclear and/or anti-smooth muscle antibodies.
 - Immunosuppressants
 
 ## Symptoms

@@ -39,7 +39,7 @@ Alcohol-related liver disease (ARLD) refers to liver damage caused by excess alc
 
 - Stop drinking
 - Good diet and nutrition
-- Possibly steroids to reduce inflammation of liver
+- Corticosteroids (prednisolone) reduces mortality
 - Liver transplant if liver failure occurs
 
 ## Complications/red Flags
