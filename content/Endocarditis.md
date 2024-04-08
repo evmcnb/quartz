@@ -21,7 +21,7 @@ Fever + new murmur = infective endocarditis until proven otherwise
 
 **Organisms** - most common
 - Strep viridans (subacute)
-- Staph aureus
+- Staph aureus (most common amongst IVDU)
 - Strep bovis
 - Chlamydia
 - Candida

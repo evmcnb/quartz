@@ -77,6 +77,7 @@ Diastolic:
 Chronic:
 
 - Treat the cause
+- Annual influenza vaccine should be offered
 - Treat exacerbating factors (anaemia, thyroid disease, infection, $\uparrow$ BP)
 - Avoid exacerbating factors
 - If irreversible LVAD (left ventricular assist device) may be implanted

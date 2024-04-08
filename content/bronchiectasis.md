@@ -46,3 +46,7 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 - Maintaining body weight/nutrition
 - Corticosteroids
 - Surgery if localised
+
+## Complications
+
+- Infective exacerbation - most common organism: *Haemophilus influenzae*
