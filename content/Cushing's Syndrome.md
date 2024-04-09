@@ -9,6 +9,8 @@ date: 2023-11-10
 
 When too much cortisol is present. 
 
+Can cause a hypokalaemic metabolic alkalosis
+
 #### Cushing's Disease
 
 Pituitary adenoma releasing ACTH $\rightarrow \uparrow$ cortisol release
@@ -20,10 +22,13 @@ Pituitary adenoma releasing ACTH $\rightarrow \uparrow$ cortisol release
 
 ## Causes/Factors
 
-- Pituitary adenoma
-- Adrenal tumour
-- Ectopic ACTH syndrome - tumours outside the pituitary or adrenals can produce ACTH leading to excessive cortisol
-- Prolonged steroid use - prednisone, hydrocortisone
+**CAPE**
+**C**ushings disease - pituitary adenoma
+**A**drenal adenoma
+**P**araneoplastic syndrome from: carcinoid tumours in lung, small cell carcinoma, islet cell tumours, medullary carcinoma, tumours of thymus gland 
+**E**xogenous steroids- most common
+
+Peak incidence age 25-40
 
 ## Symptoms
 

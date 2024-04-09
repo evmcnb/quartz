@@ -11,6 +11,8 @@ Anyone at any age can get inflammatory arthritis
 
 ## Rheumatoid Arthritis
 
+^435d6c
+
 ^ab6a7d
 A systemic autoimmune disorder affecting synovial joint membrane with extra-articular manifestations 
 
