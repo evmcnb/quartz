@@ -48,8 +48,7 @@ Treat all >160/100. For those at 140/90 treatment depends on other comorbidities
 
 > [!tip] Treatment goals
 > - <140/90 in general population
-> - <130/80 in diabetics
-> - 150/90 if ages over 80
+> - <150/90 if ages over 80
 
 - **Life style changes** - Stop smoking, low-fat diet, reduce alcohol and salt intake, increase exercise and try to lose weight
 
