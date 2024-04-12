@@ -8,15 +8,12 @@ aliases:
   - Age-related macular degeneration
 date: 2024-02-09
 ---
-Lots of different classifications for age related macular degeneration (AMD)
+**Age related macular degeneration** (AMD)
 
 **Early AMD** - with low, medium or high risk of progression. Usually not a/w visual disturbances 
 **Late AMD**: 
-- Intermediate - large drusen $\pm$ pigment changes
-- Wet active - presence of choroidal neovascuarisation 
-- Wet inactive - presence of scar tissue or regressed neovascularisation 
-- Dry AMD - well defined areas of atrophy of retinal pigment epithelium
-
+- Dry - well defined areas of atrophy of retinal pigment epithelium, drusen $\pm$ pigment changes 90% of cases. Has a chance to progress into wet AMD
+- Wet - characterised by choroidal neovascularisation, 10% of total AMD cases
 
 ## Causes/Factors
 
@@ -49,8 +46,13 @@ Lots of different classifications for age related macular degeneration (AMD)
 
 ## Management
 
-- If AMD is suspected, urgent referral to an ophthalmologist should be arranged within a week as treatment for neovascular AMD should be started promptly to preserve sight. 
-- Management in secondary care includes intraocular injections of anti-angiogenic drugs for neovascular AMD.
+Dry AMD
+- Not much is usually done 
+- Lifestyle factors stop smoking & controlling blood pressure
+- Some studies have shown vitamin supplementation to be effective
+
+Wet AMD
+- To try and prevent neovascularization, anti-VEGF (vascular endothelial growth factor) can be injected in the vitreous about once a month 
 
 ## Complications/red Flags
 
