@@ -2,16 +2,20 @@
 tags:
   - Rheumatology
   - ENT
-title: "Sjögren's syndrome"
+title: Sjogren's syndrome
 date created: Saturday, October 7th 2023, 4:44:55 pm
 date modified: 2024-03-11
 date: 2023-10-12
 ---
-Sjögren's Syndrome is a chronic autoimmune disorder characterized by inflammation and dysfunction of the exocrine glands, primarily the salivary and lacrimal glands. This results in symptoms of dry eyes and dry mouth, but it can also affect various other organs and systems in the body. Sjögren's Syndrome is often associated with other autoimmune conditions.
+Chronic autoimmune disorder - inflammation and dysfunction of the exocrine glands, primarily the salivary and lacrimal glands. 
+
+This results in symptoms of dry eyes and dry mouth, but it can also affect various other organs and systems in the body.
 
 ## Causes/Factors
 
-The exact cause of Sjögren's Syndrome is not well understood, but it is believed to involve a combination of genetic and environmental factors. Autoimmune diseases like Sjögren's occur when the immune system mistakenly attacks healthy tissues.
+Autoimmune factors
+- Genetic 
+- Environmental
 
 ## Symptoms
 

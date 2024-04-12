@@ -44,6 +44,10 @@ Complicated
 - If not unwell watch and treat symptomatically
 - Amoxicillin 
 
+Recurrent acute otitis media defined as: 3 or more episodes in 6 months, 4+ episodes in 12 months 
+
+For children a surgical option may be grommets and myringotomy 
+
 ## Complications/red Flags
 
 ###### Mastoiditis

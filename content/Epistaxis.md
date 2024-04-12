@@ -46,13 +46,25 @@ General
 ABCDE if haemodynamically unstable
 - Person should sit with their upper body tilted forward and their mouth open - soft part of the nose should be pinched firmly for 10-15 mins
 
-Acute epistaxis
-- If the person is haemodynamically stable, epistaxis can usually be managed with first-aid measures. 
-- If a posterior bleed is suspected (bleeding is profuse, from both nostrils, and the bleeding site cannot be identified on examination), admission to hospital is recommended.
-- If bleeding doesn't stop after 10-15 minutes of pressure nasal packing may be used if available in primary care otherwise transfer to A&E 
+**Acute Epistaxis management:**  
+1. First aid measures: lean forward, with their mouth open and pinch nose (15-20 minutes)  
+IF SUCCESSFUL: apply Naseptin cream(chlorhexidine and neomycin) to reduce crusting and risk of vestibulitis  
+
+IF UNSUCCESSFUL  
+  
+2. Cautery: if you can visualise the bleeding point.  
+ - Anterior packing: if the bleeding point cannot be visualised.  
+  
+IF UNSUCCESSFUL  
+  
+3. Posterior packing: urgent referral to ENT  
+  
+IF UNSUCCESSFUL  
+  
+4. Admit to emergency department for sphenopalatine ligation in theatre
 
 Recurrent epistaxis:
-- Topical antiseptic treatment such as Naseptin® (chlorhexidine and neomycin) cream to reduce crusting and vestibulitis, or
+- Topical antiseptic treatment such as Naseptin cream to reduce crusting and vestibulitis, or
 - Nasal cautery (if the expertise and facilities are available in primary care), or
 - Referral to an ear, nose, and throat specialist if epistaxis is recurrent despite treatment, or there is a high risk of a serious underlying cause.
 

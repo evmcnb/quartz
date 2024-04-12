@@ -31,8 +31,13 @@ Notifiable disease
 
 ## Management
 
-- Secure the airway
-- IV antiobitics
-- Analgesics
+- immediate senior involvement- anaesthesia and ENT
+- A-E- secure airway
+    - endotracheal intubation
+- oxygen
+- nebulised adrenaline
+- IV antibiotics
+- IV steroids
+- fluid resus
 
 ## Complications/red Flags

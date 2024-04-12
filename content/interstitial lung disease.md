@@ -21,7 +21,7 @@ Interstitial Lung Disease (ILD) refers to a group of lung disorders characterize
 - [[Sarcoidosis]]
 - [[Inflammatory Arthritis#Rheumatoid Arthritis|Rheumatoid arthritis]]
 - [[Systemic Lupus Erythematosus]]
-- [[Sjögren's syndrome]]
+- [[Sjogren's syndrome]]
 - [[Ulcerative Colitis]]
 
 #### Idiopathic 

@@ -36,7 +36,7 @@ Diagnosing BPPV often involves a clinical examination and specific manoeuvres to
 Treatment of BPPV aims to reposition the displaced calcium crystals within the inner ear. This can be done through specific physical manoeuvres, including:
 
 1. **Epley Manoeuvre:** A series of head and body movements to move the crystals out of the ear canal.
-	1. 1. Start by sitting on a bed.
+	1. Start by sitting on a bed.
 	2. Turn your head 45 degrees to the right.
 	3. Quickly lie back, keeping your head turned.
 	4. Turn your head 90 degrees to the left, without raising it.
