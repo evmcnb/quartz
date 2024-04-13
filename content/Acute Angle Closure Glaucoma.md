@@ -75,3 +75,9 @@ Clinical examination:
 ## Complications/red Flags
 
 - Irreversible loss of vision 
+
+>[!danger] DVLA Notification
+>Must inform the DVLA for the following:
+>- If affects both eyes for car drivers 
+>- One eye for commercial drivers
+>- **Legal responsibility**

@@ -51,6 +51,11 @@ Diagnosing hypothyroidism involves blood tests, including:
 
 Treatment of hypothyroidism typically involves lifelong hormone replacement therapy with synthetic thyroid hormones, such as **levothyroxine**. The goal is to restore thyroid hormone levels to normal and alleviate symptoms.
 
+>[!tldr] Sub-clinical hypothyroidism
+>Where TSH level is elevated but less than 10 mU/L on **two** separate occasions **three months** apart and **symptoms of hypothyroidism** are present
+>-  6-month trial of levothyroxine and rechecking TFTs after. 
+>- This is because patients with subclinical hypothyroidism have an increased risk of cardiovascular disease and progression to overt hypothyroidism, and treatment generally resolves symptoms.
+
 ## Complications/Red Flags
 
 Untreated or inadequately managed hypothyroidism can lead to complications, including:
