@@ -68,3 +68,5 @@ Causes of an acute **_painless red eye_** include:
 >
 > Need urgent ophthalmology assessment
 > May be caused by gonococcal infection with can cause serious complications (inc vision loss)
+
+If bacterial cause is recurrent, and confirmed on swabs, consider chlamydial cause - refer to GUM

@@ -38,6 +38,10 @@ Reactivation of the disease may occur later in life
 ## Management
 
 - 2 antibiotics (isoniazid and rifampicin) for 6 months.
+- and 2 other drugs that ihnc what they do
+
+![[z_attachments/Pasted image 20240416120912.png]]
+- 
 
 Combined with chemotherapy for several months?
 

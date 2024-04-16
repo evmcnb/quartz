@@ -1,10 +1,14 @@
 ---
-tags: [Ophthalmology]
+tags:
+  - Ophthalmology
 title: Infective Keratitis
 date created: Wednesday, February 7th 2024, 12:58:38 pm
 date modified: 2024-03-11
 date: 2024-02-07
+aliases:
+  - Corneal ulcer
 ---
+[[Corneal abrasion]] + bacteria/infective element $\rightarrow$ corneal abrasion (infective keratitis)
 
 > [!danger] Sight threatening infection
 >
@@ -12,12 +16,12 @@ date: 2024-02-07
 > - Bacterial and viral are the most common - rarely fungal or protozoan
 
 
-|  | **Pathogens** | **Clinical features** | **Management** |
-| ---- | ---- | ---- | ---- |
-| **Bacterial** | - Pseudomonas spp.<br>- Staphylococcus spp.<br>- Streptococcus spp. | - Mucopurulent discharge<br>- Yellow-white infiltrate with clearly defined margins<br>- Hypopyon + | - Topical antibiotics, and steroids<br>- +/- oral antibiotics |
-| **Viral** | - Herpes Simplex Virus<br>- Varicella Zoster Virus | - Clear discharge / epiphora<br>- Epithelial defect with linear branching and terminal bulbs (dendritic ulcer)<br>- Reduced corneal sensation<br>- Hypopyon – | - Topical antivirals and cycloplegics |
-| **Fungal** | - Aspergillus spp.<br>- Fusarium spp.<br>- Candida spp. | - Mucopurulent discharge (less than bacterial)<br>- Grey-white infiltrate with fluffy margins and satellite lesions<br>- Hypopyon + | - Topical antifungals<br>- +/ topical antibiotics<br>- +/- systemic antifungals |
-| **Protozoan** | - Acanthamoeba spp. | - Clear discharge / epiphora<br>- Ring-shaped infiltrate<br>- Reduced corneal sensation<br>- Hypopyon +/- | - Topical PHMB and chlorhexidine |
+|               | **Pathogens**                                                       | **Clinical features**                                                                                                                                             | **Management**                                                                  |
+| ------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Bacterial** | - Pseudomonas spp.<br>- Staphylococcus spp.<br>- Streptococcus spp. | - Mucopurulent discharge<br>- Yellow-white infiltrate with clearly defined margins<br>- Hypopyon +                                                                | - Topical antibiotics (chloramphenicol), and steroids<br>- +/- oral antibiotics |
+| **Viral**     | - Herpes Simplex Virus<br>- Varicella Zoster Virus                  | - Clear discharge / epiphora<br>- Epithelial defect with linear branching and terminal bulbs (**dendritic ulcer**)<br>- Reduced corneal sensation<br>- Hypopyon – | - Topical antivirals (acyclovir) and cycloplegics                               |
+| **Fungal**    | - Aspergillus spp.<br>- Fusarium spp.<br>- Candida spp.             | - Mucopurulent discharge (less than bacterial)<br>- Grey-white infiltrate with fluffy margins and satellite lesions<br>- Hypopyon +                               | - Topical antifungals<br>- +/ topical antibiotics<br>- +/- systemic antifungals |
+| **Protozoan** | - Acanthamoeba spp.                                                 | - Clear discharge / epiphora<br>- Ring-shaped infiltrate<br>- Reduced corneal sensation<br>- Hypopyon +/-                                                         | - Topical PHMB and chlorhexidine                                                |
 
 ## Bacterial
 
@@ -71,7 +75,7 @@ The overall visual outcome is **very variable** and dependent on a number of f
 
 ##### **Risk factors**
 - Direct contact with infected secretions or lesions
-- Reactiveation via trauma to trigeminal nerve, stress, immunosuppression, previous reactivation
+- Reactivation via trauma to trigeminal nerve, stress, immunosuppression, previous reactivation
 
 Each attack is associated with a greater is of recurrence
 
