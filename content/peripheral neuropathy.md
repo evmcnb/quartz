@@ -52,7 +52,7 @@ In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the we
 - Primary of familial [[Amyloidosis]]
 - Uraemia
 - [[Lyme disease]]
-- [[Sjögren's syndrome]]
+- [[Sjogren's syndrome]]
 
 **Radicular:**
 - Diabetic truncal neuropathy

@@ -23,6 +23,7 @@ Anything that increases the risk of embolic events or CVD
 ## Clinical Features
 
 - Sudden vision loss
+- Painless
 - Central sctoma
 - Pale and opaque retina - due to oedema
 - Relative afferent pupillary defect - 

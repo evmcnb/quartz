@@ -9,7 +9,7 @@ aliases:
 date: 2024-02-09
 ---
 > [!info] Classification and terms
-> Anterior uveitis (iritis) - involves inflammation of the iris and adjacent structures within the anterior chamber
+> Anterior uveitis (iritis) - involves inflammation of the iris and adjacent structures within the anterior chamber - most common
 >
 > Intermediate uveitis - inflammation affecting the ciliary body and vitreous humour
 >
@@ -62,8 +62,7 @@ date: 2024-02-09
 
 If severe eye pain and a significant reduction in vision is present the person should be referred immediately for same day assessment by ophthalmology
 
-- For non-infectious uveitis, oral or topical corticosteroids are used to reduce inflammation
-	- A cycloplegic-mydriatic drug (1% cyclopentolate) is also given to paralyse the ciliary body
+- Non-infectious uveitis is most likely to be treated with a steroid + cycloplegic (mydriatic) drops
 - For infectious uveitits an appropriate antimicrobial should be given in addition to the above
 
 In severe or chronic cases, immunosuppressive drugs, TNFi, laser phototherapy, cryotherapy may also be considered. 
@@ -71,7 +70,7 @@ In severe or chronic cases, immunosuppressive drugs, TNFi, laser phototherapy, c
 ## Complications/red Flags
 
 > [!danger] Potentially blinding condition
-> Accounts f or up to 25% of cases of legal blindness in the developing world and 5-10% of visual impairment worldwide
+> Accounts for up to 25% of cases of legal blindness in the developing world and 5-10% of visual impairment worldwide
 
 - **Secondary Glaucoma**: Increased intraocular pressure due to inflammation or synechiae.
 - **Cataract Formation**: Due to chronic inflammation and corticosteroid use.

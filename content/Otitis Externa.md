@@ -39,7 +39,7 @@ Ear canal is the only skin-lined cul-de-sac in the body
 
 - History
 - Otoscopic examination
-- Ear swab or pus sample for culture
+- Ear swab or pus sample for MC&S
 
 ## Management
 
@@ -50,3 +50,10 @@ Ear canal is the only skin-lined cul-de-sac in the body
 ## Complications/red Flags
 
 - Pseudomonas bacteria causing a necrotising OE -> life threatening
+
+Malignant otitis externa - infection has spread to the **temporal bone**. Additional risk factors are diabetes, immunosuppression, HIV. Can lead to:
+- facial nerve damage
+- cranial nerve involvement
+- meningitis
+- intracranial thrombosis
+- death

@@ -8,7 +8,7 @@ date: 2024-01-25
 ---
 ![[z_attachments/Pasted image 20240125141057.png]]
 
-
+Trabecular network has increased resistance so drainage is slower. 
 ## Causes/Factors
 
 - Increasing age
@@ -31,7 +31,7 @@ Both apply pressure to cornea and measure response/resistance
 - Non-contact tonometry (less accurate)
 - Goldmann applanation tonometry (gold standard)
 
-- Slit lamp assessment for the cup-disk ratio ([eye anatomy](https://www.nosos.co.uk/facts/glaucoma-pathophysiology/))
+- Slit lamp assessment for the **cup-disk ratio** ([eye anatomy](https://www.nosos.co.uk/facts/glaucoma-pathophysiology/))
 - Visual field assessment for peripheral vision loss
 - Gonioscopy to assess angle between iris and cornea
 

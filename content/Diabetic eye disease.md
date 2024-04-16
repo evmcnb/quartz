@@ -15,22 +15,32 @@ Most common forms are diabetic retinopathy, diabetic macular oedema and cataract
 ![[z_attachments/Pasted image 20240113172118.png|350]]
 
 - Most common diabetes related complication. 
-- Metabolic complications cause thickening of basement membrane in small blood vessels in retina and capillary closure. 
-- Damage to the wall of small vessels cause microanerysms. 
-- Damaged blood vessels leak fluid into the retina. This fluid leaves behind lipids and proteins forming hard exudates
-- Micro-infarcts within the retina cause cotton wool spots. 
+- **Intraretinal microvascular abnormalities (IRMA)** - dilated and tortuous capillaries that can act as a shunt
+- **Neovascularization** - release of growth factors stimulating new vessel development - *proliferative diabetic retinopathy*
+- Damage to the wall of small vessels cause microaneurysms. 
+- Damaged blood vessels leak fluid into the retina. This fluid leaves behind lipids and proteins forming **hard exudates**
+- Damage to nerve fibres in to the retina causes **cotton wool spots**. 
 - These can all be seen on dilated eye exam.
 
 - Fluid from leaking vessels in cleared poorly in the macular area due to anatomical differences. Above a certain point it cannot be cleared **macular oedema** occurs
 - This distorts and thickens the macula at the retina.
 - Not visible on exam
 
+If proliferative (neovascularization occurs), measures taken to treat:
+- **_Pan-retinal photocoagulation_** (**_PRP_**) – extensive laser treatment across the retina to suppress new vessels
+- **_Anti-VEGF_** medications by intravitreal injection
+- **_Surgery_** (e.g., vitrectomy) may be required in severe disease
 
 ### Cataracts 
 
 - Develops earlier in people with diabetes tan the general population
 - Fluctuations in blood glucose concentration can cause refractive variability as a result of osmotic changes within the lens 
 - Resolves with better control
+
+Presentation
+- Chronic visual acuity loss - finding it hard to read
+- Colours having a grey/brown/yellow tinge
+- Star-bursts around lights
 
 ## Causes/Factors
 

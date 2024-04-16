@@ -9,12 +9,13 @@ date: 2024-01-25
 ---
 ![[z_attachments/Pasted image 20240125141057.png]]
 
+Trabecular meshwork physically blocked
 
 > [!danger] Medical emergency
 > 
 > - Sudden increase in intraocular pressure 
 > - Caused by blockage of the drainage angle in the eye 
-> - Not cancer related
+
 
 ![[z_attachments/Pasted image 20240125135002.png|275]]
 
