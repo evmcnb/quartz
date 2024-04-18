@@ -56,6 +56,7 @@ Physical exam generally unreliable as similar to dermatitis
 - 3 to 6 months: Direct oral anticoagulants (DOACs) or warfarin
 - Compression stockings
 - Early and regular walking
+- IVC filter in recurrent cases
 
 ## Complications/red Flags
 
