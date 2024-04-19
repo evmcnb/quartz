@@ -52,6 +52,7 @@ Chronic reflux of gastric contents back into the oesophagus resulting gastritis
 	- Consider a further 4 weeks if unresolved
 	- H2 receptor antagonist reduce gastric acid secretion
 
+- Dysplasia on biopsy requires endoscopic resection
 ## Complications/red Flags
 
 - Ruling out other diagnosis are important - cardiac or hepatobilliary disease can contribute to symptoms 

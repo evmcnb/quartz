@@ -31,7 +31,8 @@ Both apply pressure to cornea and measure response/resistance
 - Non-contact tonometry (less accurate)
 - Goldmann applanation tonometry (gold standard)
 
-- Slit lamp assessment for the **cup-disk ratio** ([eye anatomy](https://www.nosos.co.uk/snippets/glaucoma-pathophysiology/))
+
+- Slit lamp assessment for increased **cup-disk ratio** ([eye anatomy](https://www.nosos.co.uk/snippets/glaucoma-pathophysiology/))
 - Visual field assessment for peripheral vision loss
 - Gonioscopy to assess angle between iris and cornea
 

@@ -22,8 +22,9 @@ date: 2023-11-22
 - Gain consent to continue
 - Ask if patient in any **pain** before continuing
 
+---
 
-
+**GALS Specific questions:**
 - Any pain in muscles joints or back
 - Any difficulty getting dressed
 - Any difficulty going up and down stairs
