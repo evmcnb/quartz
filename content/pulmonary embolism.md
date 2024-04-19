@@ -35,12 +35,17 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Ve
 - Low $PaO_2$
 - elevated D-dimer (non specific)
 - normal chest exam
+
+- CTPA - 1st line diagnostic
 - V/Q scan
-- CTPA
 
 ## Management
 
-- Oxygen
-- Thrombolysis in life-threatening cases
-- DOAC (-xban)
-- LMWH in kidney failure patients
+- Oxygen & analgesia PRN
+
+- DOAC - apixaban or rivaroxaban
+- LMWH main alternative (e.g. in kidney failure patients)
+
+Massive PE with haemodynamic compromise - continuous infusion of unfractionated heparin
+- Consider thrombolysis in life-threatening cases
+

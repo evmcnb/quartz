@@ -49,8 +49,8 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 
 ## Diagnostic Tests
 
-- ECG - ST elevation (STEMI)
-- Bloods - raised troponin, cardiac enzymes, creatine kinase
+- ECG - ST elevation (STEMI), T-wave inversion, ST depression (NSTEMI)
+- Bloods - raised troponin, cardiac enzymes, creatine kinase for NSTEMI
 - Echo to see area of reduced contraction
 - Coronary angio to show which artery is blocked
 
@@ -60,9 +60,15 @@ Acute:
 
 - pain management (morphine)
 - antiemetic
-- anticoagulant?
-- oral aspirin
-- Primary Percutaneous Coronary Intervention (aka primary or PCI)
+- GTN
+
+*Dual anti-platlet therapy*
+- oral aspirin 300mg
+- Ticagrelor 180mg stat dose (clopidogrel if high bleeding risk, or prasugrel if having angiography)
+
+- *PCI* must be within 2 hours otherwise *thrombolysis*
+
+Antithrombin therapy in NSTEMI with fondaparinux
 
 Post MI:
 
