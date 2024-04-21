@@ -67,7 +67,7 @@ Possibly do but a positive test does **NOT** indicated cerebellar pathology - ju
 - Walking aids
 - Prescription
 
-### <span style="color:#00b0f0">Pronator drift </span>
+##### <span style="color:#00b0f0">Pronator drift </span>
 
 0. Ask patient to close eyes
 1. Ask patient to hold arms out with palms facing down and then ask them to turn them over
@@ -88,6 +88,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 
 > [!FAQ] Velocity in tone
 > Spasticity is velocity dependent - the fast the movement the worse it is
+> 
 > Rigidity is velocity independent - it feels the same no matter the speed that you move the limb
 
 <span style="color:#00b0f0">The two main type of rigidity are:</span>
@@ -212,7 +213,9 @@ Use a distal joint e.g. <span style="color:#ff0000">thumb or big two and hold at
 3. Repeat this as fast as possible
 
 Difficulty could be due to <span style="color:#00b0f0">cerebellar pathology.</span>
+
 <span style="color:#ff0000">Dysmetria</span> - <span style="color:#00b0f0">lack of coordination and patient may under/overshoot</span>
+
 <span style="color:#ff0000">Intention tremor</span> - <span style="color:#00b0f0">broad, coarse, low frequency tremor that develops as limb extends</span>.
 
 > [!danger] Careful!

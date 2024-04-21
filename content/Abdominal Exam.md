@@ -95,12 +95,12 @@ Place dorsal aspect of your hand onto patients to assess temperature
 
 #### Lips & Tongue
 
--        <span style="color:#ff0000">Lips</span> -<span style="color:#00b0f0"> peripheral cyanosis  </span>
--        <span style="color:#ff0000">Under the tongue</span> - <span style="color:#00b0f0">central cyanosis</span>, hypoxaemia maybe due to blood shunt
--       <span style="color:#ff0000"> Angular stomatitis</span> – <span style="color:#00b0f0">anaemia</span>
--        <span style="color:#ff0000">Ulcers</span> (aphthous) – <span style="color:#00b0f0">iron/B12/folate deficiency, Crohn’s disease</span>
--        <span style="color:#ff0000">Glossitis</span> -<span style="color:#00b0f0"> iron/B12/folate deficiency</span> due to IBD
--        <span style="color:#ff0000">Odour</span> – <span style="color:#00b0f0">ketosis, uraemia, fetor hepatica</span> (breath smells due to liver disease)
+- <span style="color:#ff0000">Lips</span> -<span style="color:#00b0f0"> peripheral cyanosis  </span>
+- <span style="color:#ff0000">Under the tongue</span> - <span style="color:#00b0f0">central cyanosis</span>, hypoxaemia maybe due to blood shunt
+- <span style="color:#ff0000"> Angular stomatitis</span> – <span style="color:#00b0f0">anaemia</span>
+- <span style="color:#ff0000">Ulcers</span> (aphthous) – <span style="color:#00b0f0">iron/B12/folate deficiency, Crohn’s disease</span>
+- <span style="color:#ff0000">Glossitis</span> -<span style="color:#00b0f0"> iron/B12/folate deficiency</span> due to IBD
+- <span style="color:#ff0000">Odour</span> – <span style="color:#00b0f0">ketosis, uraemia, fetor hepatica</span> (breath smells due to liver disease)
 
 #### Lymph Nodes
 
