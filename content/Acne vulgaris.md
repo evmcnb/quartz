@@ -12,6 +12,10 @@ Acne is caused by chronic inflammation with out without localised infection with
 
 The inflammation comes from increased sebum production trapping dead skin cells (keratin). Androgenic hormones increase the production of sebum. Swollen and inflamed units are called **comedones**. 
 
+- **Mild acne** — predominantly non-inflamed lesions (open and closed comedones) with few inflammatory lesions.
+- **Moderate acne** — more widespread with an increased number of inflammatory papules and pustules.
+- **Severe acne** — widespread inflammatory papules, pustules and nodules or cysts. Scarring may be present.
+
 ## Clinical Presentation:
 
 - Macules - flat marks on skin
