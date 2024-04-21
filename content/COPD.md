@@ -1,6 +1,7 @@
 ---
-tags: [Respiratory]
-title: COPD
+tags:
+  - Respiratory
+title: "[[COPD]]"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
 date: 2023-11-16
@@ -54,7 +55,9 @@ Smoking, pollution
 
 - **Initial treatment**: short acting $\beta_2$ agonist (SABA) (salbutamol) and short acting muscarinic antagonist (SAMA) (ipratropium bromide) - as necessary 
 
-Step up treatment when symptoms and exacerbations are still a problem with asthma/steroid responsive features
+Step up if **no** asthma features: LABA + LAMA
+
+Step up treatment when symptoms and exacerbations are still a problem with **asthma/steroid responsive features**:
 - Inhaled corticosteroids
 - Oral steroids (for exacerbation for 5 days)
 - Mucolytics

@@ -14,3 +14,11 @@ Pyoderma gangrenosum is a rare skin condition that causes rapidly enlarging, pai
 - [[inflammatory bowel disease]]
 - [[Inflammatory Arthritis]]
 - Other autoimmune conditions
+
+  
+NO – idiopathic  
+D – drugs (penicillin sulphonamides)  
+O – oral contraceptive/pregnancy  
+S – sarcoidosis/TB  
+U – ulcerative colitis/Crohn's disease/Behçet's disease  
+M – microbiology (streptococcus, mycoplasma, EBV and more)
