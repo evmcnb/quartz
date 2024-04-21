@@ -30,14 +30,14 @@ Trabecular meshwork physically blocked
 	- **_Adrenergic medications_** (e.g., **_noradrenaline_**)
 	- **_Anticholinergic medications_** (e.g., **_oxybutynin_** and **_solifenacin_**)
 	- **_Tricyclic antidepressants_** (e.g., **_amitriptyline_**), which have anticholinergic effects
-- **Pupil dilation** - medications or conditions that can cause pupil dilation can contribute to the development of acute glaucoma. 
+- **Pupil dilation** - medications or conditions that can cause pupil dilation can contribute to the development of acute glaucoma. **Eye dilating drops are therefore contra-indicated**
 
 ## Clinical Features
 
 **Short history of:**
-- Severely painful red eye
-- Blurred vision
-- Halos around lights
+- **Severely painful red eye**
+- Blurred vision - reduced acuity
+- **Halos around lights**
 - Associated headache nausea and vomiting 
 
 ## Investigations
@@ -54,7 +54,7 @@ Clinical examination:
 
 **Acute**
 - Lying the patient on their back without a pillow 
-- ***Pilocarpine*** eye drops (2% for blue and 4% for brown eyes) (dilates pupils)
+- ***Pilocarpine*** eye drops (2% for blue and 4% for brown eyes) (constricts pupils)
 - **_Acetazolamide_** 500 mg orally (reduction in aqueous humour) 
 - Analgesia and an antiemetic, if required
 
@@ -76,3 +76,9 @@ Clinical examination:
 ## Complications/red Flags
 
 - Irreversible loss of vision 
+
+>[!danger] DVLA Notification
+>Must inform the DVLA for the following:
+>- If affects both eyes for car drivers 
+>- One eye for commercial drivers
+>- **Legal responsibility**

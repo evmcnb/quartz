@@ -32,6 +32,7 @@ date: 2024-02-09
 - Visual distortions - straight lines may appear wavy or bent
 
 ## Signs
+
 - Drusen - collections of lipid material that accumulate beneath the retinal pigment epithelium (RPE) and within Brunch's membrane
 ![[z_attachments/Pasted image 20240209124309.png|375]]
 

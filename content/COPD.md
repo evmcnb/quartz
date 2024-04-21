@@ -52,12 +52,17 @@ Smoking, pollution
 
 ## Management
 
-- short acting $\beta_2$ agonist (SABA)
-- short acting muscarinic antagonist (SAMA)
-- corticosteroid
-- mucolytics
-- Long-term $O_2$ therapy (NICE guidelines)
+- **Initial treatment**: short acting $\beta_2$ agonist (SABA) (salbutamol) and short acting muscarinic antagonist (SAMA) (ipratropium bromide) - as necessary 
 
+Step up treatment when symptoms and exacerbations are still a problem with asthma/steroid responsive features
+- Inhaled corticosteroids
+- Oral steroids (for exacerbation for 5 days)
+- Mucolytics
+- Long-term $O_2$ therapy (NICE guidelines, $O_2$ targets of 88-92%)
+
+During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics
+
+Patients should have the **_pneumococcal_** and **_annual flu_** vaccine.
 ### Complications
 
 - [[polycythaemia]]

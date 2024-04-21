@@ -26,7 +26,7 @@ date: 2024-02-09
 ## Causes/Factors
 
 - Usually idiopathic
-- Autoimmune - [[Inflammatory Arthritis#Rheumatoid Arthritis|RA]], [[Ankylosing spondylitis]] and [[inflammatory bowel disease]]
+- Autoimmune - reactive arthritis, psoriatic arthritis, [[Ankylosing spondylitis]] and [[inflammatory bowel disease]] - HLA-B27
 - Infections
 - Trauma
 
@@ -41,7 +41,8 @@ date: 2024-02-09
 
 **Anterior**
 - Miosis - pupil constriction due to inflammation
-- Hypopyon - accumulation of white blood cells in the anterior chamber
+- **Hypopyon** - accumulation of white blood cells in the anterior chamber
+- Pupil changes in shape
 
 **Intermediate**
 - Vitreous cells and haze

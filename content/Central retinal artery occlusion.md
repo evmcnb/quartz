@@ -12,6 +12,8 @@ Sudden blockage of the central retinal artery leading to ischaemia of the inner 
 
 Ophthalmologic emergency
 
+May be transient - Amaurosis fugax - treated like [[Transient Ischemic Attack]]
+
 ## Causes/Factors
 
 Anything that increases the risk of embolic events or CVD
@@ -45,7 +47,8 @@ Anything that increases the risk of embolic events or CVD
 ## Management
 
 Sudden loss of vision is an ophthalmological emergency and requires immediate referral to the eye emergency department.
-- Ocular massage - digital massage may dislodge the emboli
+- (Ocular massage - digital massage may dislodge the emboli)
+- High dose aspirin - 300mg
 - Intraocular pressure lowering - topical medications or anterior chamber paracentesis
 - IV acetazolamide 
 

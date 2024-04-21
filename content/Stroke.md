@@ -69,6 +69,8 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 | Speech Disturbance | +1 |
 | Visual field defect | +1 |
 \>1 stroke possible 
+
+
 ## Diagnostic Tests
 
 - CT/MRI rapidly to differentiate between ischemic or haemorrhagic
@@ -83,18 +85,23 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 
 ## Management
 
+Exclude hypoglycaemia
+Immediate CT brain to exclude haemorrhage
+Aspirin 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
+Admission to a specialist stroke centre
+
+Once haemorrhagic **excluded**:
+
+- Aspirin 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. clopidogrel)
+- Thrombolysis considered if <4.5h since symptom onset - best results within 90mins
+- <6h since symptom onsnet and PAC occulsion - thrombectomy (cerebral angioplasty)
+
 Chad2Vasc2 score vs Hasbled/Orbit
 
 For haemorrhagic confirmed :
 - Reverse anticoagulants if possible (vitamin K for warfarin, idarucizumab for dabigatran)
 - Neurosurgical discussion -  coiling (endovascular embolization) can be used to stop further bleeding. Surgery can also be done to remove excess blood and reduce intracranial pressure
 
-
-Once haemorrhagic excluded:
-
-- Aspirin 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. clopidogrel)
-- Thrombolysis considered if <4.5h since symptom onset - best results within 90mins
-- <6h since symptom onsnet and PAC occulsion - thrombectomy (cerebral angioplasty)
 
 **Screen swallow** - nil by mouth until this is done (keep hydrated)
 

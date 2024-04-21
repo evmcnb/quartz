@@ -63,6 +63,9 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 - Confusion
 - Bradycardia
 
+> [!warning]
+Prior to discharge, following an acute asthma attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or oxygen) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
+
 ### DDX
 
 - [[pulmonary oedema]], [[COPD]], airway obstruction, [[pneumothorax]], [[pulmonary embolism]], [[bronchiectasis]]

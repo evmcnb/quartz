@@ -222,7 +222,6 @@ Except apex beat and chest expansion if already done
 
 - Assess for <span style="color:#ff0000">sacral and pedal oedema</span> - <span style="color:#00b0f0">HF</span>
 - <span style="color:#ff0000">Assess calves</span> for signs of [[Deep Vein Thrombosis]]
-  ( - Inspect for evidence of [[erythema nodosum]], which can be associated with [[sarcoidosis]])
 
 ## To Complete the Exam
 

@@ -66,5 +66,6 @@ Exam look for:
 - Cavernous sinus thrombosis
 - Loss of vision
 - Intracerebral abscess
+- Osteomyelitis
 - Meningitis 
 - Death (rarely) 

@@ -18,7 +18,7 @@ Patients usually have good outcomes with 90%+ recovering vision to 6/12 to bette
 
 ## Causes/Factors
 
-- Most commonly associated with demyelinating diseases such as [[Multiple Sclerosis]]
+- Most commonly associated with demyelinating diseases such as [[Multiple Sclerosis]] - need to rule it out
 - Metabolic - vitamin deficiencies especially of B12 severe anaemia 
 - Ischaemia - [[Diabetes Mellitus]], temporal arteritis, ateriosclerosis
 - Familial - Leber's disease
@@ -30,10 +30,10 @@ Patients usually have good outcomes with 90%+ recovering vision to 6/12 to bette
 ## Clinical Features
 
 - Acute to subacute unilateral loss of vision (hours to days)
-- dull aching pain in the region of the eye, aggravated by movement, especially elevation
+- dull aching pain in the region of the eye, **aggravated by movement**, especially elevation
 - visual field defect - most commonly a central scotoma
-- loss of colour vision
-- relative afferent pupillary defect
+- loss of colour vision - red desaturation
+- **relative afferent pupillary defect**
 - reduced visually-evoked response
 - optic disc oedema
 ## Investigations

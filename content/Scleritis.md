@@ -18,7 +18,7 @@ Anterior scleritis (90% of cases)
 Posterior scleritis
 
 > [!info] Episcleritis
-> Is inflammation of the superficial episcleral later of the eye. It is relatively common benign and self-limiting
+> Is inflammation of the superficial episcleral later of the eye. It is relatively common benign and self-limiting. Not that painful - only a segment of the eye may be red
 > Episcleritis **does not** progress to scleritis 
 
 |                 | Scleritis                                                                                       | Episcleritis                                    |
@@ -38,7 +38,7 @@ Posterior scleritis
 ## Symptoms
 
 - Severe eye pain
-- Redness
+- Gradual onset of severe redness
 - Photophobia
 - Tearing - excessive tearing due to ocular irritation and inflammation 
 

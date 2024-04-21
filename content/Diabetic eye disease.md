@@ -31,7 +31,7 @@ If proliferative (neovascularization occurs), measures taken to treat:
 - **_Anti-VEGF_** medications by intravitreal injection
 - **_Surgery_** (e.g., vitrectomy) may be required in severe disease
 
-### Cataracts 
+### [[Cataracts]] 
 
 - Develops earlier in people with diabetes tan the general population
 - Fluctuations in blood glucose concentration can cause refractive variability as a result of osmotic changes within the lens 
