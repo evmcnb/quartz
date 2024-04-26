@@ -59,7 +59,7 @@ Shock - a state of inadequate tissue perfusion
 
 - Look - source of blood/fluid loss, pallor, JVP, sweating, agitation, reduced consciousness
 - Listen/Feel - pulse, cold peripheries (except in septic shock), prolonged cap refill time, heart sounds
--
+
 
 Response to circulation problem
 - Attach monitoring

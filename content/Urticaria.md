@@ -33,7 +33,11 @@ Can be with or without a trigger. Triggers can be
 
 ## Management
 
-**_Antihistamines_** are the main treatment for urticaria. **_Fexofenadine_** is usually the antihistamine of choice for chronic urticaria. **_Oral steroids_** may be considered as a short course for severe flares.
+**_Antihistamines_** are the main treatment for urticaria. 
+
+**_Fexofenadine_** is usually the antihistamine of choice for chronic urticaria. 
+
+**_Oral steroids_** may be considered as a short course for severe flares.
 
 In very problematic cases referral to a specialist may be required to consider treatment with:
 
