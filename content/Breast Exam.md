@@ -4,7 +4,7 @@ tags:
   - Examination
 title: Breast Exam
 date created: Monday, February 5th 2024, 5:10:32 pm
-date modified: 2024-03-11
+date modified: 2024-04-21
 date: 2024-02-07
 ---
 
@@ -14,7 +14,7 @@ date: 2024-02-07
 - **Introduce yourself** (name and role)
 - Confirm patient's **name** and **DOB**
 - Explain what the examination involves - using patient friendly language
-- Explain the need for a chaperone *“One of the female ward staff members will be present throughout the examination, acting as a chaperone, would that be ok?”*
+- Explain the **need** for a chaperone *“One of the female ward staff members will be present throughout the examination, acting as a chaperone, would that be ok?”*
 - Check patient understanding and gain consent to continue
 - Over a gown if able
 - Ask if they have any pain before proceeding
@@ -86,7 +86,7 @@ Only expose one breast at a time
 6. <span style="color:#ff0000">Palpate from the lateral edge of the pec major muscle to the anterior edge of lats to the inner aspect of the arm</span>
 7. Repeat for other arm
 
-## Other lymph nodes
+### Other lymph nodes
 
 <span style="color:#ff0000">Ask the patient to sit up</span>
 

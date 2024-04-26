@@ -2,10 +2,9 @@
 tags:
   - Examination
   - OSCE
-  - Incomplete
 title: Thyroid Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: 2024-04-21
 date: 2024-02-07
 ---
 
@@ -32,7 +31,7 @@ date: 2024-02-07
 - <span style="color:#ff0000">Weight</span> - weight loss a/w [[Hyperthyroidism]], weight gain a/w [[Hypothyroidism]]
 - <span style="color:#ff0000">Behaviour</span> - anxiety and hyperactivity with [[Hyperthyroidism]], low mood with [[Hypothyroidism]]
 - <span style="color:#ff0000">Clothing</span> - may be inappropriate for the current temperature
-- <span style="color:#ff0000">Hoarse voice</span> - caused by compression of the larnx due to enlargement [[Hypothyroidism]]
+- <span style="color:#ff0000">Hoarse voice</span> - caused by compression of the larynx due to enlargement [[Hypothyroidism]]
 - <span style="color:#ff0000">Slurred and slow voice</span> - [[Hyperthyroidism]]
 
 #### Objects and Equipment

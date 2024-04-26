@@ -1,8 +1,8 @@
 ---
-tags: 
+tags:
 title: Exam Template
-date: 2023-10-24
-date modified: 2024-03-11
+date: ""
+date modified: ""
 ---
 
 ## Introduction
@@ -16,7 +16,7 @@ date modified: 2024-03-11
 
 #### Gather equipment
 
-- 
+-
 
 ## General Inspection
 

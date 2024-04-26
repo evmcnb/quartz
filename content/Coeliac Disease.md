@@ -41,7 +41,16 @@ Dude is Just Feeling Ill Bro
 
 ## Management
 
-Lifelong gluten free diet
+Lifelong gluten free diet. Some notable foods which are gluten-free include:  
+- rice
+- potatoes
+- corn (maize)
+
+### Vaccination
+Patients with coeliac disease often have a degree of **functional hyposplenism**
+- For this reason, all patients with coeliac disease are offered the pneumococcal vaccine
+    - Coeliac UK recommends that everyone with coeliac disease is vaccinated against pneumococcal infection and has a booster every 5 years
+- Current guidelines suggest giving the influenza vaccine on an individual basis.
 
 ## Complications/red Flags
 

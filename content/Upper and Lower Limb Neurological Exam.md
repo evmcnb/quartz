@@ -4,7 +4,7 @@ tags:
   - OSCE
 title: Upper and Lower Limb Neurological Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: 2024-04-21
 date: 2024-02-23
 ---
 
@@ -41,17 +41,21 @@ Tests to only do for <span style="color:#00b0f0">upper limb will appear blue</sp
 
 #### Clinical Signs
 
-- <span style="color:#00b0f0">Watch gait as they walk in/ask them to walk</span>
-  - <span style="color:#ff0000">Stance</span> - ataxic gait -> <span style="color:#00b0f0">midline cerebellar pathology</span>: [[Multiple Sclerosis|MS]], chronic alcohol excess
-  - <span style="color:#ff0000"> Stability</span> - staggering, slow, unsteady. Patients will lean towards the side of the <span style="color:#00b0f0">cerebellar lesion</span>
-  - <span style="color:#ff0000">Arm swing</span> - often absent or reduced in [[Parkinson's disease]]
-  - <span style="color:#ff0000">Steps</span> - small, shuffling steps -> <span style="color:#00b0f0">Parkinsonian gait</span>
-  - <span style="color:#ff0000">Turning</span> - patients with <span style="color:#00b0f0">cerebellar disease</span> will find this difficult
+**<span style="font-weight:bold; color:#00b050">Watch gait as they walk in/ask them to walk</span>**
+- <span style="color:#ff0000">Stance</span> - ataxic gait -> <span style="color:#00b0f0">midline cerebellar pathology</span>: [[Multiple Sclerosis|MS]], chronic alcohol exces
+- <span style="color:#ff0000">Stability</span> - staggering, slow, unsteady. Patients will lean towards the side of the <span style="color:#00b0f0">cerebellar lesion</span>
+- <span style="color:#ff0000">Arm swing</span> - often absent or reduced in [[Parkinson's disease]]
+- <span style="color:#ff0000">Steps</span> - small, shuffling steps -> <span style="color:#00b0f0">Parkinsonian gait</span>
+- <span style="color:#ff0000">Turning</span> - patients with <span style="color:#00b0f0">cerebellar disease</span> will find this difficult
 
 **S**cars - previous surgery
+
 **W**asting of muscles - LMN lesion or disuse atrophy
+
 **I**nvoluntary movements - pseudoathetosis (proprioception failure), chorea ([[Huntington's Disease|Huntington's]])
+
 **F**asciculartions - LMN pathology
+
 **T**remor - resting, intention... etc
 
 ##### <span style="color:#00b050">Romberg's test</span>
@@ -121,7 +125,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 | 4     | Active movement against gravity and resistance |
 | 5     | Normal power                                   |
 
-It's important to know the myotomes and the spinal level associated with each movement.
+It's important to know the [[Myotomes and Dermatomes]] and the spinal level associated with each movement.
 
 > [!FAQ] Might be useful to know...
 >

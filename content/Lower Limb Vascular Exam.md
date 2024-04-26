@@ -4,7 +4,7 @@ tags:
   - Examination
 title: Lower Limb Vascular Exam
 date created: Tuesday, October 24th 2023, 5:29:00 pm
-date modified: 2024-03-11
+date modified: 2024-04-21
 date: 2023-10-31
 ---
 ## Introduction
@@ -34,7 +34,6 @@ date: 2023-10-31
 - Fluid balance charts
 - Prescription
 
-
 ## Inspection of legs, foot and toes
 
 - Colour
@@ -42,18 +41,22 @@ date: 2023-10-31
 - Ulceration, trauma, which the patient might not be complaining about due to [[Diabetes Mellitus]] neuropathy
 - Varicose veins
 - Missing digits
-- Check in-between toes and back of legs for fungal infections/ulcers
-- trophic skins changes: hair loss, discoloured skin, dry skin, thickened nails
+- Check **in-between toes** and back of legs for fungal infections/ulcers
+- Trophic skins changes: hair loss, discoloured skin, dry skin, thickened nails
 
-#### 6 Ps of acute limb ischaemia  
-- Pale
-- Pulseless
-- Painful
-- Paralysed
-- Paraesthetic
-- Perishingly cold
+>[!tip] 6 Ps of acute limb ischaemia  
+>- Pale
+>- Pulseless
+>- Painful
+>- Paralysed
+>- Paraesthetic
+>- Perishingly cold
 
 ## Palpation & Auscultation 
+
+##### Assess temperature and sensation
+- Using back of hand, start at toes and compare each side - starting at groin feel down
+- Ask the patient to close their eyes and use light touch to assess for any sensory deficit
 
 ##### Capillary Refill time
 - Apply 5 seconds of pressure onto finger and release
@@ -63,25 +66,31 @@ date: 2023-10-31
 ##### Gross motor
 - Ask the patient to wiggle their toes
 
-##### Assess temperature and sensation
-- Using back of hand, start at toes and compare each side
-- Ask the patient to close their eyes and use light touch to assess for any sensory deficit
+##### Gross sensation
+- Ask the patient to wiggle their toes
 
 ##### Check oedema 
 - Is it pitting or firm
 
-##### Palpate arteries
-Compare side to side
-- Dorsalis pedis
-- Posterior tibial 
-- Popliteal 
+##### Palpate peripheral pulses
+Start with radial and note rate and rhythm - establish what to palpate for in the legs
+- Say you would start by palpating the **femoral pulses** and observe for radio-femoral delay - but **not usually performed in OSCE**.
+- Popliteal arteries (popliteal fossa with flexed knee)
+- Posterior tibial (behind medial malleolus)
+- Dorsalis pedis (lateral to extensor hallucis longus tendon)
 
-##### Say you will palpate femoral pulses but usually not performed in OSCE
-- Say you will check for volume, bruits, and radio-femoral delay
+- Aorta
 
-##### Palpate and auscultate the aorta 
-- Check for deviations, aneurysms, bruits, volume 
+##### Auscultation 
+- Listen for **bruits** over the **aorta, renal arteries & femoral arteries.**
 
+##### Buerger's test
+- Ask the patient if they have any leg pain before
+- With the patient reclined, hold the leg and slow raise it off the bed
+- With arterial insufficient a point will be reached against gravity where the pressure cannot be maintained and the leg turns white
+- In a normal patient the leg can be raised to 90$\degree$ without compromise
+- Then lower the pale limb back down over the edge of the bed
+- Reactive hyperaemia occurs as the supply returns and characteristic pink-purple colouration of the skin
 
 ## To Complete the Exam
 

@@ -70,10 +70,15 @@ Illusion - misperceives a real sensory stimulus
 
 ### Cognition
 
-- Memory
-- Other things as well
+4-AT
+- Do you know how old you are?
+- What's your date of birth?
+- What's the current year?
+- Do you know where we are at the moment?
 
-### Insight
+- Can you remember who I am?
+
+### Insight & Judgement
 
 One of the most complex areas of psychiatry
 
@@ -101,3 +106,4 @@ One of the most complex areas of psychiatry
 - Protective factors - family, friends, pet
 - Domestic violence and abuse?
 - **SAFEGUARDING**
+

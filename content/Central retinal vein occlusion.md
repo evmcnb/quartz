@@ -1,9 +1,9 @@
 ---
 tags:
   - Ophthalmology
-title: Condition Template
+title: Central retinal vein occlusion
 date: 2024-02-09
-date modified: 2024-03-11
+date modified: 2024-04-21
 ---
 
 ## Causes/Factors

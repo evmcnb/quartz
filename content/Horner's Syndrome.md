@@ -1,9 +1,9 @@
 ---
 tags:
   - Neurology
-title: Horner's Syndrome
+title: "Horner's Syndrome"
 date created: Wednesday, August 16th 2023, 1:45:57 pm
-date modified: 2024-03-11
+date modified: 2024-04-21
 date: 2023-09-18
 ---
 
