@@ -169,14 +169,15 @@ date modified: 2024-04-21
 
 ### [[Mental State Exam]]
 
-*   Appearance
-*   Behaviour
+**ASEPTIC**
+*   Appearance/Behaviour
 *   Speech
-*   Mood & affect
-*   Thoughts
+*   Emotion - Mood & affect
 *   Perception
-*   Cognition
+*   Thoughts
 *   Insight
+*   Cognition
+
 *   Social history
 *   Risk & safe guarding
 
