@@ -70,27 +70,29 @@ Diastolic:
 - Echo to assess ejection fraction, ventricle dilation and valves
 - ECG
 - Bloods: NT-proBNP (N-Terminal pro-Brain Natriuretic Peptide)
-- CXR?
+- CXR - [[Chest X-Ray Interpretation#Heart Failure|ABCDE of heart failure on CXR]]
 
 ## Management
 
-Chronic:
-
-- Treat the cause
-- Annual influenza vaccine should be offered
-- Treat exacerbating factors (anaemia, thyroid disease, infection, $\uparrow$ BP)
-- Avoid exacerbating factors
-- If irreversible LVAD (left ventricular assist device) may be implanted
-- Heart transplant
+Initial:
+- Refer to cardiology and assessment with echo BNP 400-2000 $\rightarrow$ 6 week wait, 2000+ 2WW
+- Drug treatment
+- Lifestyle advice - annual flu vaccine, stop smoking, 
 
 Drugs:
 
-- ACE-inhibitor promotes removal of excess fluid (ARB if ACEi not tolerated)
-- $\beta$ blocker decreases heart rate and increases force of contraction
-- Mineralocorticoid receptor antagonist eg spironolactone
+- **A** – **A**CE inhibitor (e.g., **_ramipril_**) titrated as high as tolerated - removal of excess fluid (ARB if ACEi not tolerated)
+- **B** – **B**eta blocker (e.g., **_bisoprolol_**) titrated as high as tolerated - decreases heart rate and increases force of contraction 
+- **A** – **A**ldosterone antagonist when symptoms are not controlled with A and B (e.g., **_spironolactone_** or **_eplerenone_**)
+- **L** – **L**oop diuretics (e.g., **_furosemide_** or **_bumetanide_**) - no prognostic benefit only symptomatic 
+
 - SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin
 
-- Loop diuretics - eg furosemide (no prognostic benefit) but symptomatic benefit
+U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause hyperkalaemia
+
+Surgical:
+
+- Heart transplant can be considered
 ## Complications/red Flags
 
 - Arrythmias

@@ -52,8 +52,12 @@ Physical exam generally unreliable as similar to dermatitis
 
 ## Management
 
-- Immediate: Low molecular weight heparin
-- 3 to 6 months: Direct oral anticoagulants (DOACs) or warfarin
+- Immediate: Treatment dose apixaban or rivaroxaban or LMWH
+
+Continue anti-coagulation (1st DOAC, warfarin for those with [[Antiphospholipid syndrome]], LMWH in pregnancy) for: 
+- 3 months if the DVT was provoked 
+- 6 months if unprovoked or irreversible underlying cause
+
 - Compression stockings
 - Early and regular walking
 - IVC filter in recurrent cases

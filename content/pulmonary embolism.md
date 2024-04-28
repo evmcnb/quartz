@@ -36,6 +36,11 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Ve
 - elevated D-dimer (non specific)
 - normal chest exam
 
+
+### Wells score
+- 4+ perform a CTPA or alternative
+- <4 perform a D-dimer and if positive get a CTPA
+
 - CTPA - 1st line diagnostic
 - V/Q scan
 
@@ -43,9 +48,10 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Ve
 
 - Oxygen & analgesia PRN
 
-- DOAC - apixaban or rivaroxaban
+- DOAC - apixaban or rivaroxaban first line
 - LMWH main alternative (e.g. in kidney failure patients)
 
 Massive PE with haemodynamic compromise - continuous infusion of unfractionated heparin
+
 - Consider thrombolysis in life-threatening cases
 

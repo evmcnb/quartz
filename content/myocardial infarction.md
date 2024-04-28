@@ -49,7 +49,14 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 
 ## Diagnostic Tests
 
-- ECG - ST elevation (STEMI), T-wave inversion, ST depression (NSTEMI)
+| **Artery**               | **Heart Area** | **ECG Leads** |
+| ------------------------ | -------------- | ------------- |
+| Left coronary artery     | Anterolateral  | I, aVL, V3-6  |
+| Left anterior descending | Anterior       | V1-4          |
+| Circumflex               | Lateral        | I, aVL, V5-6  |
+| Right coronary artery    | Inferior       | II, III, aVF  |
+
+- ECG - ST elevation (STEMI), T-wave inversion, ST depression (NSTEMI) - [[ECG Lead Placement & Interpretation]]
 - Bloods - raised troponin, cardiac enzymes, creatine kinase for NSTEMI
 - Echo to see area of reduced contraction
 - Coronary angio to show which artery is blocked
@@ -58,27 +65,41 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 
 Acute:
 
-- pain management (morphine)
-- antiemetic
-- GTN
-
-*Dual anti-platlet therapy*
-- oral aspirin 300mg
-- Ticagrelor 180mg stat dose (clopidogrel if high bleeding risk, or prasugrel if having angiography)
+**MOAN pneumonic**
+- Morphine 5-10mg (with metoclopramide 10mg)
+- Oxygen
+- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. Clopidogrel if high bleeding risk, or prasugrel if having angiography.
+- Nitrates - GNT spray
 
 - *PCI* must be within 2 hours otherwise *thrombolysis*
 
-Antithrombin therapy in NSTEMI with fondaparinux
+Antithrombin therapy in **NSTEMI** with fondaparinux
 
-Post MI:
+Unstable patients immediately get an angio otherwise for NSTEMI calculate GRACE score:
+- **_3% or less_** is considered **_low risk_**
+- **_Above 3%_** is considered **_medium_** to **_high risk_**
 
-- $\beta$ blocker
-- ACEi
-- High dose statin
+Patients at **_medium_** or **_high risk_** are considered for early **_angiography_** with **_PCI_** (within 72 hours). 
+Factors in GRACE score is age HR systolic BP and associated symptoms
+
+Post MI 6A's:
+- Aspirin 75mg indefinitely
+- Another Anti-platelet - ticagrelor or clopidogrel for 12 months
+- Atorvastatin 80mg once daily
+- ACE inhibitor as high as tolerated
+- Atenolol or another beta blocker
+- Aldosterone antagonist in those with heart failure
 
 ## Complications/red Flags
 
-- Arrhythmias
+>[!warning] Dressler’s Syndrome
+> - 2-3 weeks after an MI
+> - Localised immune reponse that causes a pericarditits
+> - Pleuritic chest pain, low-grade fever and pericardial rub on auscultation
+> - Global ST elevation and TWI, pericardial effusion and raised CRP and ESR
+> - Management is with NSAIDs and in severe cases steroids ± pericardiocentesis 
+
+- Arrhythmias - most common complication
 - [[Pericarditis]]
 - [[Cardiac Tamponade]]
 - LV/RV failure

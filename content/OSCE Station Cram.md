@@ -181,23 +181,4 @@ date modified: 2024-04-21
 *   Social history
 *   Risk & safe guarding
 
-## RRAPID
-
-- Headache - worst and first/thunderclap $\rightarrow$ [[Subarachnoid haemorrhage]].
-- [[Acute Kidney Injury]]
-- [[Pneumonia]]
-- [[pulmonary embolism]]
-- [[pneumothorax|Pneumothorax]] 
-- [[Asthma]] - <33% of predicted or best life PEFR life-threatening. Confusion automatically means life threatening. Oxygen 100%. 5mg back to back salbutamol nebs ± ipratropium (if no response to salbutamol). Prednisolone 40mg oral
-- Anaphylaxis - upper airway obstruction, [[Urticaria]], angioedema. Adults: 500micrograms of adrenaline 1 in 1000 every 5 minutes. Criteria for discharge  
-	- been stable on their discharge medication (i.e. no nebulisers or oxygen) for 12-24 hours
-	- inhaler technique checked and recorded
-	- PEF >75% of best or predicted
-- [[COPD]] exacerbation - *H. influenzae* most common organism. 28% Venturi mask at 4 l/min if risk/features of hypercapnia. Salbutamol and ipratropium nebs. 40mg oral pred or IV hydrocortosone 100mg. IV theophylline may be considered. 
-- [[myocardial infarction]] - dull central crushing chest pain that radiates to the jaw. **Don't forget troponin on investigations.** Aspirin 300mg & Ticagrelor 180mg for initial management. Morphine 5-10mg plus metoclopramide 10mg. PCI for treatment if stable
-- Pyelonephritis
-- [[Diabetic ketoacidosis]] - **don't ever forget glucose**. Fluid bolus plus 0.1mg/kg/hr fixed rate insulin infusion. Don't let the glucose fall too low. 
-- Hyperkalaemia - Treat if 6.5 mmol/L or if any ECG changes. Widening QRS, tall tented T waves, prolonged PR, flattened P waves. Insulin + dextrose + calcium gluconate
-- [[Sepsis]] - BUFALO
-- [[pancreatitis]]
-- Internal bleeding
+### [[RRAPID Conditions and Management]]
