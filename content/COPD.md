@@ -63,12 +63,14 @@ Step up treatment when symptoms and exacerbations are still a problem with **ast
 - Mucolytics
 - Long-term $O_2$ therapy (NICE guidelines, $O_2$ targets of 88-92%)
 
-During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics
+During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - Azithromycin to Avoid infections (250mg TDS)
+
+Non-invasive ventilation should be considered in all patients with an acute exacerbation of COPD in whom a respiratory acidosis
 
 Patients should have the **_pneumococcal_** and **_annual flu_** vaccine.
 ### Complications
 
-- [[polycythaemia]]
+- [[polycythaemia]] - increased haematocrit 
 - [[Respiratory Failure]]
 - [[pneumothorax]]
 - [[cor pulmonale]]

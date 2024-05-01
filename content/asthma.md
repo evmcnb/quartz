@@ -42,17 +42,33 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 - Sputum culture
 - ABG: $\downarrow PaO_2$ but also $\downarrow PaCO_2$ (hyperventilation)- \*\*if $\uparrow PaCO_2$ failing respiratory
 - Spirometry: decreased $FEV_1/FVC$ ratio
+- Bronchodilator reversibility testing: An increase in the $FEV_1$ of 12% or more after inhalation of a short-acting bronchodilator is indicative of asthma
 - Peak flow - less than predicated or best
-	- Moderate - 50-75%
-	- Acute severe - 33-50%
-	- Life-threatening - <33%
+
+| **Moderate**                                                                                 | **Severe**                                                                                              | **Life-threatening**                                                                                                                                                                             |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **PEFR 50-75%** best or predicted  <br>Speech normal  <br>RR < 25 / min  <br>Pulse < 110 bpm | **PEFR 33 - 50%** best or predicted  <br>Can't complete sentences  <br>RR > 25/min  <br>Pulse > 110 bpm | **PEFR < 33%** best or predicted  <br>Oxygen sats < 92%  <br>Silent chest, cyanosis or feeble respiratory effort  <br>Bradycardia, dysrhythmia or hypotension  <br>Exhaustion, confusion or coma |
 
 ## Management
 
-- Lifestyle/environment changes
-- SABA/LABA
-- Corticosteroids - prednisolone 40mg od for exacerbation  
+|Step|Notes|
+|---|---|
+|**1**  <br>  <br>Newly-diagnosed asthma|Short-acting beta agonist (SABA)|
+|**2**  <br>  <br>Not controlled on previous step  <br>OR  <br>Newly-diagnosed asthma with symptoms >= 3 / week or night-time waking|SABA + low-dose inhaled corticosteroid (ICS)|
+|**3**|SABA + low-dose ICS + leukotriene receptor antagonist (LTRA)|
+|**4**|SABA + low-dose ICS + long-acting beta agonist (LABA)  <br>  <br>Continue LTRA depending on patient's response to LTRA|
+|**5**|SABA +/- LTRA  <br>  <br>Switch ICS/LABA for a maintenance and reliever therapy (MART), that includes a low-dose ICS|
+|**6**|SABA +/- LTRA + medium-dose ICS MART  <br>  <br>OR consider changing back to a fixed-dose of a moderate-dose ICS and a separate LABA|
+|**7**|SABA +/- LTRA + one of the following options:  <br><br>- increase ICS to high-dose (only as part of a fixed-dose regime, not as a MART)<br>- a trial of an additional drug (for example, a long-acting muscarinic receptor antagonist or theophylline)<br>- seeking advice from a healthcare professional with expertise in asthma|
 
+Maintenance and reliever therapy (MART)  
+
+- a form of combined ICS and LABA treatment in which a single inhaler, containing both ICS and a fast-acting LABA, is used for both daily maintenance therapy and the relief of symptoms as required
+- MART is only available for ICS and LABA combinations in which the LABA has a fast-acting component (for example, formoterol)
+
+**Acute exacerbations** - see [[RRAPID Conditions and Management#asthma Asthma|acute management]]
+- Back to back salbutamol nebs
+- Corticosteroids - prednisolone 40mg 
 - Magnesium sulphate
 - Aminophylline
 - Anti-IgE antibody (v rarely)
@@ -64,7 +80,7 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 - Bradycardia
 
 > [!warning]
-Prior to discharge, following an acute asthma attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or oxygen) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
+> Prior to discharge, following an acute asthma attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or oxygen) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
 
 ### DDX
 

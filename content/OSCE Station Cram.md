@@ -133,6 +133,35 @@ date modified: 2024-04-21
 *   Active and passive movement of the knee
 *   **Special tests:** Posterior sag (PCL), Anterior draw test (ACL), posterior draw, medial and lateral collateral ligament assessment, medial and lateral meniscus test
 
+### [[Wrist Exam]]
+
+- Loads of strange shit - basically a neuro exam  
+- Inspect the hand well - esp thenar/hypothenar
+- Feel pulses, palmar thickening eminence bulk etc
+- Joint squeeze
+- Active, passive and functional movements
+- **Special tests**: Tinel's tests, Phalen's test
+
+### [[Ankle and Foot Exam]]
+
+- Gait
+- Achilles tendon palpation
+- Active and passive movements
+- **Special tests**: Simmond's for Achilles tendon rupture
+
+### [[Hip Exam]]
+
+- Gait
+- Apparent and true leg length
+- Active and passive movement
+- **Special tests** - Thomas's test, Trendelenburg's test 
+### [[Elbow Exam]]
+
+- Carrying angle
+- Biceps tendon palpation 
+- Medial epicondylitis (golfer's elbow) 
+- Lateral epicondylitis (tennis elbow)
+
 ## Breast
 ### [[Breast exam]] 
 

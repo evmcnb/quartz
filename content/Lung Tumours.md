@@ -42,6 +42,23 @@ Main morphological difference between the two is nuclear characteristics and amo
 - chest pain
 - weight loss
 
+**Small cell**  
+- ADH
+- ACTH - not typical, hypertension, hyperglycaemia, hypokalaemia, alkalosis and muscle weakness are more common than buffalo hump etc
+- [Lambert-Eaton syndrome](https://www.nosos.co.uk/snippets/lamberteaton-syndrome/)
+
+  
+**Squamous cell**  
+- parathyroid hormone-related protein (PTH-rp) secretion causing **hypercalcaemia**
+- clubbing
+- hypertrophic pulmonary osteoarthropathy (HPOA)
+- hyperthyroidism due to ectopic TSH
+
+  
+**Adenocarcinoma**  
+- gynaecomastia
+- hypertrophic pulmonary osteoarthropathy (HPOA)
+
 ## Signs
 
 - **[[clubbing]]** of fingers
@@ -67,4 +84,4 @@ Main morphological difference between the two is nuclear characteristics and amo
 Poor prognosis in general
 
 - phrenic + recurrent laryngeal nerve palsy (mass impinges)
-- [[Lambert-Eaton Syndrome]]
+- 

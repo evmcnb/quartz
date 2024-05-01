@@ -12,6 +12,8 @@ date: 2024-02-09
 - Granulomas are inflammatory nodules full of macrophages
 - Unknown cause
 - Mainly respiratory but all organs affected
+
+Hypercalcaemia + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 ## Causes/Factors
 
 - Aged 20-40 or around 60

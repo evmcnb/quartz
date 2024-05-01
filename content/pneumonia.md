@@ -16,11 +16,34 @@ An acute lower respiratory tract infection associated with fever and other abnor
 
 - Community acquired (CAP) - most common streptococcus pneumoniae. Occurring outside of hospital or within 48hr of admission
   ![|600](z_attachments/600.png)
-  ![|375](z_attachments/375-1.png)
+  
+### **CURB-65** - one point for each
+- Confusion - AMTS $\leq$ 8 
+- Urea - >7 mmol/L
+- RR - $\geq$ 30
+- Blood pressure < 90 systolic or <60 diastolic
+- Age $\geq$ 65 (soft score)
+
+0-1 - low risk home management - 500mg amoxicillin TDS for 5 days
+2 - intermediate risk - short in-patient stay
+$\geq$ 3 - high risk - severe pneumonia
+
+#### Risk of death with CURB-65
+
+|Score|Risk of death at 30 days|
+|---|---|
+|0|0.7%|
+|1|3.2%|
+|2|13.0%|
+|3|17.0%|
+|4|41.5%|
+|5|57.0%|
+
+---
 
 - Hospital acquired (HAP) - after 48hs from admission
 - Ventilator associated (VAP)
-- Aspiration pneumonia
+- Asp iration pneumonia
 
 - Immunocompromised patient - patients recurrently coming with a CAP is an indicator of HIV - esp if organism is weird
 
@@ -53,7 +76,6 @@ An acute lower respiratory tract infection associated with fever and other abnor
 ## Management
 
 ABCDE
-
 - Fluids
 - Oxygen
 - Antibiotics

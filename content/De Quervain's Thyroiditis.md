@@ -5,7 +5,7 @@ date created: Monday, March 11th 2024, 7:24:03 pm
 date modified: 2024-03-11
 date: 2024-03-11
 ---
- 
+De Quervain $\rightarrow$ De QuerPAIN 
 
 **_De Quervain’s thyroiditis_**, also known as subacute thyroiditis, is a condition causing temporary inflammation of the thyroid gland. There are three phases:
 
