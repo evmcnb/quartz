@@ -265,6 +265,8 @@ Assess the patient’s **lower legs** for evidence of **pitting oedema** whi
 
 ## Further Assessments and Investigations
 
-- Check hernial orifices (e.g. if there are signs of bowel obstruction).
-- If there is suspicion of gastrointestinal bleeding perform a PR exam.
-- To rule out testicular torsion or indirect inguinal hernia a external genitalia exam may be needed
+- **S**tool sample - MC&S
+- **H**ernial examination - if there are signs of bowel obstruction
+- **R**ectal exam - if suspicious of PR bleed
+- **U**rine analysis/pregnancy test
+- **G**enitalial examination - if suspecting testicular torsion
