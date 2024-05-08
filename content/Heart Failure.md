@@ -81,9 +81,10 @@ Initial:
 
 Drugs:
 
+ACEi and Beta blockers first line.
 - **A** – **A**CE inhibitor (e.g., **_ramipril_**) titrated as high as tolerated - removal of excess fluid (ARB if ACEi not tolerated)
-- **B** – **B**eta blocker (e.g., **_bisoprolol_**) titrated as high as tolerated - decreases heart rate and increases force of contraction 
-- **A** – **A**ldosterone antagonist when symptoms are not controlled with A and B (e.g., **_spironolactone_** or **_eplerenone_**)
+- **M** – **M**ineralcorticoid receptor antagonist (aldosterone antagonist) when symptoms are not controlled with ACE and $\beta$-blockers (e.g., **_spironolactone_** or **_eplerenone_**)
+- - **B** – **B**eta blocker (e.g., **_bisoprolol_**) titrated as high as tolerated - decreases heart rate and increases force of contraction 
 - **L** – **L**oop diuretics (e.g., **_furosemide_** or **_bumetanide_**) - no prognostic benefit only symptomatic 
 
 - SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin

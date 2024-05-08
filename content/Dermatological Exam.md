@@ -48,6 +48,13 @@ date modified: 2024-04-21
 - Morphology
 - Margin
 
+**ABDCE** - for melanoma
+- Asymmetry
+- Borders - irregular, poorly defined
+- Colour - multiple
+- Diameter - >6mm scary ahhh
+- Evolution - changed recently
+
 ## Palpate a rash or lesion
 
 - Surface
@@ -56,7 +63,20 @@ date modified: 2024-04-21
 - Tenderness
 - Temperature
 
+## Special tests
 
+- Ask to feel for lymph nodes
+
+## To Complete the Exam
+
+- **Explain** to the patient that the examination is now **finished**.
+- **Thank the patient** for their time.
+- **Dispose of PPE** appropriately and **wash your hands**.
+- **Summarise** your findings.
+
+## Further Assessments and Investigations
+
+- Set of Obs
 
 ## Terminology
 
@@ -105,13 +125,3 @@ date modified: 2024-04-21
 | Verrucous       | Hyperkeratotic with irregular surface sometimes with fissures of projections    |
 | Excoriations    | Traumatised surface due to scratching                                           |
 | Lichenification | Thickened skin with increased markings due to chronic scratching                |
-
-
-## To Complete the Exam
-
-- **Explain** to the patient that the examination is now **finished**.
-- **Thank the patient** for their time.
-- **Dispose of PPE** appropriately and **wash your hands**.
-- **Summarise** your findings.
-
-## Further Assessments and Investigations

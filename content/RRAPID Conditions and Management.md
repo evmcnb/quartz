@@ -6,7 +6,13 @@ title: RRAPID Conditions and Management
 date: 2024-04-27
 date modified: 2024-04-27
 ---
-
+>[!tldr] SAMPLE History Whilst Assessing Airway
+>- **S**igns and symptoms
+>- **A**llergies
+>- **M**edications
+>- **P**ast medical history
+>- **L**ast oral intake
+>- **E**vents surround injury/illness
 ### [[Acute Coronary Syndrome]]
 - Don't forget troponin
 
@@ -89,7 +95,7 @@ Only if things are "adverse"
 > Give amiodarone in broad complex tachy and Adenosine in narrow complex tachy
 
 ##### Supraventricular tachycardia
-- Vagal manoeuvers
+- Vagal/valsalva manoeuvers
 - If they don't work IV adenosine
 
 ##### Broad complex tachycardia

@@ -1,5 +1,8 @@
 ---
-tags: 
+tags:
+  - OSCE
+  - Urology
+  - Examination
 title: Urological Examination
 date: 2024-05-04
 date modified: 2024-05-04
@@ -13,7 +16,6 @@ date modified: 2024-05-04
 - Explain what the examination involves
 - Gain consent to continue
 - Ask if patient in any **pain** before continuing
-
 
 
 ## General Inspection
@@ -37,7 +39,8 @@ date modified: 2024-05-04
 - Fluid balance charts
 - Prescription
 
-## Hands
+
+## Hands **NOT IN EBOOK**
 
 #### Inspection
 
@@ -92,7 +95,7 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 - Report <span style="color:#ff0000">breathing pattern and respiratory effort.</span><span style="color:#00b0f0"> Asymmetries in breathing , tachypnoea, bradypnoea
   </span>
 
-## Face
+## Face **NOT IN EBOOK**
 
 ### General
 

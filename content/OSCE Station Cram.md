@@ -77,6 +77,22 @@ date modified: 2024-04-21
 *   Plantar reflex L5-S1
 *   Heel shin
 
+### [[Urological Examination]]
+
+- Inspection
+- Pulse BP, RR
+- Inspect abdo
+- Kidney
+	- Bimanual ballottment kidneys
+	- Percussion - renal angles
+	- Auscultation - epigastrium, flank and costovertebral angle for bruit
+- Repeat on the back
+- Bladder
+	- Inspect
+	- Palpate bladder for distension
+	- Percuss - dull in distension
+- End pieces
+
 ## Thyroid
 ### [[Thyroid Exam]]
 
@@ -95,6 +111,126 @@ date modified: 2024-04-21
 - Amiodarone or recent contrast material use
 - Recent viral infection
 
+### [[Lower Limb Vascular Exam]]
+
+>[!danger] Warning
+>Read the station to see if they only want lower limb or complete peripheral vascular exam. 
+
+**This is for all peripheral**
+*   Don’t forget temperature and cap refill in hands and feet
+*   Inspect everywhere too
+*   **Pulses:** radial, brachial, carotid (auscultate first), aorta (auscultate), renal arteries (auscultate only), femoral (offer), popliteal, posterior tibial (medial malleolus), dorsalis pedis
+*   Gross peripheral (feet) **movement and sensation** 
+*   Buerger’s test
+
+### [[Knee Joint Exam]]
+
+*   Gross inspection in all planes
+*   Assess gait
+*   Closer inspection on bed
+*   Patella tap + effusion tests? 
+*   Active and passive movement of the knee
+*   **Special tests:** Posterior sag (PCL), Anterior draw test (ACL), posterior draw, medial and lateral collateral ligament assessment, medial and lateral meniscus test
+
+### [[Thoracic and Lumbar Spine Exam]]
+
+- Look - inspect from all planes DWASS
+- Feel - para-vertebral muscles + joints + sacroiliac joint
+- Move - flexion, extension, lateral movement, thoracic rotation
+- Special tests - straight leg raise, reflexes, dorsiflexion of big toe
+
+## Breast
+### [[Breast exam]] 
+
+*   Chaperone and consented for everything - maintain dignity 
+*   Exaggerating manoeuvres 
+*   Don’t forget infraclavicular and parasternal lymph nodes after axillary and cervical
+*   Describe the lesion with its **size, shape, surface, tenderness, mobility, vector from the nipple **
+
+### History
+
+- Skin changes
+- Discharge
+- Constitutional symptoms - weight loss, fatigue, 
+- Brief OBGYN history - menarche and menopause, OCP use
+- Family history of breast bowel or ovarian cancer
+
+## [[Dermatological Exam]]
+
+- General inspection - Fitzpatrick skin type, hands, scalp, face, arms, legs
+- **Describe** 
+	- S2CAM2 - size, shape, colour, associated changes, morphology, margin
+	- ABCDE (melanoma) - Asymmetry, Borders, Colour, Diameter, Evolution
+- **Palpate** - surface, consistency, mobility, tenderness, temperature 
+
+## Other intimate
+### [[PR exam]]
+
+*   Need for a chaperone
+*   Don’t forget to position and inspect the perianal region
+*   In males palpate the prostate gland anteriorly
+*   Then 360 sweep
+*   Test anal tone?
+
+### [[Testicular exam]]
+
+*   Need for a chaperone
+*   Inspect the surrounding region and penis and testicles
+*   Box technique for testicular palpation 
+*   Site, size shape, consistency tenderness, fluctuance, translummination, cough impulse, ability to get above the lump
+*   Epididymis and spermatic cord
+*   **Special tests:** Prehn’s test (elevating testes with pain reduction indicates epididymitis), Cremasteric reflex (inner thigh stimulation causes ipsilateral testicle to inguinal canal)
+*   Assess while standing
+
+## Psych
+### [[Mental State Exam]]
+
+**ASEPTIC**
+*   Appearance/Behaviour - open question observe throughout
+*   Speech - observe throughout
+*   Emotion - Mood & affect - *SOCRATES*, impact on life
+*   Perception - can you see things other people can't
+*   Thoughts - intrusive, broadcast, routines, rituals, persecutions, possession, controlling 
+*   Insight - what do family and friends think. Do you think the thoughts are reasonable
+*   Cognition - 4AT
+
+*   Social history - other people in your situations may turn to drugs and alcohol - is that something 
+*   Risk & safe guarding - harming yourself and others 
+
+### [[Cognitive Assessment]]
+
+**O**nly **A**my **L**oves **M**cdonalds **C**learly - rule of three
+- **O**ritentation - three domains, three questions per domain. 
+	- Time - time, month, year
+	- Place - location, city, county
+	- Person - age, date of birth, home address
+- **A**ttention - months backwards then 20-1
+- **L**anguage - comment on and *ask name* of 3 common objects
+- **M**emory - ask to remember 3 words 
+- **C**onstruction - ask to draw a clockface with the time 10 to 2
+- Recall the words
+
+#### AMTS
+May be asked instead of a cognitive assessment - similar stuff
+
+1. How old are you
+2. Date of birth
+3. Current year
+4. Current time
+5. *Ask them to remember an address*
+6. Where are we
+7. Who's the current monarch
+8. When did WW1 start
+9. Count backwards from 20
+10. What are the roles of 2 people
+11. What is the address that I gave you before
+
+### [[RRAPID Conditions and Management]]
+
+--- 
+
+Old ones the medical school thought was a good idea to tell us wasn't in the exam 2 weeks before the exam (despite the fact they've been in every year before us)
+
 
 ### [[GALS Exam]]
 
@@ -105,18 +241,6 @@ date modified: 2024-04-21
 *   Spine movements
 *   TMJ function
 
-### [[Lower Limb Vascular Exam]]
-
->[!danger] Warning
->Read the station to see if they only want lower limb or complete peripheral vascular exam. 
-
-**This is for all peripheral**
-*   Don’t forget temperature and cap refill in hands and feet
-*   Inspect everywhere too
-*   **Pulses: **radial, brachial, carotid (auscultate first), aorta (auscultate), renal arteries (auscultate only), femoral (offer), popliteal, posterior tibial (medial malleolus), dorsalis pedis
-*   Gross peripheral (feet) **movement and sensation** 
-*   Buerger’s test
-
 ### [[Shoulder Exam]]
 
 *   Inspection in all planes
@@ -124,14 +248,6 @@ date modified: 2024-04-21
 *   Active and passive movements
 *   Only internal and external rotation against resistance
 *   **Special tests**: Empty can test, painful arc, scarf test
-
-### [[Knee Joint Exam]]
-
-*   Gross inspection in all planes
-*   Assess gait
-*   Closer inspection on bed
-*   Active and passive movement of the knee
-*   **Special tests:** Posterior sag (PCL), Anterior draw test (ACL), posterior draw, medial and lateral collateral ligament assessment, medial and lateral meniscus test
 
 ### [[Wrist Exam]]
 
@@ -161,53 +277,3 @@ date modified: 2024-04-21
 - Biceps tendon palpation 
 - Medial epicondylitis (golfer's elbow) 
 - Lateral epicondylitis (tennis elbow)
-
-## Breast
-### [[Breast exam]] 
-
-*   Chaperone and consented for everything - maintain dignity 
-*   Exaggerating manoeuvres 
-*   Don’t forget infraclavicular and parasternal lymph nodes after axillary and cervical
-*   Describe the lesion with its **size, shape, surface, tenderness, mobility, vector from the nipple **
-
-### History
-
-- Skin changes
-- Discharge
-- Constitutional symptoms - weight loss, fatigue, 
-- Brief OBGYN history - menarche and menopause, OCP use
-- Family history of breast bowel or ovarian cancer
-
-### [[PR exam]]
-
-*   Need for a chaperone
-*   Don’t forget to position and inspect the perianal region
-*   In males palpate the prostate gland anteriorly
-*   Then 360 sweep
-*   Test anal tone?
-
-### [[Testicular exam]]
-
-*   Need for a chaperone
-*   Inspect the surrounding region and penis and testicles
-*   Box technique for testicular palpation 
-*   Site, size shape, consistency tenderness, fluctuance, translummination, cough impulse, ability to get above the lump
-*   Epididymis and spermatic cord
-*   **Special tests:** Prehn’s test (elevating testes with pain reduction indicates epididymitis), Cremasteric reflex (inner thigh stimulation causes ipsilateral testicle to inguinal canal)
-*   Assess while standing
-
-### [[Mental State Exam]]
-
-**ASEPTIC**
-*   Appearance/Behaviour
-*   Speech
-*   Emotion - Mood & affect
-*   Perception
-*   Thoughts
-*   Insight
-*   Cognition
-
-*   Social history
-*   Risk & safe guarding
-
-### [[RRAPID Conditions and Management]]

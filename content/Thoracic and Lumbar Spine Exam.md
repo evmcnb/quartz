@@ -34,9 +34,10 @@ date: 2023-11-04
 - **Lumbar flexion and extension** - place 3 fingers over the lumbar spine and ask the patient to bend forward as much as possible. Fingers should move apart
 - **Lumbar lateral flexion** - ask patient to run their hand down the side of their leg 
 - **Thoracic rotation** - ask patient to cross their hands and then twist their shoulders side to side
-- **Straight leg raise** - ask the patient to go back onto the bed and lie it flat. Then raise one leg at a time - this will exacerbate nerve root irritation and dorsiflexion will further show this (sciatic nerve L3, L4, S1)
 
-## End pieces
+## Special tests
+
+- **Straight leg raise** - ask the patient to go back onto the bed and lie it flat. Then raise one leg at a time - this will exacerbate nerve root irritation and dorsiflexion will further show this (sciatic nerve L3, L4, S1)
 
 - Patella (L3,L4) and ankle jerk reflexes (S1, S2)
 - Babinski response for upper motor neurone lesions
