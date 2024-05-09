@@ -12,12 +12,12 @@ date: 2024-02-23
 
 Neuro exams always try to localise where in the pathway the lesion is: upper (brain, spinal cord) or lower (nerve root, peripheral nerve, NMJ or muscle). Here's a summary of the features from UMN, remember upp**er**, hyp**er**
 
-| Test       | UMN signs                                                                                                     | LMN                                   |
-| ---------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| Inspection | No fasciculation or significant wasting (there may however be some disuse atrophy or contractures)            | Wasting and fasciculation of muscles  |
-| Tone       | Increased (spasticity or rigidity) +/- ankle clonus                                                           | Decreased (hypotonia) or normal       |
-| Power      | Classically a “pyramidal” pattern of weakness (extensors weaker than flexors in arms, and vice versa in legs) | Different patterns depending on cause |
-| Reflexes   | Brisk (hyperreflexia)                                                                                         | Reduced/absent (hypo- or areflexia)   |
+| Test       | UMN signs                                                                                                     | LMN                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| Inspection | No fasciculation or significant wasting (there may however be some disuse atrophy or contractures)            | Wasting and **fasciculation** of muscles |
+| Tone       | Increased (spasticity or rigidity) +/- ankle clonus                                                           | Decreased (hypotonia) or normal          |
+| Power      | Classically a “pyramidal” pattern of weakness (extensors weaker than flexors in arms, and vice versa in legs) | Different patterns depending on cause    |
+| Reflexes   | Brisk (hyperreflexia)                                                                                         | Reduced/absent (hypo- or areflexia)      |
 
 Tests to only do for <span style="color:#00b0f0">upper limb will appear blue</span>, <span style="color:#00b050">lower limb will be green </span>
 

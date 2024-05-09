@@ -31,7 +31,7 @@ Alcohol-related liver disease (ARLD) refers to liver damage caused by excess alc
 
 ## Diagnostic Tests
 
-- Liver function tests ($\downarrow$ albumin)
+- Liver function tests ($\downarrow$ albumin) - AST/ALT > 2 is characteristic of alcoholic hepatitis
 - Ultrasound
 - Biopsy
 

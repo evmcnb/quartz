@@ -3,7 +3,7 @@ tags:
   - Respiratory
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: 2024-05-08
 aliases:
   - Asthma
 date: 2024-01-14
@@ -67,11 +67,19 @@ Maintenance and reliever therapy (MART)
 - MART is only available for ICS and LABA combinations in which the LABA has a fast-acting component (for example, formoterol)
 
 **Acute exacerbations** - see [[RRAPID Conditions and Management#asthma Asthma|acute management]]
-- Back to back salbutamol nebs
-- Corticosteroids - prednisolone 40mg 
-- Magnesium sulphate
-- Aminophylline
-- Anti-IgE antibody (v rarely)
+Oh  
+Shit,  
+I  
+Hate  
+My  
+Asthma  
+  
+1) Oxygen  
+2) Salbutamol nebulisers  
+3) Ipratropium bromide nebulisers  
+4) Hydrocortisone IV or Oral Prednisolone  
+5) Magnesium Sulfate IV  
+6) Aminophylline / IV salbutamol
 
 ## Complications/red Flags
 

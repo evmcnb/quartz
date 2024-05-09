@@ -21,8 +21,20 @@ date modified: 2024-04-27
 - PCI within 2 hours - if not possible thrombolysis with Fondaparinux 
 
 #### NSTEMI
-- MOAN - **m**orphine 5-10mg, **o**xygen 100%, **a**spirin 300mg & ticagrelor 180mg, **n**itrates GTN spray (metoclopramide 10mg)
+- MOAN - **m**orphine 5-10mg, **o**xygen 100%, **a**spirin 300mg, **n**itrates GTN spray (metoclopramide 10mg)
 - Thrombolyse with LMWH - subcut as per local guidelines
+
+**High Risk** on GRACE Score  
+1. Fondaparinux (cannot give if immediate angiography)  
+2.  If Clinically Unstable: Immediate angiography. 
+	If Stable (not bleeding): Angiography within 72 hours (with follow-on PCI if indicated)  
+3. Not on anticoagulation: Prasugrel/Ticagrelor + Aspirin - Only give prasugrel once PCI intended  
+3. On previous Anticoagulation: Clopidogrel + Aspirin.  
+  
+**Low Risk** on GRACE Score  
+1. Fondaparinux  
+2. Low Bleeding Risk: Ticagrelor + Aspirin  
+	Higher Bleeding Risk: Clopidogrel + Aspirin
 
 ### Exacerbation of [[Heart Failure]]
 
@@ -61,6 +73,21 @@ Monitor fluid balance
 - 5mg back to back salbutamol nebs ± ipratropium (if no response to salbutamol). 
 - Prednisolone 40mg oral or IV hydrocortisone 100mg
 - Consider magnesium sulphate 
+
+Oh  
+Shit,  
+I  
+Hate  
+My  
+Asthma  
+  
+1) Oxygen  
+2) Salbutamol nebulisers  
+3) Ipratropium bromide nebulisers  
+4) Hydrocortisone IV or Oral Prednisolone  
+5) Magnesium Sulfate IV  
+6) Aminophylline / IV salbutamol
+
 
 Patients after an exacerbation can be discharged after:
 - been stable on their discharge medication (i.e. no nebulisers or oxygen) for 12-24 hours
@@ -351,3 +378,6 @@ Different classifications:
 - If status is ongoing can give second line agent - levetiracetam, phenytoin or sodium valporate
 - Consider IV thiamine and glucose for alcoholism
 - If refractory status (45 minutes from onset) RSI with anaesthesiologist 
+
+### [[Stroke]]
+

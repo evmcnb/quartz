@@ -39,6 +39,12 @@ Extra-articular:
 - Vasculitis
 - Pulmonary fibrosis
 
+**LESS**
+- **L**oss of joint space  
+- **E**rosions  
+- **S**oft tissue swelling  
+- **S**oft bones (osteopaenia)
+
 #### Diagnostic Tests
 
 - **Bloods** - $\uparrow$ ESR, CRP - FBC: anaemia of chronic disease, thrombocytosis, leukocytosis
@@ -48,14 +54,9 @@ Extra-articular:
 
 #### Management
 
-1. **Disease-Modifying Antirheumatic Drugs (DMARDs):**
-    - **Methotrexate, Hydroxychloroquine, Sulfasalazine:** Common first-line medications.
-    - **Biologic DMARDs:** Target specific pathways in the immune system.
-    - **JAK Inhibitors:** Janus kinase inhibitors that modulate the immune response.
-2. **Nonsteroidal Anti-Inflammatory Drugs (NSAIDs):** For pain and inflammation.
-3. **Corticosteroids:** Short-term use to control acute flares.
-4. **Physical Therapy:** Exercises to maintain joint function and flexibility.
-5. **Joint Replacement Surgery:** In severe cases where joint damage is extensive.
+1. Methotrexate ± steroids
+2. Can add - sulfasalazine or leflunomide
+3. If not managed by these switch to TNF-A blocker
 
 > [!Info] Biological therapy
 > TNF inhibitors eg adalimimab and immunomodulators such as rituximab are used in adults with highly active disease who have failed to respond to 2 DMARDs
