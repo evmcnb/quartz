@@ -66,6 +66,7 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 - **Carbimazole** is the first line anti-thyroid drug. Two treatment options:
 	1. The carbimazole dose is titrated to maintain normal levels
 	2. A higher dose blocks all production and levothyroxine is added and titrated to effect
+	3. Risk of agranulocytosis and **acute pancreatitis**
 
 >[!warning]
 >

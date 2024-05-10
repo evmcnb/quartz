@@ -50,11 +50,32 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 ## Management
 
 - Good nutrition, alcohol abstinence, avoid NSAIDs, sedatives and opiates
-- Ascites - fluid restriction, low salt diet possible diuretic
+- Ascites - fluid restriction, low salt diet possible spiro
 - **Liver transplant** - only definitive treatment
+
+## Monitoring
+
+6 monthly MELD score, USS, aPF (for carcinoma)
+
+Endoscopy every 3 years for oesophageal varicies screening 
+
+### MELD Score
+- Model for End-Stage Liver Disease 
+- Using LFTs gives an estimated 3 month mortality 
+- Calculated **every 6 months**
+
+### Child-Pugh Score
+- Assesses the severity of cirrhosis and the prognosis
+- **A** – **A**lbumin
+- **B** – **B**ilirubin
+- **C** – **C**lotting (INR)
+- **D** – **D**ilation (ascites)
+- **E** – **E**ncephalopathy
+
 
 ## Complications/red Flags
 
 - Liver cancer - hepatocytes have to regenerate and repair over and over
 - Portal hypertension - [[oesophageal varices]]
 - $\uparrow$ risk of infection - alterations in immune system
+

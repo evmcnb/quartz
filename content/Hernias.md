@@ -1,8 +1,10 @@
 ---
-tags: [Surgery, Gastroenterology]
-title: Inguinal hernia
+tags:
+  - Surgery
+  - Gastroenterology
+title: Hernias
 date created: Tuesday, February 13th 2024, 1:40:45 pm
-date modified: 2024-03-11
+date modified: 2024-05-10
 date: 2024-02-16
 ---
 
@@ -33,7 +35,7 @@ Weakened tissues
 - Chronic malnutrition
 - Long-term corticosteroid use
 
-# Inguinal hernia
+### Inguinal hernia
 
 Most common type of hernia - 70% of all hernias. Inguinal ligament runs from the ASIS to the pubic tubercle 
 
@@ -51,10 +53,12 @@ To tell the difference between the two, if you press the deep ring and the herni
 
 - Much more common in older men
 - Low BMI - obesity seems to be protective
+- **Superior and medial** to pubic tubercle (to differentiate from femoral)
+
 
 Can be managed via open or laparoscopic surgery with a mesh. 
 
-# Hiatal hernias
+### Hiatal hernias
 
 ![[z_attachments/Pasted image 20240216151635.png]]
 
@@ -68,20 +72,22 @@ Para-oesophageal type can involved stomach and other abdominal organs herniating
 
 ![[z_attachments/Pasted image 20240216151507.png]]
 
-# Femoral hernia
+### Femoral hernia
 
-Less common than groin hernia but frequently present with bowel obstruction
+Less common than groin hernia but frequently present with bowel obstruction. 
 
 ![[z_attachments/Pasted image 20240213141758.png]]
 
 - More common in older women
 - low BMI
 - previous laparoscopic inguinal hernia repair is a protective factor
+- Can become incarcerated much more easily than inguinal
+- **Lateral and inferior** to pubic tubercle
 
 Due to the high risk of complications femoral hernias should always be repaired - laparoscopic mesh 
 
 
-# Umbilical hernia
+### Umbilical hernia
 
 Most common ventral hernia. Protrusion through a fascial defect in or around the umbilical ring.
 
@@ -96,7 +102,7 @@ Paraumbilical (indirect) hernia - associated with acquired fascial defect in the
 
 Usually asymptomatic - usually report long standing lump. Can usually be managed conservatively. 
 
-# Obturator hernia
+### Obturator hernia
 
 Very rare and difficult to diagnose clinically. 
 - "Little old lady hernia".

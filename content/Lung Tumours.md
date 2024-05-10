@@ -11,10 +11,10 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
 #### Primary lung tumours 
 - 90% are carcinomas
 - Non-small cell carcinoma 85%
-    - squamous cell carcinoma 20% - presence of keratinization
-    - adenocarcinoma 30% - mucin production
+    - **adenocarcinoma** 30% - mucin production
+    - **squamous cell carcinoma** 20% - presence of keratinization
     - large cell carcinoma 10%
-- Small cell 15% - arise from endocrine cells -> excrete peptides -> paraneoplastic syndromes
+- **Small cell** 15% - arise from endocrine cells -> excrete peptides -> paraneoplastic syndromes
 
 Main morphological difference between the two is nuclear characteristics and amount of cytoplasm. Small cell "always" smoking
 #### Secondary Lung Tumours

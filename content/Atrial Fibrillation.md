@@ -12,12 +12,18 @@ Main risk is from clots forming from pooling blood in atria leading to ischaemic
 
 ## Causes/Factors
 
+
+**SMITH** pneumonic:
+- [[Sepsis]] - [[pneumonia]]
+- **M**itral valve pathology
+- **I**schaemia - [[Coronary Artery Disease]]
+- [[Hyperthyroidism|Thyrotoxicosis]]
 - [[Essential hypertension|Hypertension]]
-- [[Coronary Artery Disease]]
-- Excessive alcohol consumption
-- [[Hyperthyroidism]]
-- [[Heart Failure]]
-- [[pneumonia]]
+
+
+Lifestyle:
+- Alcohol
+- Caffeine 
 
 ## Symptoms
 
@@ -63,6 +69,7 @@ For intermittent short duration AF, "pill-in-the-pocket" strategy can be used. P
 Rate control - slows down the heart rate to prevent symptom of palpitations and improve heart beat efficiency
 
 ![[z_attachments/Pasted image 20240131141504.png]]
+
 - $\beta$ blocker
 - Calcium channel blockers (diltiazem, verapamil)
 - Digoxin
@@ -72,9 +79,12 @@ Rhythm control - convert the hearth rhythm back into sinus rhythm
 - Amiodarone
 - Electric (DC) cardioversion
 
-  _No real difference in prognosis between rate or rhythm control_
+>[!info]
+>Most common combination of drugs in AF is bisoprolol + apixaban
 
-Anticoagulation - CHA$_2$DS$_2$-VASc score to determine whether to anticoagulate in AF
+  _No real difference in prognosis between rate or rhythm control but rate is more common as better symptomatic improvement_
+
+Anticoagulation - CHA$_2$DS$_2$-VASc score to determine whether to anticoagulate in AF. Do not withhold anticoagulation just on the basis of falls risk. 
 
 **C**ongestive cardiac failure (1 point)
 **H**ypertension (1)
@@ -89,3 +99,20 @@ A score of 2 = annual stroke risk of ~2-4%
 3 = 3-6% risk
 
 Increased chance of bleeding but bleeding is a better outcome than a stroke
+
+**ORBIT** score used to predict risk of bleeding in AF
+
+| Variable                                     | Points |
+| -------------------------------------------- | ------ |
+| Haemoglobin <130 g/L (M) <120g/L for females | 2      |
+| Age >74 years                                | 1      |
+| Bleeding history                             | 2      |
+| Renal impairment (eGFR <60)                  | 1      |
+| Treatment with antiplatelet agents           | 1      |
+No formal rules on how to act on the ORBIT score but should be taken into account. 
+
+|ORBIT score|Risk group|Bleeds per 100 patient-years|
+|---|---|---|
+|0-2|Low|2.4|
+|3|Medium|4.7|
+|4-7|High|8.1|

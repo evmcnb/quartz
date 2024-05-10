@@ -20,10 +20,12 @@ Patient may have *"White coat hypertension"* - being at the doctors is an inhere
 
 _Malignant_ hypertension is a rapid rise in BP leading to vascular damage (fibrinoid necrosis). Usually there is severe hypertension (>200/130) + bilateral retinal haemorrhages $\pm$ papilledema. May be headache and visual disturbances. May cause [[Acute Kidney Injury]], [[Heart Failure]] or encephalopathy
 
-_Secondary_ hypertension can be due to:
-- Renal diseases which causes a imbalance in RAAS hormones. 
-- Endocrine diseases: [[Cushing's Syndrome]], [[Conn's Syndrome]], etc
-- Other causes: coarctation, [[Pregnancy]], liquorice, some drugs
+_Secondary_ hypertension can be due to **ROPED**:
+- **R**enal diseases which causes an imbalance in RAAS hormones. 
+- [[Obesity]] 
+- [[Pregnancy]]
+- **E**ndocrine diseases: [[Cushing's Syndrome]], [Conn's syndrome](https://www.nosos.co.uk/snippets/conns-syndrome/), etc
+	- **D**rugs
 ## Causes/Factors
 
 - **Genetics:** Family history of hypertension can increase the risk.

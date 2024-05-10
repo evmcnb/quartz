@@ -15,7 +15,7 @@ date: 2023-09-27
 The most common cause of hypothyroidism is autoimmune thyroiditis, also known as [[Hashimoto's thyroiditis]]. Other factors and causes include:
 
 #### Primary causes
-- **Medications:** Certain drugs, such as lithium and amiodarone, can affect thyroid function.
+- **Medications:** Certain drugs, such as *lithium* and *amiodarone*, can affect thyroid function.
 - **Iodine Deficiency:** Inadequate intake of iodine, a crucial component for thyroid hormone production.
 - **Radiation Therapy:** For head and neck cancers.
 

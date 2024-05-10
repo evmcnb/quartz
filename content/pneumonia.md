@@ -73,6 +73,10 @@ $\geq$ 3 - high risk - severe pneumonia
 - Blood/sputum culture
 - Bronchoscopy if risk of infection for bloods
 
+- U&Es - hyponatremia pneumonia $\rightarrow$ legionella. Can also use urinary antigen very sensitive and specific for legionella
+- Pet history - parrots $\rightarrow$ Chlymidia pneumonitis
+- Weird rash $\rightarrow$ Mycoplasma
+
 ## Management
 
 ABCDE

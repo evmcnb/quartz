@@ -100,8 +100,10 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 - **_Mammograms_** are generally more effective in older women - can find calcifications
 - ***MRI*** for screening women in higher risk groups or to further assess the size and features of a tumour
 
+
 - **_Sentinel lymph node biopsy_** may be used during breast cancer surgery where the initial ultrasound does not show any abnormal nodes. 
 	- Contrast in injected into the tumour area and travels through the lymphatics to the first lymph node - sentinel. 
+
 
 - Cancer histology - may have receptors:
 	- Oestrogen receptors (ER)
@@ -160,6 +162,7 @@ HER2 positive
 ## Complications/red Flags
 
 Metastasis
+
 - **L**ungs
 - **L**iver
 - **B**ones

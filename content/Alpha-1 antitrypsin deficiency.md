@@ -6,7 +6,9 @@ date modified: 2024-03-11
 date: 2023-09-18
 ---
 
-An inherited disorder affecting lung ([[emphysema]]) and liver ([[Liver Cirrhosis]]). A1AT is a glycoprotein and a serine protease inhibitor made in the liver which controls inflammatory cascades. In children more likely to cause liver symptoms, in adults more lung.
+An inherited disorder affecting lung ([[emphysema]]) and liver ([[Liver Cirrhosis]]). A1AT is a glycoprotein and a **serine protease inhibitor** made in the liver which controls inflammatory cascades. It can build up in the liver to cause damage. In children more likely to cause liver symptoms, in adults more lung.
+
+Autosomal codominant inheritance pattern
 
 ## Symptoms
 
