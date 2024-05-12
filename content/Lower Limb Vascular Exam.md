@@ -7,7 +7,7 @@ date created: Tuesday, October 24th 2023, 5:29:00 pm
 date modified: 2024-04-21
 date: 2023-10-31
 ---
-## Introduction
+ #.  Introduction
 
 - **Wash hands** (and don PPE if needed)
 - **Introduce yourself** (name and role)

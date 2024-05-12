@@ -7,7 +7,7 @@ date modified: 2024-04-21
 ---
 
 >[!tip]
->Don't forget to check legs for DVT and oedema
+>Don't forget general inspection and legs!
 ## Respiratory
 
 ### [[Respiratory Exam|Exam]]
@@ -31,7 +31,7 @@ date modified: 2024-04-21
 - Blood pressure - ask examiner
 - Carotid pulse palpation and auscultation
 - JVP
-- Accentuation maneuvers
+- Accentuation manoeuvres
 
 ### History
 - Systems enquiry
@@ -45,7 +45,7 @@ date modified: 2024-04-21
 - Temperature of hands
 - Arms and axillae
 - Lymph nodes - Virchow's node 
-- Palpate and percuss everywhere - don't forget kidneys and aorta
+- Palpate first and then **percuss** everywhere - don't forget kidneys and aorta
 - Ascultate bowel and renal arteries 
 
 ### History
@@ -82,15 +82,18 @@ date modified: 2024-04-21
 - Inspection
 - Pulse BP, RR
 - Inspect abdo
-- Kidney
-	- Bimanual ballottment kidneys
-	- Percussion - renal angles
-	- Auscultation - epigastrium, flank and costovertebral angle for bruit
-- Repeat on the back
-- Bladder
+- **Front** - 4
 	- Inspect
+	- Bimanual ballottment kidneys
+	- Percussion - general renal angles
+	- Auscultation - epigastrium, flank and costovertebral angle for bruit
+- **Bladder** - 3
+	- Inspect - for distension
 	- Palpate bladder for distension
 	- Percuss - dull in distension
+- **Back** - 2
+	- Inspect
+	- Palpate renal angle on the back
 - End pieces
 
 ## Thyroid
@@ -121,7 +124,7 @@ date modified: 2024-04-21
 *   Inspect everywhere too
 *   **Pulses:** radial, brachial, carotid (auscultate first), aorta (auscultate), renal arteries (auscultate only), femoral (offer), popliteal, posterior tibial (medial malleolus), dorsalis pedis
 *   Gross peripheral (feet) **movement and sensation** 
-*   Buerger’s test
+*   Buerger’s test ± Trendelenburg
 
 ### [[Knee Joint Exam]]
 
@@ -130,6 +133,7 @@ date modified: 2024-04-21
 *   Closer inspection on bed
 *   Patella tap + effusion tests? 
 *   Active and passive movement of the knee
+*  Fixed flexion deformities and hyperextension
 *   **Special tests:** Posterior sag (PCL), Anterior draw test (ACL), posterior draw, medial and lateral collateral ligament assessment, medial and lateral meniscus test
 
 ### [[Thoracic and Lumbar Spine Exam]]
@@ -145,7 +149,7 @@ date modified: 2024-04-21
 *   Chaperone and consented for everything - maintain dignity 
 *   Exaggerating manoeuvres 
 *   Don’t forget infraclavicular and parasternal lymph nodes after axillary and cervical
-*   Describe the lesion with its **size, shape, surface, tenderness, mobility, vector from the nipple **
+*   Describe the lesion with its **size, shape, surface, tenderness, mobility, vector from the nipple**
 
 ### History
 
@@ -170,7 +174,7 @@ date modified: 2024-04-21
 *   Don’t forget to position and inspect the perianal region
 *   In males palpate the prostate gland anteriorly
 *   Then 360 sweep
-*   Test anal tone?
+*   Test anal tone? - ask to cough 
 
 ### [[Testicular exam]]
 
@@ -179,7 +183,7 @@ date modified: 2024-04-21
 *   Box technique for testicular palpation 
 *   Site, size shape, consistency tenderness, fluctuance, translummination, cough impulse, ability to get above the lump
 *   Epididymis and spermatic cord
-*   **Special tests:** Prehn’s test (elevating testes with pain reduction indicates epididymitis), Cremasteric reflex (inner thigh stimulation causes ipsilateral testicle to inguinal canal)
+*  **Special tests:** Prehn’s test (elevating testes with pain reduction indicates epididymitis), Cremasteric reflex (inner thigh stimulation causes ipsilateral testicle to inguinal canal)
 *   Assess while standing
 
 ## Psych
@@ -196,6 +200,18 @@ date modified: 2024-04-21
 
 *   Social history - other people in your situations may turn to drugs and alcohol - is that something 
 *   Risk & safe guarding - harming yourself and others 
+
+### [[Psychiatric History Taking|Mental Health History]]
+- **Presenting complaint** - SOCRATES + disability
+- Biological - sleep, eat, mood, libdo
+- Cognitive - concentration, delirium?
+- Perception - hallucinations, thoughts
+- Insight - into mental health
+- **Risk assessment** - harm to self and others
+- **ICE** - how would you like us to help you?
+- PMH - previous episodes, PMH, psychotic history, allergies drug history
+- **FH** - psychiatric and medical 
+- **SH** - smoke, drunk, drugs, gambling, lifestyle, living situation, exercise, occupation, family and support network
 
 ### [[Cognitive Assessment]]
 
