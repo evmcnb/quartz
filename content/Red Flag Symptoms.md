@@ -54,8 +54,15 @@ date modified: 2024-03-11
 
 ## Lower GI
 
-- Right side
-- Left side 
+- Bowel habit changes
+- Obstruction
+- Blood in stool
+- Vomiting
+- Fatigue
+- Dysphagia
+- Sleep
+- Constipation
+- Genitourinary symptoms
 
 
 ## Urological
@@ -63,6 +70,10 @@ date modified: 2024-03-11
 
 
 ## Reproductive
+
+- Early satiety
+- Frequency.
+- Abdominal distension 
 
 
 
