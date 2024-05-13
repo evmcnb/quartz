@@ -12,37 +12,21 @@ date modified: 2024-05-12
 - Why they've come to see you - open question
 - ICE
 
-### Short history 
-- History of issue
-- PMH
-- DH
-- FH
-- SH
+### BUCES structure for infomation sharing 
+- **B**rief history - events, PMH, FH, DH, SH
+- **U**nderstanding
+- **C**oncerns
+- **E**xplanation
+- **S**ummarise
 
-### UNITED approach
+### NWCPM for explaining disease
+- **N**ormal anatomy/physiology
+- **W**hat the disease is
+- **C**ause
+- **P**roblems/complications
+- **M**anagement
 
-#### Understanding
-- Try to get an understanding of the patient's condition/management
-- Anything that they might want clarification
-
-#### Non-negotiable
-- Establish early on if there are any specific topics that the patient doesn't want to discuss. 
-- Identify issues where there is a difference in opinion between clinician and patient
-
-#### Identify common ground
-- **ICE**
-- Chunk and check understanding when giving explanation
-
-#### Tensions remaining
-- Any questions or reservations
-
-#### Explore possible solutions
-- Give advice of the available resources 
-- Continue to explain any solutions
-
-#### Decide together
-- Once all the options have been explored take the opportunity to make a decision 
-
+ 
 ### Closing the consultation
 - Ask them to repeat back everything that you've told them and answer any further questions
 - Arrange a follow up appointment
