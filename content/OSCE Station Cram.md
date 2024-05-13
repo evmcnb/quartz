@@ -50,6 +50,7 @@ date modified: 2024-04-21
 
 ### History
 - Red flag symptoms - change in bowel habit, change in stool, unexplained weight loss, new anaemia
+- Diet and exercise
 - Systems screen
 
 ## [[Cranial Nerve Exam]]
