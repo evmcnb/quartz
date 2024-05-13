@@ -62,7 +62,7 @@ So need 0.2ml of the vial containing the drug
 4. Pinch the skin
 5. Warn the patient
 6. Insert the needle at 45$\degree$ to approx 2/3 the length and slowly inject
-7. **Do not apply pressure or rub**
+7. **Do not apply presscarure or rub**
 8. Observe for localised and systemic reaction
 9. Wash hands
 10.  **Document the procedure**
