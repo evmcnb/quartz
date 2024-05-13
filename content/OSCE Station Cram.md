@@ -80,7 +80,7 @@ date modified: 2024-04-21
 ### [[Urological Examination]]
 
 - Inspection
-- Pulse BP, RR
+- HR, BP, RR
 - Inspect abdo
 - **Front** - 4
 	- Inspect
