@@ -109,7 +109,7 @@ In a cardiovascular examination OSCE station, you are **unlikely** to have to 
 - <span style="color:#ff0000"> Angular stomatitis</span> - <span style="color:#00b0f0">anaemia</span><span style="color:#00b0f0"> </span>
 - <span style="color:#ff0000">High-arched palate</span> - [[Marfan's syndrome]]
 
-## Neck<span style="color:#ff0000"></span>
+## Neck
 
 #### Carotid Pulse
 
