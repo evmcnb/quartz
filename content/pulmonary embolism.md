@@ -51,7 +51,7 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Ve
 - DOAC - apixaban or rivaroxaban first line
 - LMWH main alternative (e.g. in kidney failure patients)
 
-Massive PE with haemodynamic compromise - continuous infusion of unfractionated heparin
+Massive PE with haemodynamic compromise - thrombolysis first line
 
-- Consider thrombolysis in life-threatening cases
+- May consider continuous infusion of unfractionated heparin
 
