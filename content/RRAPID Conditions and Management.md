@@ -379,5 +379,15 @@ Different classifications:
 - Consider IV thiamine and glucose for alcoholism
 - If refractory status (45 minutes from onset) RSI with anaesthesiologist 
 
-### [[Stroke]]
+### Ischaemic [[Stroke]]
 
+- Aspirin 300mg - as soon as hemorrhagic been excluded 
+- Within 4.5hr = thrombectomy + thrombolysis (alteplase)
+- Within 6-24hrs = thrombectomy only
+- Wake up stroke (unknown) = thrombectomy only
+
+Discharge medications 
+- Dual antiplatelet - 2 weeks 300mg then aspirin 75mg + clopidogrel 180mg
+- ACE inhibitor - reduce blood pressure 
+- Beta blocker - reduce blood pressure
+- Statin 80mg
