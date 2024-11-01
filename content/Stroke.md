@@ -92,11 +92,13 @@ Admission to a specialist stroke centre
 
 Once haemorrhagic **excluded**:
 
-- Aspirin 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. clopidogrel)
-- Thrombolysis considered if <4.5h since symptom onset - best results within 90mins
-- <6h since symptom onsnet and PAC occulsion - thrombectomy (cerebral angioplasty)
+Aspirin 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. clopidogrel)
 
-Chad2Vasc2 score vs Hasbled/Orbit
+- Within 4.5hrs = thromboctomy + alteplase (thrombolysis)
+- Within 6-24hrs = thromboctomy alone  
+- Wake up stroke (unknown onset) = thromboctomy alone  
+
+Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement
 
 For haemorrhagic confirmed :
 - Reverse anticoagulants if possible (vitamin K for warfarin, idarucizumab for dabigatran)

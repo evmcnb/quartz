@@ -65,6 +65,8 @@ Step up treatment when symptoms and exacerbations are still a problem with **ast
 
 During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - Azithromycin to Avoid infections (250mg TDS)
 
+![[z_attachments/Pasted image 20240516153348.png]]
+
 Non-invasive ventilation should be considered in all patients with an acute exacerbation of COPD in whom a respiratory acidosis
 
 Patients should have the **_pneumococcal_** and **_annual flu_** vaccine.
