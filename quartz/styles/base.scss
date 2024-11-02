@@ -91,7 +91,6 @@ a {
   font-weight: $semiBoldWeight;
   text-decoration: none;
   transition: color 0.2s ease;
-  color: var(--secondary);
 
   &:hover {
     color: var(--tertiary) !important;
@@ -99,10 +98,11 @@ a {
 
   &.internal {
     text-decoration: none;
-    background-color: var(--highlight);
+    background-color: var(--linkBackground);
     padding: 0 0.1rem;
     border-radius: 5px;
     line-height: 1.4rem;
+    color: var(--linkColor);
 
     &:has(> img) {
       background-color: none;
@@ -110,6 +110,8 @@ a {
       padding: 0;
     }
     &.tag-link {
+      background-color: var(--highlight);
+      color: var(--secondary);
       &::before {
         content: "#";
       }
@@ -127,6 +129,7 @@ a {
   &.external .external-icon {
     height: 1ex;
     margin: 0 0.15em;
+    color: var(--secondary);
 
     > path {
       fill: var(--dark);
