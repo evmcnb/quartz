@@ -1,8 +1,8 @@
 ---
-tags:
+tags: 
 title: Condition Template
-date:""
-date modified:""
+date: 
+date modified: ""
 ---
 
 ## Causes/Factors

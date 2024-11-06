@@ -84,6 +84,8 @@ date: 2024-02-07
 - <span style="color:#ff0000">Eye cannot move laterally</span> - <span style="color:#00b0f0">CN6 lesion (lateral rectus)</span>
 - <span style="color:#ff0000">Eye cannot move in other directions</span> - <span style="color:#00b0f0">CN3 lesions (other intraocular muscles)</span>
 
+![[z_attachments/Pasted image 20241106031142.png]]
+
 ## Trigeminal (5)
 
 ##### Fine touch Sensation
