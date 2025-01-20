@@ -1,6 +1,6 @@
 ---
 title: "Amyloidosis"
-date created: 2024-01-21 12:20:26.368595+00
+date created: Sunday, January 21th 2024, 12:20:26 PM
 date modified: 2024-01-21 12:20:26.373852+00
 tags: ['Nephrology', 'Rheumatology']
 ---

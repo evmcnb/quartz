@@ -1,6 +1,6 @@
 ---
 title: "Dementia progression"
-date created: 2024-01-23 12:00:08.362112+00
+date created: Tuesday, January 23th 2024, 12:00:08 PM
 date modified: 2024-01-23 12:00:08.367879+00
 tags: ['Neurology', 'Geriatrics']
 ---

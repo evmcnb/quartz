@@ -1,6 +1,6 @@
 ---
 title: "Warfarin"
-date created: 2024-03-20 09:49:01.215633+00
+date created: Wednesday, March 20th 2024, 09:49:01 AM
 date modified: 2024-04-08 19:20:49.330755+01
 tags: ['Haem', 'Drug']
 ---

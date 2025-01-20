@@ -1,6 +1,6 @@
 ---
 title: "Colon physiology"
-date created: 2024-03-14 12:38:04.023802+00
+date created: Thursday, March 14th 2024, 12:38:04 PM
 date modified: 2024-03-14 12:38:04.029773+00
 tags: ['Gastroenterology']
 ---

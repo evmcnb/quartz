@@ -1,6 +1,6 @@
 ---
 title: "Graves' disease"
-date created: 2024-01-21 11:29:34.527239+00
+date created: Sunday, January 21th 2024, 11:29:34 AM
 date modified: 2024-01-21 11:29:34.532132+00
 tags: ['Endocrinology']
 ---

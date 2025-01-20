@@ -1,6 +1,6 @@
 ---
 title: "Myelodysplastic syndromes"
-date created: 2024-01-21 12:56:25.570188+00
+date created: Sunday, January 21th 2024, 12:56:25 PM
 date modified: 2024-01-21 12:56:25.574602+00
 tags: ['Oncology', 'Haem']
 ---

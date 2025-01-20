@@ -1,6 +1,6 @@
 ---
 title: "Arterial thrombosis"
-date created: 2024-02-26 13:11:02.069781+00
+date created: Monday, February 26th 2024, 01:11:02 PM
 date modified: 2024-02-26 13:11:02.074305+00
 tags: ['Cardiovascular']
 ---

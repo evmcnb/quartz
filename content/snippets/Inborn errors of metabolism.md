@@ -1,6 +1,6 @@
 ---
 title: "Inborn errors of metabolism"
-date created: 2024-02-26 13:03:33.082987+00
+date created: Monday, February 26th 2024, 01:03:33 PM
 date modified: 2024-02-26 13:03:33.089201+00
 tags: ['Genetics']
 ---

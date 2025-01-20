@@ -1,6 +1,6 @@
 ---
 title: "Animal bite antibiotics"
-date created: 2024-01-21 10:43:32.364877+00
+date created: Sunday, January 21th 2024, 10:43:32 AM
 date modified: 2024-01-21 10:43:32.369976+00
 tags: ['Antibiotic', 'Drug']
 ---

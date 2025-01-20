@@ -1,6 +1,6 @@
 ---
 title: "Cancer histology/pathology"
-date created: 2024-01-21 11:04:18.916923+00
+date created: Sunday, January 21th 2024, 11:04:18 AM
 date modified: 2024-01-21 11:04:18.921377+00
 tags: ['Oncology']
 ---

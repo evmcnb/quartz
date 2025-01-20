@@ -1,6 +1,6 @@
 ---
 title: "Rectum physiology"
-date created: 2024-03-15 11:42:06.987318+00
+date created: Friday, March 15th 2024, 11:42:06 AM
 date modified: 2024-03-15 11:42:07.023162+00
 tags: ['Gastroenterology']
 ---

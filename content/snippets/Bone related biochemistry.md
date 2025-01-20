@@ -1,6 +1,6 @@
 ---
 title: "Bone related biochemistry"
-date created: 2024-01-21 13:42:24.031737+00
+date created: Sunday, January 21th 2024, 01:42:24 PM
 date modified: 2024-02-19 12:23:45.265458+00
 tags: ['Endocrinology']
 ---

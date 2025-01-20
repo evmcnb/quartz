@@ -1,6 +1,6 @@
 ---
 title: "Psoriasis"
-date created: 2024-01-21 14:39:35.512531+00
+date created: Sunday, January 21th 2024, 02:39:35 PM
 date modified: 2024-01-21 14:39:35.51727+00
 tags: ['Rheumatology', 'Dermatology']
 ---

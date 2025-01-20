@@ -1,6 +1,6 @@
 ---
 title: "Bundle Branch Block"
-date created: 2024-02-08 13:44:28.07308+00
+date created: Thursday, February 08th 2024, 01:44:28 PM
 date modified: 2024-02-08 13:44:28.078016+00
 tags: ['Cardiovascular']
 ---

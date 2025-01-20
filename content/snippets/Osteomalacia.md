@@ -1,6 +1,6 @@
 ---
 title: "Osteomalacia"
-date created: 2024-03-04 14:41:28.679334+00
+date created: Monday, March 04th 2024, 02:41:28 PM
 date modified: 2024-03-04 14:41:28.685512+00
 tags: ['Rheumatology', 'Nephrology', 'Geriatrics', 'Orthopaedics']
 ---

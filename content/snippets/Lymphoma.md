@@ -1,6 +1,6 @@
 ---
 title: "Lymphoma"
-date created: 2024-01-21 12:58:24.001391+00
+date created: Sunday, January 21th 2024, 12:58:24 PM
 date modified: 2024-03-04 14:04:56.415107+00
 tags: ['Oncology', 'Haem']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Endometrial cancer"
-date created: 2024-01-21 12:44:02.049721+00
+date created: Sunday, January 21th 2024, 12:44:02 PM
 date modified: 2024-01-21 12:44:02.054174+00
 tags: ['OBGYN']
 ---

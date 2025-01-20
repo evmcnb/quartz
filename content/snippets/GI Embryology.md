@@ -1,6 +1,6 @@
 ---
 title: "GI Embryology"
-date created: 2024-03-15 11:56:31.553133+00
+date created: Friday, March 15th 2024, 11:56:31 AM
 date modified: 2024-03-15 11:56:31.559128+00
 tags: ['Gastroenterology']
 ---

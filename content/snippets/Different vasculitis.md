@@ -1,6 +1,6 @@
 ---
 title: "Different vasculitis"
-date created: 2024-01-21 11:30:52.559401+00
+date created: Sunday, January 21th 2024, 11:30:52 AM
 date modified: 2024-04-28 17:04:42.549723+01
 tags: ['Nephrology', 'Rheumatology', 'Cardiovascular', 'Dermatology']
 ---

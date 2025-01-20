@@ -1,9 +1,11 @@
 ---
 title: "Asthma exacerbation classification"
-date created: 2024-01-21 19:00:57.866564+00
+date created: Sunday, January 21th 2024, 07:00:57 PM
 date modified: 2024-01-21 19:01:41.722631+00
 tags: ['Respiratory']
 ---
+
+
 
 | Moderate | * Increasing asthma symptoms * PEFR >50-70% of best or predicted |
 | --- | --- |

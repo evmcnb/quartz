@@ -1,6 +1,6 @@
 ---
 title: "Endometrial polyps"
-date created: 2024-01-21 12:41:07.815735+00
+date created: Sunday, January 21th 2024, 12:41:07 PM
 date modified: 2024-01-21 12:41:07.820193+00
 tags: ['OBGYN']
 ---

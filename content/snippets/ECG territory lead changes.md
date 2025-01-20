@@ -1,6 +1,6 @@
 ---
 title: "ECG territory lead changes"
-date created: 2024-03-05 12:45:08.34792+00
+date created: Tuesday, March 05th 2024, 12:45:08 PM
 date modified: 2024-04-19 13:26:16.431103+01
 tags: ['Cardiovascular']
 ---

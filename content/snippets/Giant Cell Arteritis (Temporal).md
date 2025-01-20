@@ -1,6 +1,6 @@
 ---
 title: "Giant Cell Arteritis (Temporal)"
-date created: 2024-01-21 13:21:42.914919+00
+date created: Sunday, January 21th 2024, 01:21:42 PM
 date modified: 2024-01-21 13:21:42.919669+00
 tags: ['Acute', 'Cardiovascular']
 ---

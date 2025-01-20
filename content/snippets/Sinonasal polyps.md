@@ -1,6 +1,6 @@
 ---
 title: "Sinonasal polyps"
-date created: 2024-01-21 14:34:30.896265+00
+date created: Sunday, January 21th 2024, 02:34:30 PM
 date modified: 2024-01-21 14:34:30.901671+00
 tags: ['ENT']
 ---

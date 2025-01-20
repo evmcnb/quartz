@@ -1,6 +1,6 @@
 ---
 title: "Viral exanthema"
-date created: 2024-03-03 10:54:38.696168+00
+date created: Sunday, March 03th 2024, 10:54:38 AM
 date modified: 2024-03-03 10:54:38.70158+00
 tags: ['Dermatology']
 ---

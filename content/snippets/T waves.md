@@ -1,6 +1,6 @@
 ---
 title: "T waves"
-date created: 2024-02-09 17:53:24.214055+00
+date created: Friday, February 09th 2024, 05:53:24 PM
 date modified: 2024-02-09 17:53:24.220439+00
 tags: ['Cardiovascular']
 ---

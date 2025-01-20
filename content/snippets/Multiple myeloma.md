@@ -1,6 +1,6 @@
 ---
 title: "Multiple myeloma"
-date created: 2024-01-21 12:57:54.690359+00
+date created: Sunday, January 21th 2024, 12:57:54 PM
 date modified: 2024-03-03 11:16:57.794425+00
 tags: ['Oncology', 'Haem']
 ---

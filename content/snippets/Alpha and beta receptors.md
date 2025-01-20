@@ -1,6 +1,6 @@
 ---
 title: "Alpha and beta receptors"
-date created: 2024-03-06 13:41:52.728923+00
+date created: Wednesday, March 06th 2024, 01:41:52 PM
 date modified: 2024-03-06 13:41:52.735499+00
 tags: ['Cardiovascular', 'Drug']
 ---

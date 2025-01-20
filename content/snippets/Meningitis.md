@@ -1,6 +1,6 @@
 ---
 title: "Meningitis"
-date created: 2024-02-23 14:37:59.193937+00
+date created: Friday, February 23th 2024, 02:37:59 PM
 date modified: 2024-05-08 17:45:14.963668+01
 tags: ['Neurology']
 ---

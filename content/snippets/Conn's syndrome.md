@@ -1,6 +1,6 @@
 ---
 title: "Conn's syndrome"
-date created: 2024-01-21 13:29:16.930733+00
+date created: Sunday, January 21th 2024, 01:29:16 PM
 date modified: 2024-05-10 11:16:33.806006+01
 tags: ['Endocrinology']
 ---

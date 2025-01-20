@@ -1,6 +1,6 @@
 ---
 title: "Fibrocystic change"
-date created: 2024-01-21 12:34:02.74991+00
+date created: Sunday, January 21th 2024, 12:34:02 PM
 date modified: 2024-01-21 12:34:02.755428+00
 tags: ['OBGYN']
 ---

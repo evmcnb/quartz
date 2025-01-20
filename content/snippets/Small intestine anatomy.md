@@ -1,6 +1,6 @@
 ---
 title: "Small intestine anatomy"
-date created: 2024-03-14 13:04:19.521077+00
+date created: Thursday, March 14th 2024, 01:04:19 PM
 date modified: 2024-03-14 13:04:19.526897+00
 tags: ['Gastroenterology']
 ---

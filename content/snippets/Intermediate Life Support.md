@@ -1,6 +1,6 @@
 ---
 title: "Intermediate Life Support"
-date created: 2024-01-21 11:38:59.324948+00
+date created: Sunday, January 21th 2024, 11:38:59 AM
 date modified: 2024-04-06 15:01:04.166798+01
 tags: ['Acute', 'Cardiovascular']
 ---

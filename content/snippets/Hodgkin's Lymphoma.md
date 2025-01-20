@@ -1,6 +1,6 @@
 ---
 title: "Hodgkin's Lymphoma"
-date created: 2024-01-20 11:44:05.555095+00
+date created: Saturday, January 20th 2024, 11:44:05 AM
 date modified: 2024-05-16 18:03:56.560458+01
 tags: ['Oncology']
 ---

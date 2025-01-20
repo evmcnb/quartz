@@ -1,6 +1,6 @@
 ---
 title: "Acute progressive viral encephalitis"
-date created: 2024-01-21 13:25:02.255916+00
+date created: Sunday, January 21th 2024, 01:25:02 PM
 date modified: 2024-01-21 13:25:02.261727+00
 tags: ['Neurology', 'ID']
 ---

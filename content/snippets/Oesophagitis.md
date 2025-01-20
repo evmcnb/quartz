@@ -1,6 +1,6 @@
 ---
 title: "Oesophagitis"
-date created: 2024-01-21 14:44:31.482597+00
+date created: Sunday, January 21th 2024, 02:44:31 PM
 date modified: 2024-01-21 14:44:31.506843+00
 tags: ['ENT', 'Gastroenterology']
 ---

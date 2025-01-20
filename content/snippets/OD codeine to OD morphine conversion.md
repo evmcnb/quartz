@@ -1,6 +1,6 @@
 ---
 title: "OD codeine to OD morphine conversion"
-date created: 2024-01-24 12:26:36.500631+00
+date created: Wednesday, January 24th 2024, 12:26:36 PM
 date modified: 2024-01-24 12:26:36.506699+00
 tags: ['Drug']
 ---

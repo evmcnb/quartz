@@ -1,6 +1,6 @@
 ---
 title: "Osteomyelitis"
-date created: 2024-01-21 14:42:51.272748+00
+date created: Sunday, January 21th 2024, 02:42:51 PM
 date modified: 2024-02-23 13:26:27.990768+00
 tags: ['Orthopaedics']
 ---

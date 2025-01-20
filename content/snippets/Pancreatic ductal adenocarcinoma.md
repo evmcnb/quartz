@@ -1,6 +1,6 @@
 ---
 title: "Pancreatic ductal adenocarcinoma"
-date created: 2024-01-21 15:59:36.476087+00
+date created: Sunday, January 21th 2024, 03:59:36 PM
 date modified: 2024-03-09 17:31:37.544486+00
 tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 ---

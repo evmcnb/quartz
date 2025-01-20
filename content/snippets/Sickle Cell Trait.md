@@ -1,6 +1,6 @@
 ---
 title: "Sickle Cell Trait"
-date created: 2024-01-21 13:00:31.342429+00
+date created: Sunday, January 21th 2024, 01:00:31 PM
 date modified: 2024-01-21 13:00:31.34756+00
 tags: ['Haem']
 ---

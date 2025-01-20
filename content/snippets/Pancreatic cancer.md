@@ -1,6 +1,6 @@
 ---
 title: "Pancreatic cancer"
-date created: 2024-01-21 16:05:50.011145+00
+date created: Sunday, January 21th 2024, 04:05:50 PM
 date modified: 2024-03-09 17:44:07.844438+00
 tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 ---

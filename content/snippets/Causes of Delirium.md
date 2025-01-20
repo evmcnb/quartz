@@ -1,6 +1,6 @@
 ---
 title: "Causes of Delirium"
-date created: 2024-02-05 14:19:55.889489+00
+date created: Monday, February 05th 2024, 02:19:55 PM
 date modified: 2024-02-05 14:19:55.894731+00
 tags: ['Geriatrics']
 ---

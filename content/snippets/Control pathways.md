@@ -1,6 +1,6 @@
 ---
 title: "Control pathways"
-date created: 2024-01-20 05:21:35.634893+00
+date created: Saturday, January 20th 2024, 05:21:35 AM
 date modified: 2024-01-20 05:22:48.934832+00
 tags: ['Neurology']
 ---

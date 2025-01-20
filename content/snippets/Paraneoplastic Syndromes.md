@@ -1,6 +1,6 @@
 ---
 title: "Paraneoplastic Syndromes"
-date created: 2024-03-05 15:34:53.811462+00
+date created: Tuesday, March 05th 2024, 03:34:53 PM
 date modified: 2024-04-10 13:37:42.126073+01
 tags: ['Rheumatology', 'Respiratory', 'Oncology']
 ---

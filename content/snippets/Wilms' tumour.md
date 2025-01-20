@@ -1,6 +1,6 @@
 ---
 title: "Wilms' tumour"
-date created: 2024-01-21 12:09:07.173757+00
+date created: Sunday, January 21th 2024, 12:09:07 PM
 date modified: 2024-01-21 12:09:07.178623+00
 tags: ['Nephrology', 'Oncology']
 ---

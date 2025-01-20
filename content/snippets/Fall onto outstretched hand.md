@@ -1,6 +1,6 @@
 ---
 title: "Fall onto outstretched hand"
-date created: 2024-01-29 12:03:12.431891+00
+date created: Monday, January 29th 2024, 12:03:12 PM
 date modified: 2024-01-29 12:03:12.43732+00
 tags: ['Orthopaedics']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Celiac trunk"
-date created: 2024-03-15 11:43:39.873461+00
+date created: Friday, March 15th 2024, 11:43:39 AM
 date modified: 2024-03-15 11:43:39.879237+00
 tags: ['Gastroenterology']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Pleural neoplasms"
-date created: 2024-01-21 11:55:31.922889+00
+date created: Sunday, January 21th 2024, 11:55:31 AM
 date modified: 2024-01-21 11:55:31.927858+00
 tags: ['Respiratory']
 ---

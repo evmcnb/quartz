@@ -1,6 +1,6 @@
 ---
 title: "Mouth physiology"
-date created: 2024-03-13 12:46:09.606392+00
+date created: Wednesday, March 13th 2024, 12:46:09 PM
 date modified: 2024-03-13 12:46:09.622124+00
 tags: ['ENT']
 ---

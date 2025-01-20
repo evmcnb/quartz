@@ -1,6 +1,6 @@
 ---
 title: "Hypoparathyroid"
-date created: 2024-03-04 15:03:49.169959+00
+date created: Monday, March 04th 2024, 03:03:49 PM
 date modified: 2024-05-10 11:31:28.569925+01
 tags: ['Genetics', 'Endocrinology']
 ---

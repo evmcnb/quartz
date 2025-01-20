@@ -1,6 +1,6 @@
 ---
 title: "Liver failure"
-date created: 2024-03-08 17:10:26.55518+00
+date created: Friday, March 08th 2024, 05:10:26 PM
 date modified: 2024-05-10 13:50:51.180481+01
 tags: ['Hepatology']
 ---

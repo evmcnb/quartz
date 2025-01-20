@@ -1,6 +1,6 @@
 ---
 title: "Autonomic division"
-date created: 2024-01-21 11:40:18.138887+00
+date created: Sunday, January 21th 2024, 11:40:18 AM
 date modified: 2024-01-21 11:40:18.143478+00
 tags: ['Neurology']
 ---

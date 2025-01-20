@@ -1,6 +1,6 @@
 ---
 title: "Pituitary Gland"
-date created: 2024-01-21 13:25:50.257198+00
+date created: Sunday, January 21th 2024, 01:25:50 PM
 date modified: 2024-01-21 13:25:50.262138+00
 tags: ['Endocrinology']
 ---

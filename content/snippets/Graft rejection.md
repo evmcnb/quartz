@@ -1,6 +1,6 @@
 ---
 title: "Graft rejection"
-date created: 2024-01-21 11:05:46.047877+00
+date created: Sunday, January 21th 2024, 11:05:46 AM
 date modified: 2024-01-21 11:05:46.052701+00
 tags: ['Surgery']
 ---

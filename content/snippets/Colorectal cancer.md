@@ -1,6 +1,6 @@
 ---
 title: "Colorectal cancer"
-date created: 2024-01-21 15:52:24.003494+00
+date created: Sunday, January 21th 2024, 03:52:24 PM
 date modified: 2024-03-20 09:59:12.696665+00
 tags: ['Gastroenterology', 'Oncology']
 ---

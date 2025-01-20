@@ -1,6 +1,6 @@
 ---
 title: "Coeliac Disease"
-date created: 2024-01-21 14:48:43.718638+00
+date created: Sunday, January 21th 2024, 02:48:43 PM
 date modified: 2024-01-21 14:48:43.727121+00
 tags: ['Gastroenterology']
 ---

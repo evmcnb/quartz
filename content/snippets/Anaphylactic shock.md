@@ -1,6 +1,6 @@
 ---
 title: "Anaphylactic shock"
-date created: 2024-02-26 17:06:49.955108+00
+date created: Monday, February 26th 2024, 05:06:49 PM
 date modified: 2024-02-26 17:06:49.967066+00
 tags: ['Acute']
 ---

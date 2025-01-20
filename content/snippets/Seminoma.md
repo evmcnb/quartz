@@ -1,6 +1,6 @@
 ---
 title: "Seminoma"
-date created: 2024-01-21 12:17:55.931123+00
+date created: Sunday, January 21th 2024, 12:17:55 PM
 date modified: 2024-01-21 12:17:55.936152+00
 tags: ['Oncology', 'Urology']
 ---

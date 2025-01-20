@@ -1,6 +1,6 @@
 ---
 title: "Urolithiasis"
-date created: 2024-01-21 12:11:52.577958+00
+date created: Sunday, January 21th 2024, 12:11:52 PM
 date modified: 2024-02-25 15:47:26.802735+00
 tags: ['Nephrology', 'Urology']
 ---

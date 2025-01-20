@@ -1,6 +1,6 @@
 ---
 title: "Eye Anatomy"
-date created: 2024-01-25 14:17:55.356414+00
+date created: Thursday, January 25th 2024, 02:17:55 PM
 date modified: 2024-02-09 13:08:42.529798+00
 tags: ['Ophthalmology']
 ---

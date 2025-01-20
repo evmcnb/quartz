@@ -1,6 +1,6 @@
 ---
 title: "Pancreatitis"
-date created: 2024-01-21 15:58:46.416594+00
+date created: Sunday, January 21th 2024, 03:58:46 PM
 date modified: 2024-04-30 15:54:00.503121+01
 tags: ['Gastroenterology', 'Endocrinology']
 ---

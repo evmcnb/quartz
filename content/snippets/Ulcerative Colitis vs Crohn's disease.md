@@ -1,6 +1,6 @@
 ---
 title: "Ulcerative Colitis vs Crohn's disease"
-date created: 2024-01-21 15:49:50.800108+00
+date created: Sunday, January 21th 2024, 03:49:50 PM
 date modified: 2024-05-04 12:30:10.827011+01
 tags: ['Gastroenterology', 'Surgery']
 ---

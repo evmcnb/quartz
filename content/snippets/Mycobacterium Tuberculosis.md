@@ -1,6 +1,6 @@
 ---
 title: "Mycobacterium Tuberculosis"
-date created: 2024-01-21 11:59:08.154562+00
+date created: Sunday, January 21th 2024, 11:59:08 AM
 date modified: 2024-01-21 11:59:27.371468+00
 tags: ['Respiratory', 'Rheumatology', 'ID']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Gastric Cancer"
-date created: 2024-01-21 14:47:50.122921+00
+date created: Sunday, January 21th 2024, 02:47:50 PM
 date modified: 2024-01-21 14:47:50.127556+00
 tags: ['Gastroenterology', 'Oncology']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Epilepsy"
-date created: 2024-02-23 15:01:43.283707+00
+date created: Friday, February 23th 2024, 03:01:43 PM
 date modified: 2024-04-30 15:56:27.738095+01
 tags: ['Neurology']
 ---

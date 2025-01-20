@@ -1,6 +1,6 @@
 ---
 title: "Radiculopathies"
-date created: 2024-02-23 13:30:00.213736+00
+date created: Friday, February 23th 2024, 01:30:00 PM
 date modified: 2024-02-23 13:30:00.220853+00
 tags: ['Neurology', 'Surgery', 'Orthopaedics']
 ---

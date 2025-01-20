@@ -5,6 +5,8 @@ date modified: 2024-04-09 12:31:20.245955+01
 tags: ['Haem']
 ---
 
+
+
 Too much clotting: CLOT  
 
 C - C/S deficiency  

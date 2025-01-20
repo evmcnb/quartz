@@ -1,6 +1,6 @@
 ---
 title: "Ansa cervicalis innervation"
-date created: 2024-02-26 12:36:22.060911+00
+date created: Monday, February 26th 2024, 12:36:22 PM
 date modified: 2024-02-26 12:36:22.066576+00
 tags: ['ENT']
 ---

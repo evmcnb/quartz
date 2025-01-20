@@ -1,6 +1,6 @@
 ---
 title: "Legionella antigen"
-date created: 2024-01-30 11:36:54.294736+00
+date created: Tuesday, January 30th 2024, 11:36:54 AM
 date modified: 2024-01-30 11:36:54.301235+00
 tags: ['Acute', 'Respiratory']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Simvastatin"
-date created: 2024-01-20 11:50:09.404801+00
+date created: Saturday, January 20th 2024, 11:50:09 AM
 date modified: 2024-04-08 19:27:36.294595+01
 tags: ['Drug', 'Cardiovascular']
 ---

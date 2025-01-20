@@ -1,6 +1,6 @@
 ---
 title: "Scoring Tools"
-date created: 2024-02-15 18:59:14.599603+00
+date created: Thursday, February 15th 2024, 06:59:14 PM
 date modified: 2024-02-15 18:59:14.605397+00
 tags: ['Symptom', 'OSCE']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Self Harm"
-date created: 2024-03-19 14:35:49.608813+00
+date created: Tuesday, March 19th 2024, 02:35:49 PM
 date modified: 2024-03-19 14:40:28.139128+00
 tags: ['Acute', 'Psychiatry']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Leiomyoma"
-date created: 2024-01-21 12:44:32.238081+00
+date created: Sunday, January 21th 2024, 12:44:32 PM
 date modified: 2024-01-21 12:44:32.242534+00
 tags: ['Oncology', 'OBGYN']
 ---

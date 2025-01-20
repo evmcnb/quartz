@@ -1,6 +1,6 @@
 ---
 title: "Idiopathic Pulmonary Fibrosis"
-date created: 2024-01-21 11:50:04.31062+00
+date created: Sunday, January 21th 2024, 11:50:04 AM
 date modified: 2024-01-21 11:50:04.316638+00
 tags: ['Respiratory']
 ---

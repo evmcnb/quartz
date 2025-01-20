@@ -1,6 +1,6 @@
 ---
 title: "Parahyperthyroid adenomas"
-date created: 2024-01-21 13:34:52.082992+00
+date created: Sunday, January 21th 2024, 01:34:52 PM
 date modified: 2024-01-21 13:34:52.087825+00
 tags: ['Oncology', 'Endocrinology']
 ---

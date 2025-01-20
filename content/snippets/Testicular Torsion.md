@@ -1,6 +1,6 @@
 ---
 title: "Testicular Torsion"
-date created: 2024-03-19 15:48:02.156063+00
+date created: Tuesday, March 19th 2024, 03:48:02 PM
 date modified: 2024-03-19 15:48:02.163011+00
 tags: ['Surgery', 'Urology']
 ---

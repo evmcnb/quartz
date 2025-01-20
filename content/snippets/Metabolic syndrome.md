@@ -1,6 +1,6 @@
 ---
 title: "Metabolic syndrome"
-date created: 2024-03-04 15:11:56.652018+00
+date created: Monday, March 04th 2024, 03:11:56 PM
 date modified: 2024-03-04 15:11:56.65691+00
 tags: ['Endocrinology']
 ---

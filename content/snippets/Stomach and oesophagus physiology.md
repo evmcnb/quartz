@@ -1,6 +1,6 @@
 ---
 title: "Stomach and oesophagus physiology"
-date created: 2024-03-14 12:27:24.41193+00
+date created: Thursday, March 14th 2024, 12:27:24 PM
 date modified: 2024-03-14 12:27:24.419417+00
 tags: ['Gastroenterology']
 ---

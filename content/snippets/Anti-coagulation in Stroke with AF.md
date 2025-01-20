@@ -1,6 +1,6 @@
 ---
 title: "Anti-coagulation in Stroke with AF"
-date created: 2024-01-23 12:10:45.268163+00
+date created: Tuesday, January 23th 2024, 12:10:45 PM
 date modified: 2024-01-23 12:10:45.273438+00
 tags: ['Neurology', 'Cardiovascular']
 ---

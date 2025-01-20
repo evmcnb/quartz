@@ -1,6 +1,6 @@
 ---
 title: "Diabetic Ketoacidosis"
-date created: 2024-01-30 15:50:41.156359+00
+date created: Tuesday, January 30th 2024, 03:50:41 PM
 date modified: 2024-05-10 11:21:54.620826+01
 tags: ['Acute', 'Endocrinology']
 ---

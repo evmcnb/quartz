@@ -1,6 +1,6 @@
 ---
 title: "Bone"
-date created: 2024-01-21 13:32:28.266126+00
+date created: Sunday, January 21th 2024, 01:32:28 PM
 date modified: 2024-01-21 13:32:28.271222+00
 tags: ['Orthopaedics']
 ---

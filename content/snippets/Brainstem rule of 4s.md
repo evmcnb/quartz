@@ -1,6 +1,6 @@
 ---
 title: "Brainstem rule of 4s"
-date created: 2024-02-26 13:08:41.082523+00
+date created: Monday, February 26th 2024, 01:08:41 PM
 date modified: 2024-02-26 13:08:41.088422+00
 tags: ['Neurology']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Nitrates in patients"
-date created: 2024-01-30 18:34:20.590281+00
+date created: Tuesday, January 30th 2024, 06:34:20 PM
 date modified: 2024-01-30 18:34:20.595743+00
 tags: ['Drug']
 ---

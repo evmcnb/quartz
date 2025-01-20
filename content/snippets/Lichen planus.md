@@ -1,6 +1,6 @@
 ---
 title: "Lichen planus"
-date created: 2024-01-21 14:33:46.706381+00
+date created: Sunday, January 21th 2024, 02:33:46 PM
 date modified: 2024-01-21 14:33:46.710854+00
 tags: ['Rheumatology', 'Dermatology']
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Thyroid tumours"
-date created: 2024-01-21 13:26:38.454424+00
+date created: Sunday, January 21th 2024, 01:26:38 PM
 date modified: 2024-01-21 13:26:38.459096+00
 tags: ['Oncology', 'Endocrinology']
 ---
