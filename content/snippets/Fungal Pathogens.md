@@ -1,0 +1,35 @@
+---
+title: "Fungal Pathogens"
+date created: 2024-01-20 00:08:55.224639+00
+date modified: 2024-01-20 00:09:44.415473+00
+tags: ['ID']
+---
+
+
+## Dermatophytes
+
+* Moulds
+* Cause superficial infections - cause "tinea" diseases
+* Trichophyton rubrum is a common cause of toenail, foot and groin infections
+
+## Malassezia
+
+* Dimorphic - change between moulds or yeasts
+* Commensal on everyone's skin
+* Causes Pityriasis versicolor - hypo or hyper pigmented patches
+
+## Candida
+
+* Yeast (dimorphic)
+* Cause thrush - disease of oral and vaginal mucosa (fluconazole)
+* Candidaemia can lead to occular candidosis and candida endocarditis
+* Avoid azole therapy for vaginal thrush in pregnant women
+* Opportunistic - $\uparrow$ HIV patients
+
+## Aspergillus
+
+* Mould
+* Inhaled by everyone but only become a disease in those with immuno/respiratory complications
+* Chest imaging important
+* Can fill cavity in lung formed by TB
+* Agressive IV antifungals

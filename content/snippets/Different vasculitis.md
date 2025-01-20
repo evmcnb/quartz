@@ -1,0 +1,20 @@
+---
+title: "Different vasculitis"
+date created: 2024-01-21 11:30:52.559401+00
+date modified: 2024-04-28 17:04:42.549723+01
+tags: ['Nephrology', 'Rheumatology', 'Cardiovascular', 'Dermatology']
+---
+
+
+
+| **Vasculitis** | **Vessels** | **Lab Findings** | **Key Features** |
+| --- | --- | --- | --- |
+| **Henoch-Schonlein Purpura** | Small | – | Purpura (non-blanching rash) on extensor surfaces  IgA nephritis  Abdominal pain, arthritis, haematuria |
+| **Microscopic Polyangiitis** | Small | p-ANCA | Glomerulonephritis  Diffuse alveolar haemorrhage |
+| **Granulomatosis with Polyangiitis** | Small | c-ANCA | Nasal symptoms  Respiratory symptoms  Glomerulonephritis |
+| **Eosinophilic Granulomatosis with Polyangiitis** | Small | p-ANCA  Raised eosinophils | Late-onset asthma  Sinusitis and rhinitis |
+| **Polyarteritis Nodosa** | Medium | – | Renal impairment  Hypertension  Cardiovascular events  Tender skin nodules |
+| **Kawasaki Disease** | Medium | – | High fever (more than 5 days)  Widespread rash  Bilateral conjunctivitis  Strawberry tongue  Coronary artery aneurysms |
+| **Giant Cell Arteritis** | Large | Raised ESR | Unilateral headache  Scalp tenderness  Vision loss |
+| **Takayasu’s Arteritis** | Large | – | Aortic arch affected  “Pulseless” disease |
+

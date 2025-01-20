@@ -1,0 +1,28 @@
+---
+title: "Phosphate deficiency"
+date created: 2024-01-21 14:31:42.793441+00
+date modified: 2024-01-21 14:31:42.79929+00
+tags: ['Symptom']
+---
+
+
+
+Low intake - malnutrition, malabsorption, alcoholism
+
+Excess loss - hyperparathyroidism, renal tubular damage (Fanconi syndrome), diarrhoea
+
+Extracellular/intracellular fluid redistribution - alkalosis, refeeding
+
+#### Refeeding syndrome
+
+* \(\downarrow\) insulin, \(\uparrow\) glucagon. Fat and protein metabolism. Intracellular stores of electrolytes used up
+* Upon refeeding \(\uparrow\) insulin, \(\uparrow\) glycolysis, requiring K, PO4 and magnesium movement into cells with glucose.
+* This causes severe hypokalaemia, hypophosphatemia and hypomagnesemia $\rightarrow$ heart dysfunction and resp failure
+
+#### Signs and symptoms of low PO4
+
+* Haemolysis, thrombocytopenia and poor granulocyte function
+* Severe muscle weakness, respiratory muscle failure and rhabdomyolysis
+
+Treatment with oral or IV phosphate
+
