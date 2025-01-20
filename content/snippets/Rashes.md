@@ -2,7 +2,7 @@
 title: "Rashes"
 date created: Sunday, January 21th 2024, 12:52:15 PM
 date modified: 2024-01-21 12:52:15.285688+00
-tags: ['Dermatology', 'ID']
+tags: ['Dermatology', 'InfectiousDisease']
 ---
 
 

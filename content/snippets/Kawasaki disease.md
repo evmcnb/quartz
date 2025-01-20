@@ -2,7 +2,7 @@
 title: "Kawasaki disease"
 date created: Sunday, January 21th 2024, 11:02:59 AM
 date modified: 2024-01-21 11:02:59.731287+00
-tags: ['Rheumatology', 'ID']
+tags: ['Rheumatology', 'InfectiousDisease']
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Gynecological
   - Surgery
+  - OBGYN
 title: Breast abscess
 date created: Tuesday, February 20th 2024, 4:50:05 pm
 date modified: 2024-03-11

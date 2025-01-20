@@ -1,8 +1,8 @@
 ---
 tags:
-  - Gynecological
   - Oncology
   - Surgery
+  - OBGYN
 title: Breast carcinoma
 date created: Tuesday, February 20th 2024, 3:09:44 pm
 date modified: 2024-03-11

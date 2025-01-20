@@ -2,7 +2,7 @@
 title: "Fever in the returning traveller"
 date created: Monday, February 26th 2024, 05:31:19 PM
 date modified: 2024-02-26 17:31:19.230307+00
-tags: ['ID']
+tags: ['InfectiousDisease']
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - Paediatric
   - Respiratory
+  - Paediatrics
 title: Bronchiolitis
 date: 2024-02-09
 date modified: 2024-03-2011

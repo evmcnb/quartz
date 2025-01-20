@@ -2,7 +2,7 @@
 title: "Parotid swelling differentials"
 date created: 2024-05-10 16:12:05.862749+01
 date modified: 2024-05-10 16:12:05.868988+01
-tags: ['ENT', 'Symptom', 'ID']
+tags: ['ENT', 'Symptom', 'InfectiousDisease']
 ---
 
 

@@ -1,5 +1,11 @@
 ---
-tags: [Gynecological, Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology]
+tags:
+  - Cardiovascular
+  - Gastroenterology
+  - Respiratory
+  - Haematology
+  - Nephrology
+  - OBGYN
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11

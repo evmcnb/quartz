@@ -2,7 +2,7 @@
 title: "Warfarin"
 date created: Wednesday, March 20th 2024, 09:49:01 AM
 date modified: 2024-04-08 19:20:49.330755+01
-tags: ['Haem', 'Drug']
+tags: ['Haematology', 'Drug']
 ---
 
 

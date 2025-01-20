@@ -2,7 +2,7 @@
 title: "Meningococcaemia"
 date created: Sunday, January 21th 2024, 12:51:35 PM
 date modified: 2024-01-21 12:51:35.427062+00
-tags: ['Acute', 'Neurology', 'ID']
+tags: ['Acute', 'Neurology', 'InfectiousDisease']
 ---
 
 

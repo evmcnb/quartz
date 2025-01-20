@@ -1,8 +1,8 @@
 ---
 tags:
-  - Gynecological
   - Surgery
   - Oncology
+  - OBGYN
 title: Breast lumps
 date created: Tuesday, February 20th 2024, 3:59:54 pm
 date modified: 2024-03-11
