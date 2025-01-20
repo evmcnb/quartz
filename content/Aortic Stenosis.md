@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Aortic Stenosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: 2025-011
 date: 2023-09-18
 ---
 
@@ -18,9 +18,9 @@ Pressure overload - high resistance low reps -> hypertrophy
 
 ## Symptoms
 
-- [[Angina]]
-- Breathlessness on exercise
-- Pre-syncope/syncope
+**S**yncope
+**A**[[Angina|ngina]]
+**D**yspnoea - on exercise
 
 ## Signs
 

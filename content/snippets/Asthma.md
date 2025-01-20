@@ -5,8 +5,6 @@ date modified: 2024-01-20 00:13:36.877786+00
 tags: ['Respiratory']
 ---
 
-
-
 * Reversible intermittent narrowing of *conducting airways*
 
 Changes:

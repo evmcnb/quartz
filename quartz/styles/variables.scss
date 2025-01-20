@@ -5,13 +5,7 @@
  * Screen width between $mobile and $desktop width will use the tablet layout.
  * assuming mobile < desktop
  */
- 
-// $breakpoints: (
-//   mobile: 1050px,
-//   desktop: 1200px,
-// );
-
-$breakpoints: (
+ $breakpoints: (
   mobile: 800px,
   desktop: 1200px,
 );
