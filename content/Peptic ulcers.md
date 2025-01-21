@@ -25,8 +25,8 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 
 **Bleeding risk from ulcer**
 - NSAIDs
-- [[Snippets/Aspirin|Aspirin]]
-- [[Snippets/Anticoagulants|Anticoagulants]]
+- [[snippets/Aspirin|Aspirin]]
+- [[snippets/Anticoagulants|Anticoagulants]]
 - Steroids
 - SSRIs 
 ## Presentation
@@ -52,8 +52,8 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 ## Management
 
 - Stopping NSAIDs
-- Treating H pylori infection - TDS [[Snippets/Amoxicillin|Amoxicillin]] 1g and clarithromycin 500mg or [[Snippets/Metronidazole|Metronidazole]] 400mg  
-- Proton pump inhibitor to reduce gastric acid secretion - lansoprazole 30mg, [[Snippets/Omeprazole|Omeprazole]] 20-40mg, etc 
+- Treating H pylori infection - TDS [[snippets/Amoxicillin|Amoxicillin]] 1g and clarithromycin 500mg or [[snippets/Metronidazole|Metronidazole]] 400mg  
+- Proton pump inhibitor to reduce gastric acid secretion - lansoprazole 30mg, [[snippets/Omeprazole|Omeprazole]] 20-40mg, etc 
 
 ## Complications/red Flags
 - Significant bleeding

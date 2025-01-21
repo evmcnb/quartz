@@ -33,7 +33,7 @@ Cancer arising from urothelium accounts for >90% of bladder
 ###### Effects of Distant Metastases
 
 - Lungs
-- [[Snippets/Bone|Bone]]
+- [[snippets/Bone|Bone]]
 - Liver
 
 ###### Paraneoplastic Syndromes

@@ -43,7 +43,7 @@ Obesity is a chronic condition characterized by the accumulation of excess body 
 
 #### **Type 2 [[Diabetes Mellitus]]:**
 
-- Major risk factor for [[Snippets/Insulin|Insulin]] resistance and diabetes.
+- Major risk factor for [[snippets/Insulin|Insulin]] resistance and diabetes.
 - Elevated blood sugar levels.
 
 #### **Joint Problems:**

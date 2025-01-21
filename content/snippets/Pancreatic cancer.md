@@ -20,7 +20,7 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 
 ## Red flags
 
-* Painless obstructive [[Snippets/Jaundice|Jaundice]] - tumour compresses on bile duct
+* Painless obstructive [[snippets/Jaundice|Jaundice]] - tumour compresses on bile duct
 * Steatorrhea
 * New onset diabetes or worsening of gllycaemic control
 

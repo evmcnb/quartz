@@ -9,7 +9,7 @@ tags: ['Gastroenterology']
 ## Duodenum 4 parts:
 
 * Wraps around head of pancreas
-* Supplied by [[Snippets/Celiac trunk|Celiac trunk]], SMA, sup, mid & inferior pancreaticoduodenal artery
+* Supplied by [[snippets/Celiac trunk|Celiac trunk]], SMA, sup, mid & inferior pancreaticoduodenal artery
 
 **1st part - superior**
 

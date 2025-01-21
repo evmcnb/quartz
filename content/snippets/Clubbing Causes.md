@@ -9,10 +9,10 @@ tags: ['Symptom']
 
 | **Gastro** | **Resp** | **Cardiac** |
 | --- | --- | --- |
-| IBS | [[bronchiectasis]] | [[Snippets/Endocarditis|Endocarditis]] |
-| [[Snippets/Cirrhosis|Cirrhosis]] | [[Snippets/Cystic Fibrosis|Cystic Fibrosis]] | Congential Heart Disease |
-| [[Snippets/Coeliac Disease|Coeliac Disease]] | Empyema | Atrial myoxma |
-| GI [[Snippets/Lymphoma|Lymphoma]] | Lung cancer | Aneurysms |
+| IBS | [[bronchiectasis]] | [[snippets/Endocarditis|Endocarditis]] |
+| [[snippets/Cirrhosis|Cirrhosis]] | [[snippets/Cystic Fibrosis|Cystic Fibrosis]] | Congential Heart Disease |
+| [[snippets/Coeliac Disease|Coeliac Disease]] | Empyema | Atrial myoxma |
+| GI [[snippets/Lymphoma|Lymphoma]] | Lung cancer | Aneurysms |
 |  | TB |  |
 |  | Mesothelioma |  |
 

@@ -9,8 +9,8 @@ tags: ['Cardiovascular']
 ## Symptomatic relief - PODMAN
 
 * Position
-* [[Snippets/Oxygen|Oxygen]]
+* [[snippets/Oxygen|Oxygen]]
 * Diruetics
-* [[Snippets/Morphine|Morphine]]
+* [[snippets/Morphine|Morphine]]
 * Antiemetic
 * Nitrates

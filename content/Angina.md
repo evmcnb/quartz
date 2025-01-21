@@ -29,7 +29,7 @@ Some people develop unstable angina after having stable angina.
 ## Diagnostic Tests
 
 - **Physical exam:** heart sounds, [[Heart Failure]], blood pressure, BMI
-- **ECG:** usually normal - _may_ show ST [[Depression]] or flat or inverted [[Snippets/T waves|T waves]]
+- **ECG:** usually normal - _may_ show ST [[Depression]] or flat or inverted [[snippets/T waves|T waves]]
 - **Blood Tests:** FBC, U&Es, TFTs, lipids, HbA1C
 - **Echo and CXR** to rule out gross defects and differential diagnoses
 - **Angiography** - for typical and atypical angina if the patient _does not_ have a previous episode of proven [[Coronary Artery Disease|Ischemic Heart Disease]] 
@@ -43,7 +43,7 @@ Some people develop unstable angina after having stable angina.
 - **A**dvise them about the diagnosis, management and when to call an ambulance (3 doses of GTN 5 minutes apart with no relief)
 - **M**edical treatment - GTN spray, beta blocker, CCB (avoid with a reduced ejection fracture)
 - **P**rocedural or surgical interventions - PCI, CABG
-- **S**econdary prevention - [[Snippets/Aspirin|Aspirin]] (75mg od), Atorvastatin (80mg od), ACEi (if [[Diabetes Mellitus]], [[Essential hypertension|hypertension]], [[Chronic Kidney Disease]], or [[Heart Failure]] are also present), beta blocker (Bisoprolol)
+- **S**econdary prevention - [[snippets/Aspirin|Aspirin]] (75mg od), Atorvastatin (80mg od), ACEi (if [[Diabetes Mellitus]], [[Essential hypertension|hypertension]], [[Chronic Kidney Disease]], or [[Heart Failure]] are also present), beta blocker (Bisoprolol)
 
 > [!tip]
 > Look for signs of previous scars - midline sternotomy for CABG, scars around accessible arteries for PCI and inner calves for saphenous vein harvesting

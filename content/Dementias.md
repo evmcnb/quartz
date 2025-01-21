@@ -25,7 +25,7 @@ date: 2024-01-23
 #### Pseudodementias
 
 Mimic the symptoms of dementia
-- [[Snippets/Wernicke-Korsakoff syndrome|Wernicke-Korsakoff syndrome]] 
+- [[snippets/Wernicke-Korsakoff syndrome|Wernicke-Korsakoff syndrome]] 
 - B12/folate deficiency
 - [[Depression]]
 - Hypothyroid

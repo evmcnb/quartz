@@ -99,25 +99,25 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 | Intermediate-acting insulins | Acts in 1 hours and lasts for 16 hours | Humulin I |
 | Long-acting insulins         | Acts in 1 hours and lasts for 24 hours | Levemir   |
 
-**_Combinations insulins_** contain a **_rapid-acting_** and **_intermediate-acting_** [[Snippets/Insulin|Insulin]]. In brackets is the ratio of rapid-acting to intermediate-acting [[Snippets/Insulin|Insulin]]:
+**_Combinations insulins_** contain a **_rapid-acting_** and **_intermediate-acting_** [[snippets/Insulin|Insulin]]. In brackets is the ratio of rapid-acting to intermediate-acting [[snippets/Insulin|Insulin]]:
 
 - **_Humalog 25_** (25:75)
 - **_Humalog 50_** (50:50)
 - **_Novomix 30_** (30:70)
 
 >[!tip]
->A common exam scenario involves discussing the possibility of starting [[Snippets/Insulin|Insulin]] with an HGV driver. Patients treated with [[Snippets/Insulin|Insulin]] must fulfil **very strict criteria to carry on driving**, so starting [[Snippets/Insulin|Insulin]] has enormous implications for professional drivers. This can be a motivating factor for improving diet, exercise and taking medications to improve diabetes control and avoid [[Snippets/Insulin|Insulin]].
+>A common exam scenario involves discussing the possibility of starting [[snippets/Insulin|Insulin]] with an HGV driver. Patients treated with [[snippets/Insulin|Insulin]] must fulfil **very strict criteria to carry on driving**, so starting [[snippets/Insulin|Insulin]] has enormous implications for professional drivers. This can be a motivating factor for improving diet, exercise and taking medications to improve diabetes control and avoid [[snippets/Insulin|Insulin]].
 
 
 ## Complications/red Flags
 
-**[[Hypoglycaemia]]** - due to too high [[Snippets/Insulin|Insulin]] -> coma and brain damage, thrombosis, cardiac [[Arrhythmias]]
+**[[Hypoglycaemia]]** - due to too high [[snippets/Insulin|Insulin]] -> coma and brain damage, thrombosis, cardiac [[Arrhythmias]]
 
 **Infections** - periodontitis, thrush and infected ulcers 
 
->[!tip] [[Snippets/Insulin|Insulin]] [[Snippets/Sick Day Rules|Sick Day Rules]]
+>[!tip] [[snippets/Insulin|Insulin]] [[snippets/Sick Day Rules|Sick Day Rules]]
 >**Type 1 diabetes**
->- if a patient is on [[Snippets/Insulin|Insulin]], they must not stop it due to the risk of [[Snippets/Diabetic Ketoacidosis|Diabetic Ketoacidosis]]
+>- if a patient is on [[snippets/Insulin|Insulin]], they must not stop it due to the risk of [[snippets/Diabetic Ketoacidosis|Diabetic Ketoacidosis]]
 >- check blood glucose more frequently, for example, every 1-2 hours including through the night
 >- consider checking blood or urine ketone levels regularly
 >- maintain normal meal pattern if possible
@@ -127,11 +127,11 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 >**Type 2 diabetes**
 >- advise the patient to temporarily stop some oral hypoglycaemics during an acute illness
 >- medication may be restarted once the person is feeling better and eating and drinking for 24-48 hours
-  >  - [[Snippets/Metformin|Metformin]]: stop treatment if there is a risk of dehydration, to reduce the risk of lactic acidosis.
+  >  - [[snippets/Metformin|Metformin]]: stop treatment if there is a risk of dehydration, to reduce the risk of lactic acidosis.
  >   - sulfonylureas: may increase the risk of [[Hypoglycaemia]]
  >   - SGLT-2 inhibitors: check for ketones and stop treatment if acutely unwell and/or at risk of dehydration, due to the risk of euglycaemic DKA
   >  - GLP-1 receptor agonists: stop treatment if there is a risk of dehydration, to reduce the risk of AKI
->- if on [[Snippets/Insulin|Insulin]] therapy, do not stop treatment, as above
+>- if on [[snippets/Insulin|Insulin]] therapy, do not stop treatment, as above
 > - monitor blood glucose more frequently as necessary
 
 **[[Essential hypertension]] and [[Chronic Kidney Disease]]** - ACEi 
@@ -141,7 +141,7 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 **Microvascular**
 
 - [[Diabetic eye disease]] - regular eye test
-- Neuropathy - regular foot exam / nerve conduction. There are four options for **_neuropathic pain_** (e.g., [[Snippets/Diabetic neuropathy|Diabetic neuropathy]]):
+- Neuropathy - regular foot exam / nerve conduction. There are four options for **_neuropathic pain_** (e.g., [[snippets/Diabetic neuropathy|Diabetic neuropathy]]):
 	- **_Amitriptyline_** – a tricyclic antidepressant
 	- **_Duloxetine_** – an SNRI antidepressant
 	- **_Gabapentin_** – an anticonvulsant

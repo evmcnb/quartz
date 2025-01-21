@@ -74,7 +74,7 @@ These do not fit into the above classification as it may be normo- or macrocytic
 | Iron deficiency            | $\downarrow$ | $\uparrow$                        | $\downarrow$      |
 | Anaemia of chronic disease | $\downarrow$ | $\downarrow$                      | $\uparrow$        |
 | Chronic haemolysis         | $\uparrow$   | $\downarrow$                      | $\uparrow$        |
-| [[Snippets/Haemochromatosis|Haemochromatosis]]           | $\uparrow$   | $\downarrow$ or $\leftrightarrow$ | $\uparrow$        |
+| [[snippets/Haemochromatosis|Haemochromatosis]]           | $\uparrow$   | $\downarrow$ or $\leftrightarrow$ | $\uparrow$        |
 | [[Pregnancy]]                  | $\uparrow$   | $\uparrow$                        | $\leftrightarrow$ |
 | Sideroblastic anaemia      | $\uparrow$   | $\leftrightarrow$                 | $\uparrow$                  |
 

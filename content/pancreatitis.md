@@ -11,14 +11,14 @@ Not an infective cause
 
 Acute damage can be temporary and can restore function
 
-Chronic [[Snippets/Pancreatitis|Pancreatitis]] results in fibrosis and reduced function. Alcohol is the most common cause. 
+Chronic [[snippets/Pancreatitis|Pancreatitis]] results in fibrosis and reduced function. Alcohol is the most common cause. 
 
 ![[z_attachments/Pasted image 20231011141201.png|350]]
 
  - Mild - swollen gland with fat necrosis
 - Severe - swollen, necrotic gland and haemorrhage (Grey Turner's and Cullen's sign)
 - Pseudocysts (full of pancreatic juice)
-- Drugs - [[Snippets/Furosemide|Furosemide]], [[Snippets/Thiazide diuretics|Thiazide diuretics]], azathioprine 
+- Drugs - [[snippets/Furosemide|Furosemide]], [[snippets/Thiazide diuretics|Thiazide diuretics]], azathioprine 
 ## Causes/Factors
 
 Gallstones (50%), alcohol (25%), idiopathic (10%)
@@ -27,17 +27,17 @@ Gallstones (50%), alcohol (25%), idiopathic (10%)
 
 - Epigastric pain (radiating to back)
 - N+V
-- [[Snippets/Jaundice|Jaundice]] if due to gallstones
+- [[snippets/Jaundice|Jaundice]] if due to gallstones
 
 ## Signs
 - Grey-Turner's (remember by _"you **turn** on your side"_) sign/Cullen's sign
 
 ### Glasgow Score
 
-Used to assess the severity of [[Snippets/Pancreatitis|Pancreatitis]]. 
-- **0 or 1** – mild [[Snippets/Pancreatitis|Pancreatitis]]
-- **2** – moderate [[Snippets/Pancreatitis|Pancreatitis]]
-- **3 or more** – severe [[Snippets/Pancreatitis|Pancreatitis]]
+Used to assess the severity of [[snippets/Pancreatitis|Pancreatitis]]. 
+- **0 or 1** – mild [[snippets/Pancreatitis|Pancreatitis]]
+- **2** – moderate [[snippets/Pancreatitis|Pancreatitis]]
+- **3 or more** – severe [[snippets/Pancreatitis|Pancreatitis]]
 
 ## Diagnostic Tests
 
@@ -45,9 +45,9 @@ Used to assess the severity of [[Snippets/Pancreatitis|Pancreatitis]].
 - USS - to access for gallstones
 - CTAP - necrossi, abscesses and fluid collection
 
-**Amylase** raised more than 3x the normal limit indicates an acute [[Snippets/Pancreatitis|Pancreatitis]]
+**Amylase** raised more than 3x the normal limit indicates an acute [[snippets/Pancreatitis|Pancreatitis]]
 
-Lipase is more **sensitive and specific** than amylase for [[Snippets/Pancreatitis|Pancreatitis]]
+Lipase is more **sensitive and specific** than amylase for [[snippets/Pancreatitis|Pancreatitis]]
 
 ## Management
 
@@ -69,7 +69,7 @@ Lipase is more **sensitive and specific** than amylase for [[Snippets/Pancreatit
 
 
 #### Acute
-- Persistent [[Snippets/Hypocalcaemia|Hypocalcaemia]] poor prognostic sign
+- Persistent [[snippets/Hypocalcaemia|Hypocalcaemia]] poor prognostic sign
 - Necrosis of pancreas
 - Pseudocyst can develop 4 weeks after
-- Chronic [[Snippets/Pancreatitis|Pancreatitis]]
+- Chronic [[snippets/Pancreatitis|Pancreatitis]]

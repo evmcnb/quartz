@@ -9,11 +9,11 @@ tags: ['Neurology', 'Haematology']
 
 ***Always treat B12 deficiency first -***giving patients folic acid when they have a B12 deficiency can lead to **subacute combined degeneration of the cord**, (demyelination in the spinal cord with severe neurological complications).
 
-B12 deficiency causes ***macrocytic [[Snippets/Anaemia|Anaemia]]*** - DNA synthesis interference so produces large immature RBCs.
+B12 deficiency causes ***macrocytic [[snippets/Anaemia|Anaemia]]*** - DNA synthesis interference so produces large immature RBCs.
 
-* Pernicious [[Snippets/Anaemia|Anaemia]] (autoimmune condition - antibodies produced against intrinsic factor)
+* Pernicious [[snippets/Anaemia|Anaemia]] (autoimmune condition - antibodies produced against intrinsic factor)
 * Insufficient dietary B12 - particularly vegan diet
-* Medications that reduce B12 absorption (e.g. PPIs, [[Snippets/Metformin|Metformin]])
+* Medications that reduce B12 absorption (e.g. PPIs, [[snippets/Metformin|Metformin]])
 
 ### Neuropathy
 

@@ -12,7 +12,7 @@ Non-specific clinical presentation in infants
 Viral - more common
 
 * Enteroviruses 50%
-* HSV, [[Snippets/Influenza|Influenza]], EBV, adenovirus, CMV
+* HSV, [[snippets/Influenza|Influenza]], EBV, adenovirus, CMV
 
 Bacterial:
 

@@ -13,5 +13,5 @@ Infection and inflammation of the endocardium, mainly involving valves
 * Foreign material in heart
 * Dental procedures
 
-Strep viridans (dental procedures), Strep bovis ([[Snippets/Colorectal cancer|Colorectal cancer]]) Staph aureus (no PMH), Staph epidermis (prosthetic valves) Candida, Aspergillus - Rare
+Strep viridans (dental procedures), Strep bovis ([[snippets/Colorectal cancer|Colorectal cancer]]) Staph aureus (no PMH), Staph epidermis (prosthetic valves) Candida, Aspergillus - Rare
 

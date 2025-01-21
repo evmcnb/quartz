@@ -7,9 +7,9 @@ tags: ['OBGYN', 'Endocrinology']
 
 
 
-DKA: long-acting [[Snippets/Insulin|Insulin]] should be continued, short-acting [[Snippets/Insulin|Insulin]] should be stopped (to prevent hypos after the fixed rate [[Snippets/Insulin|Insulin]] is stopped)
+DKA: long-acting [[snippets/Insulin|Insulin]] should be continued, short-acting [[snippets/Insulin|Insulin]] should be stopped (to prevent hypos after the fixed rate [[snippets/Insulin|Insulin]] is stopped)
 
   
 
-[[Pregnancy]]: continue short-acting, stop long-acting [[Snippets/Insulin|Insulin]]
+[[Pregnancy]]: continue short-acting, stop long-acting [[snippets/Insulin|Insulin]]
 

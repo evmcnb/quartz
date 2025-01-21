@@ -23,11 +23,11 @@ date: 2024-02-07
 - **<span style="font-weight:bold; color:#ff0000">Shortness of breath</span>** (congestive [[Heart Failure]], [[Pericarditis]] [[pneumonia]], [[pulmonary embolism]])
 - <span style="color:#ff0000">Pallor</span> - not very sensitive - paleness -> <span style="color:#00b0f0">anaemia</span> (haemorrhage, chronic disease) or <span style="color:#00b0f0">poor perfusion</span> (congestive [[Heart Failure]])
 - **<span style="font-weight:bold; color:#ff0000">Malar flush</span>** - plum red discolouration of the cheeks associated with [[Mitral stenosis]]
-- <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen ([[Snippets/Ascites|Ascites]]). Usually in context of CVS exam congestive [[Heart Failure]]
+- <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen ([[snippets/Ascites|Ascites]]). Usually in context of CVS exam congestive [[Heart Failure]]
 
 #### Objects and Equipment
 
-- [[Snippets/Oxygen|Oxygen]]
+- [[snippets/Oxygen|Oxygen]]
 - Bedside equipment - ECG, ECHO machine
 - GTN spray/medication
 

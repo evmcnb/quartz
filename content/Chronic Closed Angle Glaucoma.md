@@ -21,7 +21,7 @@ Trabecular network has increased resistance so drainage is slower.
 Glaucoma affects the **_peripheral vision_** first, resulting in a **_gradual onset_** of **_peripheral vision loss_** (**_tunnel vision_**). It can also cause:
 
 - Fluctuating pain
-- [[Snippets/Headaches|Headaches]]
+- [[snippets/Headaches|Headaches]]
 - Blurred vision 
 - Halos around lights, particularly at night
 

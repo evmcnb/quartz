@@ -12,9 +12,9 @@ tags: ['Drug', 'Endocrinology']
 | **Mechanism** |  |
 | **Typical Dose** | 400-2000 units daily **400 units = 10 micrograms** |
 | **Indications** | Vitamin D deficiency and prevention |
-| **Contra-indications** | * [[Snippets/Hypercalcaemia|Hypercalcaemia]] * Metastatic calcification |
-| **Side-effects** | * Abdo pain * Headache * [[Snippets/Hypercalcaemia|Hypercalcaemia]] * Hypercalciuria * Nausea * Skin reactions |
-| **Interactions** | [[Snippets/Carbamazepine|Carbamazepine]]/[[Snippets/Phenytoin|Phenytoin]]: ↑ vitamin D requirements  Diuretics: ↑ risk of [[Snippets/Hypercalcaemia|Hypercalcaemia]] |
+| **Contra-indications** | * [[snippets/Hypercalcaemia|Hypercalcaemia]] * Metastatic calcification |
+| **Side-effects** | * Abdo pain * Headache * [[snippets/Hypercalcaemia|Hypercalcaemia]] * Hypercalciuria * Nausea * Skin reactions |
+| **Interactions** | [[snippets/Carbamazepine|Carbamazepine]]/[[snippets/Phenytoin|Phenytoin]]: ↑ vitamin D requirements  Diuretics: ↑ risk of [[snippets/Hypercalcaemia|Hypercalcaemia]] |
 | **Elimination** |  |
 | **Additional Notes** |  |
 

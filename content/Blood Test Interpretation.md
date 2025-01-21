@@ -41,11 +41,11 @@ date: 2024-01-19
 
 | **LFT Component** | **Reference Range** | **High Levels (Possible Causes)** | **Low Levels (Possible Causes)** | **What the Test Shows** |
 | ---- | ---- | ---- | ---- | ---- |
-| **1. Alanine Aminotransferase (ALT)** | 7 to 56 units/L (may vary slightly between labs) | - Liver inflammation ([[Hepatitis]]) | - [[Snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage, particularly hepatocellular. |
-| **2. Aspartate Aminotransferase (AST)** | 10 to 40 units/L (may vary slightly between labs) | - Liver inflammation ([[Hepatitis]]) | - [[Snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage; not specific to the liver. |
-| **3. Alkaline Phosphatase (ALP)** | 44 to 147 units/L (may vary slightly between labs) | - Biliary obstruction (cholestasis) | - [[Snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Reflects liver or [[Snippets/Bone|Bone]] disease; additional tests help pinpoint. |
-| **4. Total Bilirubin** | 0.3 to 1.9 mg/dL | - Liver disease, hemolysis | - [[Snippets/Gilbert Syndrome|Gilbert Syndrome]] (mild increase) | Measures breakdown product of hemoglobin; assesses liver function. |
+| **1. Alanine Aminotransferase (ALT)** | 7 to 56 units/L (may vary slightly between labs) | - Liver inflammation ([[Hepatitis]]) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage, particularly hepatocellular. |
+| **2. Aspartate Aminotransferase (AST)** | 10 to 40 units/L (may vary slightly between labs) | - Liver inflammation ([[Hepatitis]]) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage; not specific to the liver. |
+| **3. Alkaline Phosphatase (ALP)** | 44 to 147 units/L (may vary slightly between labs) | - Biliary obstruction (cholestasis) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Reflects liver or [[snippets/Bone|Bone]] disease; additional tests help pinpoint. |
+| **4. Total Bilirubin** | 0.3 to 1.9 mg/dL | - Liver disease, hemolysis | - [[snippets/Gilbert Syndrome|Gilbert Syndrome]] (mild increase) | Measures breakdown product of hemoglobin; assesses liver function. |
 | **5. Direct Bilirubin** | 0 to 0.3 mg/dL | - Biliary obstruction (cholestasis) | - Reduced liver function due to severe disease or failure | Measures bilirubin that has been processed by the liver. |
-| **6. Albumin** | 3.4 to 5.4 g/dL | - Liver disease, [[Snippets/Malnutrition|Malnutrition]] | - Kidney disease, malabsorption | Measures protein produced by the liver; assesses liver function. |
-| **7. Total Protein** | 6.0 to 8.3 g/dL | - Liver disease, inflammation, dehydration | - [[Snippets/Malnutrition|Malnutrition]], malabsorption, kidney disease | Reflects overall protein levels in the blood. |
+| **6. Albumin** | 3.4 to 5.4 g/dL | - Liver disease, [[snippets/Malnutrition|Malnutrition]] | - Kidney disease, malabsorption | Measures protein produced by the liver; assesses liver function. |
+| **7. Total Protein** | 6.0 to 8.3 g/dL | - Liver disease, inflammation, dehydration | - [[snippets/Malnutrition|Malnutrition]], malabsorption, kidney disease | Reflects overall protein levels in the blood. |
 | **8. Prothrombin Time (PT)** | 10 to 14 seconds | - Liver disease, decreased vitamin K absorption | - Blood clotting disorders, anticoagulant medication use | Measures the time it takes for blood to clot. |

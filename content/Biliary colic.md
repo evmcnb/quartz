@@ -16,6 +16,6 @@ Biliary colic tends to be preceded by a **fatty meal**
 - May have risk factors for gallstones
 - Episodes of sudden onset, severe, colicky RUQ pain, may be provoked by meals
 - **Systemically well patient** (not an inflammatory condition)
-- Normal inflammatory markers (WCC, CRP) and [[Snippets/Liver function tests|Liver function tests]]
+- Normal inflammatory markers (WCC, CRP) and [[snippets/Liver function tests|Liver function tests]]
 - Abdominal ultrasound best investigation
 - May require elective cholecystectomy

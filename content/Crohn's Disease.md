@@ -30,7 +30,7 @@ Smoking $\uparrow$ risk 3-4 times
 
 - bowel ulceration
 - abdominal tenderness
-- [[Snippets/Perianal abscess|Perianal abscess]]/fistulae/skin tags
+- [[snippets/Perianal abscess|Perianal abscess]]/fistulae/skin tags
 - anal strictures
 - patchy inflammation
 
@@ -42,7 +42,7 @@ Extraintestinal signs:
 ## Diagnostic Tests
 
 - Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
-- Blood tests for inflammatory markers/[[Snippets/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
+- Blood tests for inflammatory markers/[[snippets/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
 - Full colonoscopy or sigmoidoscopy -> biopsy
 - Crypt abcesses on histology
 - AXR - no feacal shadows, mucosal thickening/islands
@@ -60,6 +60,6 @@ Extraintestinal signs:
 
 ## Complications/red Flags
 
-- small [[Snippets/Bowel Obstruction|Bowel Obstruction]]
+- small [[snippets/Bowel Obstruction|Bowel Obstruction]]
 - toxic dilation
 - for rest see diagram

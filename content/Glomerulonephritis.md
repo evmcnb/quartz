@@ -65,7 +65,7 @@ Glomerulonephritis, often referred to as GN, is a group of kidney diseases that 
 2. **Blood Pressure Control:** Medications to manage [[Essential hypertension]] and protect the kidneys.
 3. **Diuretics:** To manage edema.
 4. **Dietary Modifications:** Managing sodium and protein intake.
-5. **Dialysis:** In severe cases of [[Snippets/Kidney Failure|Kidney Failure]].
+5. **Dialysis:** In severe cases of [[snippets/Kidney Failure|Kidney Failure]].
 
 ## Complications/red Flags
 

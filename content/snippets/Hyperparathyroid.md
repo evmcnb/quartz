@@ -20,7 +20,7 @@ Polydipsia, polyuria and [[Essential hypertension]] are common too. Other import
 
 ***Increased PTH, increased calcium***
 
-* Uncontrolled parathyroid hormone production by a **tumour** of the parathyroid gland - leading to [[Snippets/Hypercalcaemia|Hypercalcaemia]]
+* Uncontrolled parathyroid hormone production by a **tumour** of the parathyroid gland - leading to [[snippets/Hypercalcaemia|Hypercalcaemia]]
 * Treatment is to remove the tumour surgically
 
 ## Secondary

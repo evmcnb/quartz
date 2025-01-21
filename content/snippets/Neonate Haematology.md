@@ -11,7 +11,7 @@ Where is blood made in utero
 
 * Day 18 to 3m in yolk sac
 * 3m to 6m liver and spleen
-* 6m onward [[Snippets/Bone|Bone]] marrow
+* 6m onward [[snippets/Bone|Bone]] marrow
 
 Haemoglobin:
 

@@ -156,7 +156,7 @@ These two symptoms are characteristic of [[Obsessive-compulsive disorder]] but c
 
 ### Alcohol or substance abuse
 
-The use of alcohol or recreational drugs is common and may be a trigger for a condition, an attempt to manage the symptoms of a condition or a [[Snippets/Substance Misuse Disorder|Substance Misuse Disorder]]
+The use of alcohol or recreational drugs is common and may be a trigger for a condition, an attempt to manage the symptoms of a condition or a [[snippets/Substance Misuse Disorder|Substance Misuse Disorder]]
 
 There are several screening questions for alcohol use, for example, “**CAGE**“:
 

@@ -11,5 +11,5 @@ Genetic condition affecting the rods in the retina
 
 Loss of **night vision**, tunnel vision, loss of central vision, loss of colour vision
 
-***Fundoscopy*** shows ***pigmentation*** described as “***[[Snippets/Bone|Bone]]-spicule***”
+***Fundoscopy*** shows ***pigmentation*** described as “***[[snippets/Bone|Bone]]-spicule***”
 

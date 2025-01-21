@@ -13,4 +13,4 @@ Electrical dysfunctions - [[Arrhythmias]]/sudden death
 
 Mechanical dysfunction - [[Heart Failure]]
 
-* [[Snippets/Viruses|Viruses]], Post Group A Strep, SLE/autoimmune, drugs, heart rejection, [[Snippets/Sarcoidosis|Sarcoidosis]]
+* [[snippets/Viruses|Viruses]], Post Group A Strep, SLE/autoimmune, drugs, heart rejection, [[snippets/Sarcoidosis|Sarcoidosis]]

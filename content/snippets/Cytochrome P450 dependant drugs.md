@@ -9,35 +9,35 @@ tags: ['Drug']
 
 Dependant
 
-* **[[Snippets/Phenytoin|Phenytoin]]**
+* **[[snippets/Phenytoin|Phenytoin]]**
 * **Theophylline**
-* **[[Snippets/Carbamazepine|Carbamazepine]]**
+* **[[snippets/Carbamazepine|Carbamazepine]]**
 * Tacrolimus and cyclosporine
-* [[Snippets/Digoxin|Digoxin]]
+* [[snippets/Digoxin|Digoxin]]
 * Flecainide
 * Sildenafil
-* [[Snippets/Simvastatin|Simvastatin]]
+* [[snippets/Simvastatin|Simvastatin]]
 * SSRIs SNRIs
 
-Enzyme inducers **decrease** the amount of active [[Snippets/Warfarin|Warfarin]] and decrease its exposure (and INR)
+Enzyme inducers **decrease** the amount of active [[snippets/Warfarin|Warfarin]] and decrease its exposure (and INR)
 
-Enzyme inhibitors **increase**the amount of active [[Snippets/Warfarin|Warfarin]] and increase its exposure (and INR)
+Enzyme inhibitors **increase**the amount of active [[snippets/Warfarin|Warfarin]] and increase its exposure (and INR)
 
 Drugs that can **inhibit**P450
 
-* [[Snippets/Amiodarone|Amiodarone]]
-* [[Snippets/Metronidazole|Metronidazole]]
-* [[Snippets/Ciprofloxacin|Ciprofloxacin]], levofloxacin
-* [[Snippets/Erythromycin|Erythromycin]], clarithromycin
+* [[snippets/Amiodarone|Amiodarone]]
+* [[snippets/Metronidazole|Metronidazole]]
+* [[snippets/Ciprofloxacin|Ciprofloxacin]], levofloxacin
+* [[snippets/Erythromycin|Erythromycin]], clarithromycin
 * Grape fruit juice
-* SSRIs- sertraline, [[Snippets/Fluoxetine|Fluoxetine]]
-* [[Snippets/Sodium Valproate|Sodium Valproate]]
+* SSRIs- sertraline, [[snippets/Fluoxetine|Fluoxetine]]
+* [[snippets/Sodium Valproate|Sodium Valproate]]
 * Allopurinol
 
 Drugs that can **induce** P450
 
-* **[[Snippets/Carbamazepine|Carbamazepine]]**(self inducing)
-* **[[Snippets/Phenytoin|Phenytoin]]**(self inducing)
+* **[[snippets/Carbamazepine|Carbamazepine]]**(self inducing)
+* **[[snippets/Phenytoin|Phenytoin]]**(self inducing)
 * Rifampin
 * St. John's Wort
 * Chronic alcohol

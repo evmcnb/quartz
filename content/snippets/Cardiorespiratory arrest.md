@@ -33,7 +33,7 @@ C - begin chest complressions at 100-120 bpm with 5-6cm depth with rebound. Afte
 
 * Hypoxia
 * Hypovolaemia
-* Hypo/[[Snippets/Hyperkalaemia|Hyperkalaemia]]/metabolic
+* Hypo/[[snippets/Hyperkalaemia|Hyperkalaemia]]/metabolic
 * Hypothermia
 
 **4Ts**

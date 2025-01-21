@@ -16,7 +16,7 @@ Irreversible liver damage - loss of normal hepatic architecture
 * Duputrens contracture
 * Spider naevi
 
-Cirrhosis may be present for years before becoming decompensated: [[Snippets/Jaundice|Jaundice]], [[Snippets/Ascites|Ascites]] or encephalopathy. Very bad prognostically but the following can be reversed to improve outcomes:
+Cirrhosis may be present for years before becoming decompensated: [[snippets/Jaundice|Jaundice]], [[snippets/Ascites|Ascites]] or encephalopathy. Very bad prognostically but the following can be reversed to improve outcomes:
 
 1. Dehydration
 2. Constipation

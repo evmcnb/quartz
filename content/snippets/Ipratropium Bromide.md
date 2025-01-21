@@ -14,7 +14,7 @@ tags: ['Respiratory', 'Drug']
 | **Indications** | * Reversible airway obstruction (particularly [[COPD]]) * Severe/life-threatening [[asthma]] * Acute bronchospasm |
 | **Contra-indications** | Caution: prostatic hyperplasia, bladder outflow obstructions, patients at risk of glaucoma |
 | **Side-effects** | [[Arrhythmias]], constipation, cough, dizziness, dry mouth, headache, nausea |
-| **Interactions** | * Avoid with clarithromycin/[[Snippets/Erythromycin|Erythromycin]] * ↑ risk of side effect antidepressants * ↓ effect of sublingual nitrates (due to dry mouth) |
+| **Interactions** | * Avoid with clarithromycin/[[snippets/Erythromycin|Erythromycin]] * ↑ risk of side effect antidepressants * ↓ effect of sublingual nitrates (due to dry mouth) |
 | **Elimination** |  |
 | **Additional Notes** |  |
 

@@ -19,6 +19,6 @@ Pyoderma gangrenosum is a rare skin condition that causes rapidly enlarging, pai
 NO – idiopathic  
 D – drugs (penicillin sulphonamides)  
 O – oral contraceptive/[[Pregnancy]]  
-S – [[Snippets/Sarcoidosis|Sarcoidosis]]/TB  
+S – [[snippets/Sarcoidosis|Sarcoidosis]]/TB  
 U – [[Ulcerative Colitis]]/[[Crohn's Disease]]/Behçet's disease  
 M – microbiology (streptococcus, mycoplasma, EBV and more)

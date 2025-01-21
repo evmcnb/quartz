@@ -7,14 +7,14 @@ tags: ['Rheumatology', 'Orthopaedics']
 
 
 
-[[Osteoarthritis]] **LOSS -**irregular [[Snippets/Bone|Bone]] remodelling:
+[[Osteoarthritis]] **LOSS -**irregular [[snippets/Bone|Bone]] remodelling:
 
 1. **L**oss of joint space
 2. **O**steophyte formation (bony spurs protrude out)
-3. **S**clerosis (underlying [[Snippets/Bone|Bone]] becomes hard)
+3. **S**clerosis (underlying [[snippets/Bone|Bone]] becomes hard)
 4. **S**ubchondrial cyst
 
-[[Snippets/Rheumatoid Arthritis|Rheumatoid Arthritis]] **LESS**- immune reaction:
+[[snippets/Rheumatoid Arthritis|Rheumatoid Arthritis]] **LESS**- immune reaction:
 
 * **L**oss of joint space
 * **E**rosions

@@ -11,7 +11,7 @@ tags: ['Antibiotic', 'Urology']
 * Non pregnant
 * Female
 * Normal urinary tract and kidney function
-* 3 day course of antibiotics - nitrofurantoin (avoid with eGFR <45), [[Snippets/Trimethoprim|Trimethoprim]] (higher resistance rates)
+* 3 day course of antibiotics - nitrofurantoin (avoid with eGFR <45), [[snippets/Trimethoprim|Trimethoprim]] (higher resistance rates)
 
 ## Complicated
 

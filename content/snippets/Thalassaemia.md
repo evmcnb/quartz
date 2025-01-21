@@ -22,7 +22,7 @@ Change in globin gene expression leads to reduced rate of synthesis of normal gl
 
 **Intermedia** - no absolute requirement for transfusions to survive. Clinical picture v dependant on genetics
 
-**Major** - severe [[Snippets/Anaemia|Anaemia]], lots of abnormal nucleated RBCs clinical features due to severe [[Snippets/Anaemia|Anaemia]]. Hair on end skull
+**Major** - severe [[snippets/Anaemia|Anaemia]], lots of abnormal nucleated RBCs clinical features due to severe [[snippets/Anaemia|Anaemia]]. Hair on end skull
 
 Need blood but causes Fe toxicity so iron chelation needed too
 

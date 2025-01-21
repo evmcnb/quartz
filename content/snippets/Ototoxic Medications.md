@@ -9,9 +9,9 @@ tags: ['Drug']
 
 FAV Q&A
 
-* [[Snippets/Furosemide|Furosemide]]
+* [[snippets/Furosemide|Furosemide]]
 * Aminoglycosides (gent)
 * Vancomycin
 * Quinine
-* [[Snippets/Aspirin|Aspirin]]
+* [[snippets/Aspirin|Aspirin]]
 

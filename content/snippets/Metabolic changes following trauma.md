@@ -7,8 +7,8 @@ tags: ['Acute', 'Geriatrics', 'Surgery']
 
 
 
-1. Shock - blood loss, poor blood flow, low [[Snippets/Oxygen|Oxygen]] supply - catecholamines
+1. Shock - blood loss, poor blood flow, low [[snippets/Oxygen|Oxygen]] supply - catecholamines
 
-1. Hypercatabolism - increased basal metabolic rate, anaerobic metabolism, excessive breakdown of fat and protein - $\uparrow$ cortisol, glucagon $\downarrow$ GH, [[Snippets/Insulin|Insulin]]
+1. Hypercatabolism - increased basal metabolic rate, anaerobic metabolism, excessive breakdown of fat and protein - $\uparrow$ cortisol, glucagon $\downarrow$ GH, [[snippets/Insulin|Insulin]]
 
 1. Anabolic phase - macromolecule synthesis, onset of recovery, improved appetite - risk of refeeding syndrome

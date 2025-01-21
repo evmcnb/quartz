@@ -22,7 +22,7 @@ Irreversible scarring of the liver.
 
 ## Symptoms
 
-Portal [[Essential hypertension]] - Encephalopathy - [[Snippets/Ascites|Ascites]]
+Portal [[Essential hypertension]] - Encephalopathy - [[snippets/Ascites|Ascites]]
 
 Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 
@@ -37,7 +37,7 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 - [[Jaundice]]
 - hetpatomegaly
 - spider naevi
-- [[Snippets/Ascites|Ascites]] ^e3cff3
+- [[snippets/Ascites|Ascites]] ^e3cff3
 
 ## Diagnostic Tests
 
@@ -50,7 +50,7 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 ## Management
 
 - Good nutrition, alcohol abstinence, avoid NSAIDs, sedatives and opiates
-- [[Snippets/Ascites|Ascites]] - fluid restriction, low salt diet possible spiro
+- [[snippets/Ascites|Ascites]] - fluid restriction, low salt diet possible spiro
 - **Liver transplant** - only definitive treatment
 
 ## Monitoring
@@ -65,11 +65,11 @@ Endoscopy every 3 years for oesophageal varicies screening
 - Calculated **every 6 months**
 
 ### Child-Pugh Score
-- Assesses the severity of [[Snippets/Cirrhosis|Cirrhosis]] and the prognosis
+- Assesses the severity of [[snippets/Cirrhosis|Cirrhosis]] and the prognosis
 - **A** – **A**lbumin
 - **B** – **B**ilirubin
 - **C** – **C**lotting (INR)
-- **D** – **D**ilation ([[Snippets/Ascites|Ascites]])
+- **D** – **D**ilation ([[snippets/Ascites|Ascites]])
 - **E** – **E**ncephalopathy
 
 

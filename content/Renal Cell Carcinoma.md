@@ -40,7 +40,7 @@ Two most common:
 ###### Effects of Distant Metastases
 
 - Lung mets -> SOB
-- [[Snippets/Bone|Bone]] mets -> [[Snippets/Bone|Bone]] pain
+- [[snippets/Bone|Bone]] mets -> [[snippets/Bone|Bone]] pain
 
 ###### Paraneoplastic Syndromes
 

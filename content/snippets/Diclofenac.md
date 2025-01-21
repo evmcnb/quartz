@@ -12,7 +12,7 @@ tags: ['Drug']
 | **Mechanism** | Reversible inhibition of COX-1 and COX-2 enzymes → prostaglandin synthesis |
 | **Typical Dose** | 75-150mg OD with food |
 | **Indications** | * Inflammatory diseases (e.g RA), Post-op pain * Pain * Pyrexia * Acute [[gout]] |
-| **Contra-indications** | * [[Snippets/Aspirin|Aspirin]]/NSAID hypersensitivity * Severe [[Heart Failure]] * Caution in elderly patients |
+| **Contra-indications** | * [[snippets/Aspirin|Aspirin]]/NSAID hypersensitivity * Severe [[Heart Failure]] * Caution in elderly patients |
 | **Side-effects** | GI discomfort, bleeding/ulceration, renal failure |
 | **Interactions** | * ACE inhibitors: ↑ risk of renal impairment * SSRIs: ↑ risk of bleeding * B blockers/CCBS: NSAIDs antagonise hypotensive effects |
 | **Elimination** |  |

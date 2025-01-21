@@ -7,9 +7,9 @@ tags: ['Acute', 'Respiratory']
 
 
 
-[[Snippets/Oxygen|Oxygen]]
+[[snippets/Oxygen|Oxygen]]
 
-[[Snippets/Salbutamol|Salbutamol]]
+[[snippets/Salbutamol|Salbutamol]]
 
 Hydrocortisone
 

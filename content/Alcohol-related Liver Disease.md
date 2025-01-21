@@ -27,11 +27,11 @@ Alcohol-related liver disease (ARLD) refers to liver damage caused by excess alc
 - Loss of appetite
 - [[Jaundice]]
 - Oedema
-- [[Snippets/Ascites|Ascites]]
+- [[snippets/Ascites|Ascites]]
 
 ## Diagnostic Tests
 
-- [[Snippets/Liver function tests|Liver function tests]] ($\downarrow$ albumin) - AST/ALT > 2 is characteristic of alcoholic [[Hepatitis]]
+- [[snippets/Liver function tests|Liver function tests]] ($\downarrow$ albumin) - AST/ALT > 2 is characteristic of alcoholic [[Hepatitis]]
 	- $\gamma$GT especially raised
 - Ultrasound
 - Biopsy
@@ -41,8 +41,8 @@ Alcohol-related liver disease (ARLD) refers to liver damage caused by excess alc
 
 - Stop drinking
 - Good diet and nutrition
-- Corticosteroids ([[Snippets/Prednisolone|Prednisolone]]) reduces mortality
-- Liver transplant if [[Snippets/Liver failure|Liver failure]] occurs
+- Corticosteroids ([[snippets/Prednisolone|Prednisolone]]) reduces mortality
+- Liver transplant if [[snippets/Liver failure|Liver failure]] occurs
 
 ## Complications/red Flags
 - Hepatic encephalopathy - reduce ammonia by giving lactulose (excreted in stool)

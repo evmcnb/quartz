@@ -16,5 +16,5 @@ tags: ['Drug']
 | **Side-effects** | Most common poisoning agent - hepatic necrosis, N-acetylcysteine antidote |
 | **Interactions** | Nothing particularly |
 | **Elimination** |  |
-| **Additional Notes** | Commonly used in children as not associated with Reye's disease (unlike [[Snippets/Aspirin|Aspirin]]). Does not cause GI irritability either |
+| **Additional Notes** | Commonly used in children as not associated with Reye's disease (unlike [[snippets/Aspirin|Aspirin]]). Does not cause GI irritability either |
 

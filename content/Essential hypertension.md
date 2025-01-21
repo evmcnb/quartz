@@ -59,6 +59,6 @@ Treat all >160/100. For those at 140/90 treatment depends on other comorbidities
 
 ## Complications/red Flags
 
-Malignant hypertension - oral therapy unless encephalopathy or cardiac failure. Aim for controlled BP reduction over days not hours. Avoid sudden drops in BP as cerebral autoregulation is poor. Bed rest + [[Snippets/Atenolol|Atenolol]] or long-acting CCBs
+Malignant hypertension - oral therapy unless encephalopathy or cardiac failure. Aim for controlled BP reduction over days not hours. Avoid sudden drops in BP as cerebral autoregulation is poor. Bed rest + [[snippets/Atenolol|Atenolol]] or long-acting CCBs
 
 If encephalopathy monitor with arterial probe and look at guidance for IV medications needed. 

@@ -14,7 +14,7 @@ tags: ['Antibiotic', 'Drug']
 | **Indications** | * Anaerobic protozoal infections * Dental infections * Helicobacter pylori eradication * Rosacea * Pseudomembranous colitis * Foot infection * etc etc |
 | **Contra-indications** | Caution: [[Pregnancy]], breastfeeding, hepatic impairment  Avoid exposure to strong sunlight/UV |
 | **Side-effects** | Dry mouth, myalgia, nausea, oral disorders, metallic taste |
-| **Interactions** | **Alcohol:** causes disulfiram-like reaction (flushing abdo pain hypotension). **Must be avoided**  [[Snippets/Warfarin|Warfarin]] & [[Snippets/Phenytoin|Phenytoin]]: increased plasma conc |
+| **Interactions** | **Alcohol:** causes disulfiram-like reaction (flushing abdo pain hypotension). **Must be avoided**  [[snippets/Warfarin|Warfarin]] & [[snippets/Phenytoin|Phenytoin]]: increased plasma conc |
 | **Elimination** |  |
 | **Additional Notes** | Therapeutic monitoring for course >10 days. Commonly used to treat dental infections |
 

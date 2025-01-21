@@ -16,4 +16,4 @@ Slow growing cancer of mature myeloid cells which don't function properly
 * Main findings is abnormal FBC results, splenomegaly, constitutional symptoms & hyperviscosity
 * Caused by Philadelphia chromosome t(9;22) long arm - forming BCR-ABL gene
 * Good prognosis with **imatinib** - tyrosine kinase inhibitor 95%
-  + Unless transforms into [[Snippets/Acute myeloid leukaemia|Acute myeloid leukaemia]]
+  + Unless transforms into [[snippets/Acute myeloid leukaemia|Acute myeloid leukaemia]]

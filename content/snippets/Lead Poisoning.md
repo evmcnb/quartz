@@ -7,5 +7,5 @@ tags: ['Neurology']
 
 
 
-This condition classically presents with abdominal pain, constipation, [[peripheral neuropathy]] (mainly motor) and neuropsychiatric features. Haematological abnormalities include a microcytic [[Snippets/Anaemia|Anaemia]] and basophilic stippling as demonstrated in this case.
+This condition classically presents with abdominal pain, constipation, [[peripheral neuropathy]] (mainly motor) and neuropsychiatric features. Haematological abnormalities include a microcytic [[snippets/Anaemia|Anaemia]] and basophilic stippling as demonstrated in this case.
 

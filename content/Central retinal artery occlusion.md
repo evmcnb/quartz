@@ -48,7 +48,7 @@ Anything that increases the risk of embolic events or CVD
 
 Sudden loss of vision is an ophthalmological emergency and requires immediate referral to the eye emergency department.
 - (Ocular massage - digital massage may dislodge the emboli)
-- High dose [[Snippets/Aspirin|Aspirin]] - 300mg
+- High dose [[snippets/Aspirin|Aspirin]] - 300mg
 - Intraocular pressure lowering - topical medications or anterior chamber paracentesis
 - IV acetazolamide 
 

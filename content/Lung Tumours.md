@@ -14,7 +14,7 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
     - **adenocarcinoma** 30% - mucin production
     - **[[Squamous cell carcinoma]]** 20% - presence of keratinization
     - large cell carcinoma 10%
-- **Small cell** 15% - arise from endocrine cells -> excrete peptides -> [[Snippets/Paraneoplastic Syndromes|Paraneoplastic Syndromes]]
+- **Small cell** 15% - arise from endocrine cells -> excrete peptides -> [[snippets/Paraneoplastic Syndromes|Paraneoplastic Syndromes]]
 
 Main morphological difference between the two is nuclear characteristics and amount of cytoplasm. Small cell "always" smoking
 #### Secondary Lung Tumours
@@ -49,10 +49,10 @@ Main morphological difference between the two is nuclear characteristics and amo
 
   
 **Squamous cell**  
-- parathyroid hormone-related protein (PTH-rp) secretion causing **[[Snippets/Hypercalcaemia|Hypercalcaemia]]**
+- parathyroid hormone-related protein (PTH-rp) secretion causing **[[snippets/Hypercalcaemia|Hypercalcaemia]]**
 - [[clubbing]]
 - hypertrophic pulmonary osteoarthropathy (HPOA)
-- [[Snippets/Hyperthyroidism|Hyperthyroidism]] due to ectopic TSH
+- [[snippets/Hyperthyroidism|Hyperthyroidism]] due to ectopic TSH
 
   
 **Adenocarcinoma**  
@@ -62,7 +62,7 @@ Main morphological difference between the two is nuclear characteristics and amo
 ## Signs
 
 - **[[clubbing]]** of fingers
-- [[Snippets/Anaemia|Anaemia]]
+- [[snippets/Anaemia|Anaemia]]
 - [[Pleural Effusion]]
 - hepatomegaly
 - metastasis - lymphadenopathy

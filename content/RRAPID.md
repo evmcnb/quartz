@@ -15,11 +15,11 @@ date: 2023-10-05
 #### Airway - Can Be Protected by Themselves?
 - Look- vomit secretions, trauma swelling foreign body 
 - Listen - abnormal sounds, complete obstruction will be silent
-- Feel - airflow from nose/mouth, misting of [[Snippets/Oxygen|Oxygen]]
+- Feel - airflow from nose/mouth, misting of [[snippets/Oxygen|Oxygen]]
 
 Response to obstruction
 - Call for help
-- [[Snippets/Oxygen|Oxygen]] 15L/min via non-rebreathing mask
+- [[snippets/Oxygen|Oxygen]] 15L/min via non-rebreathing mask
 	- If [[COPD]] with chronic retainment aim for 88-92% not 94%
 - Basic airway manoeuvres
 	- Head tilt
@@ -41,7 +41,7 @@ Response to obstruction
 - Feel - symmetry, heart rate, tracheal deviation, chest expansion
 
 Response
-- Give [[Snippets/Oxygen|Oxygen]] 
+- Give [[snippets/Oxygen|Oxygen]] 
 - Sit the patient up 
 - Treat the underlying cause
 	- nebulisers, antibiotics, chest drain 

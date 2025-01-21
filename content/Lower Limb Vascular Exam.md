@@ -27,7 +27,7 @@ date: 2023-10-31
 
 #### Objects and Equipment
 
-- Medical equipment - [[Snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
+- Medical equipment - [[snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - Mobility aids
 - Prosthetic limbs
 - Vital sign charts
@@ -102,5 +102,5 @@ Start with radial and note rate and rhythm - establish what to palpate for in th
 ## Further Assessments and Investigations
 - Full [[Cardiovascular examination]]
 - [[Upper and Lower Limb Neurological Exam|Lower limb neurological exam]]
-- [[Snippets/Upper limb|Upper limb]] vascular exam 
+- [[snippets/Upper limb|Upper limb]] vascular exam 
 - ABPI

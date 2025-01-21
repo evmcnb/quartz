@@ -58,7 +58,7 @@ Specific
 - Steroids
 - Cyclophosphamide, tacrolimus
 
-- Loop diuretics [[Snippets/Furosemide|Furosemide]]
+- Loop diuretics [[snippets/Furosemide|Furosemide]]
 - BP control - ACEi
 - Hypercholesterolaemia - statins
 - Thrombo-prophylaxis - herparin

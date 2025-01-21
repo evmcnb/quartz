@@ -14,7 +14,7 @@ tags: ['Drug', 'Cardiovascular']
 | **Indications** | Hypercholesterolaemia |
 | **Contra-indications** | * Active liver disease/persistently deranged LFTs * [[Pregnancy]]/breast feeding * When taking clarithromycin |
 | **Side-effects** | * Myositis (achy muscles), may lead to rhabdomyolysis |
-| **Interactions** | * Clarithromycin - increased exposure to simvastatin * Cylcosporin - increased risk of myositis * Fibrate - increased risk of myositis * [[Snippets/Warfarin|Warfarin]] - increased exposure to [[Snippets/Warfarin|Warfarin]] |
+| **Interactions** | * Clarithromycin - increased exposure to simvastatin * Cylcosporin - increased risk of myositis * Fibrate - increased risk of myositis * [[snippets/Warfarin|Warfarin]] - increased exposure to [[snippets/Warfarin|Warfarin]] |
 | **Elimination** | ABC transporter mediated biliary excretion |
 | **Additional Notes** | Only prescribe if diet modification has failed and secondary causes of hyperlipidaemia have been ruled out. Regular LFTs before/during treatment. |
 

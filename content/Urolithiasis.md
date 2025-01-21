@@ -23,7 +23,7 @@ Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\ri
 
 - Raised associated mineral
 
-  - [[Snippets/Hypercalcaemia|Hypercalcaemia]] eg parathyroid adenoma
+  - [[snippets/Hypercalcaemia|Hypercalcaemia]] eg parathyroid adenoma
   - Raised urate eg [[gout]]
 
 - Dehydration
@@ -55,9 +55,9 @@ Pain - excruciating
 
 ##### Symptoms
 Opiates not effective
-- NSAIDs - [[Snippets/Diclofenac|Diclofenac]] - IM or rectal
-- IV [[Snippets/Paracetamol|Paracetamol]] if NSAIDs contraindicated
-- Anti-emetics - [[Snippets/Metoclopramide|Metoclopramide]], prochlorperazine, cyclizine
+- NSAIDs - [[snippets/Diclofenac|Diclofenac]] - IM or rectal
+- IV [[snippets/Paracetamol|Paracetamol]] if NSAIDs contraindicated
+- Anti-emetics - [[snippets/Metoclopramide|Metoclopramide]], prochlorperazine, cyclizine
 - Antibiotics if infected 
 
 ##### Stone
@@ -76,7 +76,7 @@ Watch and wait approach if less than 5mm in diameter as there is a 50-80% chance
 - Reduce salt intake
 - Maintain normal calcium intake - too low intake can also increase risk
 
-- Potassium citrate + [[Snippets/Thiazide diuretics|Thiazide diuretics]] for patients with recurrent calcium stones 
+- Potassium citrate + [[snippets/Thiazide diuretics|Thiazide diuretics]] for patients with recurrent calcium stones 
 ## Complications/red Flags
 
 - Infections

@@ -37,7 +37,7 @@ Aim of treatment is to reduce the symptoms, risk of scaring and psychosocial imp
 - If mild no treatment may be an option
 - **Topical benzyol peroxide** - reduces inflammation, helps unblock the comedomes and is toxic to the P. acnes bacteria  
 - **Topical retinoids** - chemicals related to vitamin A that slow the production of sebum
-- **Topical antibiotics** - [[Snippets/Clindamycin|Clindamycin]] 
+- **Topical antibiotics** - [[snippets/Clindamycin|Clindamycin]] 
 - **Oral antibiotics** - lymecycline
 - **Oral contraceptive pill** - can help female patients stabilise hormones to slow production of sebum 
 

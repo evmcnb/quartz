@@ -85,7 +85,7 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 - Neoplasia: metastases, lung cancer, hamartoma, adenoma
 - Infections: varicella pneumonias, septic emboli, abscess, hydatid
 - Granulomas: [[Tuberculosis]], [[Sarcoidosis]], histoplasmosis
-- [[Snippets/Pneumoconiosis|Pneumoconiosis]] (except asbestosis)
+- [[snippets/Pneumoconiosis|Pneumoconiosis]] (except asbestosis)
 
 ![[z_attachments/Pasted image 20231010115306.png|325]]
 
@@ -93,7 +93,7 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 **Reticular opacification** - lung parenchymal changes
 - Acute interstitial oedema
 - Infection: acute (viral, bacterial), chronic (TB, histoplasmosis)
-- Fibrosis: interstitial [[pneumonia]], drugs (methotrexate, [[Snippets/Bleomycin|Bleomycin]], crack cocaine), connective tissue disorders, systemic sclerosis, [[Industrial dust diseases]], [[interstitial lung disease]]
+- Fibrosis: interstitial [[pneumonia]], drugs (methotrexate, [[snippets/Bleomycin|Bleomycin]], crack cocaine), connective tissue disorders, systemic sclerosis, [[Industrial dust diseases]], [[interstitial lung disease]]
 
 ![[z_attachments/Pasted image 20231010120103.png|325]]
 
@@ -101,8 +101,8 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 **Alveolar opacification** - can be due to any material filling the alveoli
 - Pus - [[pneumonia]]
 - Blood - haemorrhage, DIC
-- Water - heart, renal or [[Snippets/Liver failure|Liver failure]], ARDS, smoke inhalation, heroin, $O_2$ toxicity, near drowning
-- Cells - [[Snippets/Lymphoma|Lymphoma]], adenocarcinoma
+- Water - heart, renal or [[snippets/Liver failure|Liver failure]], ARDS, smoke inhalation, heroin, $O_2$ toxicity, near drowning
+- Cells - [[snippets/Lymphoma|Lymphoma]], adenocarcinoma
 - Protein - alveolar proteinosis, ARDS, fat emboli
 
 ![[z_attachments/Pasted image 20231010120504.png|325]]
@@ -111,7 +111,7 @@ _Ring opacities_ - either from a CT cross section referring to [[bronchiectasis]
 
 _Linear opacities_ - septal lines (Kerley B lines, i.e. interlobular lymphatics seen with something), atelectasis, pleural plaques
 
-_White out of whole hemithorax_ - [[pneumonia]], large [[Snippets/Pleural Effusion|Pleural Effusion]], ARDS, post pneumonectomy
+_White out of whole hemithorax_ - [[pneumonia]], large [[snippets/Pleural Effusion|Pleural Effusion]], ARDS, post pneumonectomy
 
 
 #### Cardiac
@@ -184,7 +184,7 @@ Uncontrolled haematogenous spread
 **pneumonectomy** (no mass effect - volume loss)
 ![[z_attachments/Pasted image 20240122145551.png|450]]
 
-**Massive [[Snippets/Pleural Effusion|Pleural Effusion]]** (with mass effect)
+**Massive [[snippets/Pleural Effusion|Pleural Effusion]]** (with mass effect)
 
 ![[z_attachments/Pasted image 20240122145804.png|450]]
 ##### [[COPD]]

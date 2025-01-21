@@ -37,7 +37,7 @@ _Tigecycline_
 
 | Antibiotic      | Indications                                                      | Considerations                           |
 | --------------- | ---------------------------------------------------------------- | ---------------------------------------- |
-| [[Snippets/Clindamycin|Clindamycin]]     | Gram +ve cocci (not enterococci), MRSA, anaerobes                | $\uparrow$ risk C. diff                  |
+| [[snippets/Clindamycin|Clindamycin]]     | Gram +ve cocci (not enterococci), MRSA, anaerobes                | $\uparrow$ risk C. diff                  |
 | Linezolid       | Gram +ve cocci, MRSA, VRE, anaerobes, mycobacteria               | MAOI check interactions                  |
 | Chloramphenicol | Gram +ve & -ve, anaerobes, mycoplasma, chlamydia, [[Conjunctivitis]] | Systemic use limited by myelosuppression |
 | Fusidic acid    | Staphylococci                                                    | $\uparrow$ LFTs                                         |

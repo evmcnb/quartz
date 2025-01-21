@@ -24,7 +24,7 @@ As time progresses this infection ascends towards the liver
 
 - Fever
 - RUQ pain
-- [[Snippets/Jaundice|Jaundice]]
+- [[snippets/Jaundice|Jaundice]]
 - N&V
 
 ## Signs
@@ -32,7 +32,7 @@ As time progresses this infection ascends towards the liver
 > [!abstract] Charcot's triad
 >- Fever 
 >- RUQ pain
->- [[Snippets/Jaundice|Jaundice]]
+>- [[snippets/Jaundice|Jaundice]]
 
 **Reynold's pentad** - Charcot's triad + altered mental status + hypotension
 
@@ -40,7 +40,7 @@ As time progresses this infection ascends towards the liver
 
 - FBC, CRP - elevated WCC and CRP
 - [[Sepsis]] screen - **thrombocytopenia**, **coagulopathies** and a **raised lactate**.
-- LFTs - obstructive [[Snippets/Jaundice|Jaundice]] (raised ALP and bilirubin)
+- LFTs - obstructive [[snippets/Jaundice|Jaundice]] (raised ALP and bilirubin)
 - USS to looked for a dilated bile duct - if -ve CTA contrast should be requested
 
 ## Management

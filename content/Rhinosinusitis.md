@@ -17,8 +17,8 @@ There are four sets of **_paranasal sinuses_**:
 
 - **_Frontal sinuses_** (above the eyebrows)
 - **_Maxillary sinuses_** (either side of the nose below the eyes)
-- **_Ethmoid sinuses_** (in the ethmoid [[Snippets/Bone|Bone]] in the middle of the nasal cavity)
-- **_Sphenoid sinuses_** (in the sphenoid [[Snippets/Bone|Bone]] at the back of the nasal cavity)
+- **_Ethmoid sinuses_** (in the ethmoid [[snippets/Bone|Bone]] in the middle of the nasal cavity)
+- **_Sphenoid sinuses_** (in the sphenoid [[snippets/Bone|Bone]] at the back of the nasal cavity)
 
 ## Causes/Factors
 
@@ -73,6 +73,6 @@ Advise on the natural course and cause of the condition. Simple symptom relievin
 For chronic sinusitis: 
 - Saline nasal irrigation 
 - Steroid nasal sprays or drops
-- Functional endoscopic sinus surgery - obstructions - swollen mucosa, [[Snippets/Bone|Bone]], polyps, deviated septum. 
+- Functional endoscopic sinus surgery - obstructions - swollen mucosa, [[snippets/Bone|Bone]], polyps, deviated septum. 
 
 ## Complications/red Flags

@@ -7,4 +7,4 @@ tags: ['OBGYN', 'Endocrinology']
 
 
 
-* **Increase** [[Snippets/Levothyroxine|Levothyroxine]] in [[Pregnancy]] (+25-50mg)
+* **Increase** [[snippets/Levothyroxine|Levothyroxine]] in [[Pregnancy]] (+25-50mg)

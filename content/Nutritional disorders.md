@@ -48,7 +48,7 @@ Causes blindness, very common in tropics. Conjunctivae become dry and develop ov
 | Fluoride               | Stomach                  | Dental caries                                    |
 | Iodide                 | Small intestine          | Goitre; cretinism                                |
 | Iron                   | Duodenum + jejunum       | [[Anaemia]]                           |
-| Magnesium              | Small intestine          | See hypo/[[Snippets/Hypermagnesemia|Hypermagnesemia]]                         |
+| Magnesium              | Small intestine          | See hypo/[[snippets/Hypermagnesemia|Hypermagnesemia]]                         |
 | Phosphate              | Small intestine          | [[osteoporosis]]                                 |
 | Selenium               | Small intestine          | Cardiomyopathy                                   |
 | Zinc                   | Jejunum                  | Acrodermatitis enteropathica, poor wound healing |

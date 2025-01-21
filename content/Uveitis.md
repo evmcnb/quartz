@@ -26,7 +26,7 @@ date: 2024-02-09
 ## Causes/Factors
 
 - Usually idiopathic
-- Autoimmune - [[Snippets/Reactive Arthritis|Reactive Arthritis]], psoriatic arthritis, [[Ankylosing spondylitis]] and [[inflammatory bowel disease]] - HLA-B27
+- Autoimmune - [[snippets/Reactive Arthritis|Reactive Arthritis]], psoriatic arthritis, [[Ankylosing spondylitis]] and [[inflammatory bowel disease]] - HLA-B27
 - Infections
 - Trauma
 

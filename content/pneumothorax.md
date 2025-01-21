@@ -11,7 +11,7 @@ date: 2024-01-14
 
 Air getting in pleural cavity causing collapse of the lung
 
-Becomes a tensions [[Snippets/Pneumothorax|Pneumothorax]] when the pressure causes a shift in the mediastinum -> impairment of cardiopulmonary system
+Becomes a tensions [[snippets/Pneumothorax|Pneumothorax]] when the pressure causes a shift in the mediastinum -> impairment of cardiopulmonary system
 
 ## Causes/Factors
 

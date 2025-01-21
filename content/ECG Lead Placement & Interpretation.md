@@ -68,14 +68,14 @@ date: 2024-01-14
 | $\uparrow$   | $\uparrow$   | Between +90$\degree$ and 0$\degree$    | Normal                        |                                                                                                     |
 | $\downarrow$ | $\uparrow$   | Between +180$\degree$ and +90$\degree$ | Right axis deviation          | Normal in children & young adults, RVH, [[COPD]], lateral wall MI                                       |
 | $\uparrow$   | $\downarrow$ | Between 0$\degree$ and -90$\degree$    | Left axis deviation OR NORMAL | Normal in older obese adults, LVH, elevated diaphragm, inferior wall MI, ectopic ventricular rhythm |
-| $\downarrow$ | $\downarrow$ | Between -90$\degree$ and -150$\degree$ | Extreme axis deviation        | RVH, acute right ventricular strain, lateral STEMI, [[COPD]], [[Snippets/Hyperkalaemia|Hyperkalaemia]], dextrocardia                                                                                                    |
+| $\downarrow$ | $\downarrow$ | Between -90$\degree$ and -150$\degree$ | Extreme axis deviation        | RVH, acute right ventricular strain, lateral STEMI, [[COPD]], [[snippets/Hyperkalaemia|Hyperkalaemia]], dextrocardia                                                                                                    |
 
 To determine whether it is true left axis deviation look at lead II and it will be $\downarrow$  
 
 2. Examine QRS morphology
 	- Pathologic Q waves - usually due to prior MI
 	- RVH and LVH
-	- If the QRS is wide identify whether the cause is left or right [[Snippets/Bundle Branch Block|Bundle Branch Block]] (**WiLLiaM MaRRoW**) or just delayed
+	- If the QRS is wide identify whether the cause is left or right [[snippets/Bundle Branch Block|Bundle Branch Block]] (**WiLLiaM MaRRoW**) or just delayed
 	- Look for low voltage - [[Obesity]], [[COPD]], [[Pleural Effusion]], pericardial effusion, infiltration, [[Hypothyroidism]]
 	- Look for electrical alternans which indicates large pericardial effusion
 	- Look for delta waves - indicates accessory pathway 
@@ -84,15 +84,15 @@ To determine whether it is true left axis deviation look at lead II and it will 
 
 1. Examine the ST segments
 	- 1mm in at least 2 anatomically continuous leads
-	- ST elevation: STEMI, LBBB, LVH, early repolarization, [[Snippets/Pericarditis|Pericarditis]], vasospasm 
-	- ST [[Depression]]: Ischaemia/infarction, tachycardia, [[Snippets/Digoxin|Digoxin]], hypokalaemia, secondary repolarization abnormality 
+	- ST elevation: STEMI, LBBB, LVH, early repolarization, [[snippets/Pericarditis|Pericarditis]], vasospasm 
+	- ST [[Depression]]: Ischaemia/infarction, tachycardia, [[snippets/Digoxin|Digoxin]], hypokalaemia, secondary repolarization abnormality 
 
-2. Examine the [[Snippets/T waves|T waves]]
-	- Inverted [[Snippets/T waves|T waves]] same as ST [[Depression]] + intracranial haemorrhage, later stage [[Snippets/Pericarditis|Pericarditis]] and [[Hypothyroidism]]
-	- Peaked [[Snippets/T waves|T waves]] suggest [[Snippets/Hyperkalaemia|Hyperkalaemia]] or hyperacute MI
+2. Examine the [[snippets/T waves|T waves]]
+	- Inverted [[snippets/T waves|T waves]] same as ST [[Depression]] + intracranial haemorrhage, later stage [[snippets/Pericarditis|Pericarditis]] and [[Hypothyroidism]]
+	- Peaked [[snippets/T waves|T waves]] suggest [[snippets/Hyperkalaemia|Hyperkalaemia]] or hyperacute MI
 
 3. Measure QT interval and correct for HR (should be <1/2 RR interval)
-	- Prolonged QT: medications, long QT syndrome, [[Snippets/Hypocalcaemia|Hypocalcaemia]], [[Hypothyroidism]], hypothermia
+	- Prolonged QT: medications, long QT syndrome, [[snippets/Hypocalcaemia|Hypocalcaemia]], [[Hypothyroidism]], hypothermia
 
 
 ## Examples

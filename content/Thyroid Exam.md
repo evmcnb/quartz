@@ -37,18 +37,18 @@ date: 2024-02-07
 #### Objects and Equipment
 
 - Mobility aids - patients with [[Hyperthyroidism]] can develop proximal myopathy
-- Prescriptions - eg [[Snippets/Levothyroxine|Levothyroxine]]
+- Prescriptions - eg [[snippets/Levothyroxine|Levothyroxine]]
 
 ## Hands
 
 #### Inspection
 
-- <span style="color:#ff0000">Thyroid acropachy</span> - similar appearance to <span style="color:#00b0f0">clubbing</span> caused by phalangeal [[Snippets/Bone|Bone]] overgrowth secondary to [[Grave's disease]]
+- <span style="color:#ff0000">Thyroid acropachy</span> - similar appearance to <span style="color:#00b0f0">clubbing</span> caused by phalangeal [[snippets/Bone|Bone]] overgrowth secondary to [[Grave's disease]]
 - <span style="color:#ff0000">Onycholysis</span> - detachment of nail from the bed a/w [[Hyperthyroidism]] -<span style="color:#ff0000"> Palmar erythema</span> - reddening of palms a/w [[Hyperthyroidism]]
 
 #### Peripheral tremor
 
-A feature of [[Snippets/Hyperthyroidism|Hyperthyroidism]] due to sympathetic nervous system overactivity
+A feature of [[snippets/Hyperthyroidism|Hyperthyroidism]] due to sympathetic nervous system overactivity
 
 1. Ask patient to stretch out their arms
 2. Place a piece of paper across both hands
@@ -151,7 +151,7 @@ Assess for:
 - Symmetry
 - Consistency
 - Masses - e.g. solitary node rather than diffuse swelling
-- Thrills (increased vascularity due to [[Snippets/Hyperthyroidism|Hyperthyroidism]])
+- Thrills (increased vascularity due to [[snippets/Hyperthyroidism|Hyperthyroidism]])
 
 If a mass is noted assess its **position, shape, consistency and mobility**
 

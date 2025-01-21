@@ -7,7 +7,7 @@ tags: ['Rheumatology', 'Nephrology', 'Geriatrics', 'Orthopaedics']
 
 
 
-Defective [[Snippets/Bone|Bone]] mineralisation causes "soft" bones due to insufficient vitamin D. The same process causes rickets in children.
+Defective [[snippets/Bone|Bone]] mineralisation causes "soft" bones due to insufficient vitamin D. The same process causes rickets in children.
 
 Vitamin D is created from cholesterol by the skin (UV light dependant). Diet has some vit D but not enough.
 
@@ -36,4 +36,4 @@ Check serum calcium within a month of loading regime. It may be:
 
 1. Low in calcium deficiency =
 2. High in primary hyperparathyroidism previously masked by the vitamin D deficiency
-3. High in other conditions that cause [[Snippets/Hypercalcaemia|Hypercalcaemia]], cancer, [[Snippets/Sarcoidosis|Sarcoidosis]], or TB
+3. High in other conditions that cause [[snippets/Hypercalcaemia|Hypercalcaemia]], cancer, [[snippets/Sarcoidosis|Sarcoidosis]], or TB

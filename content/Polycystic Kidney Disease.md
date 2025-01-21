@@ -33,7 +33,7 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 - **[[Essential hypertension|Hypertension]]:** Elevated blood pressure.
 - **Pain:** Abdominal or back pain due to enlarged kidneys and cysts.
 - **Hematuria:** Blood in the urine.
-- **[[Snippets/Urinary Tract Infections|Urinary Tract Infections]]:** Due to cysts obstructing normal urine flow.
+- **[[snippets/Urinary Tract Infections|Urinary Tract Infections]]:** Due to cysts obstructing normal urine flow.
 - **[[Urolithiasis]]:** Due to cysts interfering with urinary drainage.
 - **Renal Dysfunction:** Impaired kidney function over time.
 
@@ -68,6 +68,6 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 
 ## Complications/red Flags
 
-- **[[Snippets/Kidney Failure|Kidney Failure]]:** Gradual loss of kidney function.
+- **[[snippets/Kidney Failure|Kidney Failure]]:** Gradual loss of kidney function.
 - **Cyst Rupture or Bleeding:** Pain and complications due to cysts bursting or bleeding.
-- **[[Snippets/Urinary Tract Infections|Urinary Tract Infections]]:** Frequent infections due to cyst obstruction.
+- **[[snippets/Urinary Tract Infections|Urinary Tract Infections]]:** Frequent infections due to cyst obstruction.

@@ -6,7 +6,7 @@ date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
 date: 2023-09-18
 ---
-**Most common cause of [[Snippets/Glomerulonephritis|Glomerulonephritis]] in children**
+**Most common cause of [[snippets/Glomerulonephritis|Glomerulonephritis]] in children**
 
 
 Minimal Change Disease (MCD) is a type of kidney disorder characterised by damage to the glomeruli. No change on histology under light microscopy 

@@ -24,7 +24,7 @@ Hepatitis B ^b362b5
 
 Hepatitis C
 
-- Most common [[Snippets/Viral hepatitis|Viral hepatitis]] in UK
+- Most common [[snippets/Viral hepatitis|Viral hepatitis]] in UK
 - Often causes no symptoms
 - 25% will fight of the infection the rest will have a chronic infection
 - Good drug treatment options
@@ -33,7 +33,7 @@ Hepatitis D
 
 - Only affects people who are already infected with hep B
 - Spread via blood
-- Chronic infection of hep B and D can increase risk of [[Snippets/Cirrhosis|Cirrhosis]] and liver cancer
+- Chronic infection of hep B and D can increase risk of [[snippets/Cirrhosis|Cirrhosis]] and liver cancer
 
 Hepatitis E
 
@@ -45,7 +45,7 @@ Alcoholic hepatitis
 
 - [[Alcohol-related Liver Disease]]
 
-[[Snippets/Paracetamol|Paracetamol]] Overdose
+[[snippets/Paracetamol|Paracetamol]] Overdose
 
 Autoimmune hepatitis
 

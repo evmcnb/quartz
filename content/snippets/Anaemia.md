@@ -12,13 +12,13 @@ tags: ['Haematology']
 | Iron deficiency | \(\downarrow\) | \(\uparrow\) | \(\downarrow\) |
 | Anaemia of chronic disease | \(\downarrow\) | \(\downarrow\) | \(\uparrow\) |
 | Chronic haemolysis | \(\uparrow\) | \(\downarrow\) | \(\uparrow\) |
-| [[Snippets/Haemochromatosis|Haemochromatosis]] | \(\uparrow\) | \(\downarrow\) or \(\leftrightarrow\) | \(\uparrow\) |
+| [[snippets/Haemochromatosis|Haemochromatosis]] | \(\uparrow\) | \(\downarrow\) or \(\leftrightarrow\) | \(\uparrow\) |
 | [[Pregnancy]] | \(\uparrow\) | \(\uparrow\) | \(\leftrightarrow\) |
 | Sideroblastic anaemia | \(\uparrow\) | \(\leftrightarrow\) | \(\uparrow\) |
 
 Haemolytic - macrocytic \(\uparrow\) reticulocytes \(\uparrow\) bilirubin
 
-* Things wrong inside cell - sickle cell, G6PD def, [[Snippets/Thalassaemia|Thalassaemia]]
+* Things wrong inside cell - sickle cell, G6PD def, [[snippets/Thalassaemia|Thalassaemia]]
 * Things wrong with RBC membrane - spherocytosis elliptocytosis
 * External things wrong - antibodies, heart valves, drugs, vascular
 

@@ -9,11 +9,11 @@ tags: ['Oncology']
 
 * Best prognosis is lymphocyte pre-dominant type
 * It's more common in older people but can occur in young people.
-* The main difference between this type and classical Hodgkin [[Snippets/Lymphoma|Lymphoma]] is that in the nodular lymphocyte predominant type there are very few Reed-Sternberg cells.
+* The main difference between this type and classical Hodgkin [[snippets/Lymphoma|Lymphoma]] is that in the nodular lymphocyte predominant type there are very few Reed-Sternberg cells.
 
 ## Findings
 
-* [[Snippets/Anaemia|Anaemia]]
+* [[snippets/Anaemia|Anaemia]]
 * Hepatosplenomegaly
 * Raised bilirubin
 * Reed-Sternberg cells

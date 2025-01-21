@@ -66,9 +66,9 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 Acute:
 
 **MOAN pneumonic**
-- [[Snippets/Morphine|Morphine]] 5-10mg (with [[Snippets/Metoclopramide|Metoclopramide]] 10mg)
-- [[Snippets/Oxygen|Oxygen]]
-- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. [[Snippets/Clopidogrel|Clopidogrel]] if high bleeding risk, or prasugrel if having angiography.
+- [[snippets/Morphine|Morphine]] 5-10mg (with [[snippets/Metoclopramide|Metoclopramide]] 10mg)
+- [[snippets/Oxygen|Oxygen]]
+- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. [[snippets/Clopidogrel|Clopidogrel]] if high bleeding risk, or prasugrel if having angiography.
 - Nitrates - GNT spray
 
 - *PCI* must be within 2 hours otherwise *thrombolysis*
@@ -83,11 +83,11 @@ Patients at **_medium_** or **_high risk_** are considered for early **_ang
 Factors in GRACE score is age HR systolic BP and associated symptoms
 
 Post MI 6A's:
-- [[Snippets/Aspirin|Aspirin]] 75mg indefinitely
-- Another Anti-platelet - ticagrelor or [[Snippets/Clopidogrel|Clopidogrel]] for 12 months
+- [[snippets/Aspirin|Aspirin]] 75mg indefinitely
+- Another Anti-platelet - ticagrelor or [[snippets/Clopidogrel|Clopidogrel]] for 12 months
 - Atorvastatin 80mg once daily
 - ACE inhibitor as high as tolerated
-- [[Snippets/Atenolol|Atenolol]] or another beta blocker
+- [[snippets/Atenolol|Atenolol]] or another beta blocker
 - Aldosterone antagonist in those with [[Heart Failure]]
 
 ## Complications/red Flags

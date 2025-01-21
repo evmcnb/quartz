@@ -7,5 +7,5 @@ tags: ['Cardiovascular']
 
 
 
-* In any BBB the [[Snippets/T waves|T waves]] should be in the opposite direction to the last QRS deflection
+* In any BBB the [[snippets/T waves|T waves]] should be in the opposite direction to the last QRS deflection
 * If this is not the cases - there is likely another cause for the T wave inversion.

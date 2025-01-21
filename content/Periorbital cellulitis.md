@@ -39,7 +39,7 @@ Emergency referral to ophthalmology/ENT if:
 - the patient is systemically unwell
 - the patient is a child as paediatric patients require empirical IV antibiotics and daily monitoring due to the difficulty in differentiating between the two - can be challenging history and exam to take
 
-For adult patients oral [[Snippets/Co-amoxiclav|Co-amoxiclav]] is 1st line ([[Snippets/Clindamycin|Clindamycin]] if pen allergic)
+For adult patients oral [[snippets/Co-amoxiclav|Co-amoxiclav]] is 1st line ([[snippets/Clindamycin|Clindamycin]] if pen allergic)
 Consider 24-48h follow up and safety netting advice should be given 
 
 ## Complications/red Flags

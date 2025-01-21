@@ -14,7 +14,7 @@ tags: ['Cardiovascular', 'Drug']
 | **Indications** | * VTE in [[Pregnancy]] * DVT prophylaxis * DVT & PE treatment in low risk of recurrence patients * Unstable [[Angina]] |
 | **Contra-indications** | * Haemophilia/haemorrhagic disorders * Thrombocytopenia * Recent cerebral bleed * Severe liver disease * Peptic ulcer disese |
 | **Side-effects** | * Haemorrhage * Thrombocytopenia |
-| **Interactions** | [[Snippets/Aspirin|Aspirin]] - increased bleeding risk |
+| **Interactions** | [[snippets/Aspirin|Aspirin]] - increased bleeding risk |
 | **Elimination** |  |
 | **Additional Notes** | As effective as unfractionated heparins but decreased risk of heparin-induced thrombocytopenia and act for longer. Immediate effect so suitable for acute venous events. **Can be reversed by IV protamine sulphate.** |
 

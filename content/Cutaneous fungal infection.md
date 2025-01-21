@@ -35,7 +35,7 @@ Usually commensal in mouth, vagina and GI tract
 
 #### Causes 
 
-- [[Snippets/Immunosuppression|Immunosuppression]] (steroid inhalers)
+- [[snippets/Immunosuppression|Immunosuppression]] (steroid inhalers)
 - Antibiotic treatment (opportunistic)
 
 #### Clinical Presentation
@@ -66,7 +66,7 @@ Sometimes difficult to differentiate with [[Acne vulgaris]]
 # Management
 
 1. **Topical Antifungals:** (e.g., Clotrimazole, Miconazole) for localized infections.
-2. **Oral Antifungals:** (e.g., Terbinafine, [[Snippets/Fluconazole|Fluconazole]]) for extensive or severe infections.
+2. **Oral Antifungals:** (e.g., Terbinafine, [[snippets/Fluconazole|Fluconazole]]) for extensive or severe infections.
 3. **Proper Hygiene:** Keep affected areas clean and dry; avoid shared items.
 4. **Address Contributing Factors:** Control moisture, especially in sweating-prone areas.
 

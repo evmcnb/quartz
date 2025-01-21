@@ -53,7 +53,7 @@ Smoking, pollution
 
 ## Management
 
-- **Initial treatment**: short acting $\beta_2$ agonist (SABA) ([[Snippets/Salbutamol|Salbutamol]]) and short acting muscarinic antagonist (SAMA) ([[Snippets/Ipratropium Bromide|Ipratropium Bromide]]) - as necessary 
+- **Initial treatment**: short acting $\beta_2$ agonist (SABA) ([[snippets/Salbutamol|Salbutamol]]) and short acting muscarinic antagonist (SAMA) ([[snippets/Ipratropium Bromide|Ipratropium Bromide]]) - as necessary 
 
 Step up if **no** [[asthma]] features: LABA + LAMA
 
@@ -63,7 +63,7 @@ Step up treatment when symptoms and exacerbations are still a problem with **[[a
 - Mucolytics
 - Long-term $O_2$ therapy (NICE guidelines, $O_2$ targets of 88-92%)
 
-During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - [[Snippets/Azithromycin|Azithromycin]] to Avoid infections (250mg TDS)
+During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - [[snippets/Azithromycin|Azithromycin]] to Avoid infections (250mg TDS)
 
 ![[z_attachments/Pasted image 20240516153348.png]]
 

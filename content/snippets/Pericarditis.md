@@ -12,7 +12,7 @@ Inflammation of pericardial sac - reduces effectiveness of contractions
 * **Acute** - serofibrinous, caseous, haemorrhagic & purulent
 * **Chronic** - constrictive
 
-Infections - Coxackie B, bacteria, TB, fungi etc Autoimmune - [[Snippets/Rheumatic Fever|Rheumatic Fever]], SLE, scleroderma, post-MI Other- uraemia, neoplasia, trauma
+Infections - Coxackie B, bacteria, TB, fungi etc Autoimmune - [[snippets/Rheumatic Fever|Rheumatic Fever]], SLE, scleroderma, post-MI Other- uraemia, neoplasia, trauma
 
 **Signs:**
 

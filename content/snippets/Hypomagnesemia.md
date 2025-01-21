@@ -14,5 +14,5 @@ tags: ['Symptom']
 Symptoms
 
 * Nausea, muscle cramps, tremors, hyperreflexia, tetancy (involuntary contraction of muscles)
-* Associated with long term use of [[Snippets/Omeprazole|Omeprazole]]
+* Associated with long term use of [[snippets/Omeprazole|Omeprazole]]
 * IV infusion of magnesium sulfate

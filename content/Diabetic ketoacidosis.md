@@ -7,22 +7,22 @@ date created: Sunday, November 12th 2023, 12:59:52 pm
 date modified: 2024-03-11
 date: 2023-11-12
 ---
-When the lack of [[Snippets/Insulin|Insulin]] or [[Snippets/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
+When the lack of [[snippets/Insulin|Insulin]] or [[snippets/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
 
 The combination of both acidosis and hyperglycaemia can be deadly
 
 Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2  
 ## Causes/Factors
 
-- **[[Snippets/Insulin|Insulin]] Deficiency:** Often due to missed [[Snippets/Insulin|Insulin]] doses or inadequate [[Snippets/Insulin|Insulin]] therapy.
-- **Infection or Illness:** Infections or other illnesses can increase the body's need for [[Snippets/Insulin|Insulin]].
+- **[[snippets/Insulin|Insulin]] Deficiency:** Often due to missed [[snippets/Insulin|Insulin]] doses or inadequate [[snippets/Insulin|Insulin]] therapy.
+- **Infection or Illness:** Infections or other illnesses can increase the body's need for [[snippets/Insulin|Insulin]].
 - **Undiagnosed Diabetes:** In some cases, DKA may be the first sign of diabetes.
 - **Stress or Trauma:** Physical or emotional stress can contribute e.g.
 	- Infection
 	- Surgery
 	- MI
 	- [[pancreatitis]]
-- **Certain Medications:** Such as corticosteroids, wrong [[Snippets/Insulin|Insulin]] dose, antipsychotics 
+- **Certain Medications:** Such as corticosteroids, wrong [[snippets/Insulin|Insulin]] dose, antipsychotics 
 
 ## Symptoms
 
@@ -57,7 +57,7 @@ Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2
 > - SpO2 <92% on air (assuming no respiratory disease)
 > - Systolic <90
 > - Pulse >100 or <60
-> - [[Snippets/Anion gap|Anion gap]] above 16
+> - [[snippets/Anion gap|Anion gap]] above 16
 
 #### Complications
 
@@ -65,7 +65,7 @@ Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2
 - Aspiration [[pneumonia]] 
 - Hypo -kalacemia, -magnesaemia and -phosphataemia
 
-- Plasma glucose is usually high but not always especially if [[Snippets/Insulin|Insulin]] continued
+- Plasma glucose is usually high but not always especially if [[snippets/Insulin|Insulin]] continued
 - High WCC may be present without an infection 
 - Often no fever with an infection
 - Some creatinine assays cross-react with ketones so may not get a true renal picture

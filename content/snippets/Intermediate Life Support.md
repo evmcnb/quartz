@@ -11,7 +11,7 @@ Patients in VF/pulseless VT should receive one shock followed by two minutes of 
 
   
 
-Adrenaline 1mg IV and [[Snippets/Amiodarone|Amiodarone]] 300mg IV are given once compressions restart following three shocks for shockable rhythms (VT/pulseless VF). This is then followed by adrenaline 1mg IV after alternate shocks (every 3-5 minutes).  
+Adrenaline 1mg IV and [[snippets/Amiodarone|Amiodarone]] 300mg IV are given once compressions restart following three shocks for shockable rhythms (VT/pulseless VF). This is then followed by adrenaline 1mg IV after alternate shocks (every 3-5 minutes).  
 
   
 
@@ -34,4 +34,4 @@ Hypokalemia is the most important cause of ventricular tachycardia followed by 
 ### Broad complex tachycarida
 
 * DC cardioversion
-* IV [[Snippets/Amiodarone|Amiodarone]] if adverse features not present
+* IV [[snippets/Amiodarone|Amiodarone]] if adverse features not present

@@ -87,12 +87,12 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 
 Exclude [[Hypoglycaemia]]
 Immediate CT brain to exclude haemorrhage
-[[Snippets/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
+[[snippets/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
 Admission to a specialist stroke centre
 
 Once haemorrhagic **excluded**:
 
-[[Snippets/Aspirin|Aspirin]] 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. [[Snippets/Clopidogrel|Clopidogrel]])
+[[snippets/Aspirin|Aspirin]] 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. [[snippets/Clopidogrel|Clopidogrel]])
 
 - Within 4.5hrs = thromboctomy + alteplase (thrombolysis)
 - Within 6-24hrs = thromboctomy alone  
@@ -101,7 +101,7 @@ Once haemorrhagic **excluded**:
 Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement
 
 For haemorrhagic confirmed :
-- Reverse [[Snippets/Anticoagulants|Anticoagulants]] if possible (vitamin K for [[Snippets/Warfarin|Warfarin]], idarucizumab for dabigatran)
+- Reverse [[snippets/Anticoagulants|Anticoagulants]] if possible (vitamin K for [[snippets/Warfarin|Warfarin]], idarucizumab for dabigatran)
 - Neurosurgical discussion -  coiling (endovascular embolization) can be used to stop further bleeding. Surgery can also be done to remove excess blood and reduce intracranial pressure
 
 
@@ -114,4 +114,4 @@ For haemorrhagic confirmed :
 - Bladder and bowel care
 - **Physiotherapy** - monitor progress 
 - Monitor mood
-- Drugs - High dose statins: 80mg atorvastatin, anticoagulation in AF: DOAC, [[Snippets/Anti-platelets|Anti-platelets]], anti-diabetics 
+- Drugs - High dose statins: 80mg atorvastatin, anticoagulation in AF: DOAC, [[snippets/Anti-platelets|Anti-platelets]], anti-diabetics 

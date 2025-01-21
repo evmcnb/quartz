@@ -9,13 +9,13 @@ tags: ['Oncology']
 
 | Tumour marker | Relevant cancer | Use | Other associated cancers | Associated benign conditions |
 | --- | --- | --- | --- | --- |
-| Alpha-fetoprotein (αFP) | Germ cell/testicular  Hepatocellular | Diagnosis monitoring treatment, detecting recurrence | Colorectal, gastric, hepatobiliary, lung | [[Snippets/Cirrhosis|Cirrhosis]], [[Pregnancy]], neural tube defects |
+| Alpha-fetoprotein (αFP) | Germ cell/testicular  Hepatocellular | Diagnosis monitoring treatment, detecting recurrence | Colorectal, gastric, hepatobiliary, lung | [[snippets/Cirrhosis|Cirrhosis]], [[Pregnancy]], neural tube defects |
 | Human chorionic gonadotrophin (hCG) | Germ cell/testicular gestational trophoblastic | Diagnosis, prognosis, monitoring | Lung | [[Pregnancy]] |
 | Calcitonin | Medullary thyroid | ⇑ | N/A | *c*-cell hyperplasia |
-| CA125 | Ovarian | Monitoring and prognosis | Breast, cervical, endometrial, hepatocellular, lung, NHL, pancreatic, medullary thyroid, peritoneal, uterine | Liver disease, CF, [[pancreatitis]], urinary retention, diabetes, HF, [[Pregnancy]], SLE, sarcoid, RA, diverticulitis, IBS, [[Snippets/Endometriosis|Endometriosis]], fibroids |
-| CA19-9 | Pancreatic | Monitoring | Colorectal, gastric, hepatocellular, oesophageal, ovarian | [[Acute cholangitis]], cholestasis, [[pancreatitis]], diabetes, IBS, [[Snippets/Jaundice|Jaundice]] |
-| CA15-3 | Breast | Monitoring | Hepatocellular, pancreatic | [[Snippets/Cirrhosis|Cirrhosis]], benign breast disease, can be raised normally |
-| Carcinoembryonic antigen (CEA) | Colorectal | Monitoring | Breast, gastric, lung, mesothelioma, oesophageal, pancreatic | Smoking, chronic liver & kidney disease, diverticulitis, [[Snippets/Jaundice|Jaundice]] |
+| CA125 | Ovarian | Monitoring and prognosis | Breast, cervical, endometrial, hepatocellular, lung, NHL, pancreatic, medullary thyroid, peritoneal, uterine | Liver disease, CF, [[pancreatitis]], urinary retention, diabetes, HF, [[Pregnancy]], SLE, sarcoid, RA, diverticulitis, IBS, [[snippets/Endometriosis|Endometriosis]], fibroids |
+| CA19-9 | Pancreatic | Monitoring | Colorectal, gastric, hepatocellular, oesophageal, ovarian | [[Acute cholangitis]], cholestasis, [[pancreatitis]], diabetes, IBS, [[snippets/Jaundice|Jaundice]] |
+| CA15-3 | Breast | Monitoring | Hepatocellular, pancreatic | [[snippets/Cirrhosis|Cirrhosis]], benign breast disease, can be raised normally |
+| Carcinoembryonic antigen (CEA) | Colorectal | Monitoring | Breast, gastric, lung, mesothelioma, oesophageal, pancreatic | Smoking, chronic liver & kidney disease, diverticulitis, [[snippets/Jaundice|Jaundice]] |
 | Paraproteins | Myeloma | Diagnosis, monitoring, treatment, detect recurrence | N/A | N/A |
 | Thyroglobulin | Thyroid (follicular/ papillary) | Monitoring, detect recurrence | N/A | N/A |
 

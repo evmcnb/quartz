@@ -8,15 +8,15 @@ date: 2023-09-18
 
 ## Causes/Factors
 
-Most commonly caused by [[Snippets/Viruses|Viruses]] - rhino, corona, [[Snippets/Influenza|Influenza]], adeno
+Most commonly caused by [[snippets/Viruses|Viruses]] - rhino, corona, [[snippets/Influenza|Influenza]], adeno
 
-- **Viral Infections:** Common cold [[Snippets/Viruses|Viruses]] (rhino, corona, adeno), flu [[Snippets/Viruses|Viruses]], and others can cause tonsillitis and pharyngitis.
+- **Viral Infections:** Common cold [[snippets/Viruses|Viruses]] (rhino, corona, adeno), flu [[snippets/Viruses|Viruses]], and others can cause tonsillitis and pharyngitis.
 - **Bacterial Infections:** Streptococcus bacteria (Group A Streptococcus) can cause strep throat, a type of tonsillitis/pharyngitis.
 - **Environmental Factors:** Allergies, smoke, pollution, and dry air can irritate the throat.
 
 ## Symptoms
 
-- **[[Snippets/Sore throat|Sore throat]]:** Pain or irritation in the throat, especially when swallowing.
+- **[[snippets/Sore throat|Sore throat]]:** Pain or irritation in the throat, especially when swallowing.
 - **Redness and Swelling:** Inflammation of the tonsils and/or pharynx.
 - **Fever:** Elevated body temperature.
 - **Cough:** Dry or productive cough.
@@ -49,6 +49,6 @@ If needed:
 
 ## Complications/red Flags
 
-- **Complications of Untreated Strep Throat:** [[Snippets/Rheumatic Fever|Rheumatic Fever]], kidney inflammation (post-streptococcal [[Snippets/Glomerulonephritis|Glomerulonephritis]]), and others.
+- **Complications of Untreated Strep Throat:** [[snippets/Rheumatic Fever|Rheumatic Fever]], kidney inflammation (post-streptococcal [[snippets/Glomerulonephritis|Glomerulonephritis]]), and others.
 - **Peritonsillar Abscess:** Accumulation of pus around the tonsils.
 - **Airway Obstruction:** Severe tonsillar swelling leading to breathing difficulties.

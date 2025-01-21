@@ -21,7 +21,7 @@ date: 2024-01-23
 - Head injury
 - Pesticide exposure (maybe)
 
-- Drug induced (anti-psychotic drugs) - reduce dopamine e.g. risperidone, haloperidol, [[Snippets/Metoclopramide|Metoclopramide]] promethazine, prochlorperazine
+- Drug induced (anti-psychotic drugs) - reduce dopamine e.g. risperidone, haloperidol, [[snippets/Metoclopramide|Metoclopramide]] promethazine, prochlorperazine
 
 **Decrease risk**
 - Smoking

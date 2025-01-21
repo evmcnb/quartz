@@ -9,7 +9,7 @@ tags: ['ENT', 'Gastroenterology', 'Oncology']
 
 [[Squamous cell carcinoma]] - other carcinogens - HPV, alcohol, burns...
 
-Adenocarcinoma - caused by [[Snippets/Barrett's oesophagus|Barrett's oesophagus]] - mainly caucasians
+Adenocarcinoma - caused by [[snippets/Barrett's oesophagus|Barrett's oesophagus]] - mainly caucasians
 
 * Can become strictured or ulcerated
 * Staging via TNM

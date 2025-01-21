@@ -29,7 +29,7 @@ Two types - **urge and stress**. Establishing the type is essential for managem
 
 * When there is chronic urinary retention due to an obstruction in the outflow or urine
 * Occurs **without the urge to pass urine**
-* Anticholinergic medications, fibroids, pelvic tumours, neurological conditions (MS, [[Snippets/Diabetic neuropathy|Diabetic neuropathy]] and spinal cord injuries)
+* Anticholinergic medications, fibroids, pelvic tumours, neurological conditions (MS, [[snippets/Diabetic neuropathy|Diabetic neuropathy]] and spinal cord injuries)
 * More common in men - rare in women. Women suspected should be referred for urodynamic testing and specialist management
 
 ## Management

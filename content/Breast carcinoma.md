@@ -64,11 +64,11 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 - Family history - first degree (BRCA1/2 gene)
 	- BRCA1 gene on chromosome 17
 		- Around 70% will develop breast cancer by 80
-		- Around 50% will develop [[Snippets/Ovarian Cancer|Ovarian Cancer]]
+		- Around 50% will develop [[snippets/Ovarian Cancer|Ovarian Cancer]]
 		- Also increased risk of bowel and prostate
 	- BRCA2 gene on chromosome 13
 		- Around 60% will develop breast cancer by aged 80
-		- Around 20% will develop [[Snippets/Ovarian Cancer|Ovarian Cancer]] 
+		- Around 20% will develop [[snippets/Ovarian Cancer|Ovarian Cancer]] 
 - Increased oestrogen exposure (earlier onset of periods and later menopause; nulliparity; 1st [[Pregnancy]] 30>yrs old)
 - More dense breast tissue - more glandular tissue
 - [[Obesity]]

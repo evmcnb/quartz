@@ -29,6 +29,6 @@ CAP - *S. pneumoniae* HAP - *E. coli, Klebsiella spp, Enterbacter spp* VAP - *Ps
 
 **Viral**
 
-* [[Snippets/Influenza|Influenza]] A and B in adults
+* [[snippets/Influenza|Influenza]] A and B in adults
 * RSV and parainfluenza in children
-* Herpes [[Snippets/Viruses|Viruses]] in immunocompromised
+* Herpes [[snippets/Viruses|Viruses]] in immunocompromised

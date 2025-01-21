@@ -43,7 +43,7 @@ Most infants can be manage at home with advice about when to seek further attent
 - 50-75% less of their normal milk intake
 - Clinical dehydration
 - RR above 70
-- [[Snippets/Oxygen|Oxygen]] sats below 92%
+- [[snippets/Oxygen|Oxygen]] sats below 92%
 - Moderate to severe respiratory distress - deep recessions or head bobbing
 - Apnoeas
 - Patients not confident in their ability to manage at home 
@@ -53,9 +53,9 @@ Most infants can be manage at home with advice about when to seek further attent
 Typically patients only require supportive management 
 - Ensure adequate intake - orally, via NG or IV fluids. Important to avoid overfeeding as **this will restrict breathing**
 - Saline nasal drops and suctioning to remove secretions - particularly prior to feeding
-- [[Snippets/Oxygen|Oxygen]] - titrate up to 92%
+- [[snippets/Oxygen|Oxygen]] - titrate up to 92%
 - Ventilatory if required - step-wise progression
-Little evidence for nebulised [[Snippets/Salbutamol|Salbutamol]], bronchodilators, steroids or antibiotics 
+Little evidence for nebulised [[snippets/Salbutamol|Salbutamol]], bronchodilators, steroids or antibiotics 
 
 ## Palivizumab
 - Monoclonal antibody that targets RSV

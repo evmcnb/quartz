@@ -61,7 +61,7 @@ TNM staging - was previously Duke's but has been replaced.
 - Palliative care
 
 > [!tldr] Hartmann's Procedure
-> An emergency procedure that involves the removal of the rectosigmoid colon and creation of an colostomy. The rectal stump is sutured closed. The colostomy may be permanent or reversed at a later date. Common indications are acute obstruction by a tumour, or significant [[Snippets/Diverticular disease|Diverticular disease]].
+> An emergency procedure that involves the removal of the rectosigmoid colon and creation of an colostomy. The rectal stump is sutured closed. The colostomy may be permanent or reversed at a later date. Common indications are acute obstruction by a tumour, or significant [[snippets/Diverticular disease|Diverticular disease]].
 
 ## Complications/red Flags
 

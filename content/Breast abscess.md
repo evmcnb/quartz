@@ -48,7 +48,7 @@ The diagnosis of **_mastitis_** or a **_breast abscess_** can usually be mad
 
 Management of non-lactational mastitis
 - Analgesia
-- Antibiotics - broad spec - co-amox or erythro/clarythro + [[Snippets/Metronidazole|Metronidazole]] 
+- Antibiotics - broad spec - co-amox or erythro/clarythro + [[snippets/Metronidazole|Metronidazole]] 
 - Treatment for underlying cause 
 
 Management of breast abscess: 

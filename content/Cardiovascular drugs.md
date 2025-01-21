@@ -12,13 +12,13 @@ date: 2024-01-19
 ## Anti-platelet
 
 - **_Aspirin_** - prevents production of thromboxane A2 inhibiting platelet aggregation. Used in low doses (75mg/day PO) for secondary prevention following [[myocardial infarction]], [[Transient Ischemic Attack]] and [[Stroke]]. Also used for patients with [[Angina]] or [[peripheral vascular disease]]. Also an NSAID and may worsen GI symptoms.  
-- ***P2Y12 antagonists*** - ([[Snippets/Clopidogrel|Clopidogrel]], pasugrel, ticagrelor) also block platelet aggregation but cause less gastric irritation. Used with [[Snippets/Aspirin|Aspirin]] after PCI, and in [[Acute Coronary Syndrome]]
+- ***P2Y12 antagonists*** - ([[snippets/Clopidogrel|Clopidogrel]], pasugrel, ticagrelor) also block platelet aggregation but cause less gastric irritation. Used with [[snippets/Aspirin|Aspirin]] after PCI, and in [[Acute Coronary Syndrome]]
 
 ## Anticoagulants
 
 - ***DOACs*** - Xa inhibitors (apixaban), direct thrombin inhibitors (dabigatran) for treatment of [[Atrial Fibrillation]] and clots. 
-- [[Snippets/Warfarin|Warfarin]] is still used for people with mechanical heart valves
-- [[Snippets/Anticoagulants|Anticoagulants]] used in [[Acute Coronary Syndrome]] include LMWH, fondaparinux (Xa inhibitor) & bivalirudin (thrombin inhibitor)
+- [[snippets/Warfarin|Warfarin]] is still used for people with mechanical heart valves
+- [[snippets/Anticoagulants|Anticoagulants]] used in [[Acute Coronary Syndrome]] include LMWH, fondaparinux (Xa inhibitor) & bivalirudin (thrombin inhibitor)
 
 ## $\beta$ blockers
 
@@ -31,15 +31,15 @@ date: 2024-01-19
 
 ## ACEi 
 
-- Causes vasodilation and excretion of sodium and water. eg [[Snippets/Ramipril|Ramipril]] 
+- Causes vasodilation and excretion of sodium and water. eg [[snippets/Ramipril|Ramipril]] 
 - Used in [[Essential hypertension|hypertension]], [[Heart Failure]], post [[myocardial infarction]]
-- Can cause [[Snippets/Hyperkalaemia|Hyperkalaemia]] 
+- Can cause [[snippets/Hyperkalaemia|Hyperkalaemia]] 
 - Put pressure on the kidneys so hold in [[Acute Kidney Injury]] and monitor U&Es for kidney function
 - Can cause a dry cough so may switch to ARB (ARB contraindicated in [[Pregnancy]] however)
 
 ## Diuretics
 
-- _**Loop diuretics**_ - eg [[Snippets/Furosemide|Furosemide]] inhibit NA/2Cl/K co-transporter. $\downarrow$ Na$^+$ $\downarrow$ K$^+$ $\downarrow$ Ca$^{2+}$. [[Heart Failure]]
+- _**Loop diuretics**_ - eg [[snippets/Furosemide|Furosemide]] inhibit NA/2Cl/K co-transporter. $\downarrow$ Na$^+$ $\downarrow$ K$^+$ $\downarrow$ Ca$^{2+}$. [[Heart Failure]]
 - **_Thiazide/thiazide-like diuretics_** are used in [[Essential hypertension|hypertension]] (indapamide) and [[Heart Failure]] (metolazone). $\downarrow$ K$^+$ $\uparrow$ Ca$^{2+}$ $\downarrow$ Mg$^{2+}$, $\uparrow$ urate ($\pm$ [[gout]]).
 - _**Potassium sparing diruetics**_ - aldosterone antagonists (spironolactone, eplerenone) 
 
@@ -52,7 +52,7 @@ date: 2024-01-19
 
 ## Calcium antagonists 
 
-- $\downarrow$ cell entry of Ca$^{2+}$ in smooth muscle, promoting coronary and peripheral vasodilation and reducing myocardial [[Snippets/Oxygen|Oxygen]] use. All current drugs block L-type Ca$^{2+}$ channels but different binding properties cause different effects. [[Essential hypertension|hypertension]] and [[Angina]]
+- $\downarrow$ cell entry of Ca$^{2+}$ in smooth muscle, promoting coronary and peripheral vasodilation and reducing myocardial [[snippets/Oxygen|Oxygen]] use. All current drugs block L-type Ca$^{2+}$ channels but different binding properties cause different effects. [[Essential hypertension|hypertension]] and [[Angina]]
 - ***Dihydropyridines*** - eg _amlodipine_ are mainly peripheral vasodilators and cause a reflex tachycardia so used with a $\beta$-blocker
 - ***Non-dihydropyridines*** - eg _verapamil and diltiazem_ slow conduction at the AV and SV node and may be used to treat dysrhythmias in addition. 
 

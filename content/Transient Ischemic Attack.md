@@ -33,7 +33,7 @@ Specific to the arterial territory involved
 ## Management
 
 - **Control cardiovascular risk factors** 
-- Antiplatelet drugs - 300mg [[Snippets/Aspirin|Aspirin]] OD for 2 weeks, then switch to 75mg [[Snippets/Clopidogrel|Clopidogrel]]
+- Antiplatelet drugs - 300mg [[snippets/Aspirin|Aspirin]] OD for 2 weeks, then switch to 75mg [[snippets/Clopidogrel|Clopidogrel]]
 
 - Driving is prohibited for at least 1 month afterwards
 

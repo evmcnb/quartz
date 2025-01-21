@@ -22,5 +22,5 @@ A common presentation is with ***painless, bright red bleeding***, typically on
 
 * Aims to reduce symptoms, promote healing and prevent recurrence
 * If constipated - bulk forming laxative can be prescribed
-* [[Snippets/Paracetamol|Paracetamol]] can be prescribed for pain - opioids (can cause constipation) and NSAIDs (if rectal bleeding) should be avoided
+* [[snippets/Paracetamol|Paracetamol]] can be prescribed for pain - opioids (can cause constipation) and NSAIDs (if rectal bleeding) should be avoided
 * Topical preparations can contain a combination of LA, corticosteroids, astringents, lubricants and antiseptics - but excessive application of LA and steroids should be avoided

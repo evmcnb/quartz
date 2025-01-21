@@ -6,5 +6,5 @@ tags: ['Antibiotic', 'Drug']
 ---
 
 
-> Clindamycin is an antibiotic belonging to the lincosamide class, and it is commonly used as a second-line treatment for [[Cellulitis]] when patients are allergic to [[Penicillins]] or when first-line treatments have failed. One of the most important side-effects to warn patients about when prescribing clindamycin is diarrhoea, which can range from mild to severe and may be associated with *[[Snippets/Clostridium Difficile|Clostridium Difficile]]* infection. This infection can lead to pseudomembranous colitis, a potentially life-threatening condition that requires prompt identification and management.
+> Clindamycin is an antibiotic belonging to the lincosamide class, and it is commonly used as a second-line treatment for [[Cellulitis]] when patients are allergic to [[Penicillins]] or when first-line treatments have failed. One of the most important side-effects to warn patients about when prescribing clindamycin is diarrhoea, which can range from mild to severe and may be associated with *[[snippets/Clostridium Difficile|Clostridium Difficile]]* infection. This infection can lead to pseudomembranous colitis, a potentially life-threatening condition that requires prompt identification and management.
 

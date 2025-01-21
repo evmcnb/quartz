@@ -43,7 +43,7 @@ Separation of the inner neurosensory retina from the underlying retinal pigment 
 **Need to reattach the retinal:**
 Arranging immediate referral to an ophthalmologist with retinal surgery expertise to be seen on the same day, if there are symptoms or signs of sight-threatening disease, such as visual field loss or changes in visual acuity, or fundoscopic signs of retinal detachment or vitreous haemorrhage.
 - Surgical intervention - pars plana vitrectomy, scleral buckling or pneumatic retinopexy to reattach the retina and seal retinal breaks  
-- Cryotherapy or [[Snippets/Laser photocoagulation|Laser photocoagulation]] to prevent progression of tears to detachment
+- Cryotherapy or [[snippets/Laser photocoagulation|Laser photocoagulation]] to prevent progression of tears to detachment
 - Gas or silicone oil tamponade to support reattachment
 
 ## Complications/red Flags

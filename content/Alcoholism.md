@@ -26,8 +26,8 @@ No confirmed causes but suspicions
 
 **Liver** - normal in 50%, $\uparrow$ GGT.
 
-- Fatty liver; acute and reversible but may progress to [[Snippets/Cirrhosis|Cirrhosis]] if drinking continues
-- Alcoholic [[Hepatitis]]; 80% progress to [[Snippets/Cirrhosis|Cirrhosis]]
+- Fatty liver; acute and reversible but may progress to [[snippets/Cirrhosis|Cirrhosis]] if drinking continues
+- Alcoholic [[Hepatitis]]; 80% progress to [[snippets/Cirrhosis|Cirrhosis]]
 - [[Liver Cirrhosis]]; 5 yr survival: 48% if drinking continues 77% if stops.
 
 **CNS**
@@ -48,7 +48,7 @@ No confirmed causes but suspicions
 
 **Blood**
 
-- [[Snippets/Anaemia|Anaemia]] from marrow [[Depression]], GI bleeding, alcoholism-associated folate deficiency, haemolysis, sideroblastic [[Snippets/Anaemia|Anaemia]]
+- [[snippets/Anaemia|Anaemia]] from marrow [[Depression]], GI bleeding, alcoholism-associated folate deficiency, haemolysis, sideroblastic [[snippets/Anaemia|Anaemia]]
 
 **Heart**
 

@@ -28,4 +28,4 @@ Antibodies against antigens of transfused RBCs type II hypersensitivity - most o
 New IgG formed against RBC antigens other than ABO.
 
 * 3-14 days following transfusion
-* Fatigue [[Snippets/Jaundice|Jaundice]], (\downarrow) Hb, (\uparrow) LDH, (\uparrow) indirect bilirubin
+* Fatigue [[snippets/Jaundice|Jaundice]], (\downarrow) Hb, (\uparrow) LDH, (\uparrow) indirect bilirubin

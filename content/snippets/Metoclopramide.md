@@ -14,7 +14,7 @@ tags: ['Gastroenterology', 'Neurology', 'Drug']
 | **Indications** | * Hiccup, N&V in palliative care * Acute migraine * Post-cancer treatment/operative N&V |
 | **Contra-indications** | * Parkinsonism * 3-4 days following GI surgery * Intestinal obstruction |
 | **Side-effects** | Common: asthenia, [[Depression]], diarrhoea, drowsiness, hypotension, Parkinsonism  Rarely: confusion, arrhythmia, hallucination, hyperprolactinaemia |
-| **Interactions** | [[Snippets/Lithium|Lithium]]: ↑ risk of extrapyramidal adverse effects  NSAIDs: ↑ absorption of NSAIDs and their effects |
+| **Interactions** | [[snippets/Lithium|Lithium]]: ↑ risk of extrapyramidal adverse effects  NSAIDs: ↑ absorption of NSAIDs and their effects |
 | **Elimination** |  |
-| **Additional Notes** | Nausea/vomiting in migraine can cause gastric stasis - decreased absorption rate of [[Snippets/Paracetamol|Paracetamol]]/[[Snippets/Aspirin|Aspirin]]. Metaclopramide to counter this |
+| **Additional Notes** | Nausea/vomiting in migraine can cause gastric stasis - decreased absorption rate of [[snippets/Paracetamol|Paracetamol]]/[[snippets/Aspirin|Aspirin]]. Metaclopramide to counter this |
 

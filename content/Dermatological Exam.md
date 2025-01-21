@@ -117,7 +117,7 @@ date modified: 2024-04-21
 ### Surface
 | Term            | Definition                                                                      |
 | --------------- | ------------------------------------------------------------------------------- |
-| Scaly           | Flaky surface due to shedding of the stratum corneum. Silver scale in [[Snippets/Psoriasis|Psoriasis]] |
+| Scaly           | Flaky surface due to shedding of the stratum corneum. Silver scale in [[snippets/Psoriasis|Psoriasis]] |
 | Hyperkeratosis  | Surface build up of keratin                                                     |
 | Crust           | Dried exudate. Appears golden in [[Impetigo]]                                       |
 | Friable         | Bleeds easily on minimal trauma                                                 |

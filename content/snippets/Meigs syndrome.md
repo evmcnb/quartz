@@ -10,5 +10,5 @@ tags: ['Respiratory', 'OBGYN']
 A triad of
 
 * a benign ovarian tumour (usually a fibroma)
-* [[Snippets/Pleural Effusion|Pleural Effusion]]
-* [[Snippets/Ascites|Ascites]]
+* [[snippets/Pleural Effusion|Pleural Effusion]]
+* [[snippets/Ascites|Ascites]]

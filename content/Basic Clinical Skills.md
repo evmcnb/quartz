@@ -12,7 +12,7 @@ Temperature, pulse, respiratory rate, blood pressure and SpO2.
 #### Gather equipment
 - Ear thermometer
 - Disposable tip
-- [[Snippets/Oxygen|Oxygen]] sats probe
+- [[snippets/Oxygen|Oxygen]] sats probe
 - Sphygmomanometer
 - Stethoscope - cleaned with alcohol wipes
 

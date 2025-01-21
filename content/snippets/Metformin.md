@@ -9,7 +9,7 @@ tags: ['Drug', 'Endocrinology']
 
 | **Drug Class** | Biguanide |
 | --- | --- |
-| **Mechanism** | “Increases [[Snippets/Insulin|Insulin]] sensitivity”   * ↓ gluconeogenesis * ↑ peripheral use of glucose   Only effective if some residual functioning of pancreatic islet cells |
+| **Mechanism** | “Increases [[snippets/Insulin|Insulin]] sensitivity”   * ↓ gluconeogenesis * ↑ peripheral use of glucose   Only effective if some residual functioning of pancreatic islet cells |
 | **Typical Dose** | 500mg OD taken with breakfast to a max of 2g |
 | **Indications** | * Type II DM |
 | **Contra-indications** | * Conditions predisposing to lactic acidosis (hepatic/ impairment, severe HF, infection, dehydration) * EGFR <36 |

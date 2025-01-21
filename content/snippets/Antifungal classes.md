@@ -8,7 +8,7 @@ tags: ['Drug']
 
 ### Cell membrane - ergesterol
 
-* Azoles - clotrimazole, [[Snippets/Fluconazole|Fluconazole]]
+* Azoles - clotrimazole, [[snippets/Fluconazole|Fluconazole]]
 * Terbinafine
 * Amphotericin B
 

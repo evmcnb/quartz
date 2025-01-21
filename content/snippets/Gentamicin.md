@@ -16,5 +16,5 @@ tags: ['Antibiotic', 'Drug']
 | **Side-effects** | Nephrotic and ototoxic (CNVIII) |
 | **Interactions** | Cyclosporin: potentiates nephrotoxic effects  Loop diuretics: potentiate nephrotoxic/ototoxic effects |
 | **Elimination** |  |
-| **Additional Notes** | Narrow therapeutic index makes drug **monitoring** essential:   * Peak 5-10mg/L, trough <2mg/L. * **In endocarditis:**peak 3-5mg/L, trough <1mg/L   Not usually given for **>10 days** due to toxicity risk. Usually combined with penicillin +/- [[Snippets/Metronidazole|Metronidazole]] in serious infection. Can cause grey baby syndrome in neonates |
+| **Additional Notes** | Narrow therapeutic index makes drug **monitoring** essential:   * Peak 5-10mg/L, trough <2mg/L. * **In endocarditis:**peak 3-5mg/L, trough <1mg/L   Not usually given for **>10 days** due to toxicity risk. Usually combined with penicillin +/- [[snippets/Metronidazole|Metronidazole]] in serious infection. Can cause grey baby syndrome in neonates |
 

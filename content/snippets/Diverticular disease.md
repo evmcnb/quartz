@@ -24,7 +24,7 @@ Bulk-forming laxatives should be used. Stimulant laxatives should be avoided.
 * Rectal bleeding
 * Raised CRP
 
-Oral co-amox for 5-7 days, [[Snippets/Paracetamol|Paracetamol]], only take in clear liquids - avoid solid food until symptoms improve - 2-3 days
+Oral co-amox for 5-7 days, [[snippets/Paracetamol|Paracetamol]], only take in clear liquids - avoid solid food until symptoms improve - 2-3 days
 
 Acute complications
 

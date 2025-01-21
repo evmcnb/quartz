@@ -9,4 +9,4 @@ tags: ['ENT', 'Oncology']
 
 Majority arise in areas of pre-existing epithelial dysplasia
 
-* Tobacco, alcohol, HPV, Li-Fraumeni syndrome, Fanconi [[Snippets/Anaemia|Anaemia]]
+* Tobacco, alcohol, HPV, Li-Fraumeni syndrome, Fanconi [[snippets/Anaemia|Anaemia]]

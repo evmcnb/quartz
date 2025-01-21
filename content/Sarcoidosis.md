@@ -13,7 +13,7 @@ date: 2024-02-09
 - Unknown cause
 - Mainly respiratory but all organs affected
 
-[[Snippets/Hypercalcaemia|Hypercalcaemia]] + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
+[[snippets/Hypercalcaemia|Hypercalcaemia]] + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 ## Causes/Factors
 
 - Aged 20-40 or around 60
@@ -45,10 +45,10 @@ date: 2024-02-09
 - [[Optic neuritis]]
 
 ### Heart
-- [[Snippets/Bundle Branch Block|Bundle Branch Block]] & [[Heart Block]]
+- [[snippets/Bundle Branch Block|Bundle Branch Block]] & [[Heart Block]]
 
 ### Kidneys
-- Stones ([[Snippets/Hypercalcaemia|Hypercalcaemia]])
+- Stones ([[snippets/Hypercalcaemia|Hypercalcaemia]])
 - Nephrocalcinosis
 - [[Tubulointerstitial Nephritis]]
 
@@ -65,8 +65,8 @@ date: 2024-02-09
 The top differentials for the varied presenting features of sarcoidosis are:
 
 - [[Tuberculosis]]
-- [[Snippets/Lymphoma|Lymphoma]]
-- [[Snippets/Hypersensitivity Pneumonitis|Hypersensitivity Pneumonitis]]
+- [[snippets/Lymphoma|Lymphoma]]
+- [[snippets/Hypersensitivity Pneumonitis|Hypersensitivity Pneumonitis]]
 - [[HIV]]
 - Toxoplasmosis
 - Histoplasmosis

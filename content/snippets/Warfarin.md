@@ -39,8 +39,8 @@ INR **2.5-3.5** -for mechanical heart valves
 
 Cytochrome P450 - extensive list of drug interactions
 
-* Enzyme inducers decrease the amount of active warfarin and decrease its efficacy (and INR). ***St John's wort, [[Snippets/Phenytoin|Phenytoin]] and [[Snippets/Carbamazepine|Carbamazepine]]***
-* Enzyme inhibitors increase the amount of active warfarin in the body and increase potency (increase INR). ***[[Snippets/Amiodarone|Amiodarone]], [[Snippets/Metronidazole|Metronidazole]], clarithromycin***
+* Enzyme inducers decrease the amount of active warfarin and decrease its efficacy (and INR). ***St John's wort, [[snippets/Phenytoin|Phenytoin]] and [[snippets/Carbamazepine|Carbamazepine]]***
+* Enzyme inhibitors increase the amount of active warfarin in the body and increase potency (increase INR). ***[[snippets/Amiodarone|Amiodarone]], [[snippets/Metronidazole|Metronidazole]], clarithromycin***
 * Many antibiotics also interact
 * Consuming foods with an excess of vitamin K may reduce warfarins efficacy - constant diet needed
 * Cranberries and cranberry juice are an enzyme inhibitor for warfarin

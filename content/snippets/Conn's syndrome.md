@@ -9,7 +9,7 @@ tags: ['Endocrinology']
 
 * Hyperaldosteronism - primary and secondary
 * **Primary**: adrenal cortex hyperplasia, adenoma (intrinsic)
-* **Secondary** - renal artery stenosis, [[Heart Failure]], liver [[Snippets/Cirrhosis|Cirrhosis]] (elsewhere in the body)
+* **Secondary** - renal artery stenosis, [[Heart Failure]], liver [[snippets/Cirrhosis|Cirrhosis]] (elsewhere in the body)
 
 Via the RAAS - renal retion of H2O and Na+ so high blood pressure, headache and electrolyte disturbance symptoms - muscle spasms, cardiac [[Arrhythmias]]
 

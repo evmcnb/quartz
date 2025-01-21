@@ -33,7 +33,7 @@ Inflammation of blood vessels in the temple
 
 ## Management
 
-- High dose corticosteroids - [[Snippets/Prednisolone|Prednisolone]] (+ PPI and bisphosphonates for protection of stomach and bones)
+- High dose corticosteroids - [[snippets/Prednisolone|Prednisolone]] (+ PPI and bisphosphonates for protection of stomach and bones)
 - Rheumatology referral
 
 ## Complications/red Flags

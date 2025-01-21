@@ -15,7 +15,7 @@ date: 2024-01-19
 |             | **Management**: Correct underlying cause, hypertonic saline slowly (to prevent central pontine myelinolysis) | Fluid restrict, with hypotonic saline slowly (to prevent cerebral edema) |
 | Potassium   | **Range**: <3.5mmol/L  | >5.5mmol/L                  |
 |             | **Symptoms**: Weakness, [[Arrhythmias]], muscle cramps | Muscle weakness, cardiac [[Arrhythmias]], abdo pain |
-|             | **Management**: Oral or IV potassium supplements | Calcium gluconate, [[Snippets/Insulin|Insulin]] and dextrose, kayexalate |
+|             | **Management**: Oral or IV potassium supplements | Calcium gluconate, [[snippets/Insulin|Insulin]] and dextrose, kayexalate |
 | Calcium     | **Range**: <2.1mmol/L  | >2.6mmol/L                  |
 |             | **Symptoms**: Weakness, nausea, muscle cramps, **Trousseau and Chvostek sign** | Weakness, nausea, cramping, constipation |
 |             | **Management**: Calcium supplementation, vitamin D, treat underlying causes | Hydration, loop diuretics, bisphosphonates, treat underlying conditions |
@@ -26,7 +26,7 @@ date: 2024-01-19
 |             | **Symptoms**: Lack of symptoms, $\uparrow\uparrow$ confusion and swelling | Same as hypo |
 |             | **Management**: Address underlying cause, chloride replacement | Diuretics, fluid restriction, treat underlying conditions |
 | Phosphate   | **Range**: <0.8mmol/L  | >1.5mmol/L                  |
-|             | **Symptoms**: Weakness, decreased [[Snippets/Bone|Bone]] density, muscle cramps | Same as hypo |
+|             | **Symptoms**: Weakness, decreased [[snippets/Bone|Bone]] density, muscle cramps | Same as hypo |
 |             | **Management**: Phosphate supplements, treat underlying causes | Restrict phosphate intake, manage underlying conditions |
 | Bicarbonate | **Range**: <22mmol/L | >30mmol/L | 
 |             | **Symptoms**: Dyspnea, confusion, weakness | Increased thirst, nausea, abdominal pain |

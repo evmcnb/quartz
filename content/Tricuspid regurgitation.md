@@ -25,4 +25,4 @@ Incompetent tricuspid valve
 - Raised JVP
 - Pulsatile liver
 - Peripheral oedema
-- [[Snippets/Ascites|Ascites]]
+- [[snippets/Ascites|Ascites]]

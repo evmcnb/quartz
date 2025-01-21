@@ -27,5 +27,5 @@ The cancers that most often spread to the brain are:
 
 * Lung
 * Breast
-* [[Snippets/Renal Cell Carcinoma|Renal Cell Carcinoma]]
+* [[snippets/Renal Cell Carcinoma|Renal Cell Carcinoma]]
 * [[Melanoma]]

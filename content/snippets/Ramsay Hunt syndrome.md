@@ -7,7 +7,7 @@ tags: ['ENT', 'Neurology']
 
 
 
-Ramsay Hunt syndrome (herpes zoster oticus) is caused by the reactivation of the [[Snippets/Varicella zoster virus|Varicella zoster virus]] in the geniculate ganglion of the seventh cranial nerve.  
+Ramsay Hunt syndrome (herpes zoster oticus) is caused by the reactivation of the [[snippets/Varicella zoster virus|Varicella zoster virus]] in the geniculate ganglion of the seventh cranial nerve.  
 
   
 

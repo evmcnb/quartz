@@ -38,7 +38,7 @@ Diagnosing Cellulitis is primarily based on clinical evaluation, but additional 
 ## Management
 
 - Elevate affected limb
-- Antibiotics (PO/IV dependant on severity) - commonly [[Snippets/Amoxicillin|Amoxicillin]] / ben pen + flucloxacillin. If penicillin allergic - [[Snippets/Clindamycin|Clindamycin]] and ceftriaxone. 10 day course PO but up to 14 days IV if systemic. 
+- Antibiotics (PO/IV dependant on severity) - commonly [[snippets/Amoxicillin|Amoxicillin]] / ben pen + flucloxacillin. If penicillin allergic - [[snippets/Clindamycin|Clindamycin]] and ceftriaxone. 10 day course PO but up to 14 days IV if systemic. 
  
 ## Complications/red Flags
 

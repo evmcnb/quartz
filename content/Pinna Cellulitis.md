@@ -25,7 +25,7 @@ Pinna [[Cellulitis]] is a bacterial skin infection affecting the external part o
 
 ## Management
 
-1. **Antibiotics:** [[Snippets/Ciprofloxacin|Ciprofloxacin]] + flucloxacillin (or vancomycin if penicillin allergy). Oral or topical.
+1. **Antibiotics:** [[snippets/Ciprofloxacin|Ciprofloxacin]] + flucloxacillin (or vancomycin if penicillin allergy). Oral or topical.
 2. **Pain Relief:** Over-the-counter pain relievers to manage discomfort.
 3. **Warm Compress:** Applying a warm, moist cloth to the affected area can help reduce pain and promote healing.
 4. **Hygiene:** Keeping the area clean and dry to prevent further infection.

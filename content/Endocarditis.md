@@ -17,7 +17,7 @@ Fever + new murmur = infective endocarditis until proven otherwise
 
 - recent dental work
 - renal failure
-- [[Snippets/Immunosuppression|Immunosuppression]]
+- [[snippets/Immunosuppression|Immunosuppression]]
 
 **Organisms** - most common
 - Strep viridans (subacute)

@@ -25,7 +25,7 @@ Posterior scleritis
 | --------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- |
 | Pathophysiology | Autoimmune dysregulation                                                                        | Idiopathic inflammation                         |
 | Symptoms        | Subacute<br>Severe pain<br>Pain with eye movement <br>Blurred vision/vision loss<br>Photophobia | Acute onset<br>Mild pain<br>Redness, irritation |
-| Physical exam   | Adherent vessels<br>Does not blanch with phenylephrine drops <br>Bluish hue<br>Slit lamp may reveal nodules scleral thining and corneal changes<br>Systemic inflammation (joint pain [[Snippets/Rashes|Rashes]])                      | Mobile vessels<br>Blanch with phenylephrine drops<br>Reddish hue                                                |
+| Physical exam   | Adherent vessels<br>Does not blanch with phenylephrine drops <br>Bluish hue<br>Slit lamp may reveal nodules scleral thining and corneal changes<br>Systemic inflammation (joint pain [[snippets/Rashes|Rashes]])                      | Mobile vessels<br>Blanch with phenylephrine drops<br>Reddish hue                                                |
 | Treatment       | Systemic steroid/NSAIDs $\pm$ topical antibiotics                                                                                                | Self-limited<br>Consider topical steroids in refractory cases                                                |
 
 ## Causes/Factors
@@ -59,7 +59,7 @@ Posterior scleritis
 
 **Diffuse anterior scleritis and nodular scleritis** 
 - Oral NSAIDs (ibuprofen 400m qds)
-- If not effective then oral [[Snippets/Prednisolone|Prednisolone]] (80mg od) 
+- If not effective then oral [[snippets/Prednisolone|Prednisolone]] (80mg od) 
 - If not effective could try subconjuctival or periorbital steroid injection but controversial 
 - If not effective immunosuppressive therapy - methotrexate, azathioprine mycophenolate, cyclophosphamide or ciclosporin may be helpful 
 

@@ -72,7 +72,7 @@ Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
 
 - Leads to tented T-wave
   ![|325](z_attachments/325-2.png)
-- Give calcium gluconate -> protects heart and buys time, glucose/dextrose + [[Snippets/Insulin|Insulin]] and possible [[Snippets/Salbutamol|Salbutamol]] nebuliser
+- Give calcium gluconate -> protects heart and buys time, glucose/dextrose + [[snippets/Insulin|Insulin]] and possible [[snippets/Salbutamol|Salbutamol]] nebuliser
 
 **Acidosis**
 

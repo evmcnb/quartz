@@ -37,7 +37,7 @@ General
 
 ## Investigations
 
-- FBC - if bleeding heavy or recurrent or [[Snippets/Anaemia|Anaemia]] is supsected
+- FBC - if bleeding heavy or recurrent or [[snippets/Anaemia|Anaemia]] is supsected
 - Coag - if clotting disorder is suspected
 
 
@@ -70,4 +70,4 @@ Recurrent epistaxis:
 
 ## Complications/red Flags
 - Hypovolaemia 
-- [[Snippets/Anaemia|Anaemia]]
+- [[snippets/Anaemia|Anaemia]]

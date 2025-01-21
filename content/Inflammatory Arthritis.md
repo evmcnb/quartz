@@ -47,7 +47,7 @@ Extra-articular:
 
 #### Diagnostic Tests
 
-- **Bloods** - $\uparrow$ ESR, CRP - FBC: [[Snippets/Anaemia|Anaemia]] of chronic disease, thrombocytosis, leukocytosis
+- **Bloods** - $\uparrow$ ESR, CRP - FBC: [[snippets/Anaemia|Anaemia]] of chronic disease, thrombocytosis, leukocytosis
 - **Anti-CCP antibody** - more specific and sensitive than RF 
 - **XR**/MRI of the area looking for erosions and damage
 - **Joint aspirations** - synovial fluid with increased WCC and protein

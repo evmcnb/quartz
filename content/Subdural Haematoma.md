@@ -19,7 +19,7 @@ The primary cause of Subdural Hematoma is head trauma, but it can also occur spo
 - **Head Injury:** Falls, vehicle accidents, and blows to the head.
 - **Age:** Older adults are more prone to SDH due to brain atrophy and thinner blood vessels.
 - **Alcohol and Drug Use:** Substance abuse can increase the risk of trauma and falls.
-- **Blood-Thinning Medications:** Medications like [[Snippets/Anticoagulants|Anticoagulants]] and antiplatelet drugs can increase the risk of bleeding.
+- **Blood-Thinning Medications:** Medications like [[snippets/Anticoagulants|Anticoagulants]] and antiplatelet drugs can increase the risk of bleeding.
 
 ## Symptoms
 

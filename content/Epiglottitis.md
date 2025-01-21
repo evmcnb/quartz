@@ -6,7 +6,7 @@ date modified: 2024-03-11
 date: 2023-09-18
 ---
 
-Emergency cause of [[Snippets/Sore throat|Sore throat]] - life threatening.
+Emergency cause of [[snippets/Sore throat|Sore throat]] - life threatening.
 Notifiable disease
 
 ## Causes/Factors
@@ -34,7 +34,7 @@ Notifiable disease
 - immediate senior involvement- anaesthesia and ENT
 - A-E- secure airway
     - endotracheal intubation
-- [[Snippets/Oxygen|Oxygen]]
+- [[snippets/Oxygen|Oxygen]]
 - nebulised adrenaline
 - IV antibiotics
 - IV steroids

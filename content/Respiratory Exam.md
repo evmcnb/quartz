@@ -34,7 +34,7 @@ date: 2024-02-07
 
 - <span style="color:#ff0000">Oxygen delivery devices</span> - type & rate
 - <span style="color:#ff0000">Sputum pot</span>
-- <span style="color:#ff0000">Other medical equipment </span>- [[Snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
+- <span style="color:#ff0000">Other medical equipment </span>- [[snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - <span style="color:#ff0000">Cigs or vapes</span>
 
 ## Hands
@@ -87,13 +87,13 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 
 #### Eyes
 
-- <span style="color:#ff0000">Conjunctival pallor</span>: suggestive of underlying [[Snippets/Anaemia|Anaemia]]*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
+- <span style="color:#ff0000">Conjunctival pallor</span>: suggestive of underlying [[snippets/Anaemia|Anaemia]]*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
 - <span style="color:#ff0000">Ptosis, miosis and enophthalmos</span>: all features of [[Horner's Syndrome]] (anhydrosis is another important sign associated with the syndrome). <span style="color:#00b0f0">Horner’s syndrome</span> occurs when the <span style="color:#00b0f0">sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung</span> (e.g. Pancoast tumour).
 
 #### Mouth
 
 - <span style="color:#ff0000">Central cyanosis</span>: bluish discolouration of the lips and/or the tongue associated with <span style="color:#00b0f0">hypoxaemia</span>.
-- <span style="color:#ff0000">Oral candidiasis</span>: a fungal infection commonly associated with<span style="color:#00b0f0"> steroid inhaler</span> use (due to local [[Snippets/Immunosuppression|Immunosuppression]]). It is characterised by <span style="color:#00b0f0">pseudomembranous white slough</span> which can be easily wiped away to reveal underlying erythematous mucosa.
+- <span style="color:#ff0000">Oral candidiasis</span>: a fungal infection commonly associated with<span style="color:#00b0f0"> steroid inhaler</span> use (due to local [[snippets/Immunosuppression|Immunosuppression]]). It is characterised by <span style="color:#00b0f0">pseudomembranous white slough</span> which can be easily wiped away to reveal underlying erythematous mucosa.
 
 ## Neck
 
@@ -232,7 +232,7 @@ Except apex beat and chest expansion if already done
 
 ## Further Assessments and Investigations
 
-- Check **[[Snippets/Oxygen|Oxygen]] saturation $SpO_2$** and provide if needed
+- Check **[[snippets/Oxygen|Oxygen]] saturation $SpO_2$** and provide if needed
 - Check other vital signs - temp & blood pressure
 - Take a sputum sample
 - **For [[asthma]]** - perform a peak flow

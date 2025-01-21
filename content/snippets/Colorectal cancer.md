@@ -15,7 +15,7 @@ Most common moderately well differentiated adenocarcinoma (mucious in 10-20%) in
 * Lynch syndrome 3% (MLH1 DNA repair gene)
 * Other 20%
 
-Protective - fibre/folate, [[Snippets/Aspirin|Aspirin]] (NSAIDs), oral contraceptives
+Protective - fibre/folate, [[snippets/Aspirin|Aspirin]] (NSAIDs), oral contraceptives
 
 Bad - fat/red meat, [[Obesity]], alcohol, either IBD
 
@@ -25,7 +25,7 @@ Bad - fat/red meat, [[Obesity]], alcohol, either IBD
 * Unexplained weight loss
 * Rectal bleeding
 * Unexplained abdominal pain
-* Iron deficiency [[Snippets/Anaemia|Anaemia]] - 2 week wait referral if unexplained
+* Iron deficiency [[snippets/Anaemia|Anaemia]] - 2 week wait referral if unexplained
 * Abdo or rectal mass on exam
 
 **Faecal immunmochemical tests (FIT)**

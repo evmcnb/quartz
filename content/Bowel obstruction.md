@@ -49,12 +49,12 @@ Might occur with:
 	- Small bowel usually don't extend to the peripheries but have lines that **do** extend the full length (valvulae conniventes)
 - Erect chest XR - to check for pneumoperitoneum (bowel perforation)
 
-Small [[Snippets/Bowel Obstruction|Bowel Obstruction]] (coiled-spring appearance)
+Small [[snippets/Bowel Obstruction|Bowel Obstruction]] (coiled-spring appearance)
 
 ![[z_attachments/Pasted image 20240216160213.png|450]]
 
 
-Large [[Snippets/Bowel Obstruction|Bowel Obstruction]]
+Large [[snippets/Bowel Obstruction|Bowel Obstruction]]
 
 ![[z_attachments/Pasted image 20240216160339.png|425]]
 ## Management

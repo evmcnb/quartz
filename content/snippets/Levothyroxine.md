@@ -14,7 +14,7 @@ tags: ['Drug', 'Endocrinology']
 | **Indications** | [[Hypothyroidism]] |
 | **Contra-indications** | [[Hyperthyroidism]] |
 | **Side-effects** | * Hyperthyroid symptoms if over adjusted * Rare: cardiac dysrhythmias, MI, [[Angina]], |
-| **Interactions** | [[Snippets/Warfarin|Warfarin]]: ↑ effect of [[Snippets/Warfarin|Warfarin]] |
+| **Interactions** | [[snippets/Warfarin|Warfarin]]: ↑ effect of [[snippets/Warfarin|Warfarin]] |
 | **Elimination** |  |
 | **Additional Notes** | TFTs must be monitored every 3 months |
 

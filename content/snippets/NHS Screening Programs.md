@@ -10,7 +10,7 @@ tags: ['Examination']
 
 * Infectious diseases - Hep B, [[HIV]] and syphilis
 * Down's syndrome, Patau's syndrome, Edwards' syndrome
-* Sickle cell and [[Snippets/Thalassaemia|Thalassaemia]]
+* Sickle cell and [[snippets/Thalassaemia|Thalassaemia]]
 * 20 week scan - physical development of baby
 * Diabetic eye screening if pregnant with T1 or T2 DM
 
@@ -18,7 +18,7 @@ tags: ['Examination']
 
 * Physical exam - eyes, heart, hips, testes
 * Hearing test
-* Blood spot test - sickle cell, [[Snippets/Cystic Fibrosis|Cystic Fibrosis]], congenital [[Hypothyroidism]], [[Snippets/Inborn errors of metabolism|Inborn errors of metabolism]], severe combined immunodeficiency (SCID)
+* Blood spot test - sickle cell, [[snippets/Cystic Fibrosis|Cystic Fibrosis]], congenital [[Hypothyroidism]], [[snippets/Inborn errors of metabolism|Inborn errors of metabolism]], severe combined immunodeficiency (SCID)
 
 ## Diabetic eye screen
 
@@ -36,7 +36,7 @@ Offered to all women aged 25 to 64 to check for HPV
 * Immunocompromised women may have additional smears
 * Pregnant women due a routine smear should wait until 12 weeks post partum
 
-Aim to pickup precancerous changes in the epithelial cells. Involves a cervical smear test. Other infections such as [[Snippets/Bacterial vaginosis|Bacterial vaginosis]], candidiasis and trichomoniasis may be identified
+Aim to pickup precancerous changes in the epithelial cells. Involves a cervical smear test. Other infections such as [[snippets/Bacterial vaginosis|Bacterial vaginosis]], candidiasis and trichomoniasis may be identified
 
 * If inadequate sample - repeat smear after at least 3 months
 * If positive with normal cytology - repeat the screen after 12 months

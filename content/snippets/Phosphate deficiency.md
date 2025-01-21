@@ -7,7 +7,7 @@ tags: ['Symptom']
 
 
 
-Low intake - [[Snippets/Malnutrition|Malnutrition]], malabsorption, [[Alcoholism]]
+Low intake - [[snippets/Malnutrition|Malnutrition]], malabsorption, [[Alcoholism]]
 
 Excess loss - hyperparathyroidism, renal tubular damage (Fanconi syndrome), diarrhoea
 
@@ -15,9 +15,9 @@ Extracellular/intracellular fluid redistribution - alkalosis, refeeding
 
 #### Refeeding syndrome
 
-* \(\downarrow\) [[Snippets/Insulin|Insulin]], \(\uparrow\) glucagon. Fat and protein metabolism. Intracellular stores of electrolytes used up
-* Upon refeeding \(\uparrow\) [[Snippets/Insulin|Insulin]], \(\uparrow\) glycolysis, requiring K, PO4 and magnesium movement into cells with glucose.
-* This causes severe hypokalaemia, hypophosphatemia and [[Snippets/Hypomagnesemia|Hypomagnesemia]] $\rightarrow$ heart dysfunction and resp failure
+* \(\downarrow\) [[snippets/Insulin|Insulin]], \(\uparrow\) glucagon. Fat and protein metabolism. Intracellular stores of electrolytes used up
+* Upon refeeding \(\uparrow\) [[snippets/Insulin|Insulin]], \(\uparrow\) glycolysis, requiring K, PO4 and magnesium movement into cells with glucose.
+* This causes severe hypokalaemia, hypophosphatemia and [[snippets/Hypomagnesemia|Hypomagnesemia]] $\rightarrow$ heart dysfunction and resp failure
 
 #### Signs and symptoms of low PO4
 

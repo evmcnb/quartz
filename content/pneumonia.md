@@ -43,7 +43,7 @@ $\geq$ 3 - high risk - severe pneumonia
 
 - Hospital acquired (HAP) - after 48hs from admission
 - Ventilator associated (VAP)
-- Asp iration [[Snippets/Pneumonia|Pneumonia]]
+- Asp iration [[snippets/Pneumonia|Pneumonia]]
 
 - Immunocompromised patient - patients recurrently coming with a CAP is an indicator of [[HIV]] - esp if organism is weird
 
@@ -73,7 +73,7 @@ $\geq$ 3 - high risk - severe pneumonia
 - Blood/sputum culture
 - Bronchoscopy if risk of infection for bloods
 
-- U&Es - hyponatremia [[Snippets/Pneumonia|Pneumonia]] $\rightarrow$ legionella. Can also use urinary antigen very sensitive and specific for legionella
+- U&Es - hyponatremia [[snippets/Pneumonia|Pneumonia]] $\rightarrow$ legionella. Can also use urinary antigen very sensitive and specific for legionella
 - Pet history - parrots $\rightarrow$ Chlymidia pneumonitis
 - Weird rash $\rightarrow$ Mycoplasma
 
@@ -81,7 +81,7 @@ $\geq$ 3 - high risk - severe pneumonia
 
 ABCDE
 - Fluids
-- [[Snippets/Oxygen|Oxygen]]
+- [[snippets/Oxygen|Oxygen]]
 - Antibiotics
 - Assisted ventilation
 
@@ -94,4 +94,4 @@ ABCDE
 - [[Empyema]] - pus in pleural space, should be drained with chest drain
 - [[Lung Abscess]]
 - [[Pericarditis]] and [[myocarditis]]
-- [[Jaundice]] - usually cholestatic - may be due to [[Sepsis]] or secondary to antibiotic treatment (esp. flucloxacillin and [[Snippets/Co-amoxiclav|Co-amoxiclav]])
+- [[Jaundice]] - usually cholestatic - may be due to [[Sepsis]] or secondary to antibiotic treatment (esp. flucloxacillin and [[snippets/Co-amoxiclav|Co-amoxiclav]])

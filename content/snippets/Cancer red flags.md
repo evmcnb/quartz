@@ -19,7 +19,7 @@ tags: ['Oncology']
 ## Upper GI
 
 * Dysphagia with weight loss and upper abdo pain/reflux/dyspepsia
-* [[Snippets/Jaundice|Jaundice]] or upper abdo mass
+* [[snippets/Jaundice|Jaundice]] or upper abdo mass
 * Diarrhoea plus back pain, abdo pain, nausea, constipation, new-onset diabetes
 * Haematemesis
 
@@ -28,7 +28,7 @@ tags: ['Oncology']
 * Faecal occult blood
 * Abdo pain plus weight loss
 * Rectal bleeding
-* Iron deficiency [[Snippets/Anaemia|Anaemia]]
+* Iron deficiency [[snippets/Anaemia|Anaemia]]
 * Change in bowel habit
 * Rectal/abdo mass
 

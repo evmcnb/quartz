@@ -33,4 +33,4 @@ tags: ['InfectiousDisease']
 * Secondary bacteria [[pneumonia]]
 * Worsening chronic health conditions, such as [[COPD]] and [[Heart Failure]]
 * Febrile convulsions (young children)
-* [[Snippets/Encephalitis|Encephalitis]]
+* [[snippets/Encephalitis|Encephalitis]]

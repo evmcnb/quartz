@@ -17,7 +17,7 @@ Purely genetic condition, mutation leads to defect in chloride ion channel causi
 - Neonates: failure to thrive, rectal prolapse
 - Children: cough, wheeze, recurrent infections, [[bronchiectasis]], [[pneumothorax]], haemoptysis
 - Adult: male infertility, [[osteoporosis]], [[Osteoarthritis]], [[vasculitis]], abnormal bowel movements
-- Loss of Islets of Langerhans cells ([[Snippets/Insulin|Insulin]]) -> CF related diabetes
+- Loss of Islets of Langerhans cells ([[snippets/Insulin|Insulin]]) -> CF related diabetes
 - **[[clubbing]] of fingers**
 - Cyanosis
 

@@ -16,4 +16,4 @@ tags: ['Haematology']
 
 Treatment
 
-* [[Snippets/Blood transfusion|Blood transfusion]]
+* [[snippets/Blood transfusion|Blood transfusion]]

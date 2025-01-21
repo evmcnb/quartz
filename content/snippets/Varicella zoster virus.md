@@ -11,7 +11,7 @@ Causes chicken pox. Highly contagious, generalised vesicular rash. Most common i
 
 Patients become symptomatic 10 days to 3 weeks after exposure. They stop being contagious after all the lesions have crusted over - usually around 5 days after rash appears
 
-The virus can lie dormant in the sensory dorsal root ganglion cells and cranial nerves and reactivate later in life as **shingles** or **[[Snippets/Ramsay Hunt syndrome|Ramsay Hunt syndrome]]**
+The virus can lie dormant in the sensory dorsal root ganglion cells and cranial nerves and reactivate later in life as **shingles** or **[[snippets/Ramsay Hunt syndrome|Ramsay Hunt syndrome]]**
 
 * Conservative management - lotion and antihistamines for itching.
 * Children should be kept off school and avoid pregnant women and immunocompromised people until not

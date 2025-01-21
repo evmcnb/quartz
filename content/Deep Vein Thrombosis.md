@@ -18,7 +18,7 @@ Where a blood clot forms in a deep vein usually due to pooling of that blood due
 - Age
 - Genetic ([[Factor V Leiden]])
 - [[Pregnancy]]
-- $\uparrow$ Oestrogen levels ([[Snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]])
+- $\uparrow$ Oestrogen levels ([[snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]])
 - Trauma/surgery
 - Cancer
 - past DVT
@@ -54,7 +54,7 @@ Physical exam generally unreliable as similar to dermatitis
 
 - Immediate: Treatment dose apixaban or rivaroxaban or LMWH
 
-Continue anti-coagulation (1st DOAC, [[Snippets/Warfarin|Warfarin]] for those with [[Antiphospholipid syndrome]], LMWH in [[Pregnancy]]) for: 
+Continue anti-coagulation (1st DOAC, [[snippets/Warfarin|Warfarin]] for those with [[Antiphospholipid syndrome]], LMWH in [[Pregnancy]]) for: 
 - 3 months if the DVT was provoked 
 - 6 months if unprovoked or irreversible underlying cause
 

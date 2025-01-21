@@ -18,7 +18,7 @@ tags: ['ENT', 'Symptom', 'InfectiousDisease']
   + Headache
   + Dry mouth
 * Then after that **parotid swelling** - either unilateral or bilateral. ***WITH PAIN*** is a key feature so should consider mumps
-* May be other symptoms: abdominal pain ([[pancreatitis]]), testicular pain (orchitis), confusion, neck stiffness and headache ([[Snippets/Meningitis|Meningitis]] or [[Snippets/Encephalitis|Encephalitis]])
+* May be other symptoms: abdominal pain ([[pancreatitis]]), testicular pain (orchitis), confusion, neck stiffness and headache ([[snippets/Meningitis|Meningitis]] or [[snippets/Encephalitis|Encephalitis]])
 
 ## Other viral
 

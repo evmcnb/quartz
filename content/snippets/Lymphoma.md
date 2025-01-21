@@ -15,7 +15,7 @@ B or T cell usually solid malignancy in a lymph node
 * Weight loss
 * Night sweats
 
-**[[Snippets/Hodgkin's Lymphoma|Hodgkin's Lymphoma]]**
+**[[snippets/Hodgkin's Lymphoma|Hodgkin's Lymphoma]]**
 
 * Presence of Reed-Steinberg cells
 * Bimodal age distribution

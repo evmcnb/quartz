@@ -11,10 +11,10 @@ tags: ['Antibiotic', 'Drug']
 | --- | --- |
 | **Mechanism** | Inhibits **bacterial cell wall synthesis** by preventing cross-linking between peptidoglycan chains |
 | **Typical Dose** | 500mg TDS |
-| **Indications** | * Gram +ve bacterial infections (strep, stap) * Gram -ve bacterial infections (H. influenzae) * Helicobacter pylori eradication * Infective [[Snippets/Endocarditis|Endocarditis]] prophylaxis prior to dental surgery |
+| **Indications** | * Gram +ve bacterial infections (strep, stap) * Gram -ve bacterial infections (H. influenzae) * Helicobacter pylori eradication * Infective [[snippets/Endocarditis|Endocarditis]] prophylaxis prior to dental surgery |
 | **Contra-indications** | Penicillin hypersensitivity |
 | **Side-effects** | Skin rash, diarrhoea, N&V, candida vaginitis |
 | **Interactions** | OCP: decreased effectiveness of OCP |
 | **Elimination** |  |
-| **Additional Notes** | Certain strains of bacteria produce β-lactamase - [[Snippets/Co-amoxiclav|Co-amoxiclav]] required |
+| **Additional Notes** | Certain strains of bacteria produce β-lactamase - [[snippets/Co-amoxiclav|Co-amoxiclav]] required |
 

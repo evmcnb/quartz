@@ -7,7 +7,7 @@ tags: ['Hepatology', 'Drug']
 
 
 
-[[Snippets/Paracetamol|Paracetamol]] is absorbed from the gut and rapidly metabolised by the liver. A toxic metabolite is produced and glutathione is required to continue the metabolism to a safe product. Glutathione has a finite supply - if depleted the metabolite causes an acute liver injury. 4g of [[Snippets/Paracetamol|Paracetamol]] is the maximum dose in a day
+[[snippets/Paracetamol|Paracetamol]] is absorbed from the gut and rapidly metabolised by the liver. A toxic metabolite is produced and glutathione is required to continue the metabolism to a safe product. Glutathione has a finite supply - if depleted the metabolite causes an acute liver injury. 4g of [[snippets/Paracetamol|Paracetamol]] is the maximum dose in a day
 
 * ↑ AST
 * ↑ PT and INR
@@ -17,7 +17,7 @@ tags: ['Hepatology', 'Drug']
 
 N-acetylcystine dose: 150 mg/kg over 1 hour, then 50 mg/kg over 4 hours, then 100mg/kg over 16 hours
 
-Delay in giving [[Snippets/Paracetamol|Paracetamol]] due to risk of anaphylaxis when glutathione stores are not yet depleted (I believe)
+Delay in giving [[snippets/Paracetamol|Paracetamol]] due to risk of anaphylaxis when glutathione stores are not yet depleted (I believe)
 
 ### Treatment pathway
 
@@ -27,7 +27,7 @@ Delay in giving [[Snippets/Paracetamol|Paracetamol]] due to risk of anaphylaxis 
 
 ![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021.png)
 
-**8-24 hours:**Calculateweight and start N-acetylcysteine if ingestion is > 150 mg/kg (or if [[Snippets/Paracetamol|Paracetamol]] concentration is not available).
+**8-24 hours:**Calculateweight and start N-acetylcysteine if ingestion is > 150 mg/kg (or if [[snippets/Paracetamol|Paracetamol]] concentration is not available).
 
 **24 hours+:**Start N-acetylcystine or any time if they are clearly jaundiced or have hepatic tenderness, their ALT is above the upper limit of normal
 

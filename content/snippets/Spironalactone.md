@@ -11,8 +11,8 @@ tags: ['Drug', 'Cardiovascular']
 | --- | --- |
 | **Mechanism** | Aldosterone antagonist   1. Competes for receptors in DCT cells 2. Inhibition of Na retaining action 3. Decreases potassium secreting effect |
 | **Typical Dose** | 25-50mg or 100-200mg OD |
-| **Indications** | * Oedema/[[Snippets/Ascites|Ascites]] in liver [[Snippets/Cirrhosis|Cirrhosis]] * [[Nephrotic syndrome]] * CCF * Primary hyperaldosteronism |
-| **Contra-indications** | * [[Snippets/Hyperkalaemia|Hyperkalaemia]]/hyponatraemia * [[Snippets/Addison's Disease|Addison's Disease]] |
+| **Indications** | * Oedema/[[snippets/Ascites|Ascites]] in liver [[snippets/Cirrhosis|Cirrhosis]] * [[Nephrotic syndrome]] * CCF * Primary hyperaldosteronism |
+| **Contra-indications** | * [[snippets/Hyperkalaemia|Hyperkalaemia]]/hyponatraemia * [[snippets/Addison's Disease|Addison's Disease]] |
 | **Side-effects** | * GI disturbance * Impotence * Gynaecomastia * Menstrual irregularities * Lethargy/headache/confusion |
 | **Interactions** |  |
 | **Elimination** |  |

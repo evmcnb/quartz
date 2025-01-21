@@ -9,7 +9,7 @@ tags: ['Rheumatology']
 
 Anti-centromere - CREST  
 
-Anti-CCP - [[Snippets/Rheumatoid Arthritis|Rheumatoid Arthritis]]  
+Anti-CCP - [[snippets/Rheumatoid Arthritis|Rheumatoid Arthritis]]  
 
 ANCA - CANCA is Wegener's and PANCA is Churg-Strauss  
 

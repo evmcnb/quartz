@@ -23,7 +23,7 @@ The initial **_thyrotoxic phase_** involves:
 It is a self-limiting condition, and supportive treatment is usually all that is necessary. This may involve:
 
 - **_NSAIDs_** for symptoms of pain and inflammation 
-- **_Beta blockers_** for the symptoms of [[Snippets/Hyperthyroidism|Hyperthyroidism]]
+- **_Beta blockers_** for the symptoms of [[snippets/Hyperthyroidism|Hyperthyroidism]]
 - **_Levothyroxine_** for the symptoms of [[Hypothyroidism]]
 
 A small number (under 10%) remain hypothyroid long-term.

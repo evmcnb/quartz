@@ -28,17 +28,17 @@ Limited treatment options - platelet tx, FFP/prothrombin complex, cryoprecipitat
 
 Drugs accumulating in renal failure ([[Penicillins]]) can bind to platelets and block their receptors.
 
-[[Snippets/Anaemia|Anaemia]] can lead to decreased platelet interaction which then causes more platelet function
+[[snippets/Anaemia|Anaemia]] can lead to decreased platelet interaction which then causes more platelet function
 
 * Easy bruising , petechia, gum bleeding, nosebleeds etc
 * Patients with uncontrolled high BP and on dialysis increased risk of ICH
 
-Correct [[Snippets/Anaemia|Anaemia]] and avoid antiplatelet drugs
+Correct [[snippets/Anaemia|Anaemia]] and avoid antiplatelet drugs
 
 ### Vitamin K deficiency
 
 FII, VII, IX, X deficiency
 
 * Prolonged PT $\pm$ aPTT
-* Caused by broad spec antibiotics, diet, obstructive [[Snippets/Jaundice|Jaundice]]
+* Caused by broad spec antibiotics, diet, obstructive [[snippets/Jaundice|Jaundice]]
 * Treat with vit K supplements

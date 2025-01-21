@@ -66,6 +66,6 @@ Exam look for:
 - Cavernous sinus thrombosis
 - Loss of vision
 - Intracerebral abscess
-- [[Snippets/Osteomyelitis|Osteomyelitis]]
-- [[Snippets/Meningitis|Meningitis]] 
+- [[snippets/Osteomyelitis|Osteomyelitis]]
+- [[snippets/Meningitis|Meningitis]] 
 - Death (rarely) 

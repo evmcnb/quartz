@@ -9,7 +9,7 @@ tags: ['Neurology', 'Cardiovascular']
 
 | **Syncope** | **Seizure** |
 | --- | --- |
-| Prolonged upright position before the event | [[Snippets/Epilepsy|Epilepsy]] aura (smells, tastes or deja vu) before the event |
+| Prolonged upright position before the event | [[snippets/Epilepsy|Epilepsy]] aura (smells, tastes or deja vu) before the event |
 | Lightheaded before the event | Head turning or abnormal limb positions |
 | Sweating before the event | Tonic clonic activity |
 | Blurring or clouding of vision before the event | Tongue biting |

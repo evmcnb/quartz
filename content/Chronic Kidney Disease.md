@@ -47,7 +47,7 @@ date: 2023-11-12
 
 Distinguish between AKI and CKD: baseline creatinine value. Favouring CKD:
 
-- [[Snippets/Anaemia|Anaemia]]
+- [[snippets/Anaemia|Anaemia]]
 - low calcium
 - high phosphate
 - elevated parathroid hormone
@@ -78,5 +78,5 @@ Palliative Care sometimes as its a lot of effort to continue with dialysis
   - [[Coronary Artery Disease]]
   - [[Acute Kidney Injury]]
   - Hyperparathyroidism (low Ca, low activated vit D, high phosphate causes increased PTH )
-  - [[Snippets/Anaemia|Anaemia]]
+  - [[snippets/Anaemia|Anaemia]]
   - [[Essential hypertension]]

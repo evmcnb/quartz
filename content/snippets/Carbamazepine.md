@@ -12,7 +12,7 @@ tags: ['Neurology', 'Drug']
 | **Mechanism** | GABA-mediated inhibitory transmission in the CNS |
 | **Typical Dose** | 100-200mg |
 | **Indications** | * Generalised tonic-clonic siezures * Partial seizures * Trigeminal neuralgia/chronic neurogenic pain * Biopolar prophylaxis * Adjunct in alcohol withdrawal |
-| **Contra-indications** | * History of [[Snippets/Bone|Bone]] marrow [[Depression]] * AV node conduction abnormalities * Porphyria |
+| **Contra-indications** | * History of [[snippets/Bone|Bone]] marrow [[Depression]] * AV node conduction abnormalities * Porphyria |
 | **Side-effects** | Common: drowsiness, ataxia, blurred vision, confusion    Rarely: agranulocytosis, thrombocytopenia |
 | **Interactions** | Clarithromycin: carbamazepine metabolism slowed  Induce Cytochrome P450 - so anything interacts with that |
 | **Elimination** |  |

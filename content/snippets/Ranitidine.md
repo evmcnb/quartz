@@ -14,7 +14,7 @@ tags: ['Drug', 'Gastroenterology']
 | **Indications** | * Benign gastric/duodenal ulcers * Chronic episodic dyspepsia * GORD |
 | **Contra-indications** |  |
 | **Side-effects** | * Diarrhoea * GI/LFT disturbances * Headache/dizziness/fatigue * Rash * Rarely: [[pancreatitis]], bradycardia, AV block |
-| **Interactions** | (Cimetidine: inhibits cyto P450 enzymes, ↓ metabolism of oral [[Snippets/Anticoagulants|Anticoagulants]], [[Snippets/Phenytoin|Phenytoin]], [[Snippets/Carbamazepine|Carbamazepine]], quinidine, nifedipine, theophylline, TCAs) |
+| **Interactions** | (Cimetidine: inhibits cyto P450 enzymes, ↓ metabolism of oral [[snippets/Anticoagulants|Anticoagulants]], [[snippets/Phenytoin|Phenytoin]], [[snippets/Carbamazepine|Carbamazepine]], quinidine, nifedipine, theophylline, TCAs) |
 | **Elimination** |  |
-| **Additional Notes** | Ranitidine has fewer side effects than cimetidine.  Treatment should last for 4-8 weeks  May mask symptoms of [[Snippets/Gastric Cancer|Gastric Cancer]] |
+| **Additional Notes** | Ranitidine has fewer side effects than cimetidine.  Treatment should last for 4-8 weeks  May mask symptoms of [[snippets/Gastric Cancer|Gastric Cancer]] |
 

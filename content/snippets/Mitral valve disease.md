@@ -21,7 +21,7 @@ Other signs:
 Causes of mitral stenosis:
 
 * ***Rheumatic heart disease***
-* ***Infective [[Snippets/Endocarditis|Endocarditis]]***
+* ***Infective [[snippets/Endocarditis|Endocarditis]]***
 
 ## Mitral regurgitation
 
@@ -39,7 +39,7 @@ Causes of mitral regurgitation:
 
 * Idiopathic weakening of the valve with age
 * Ischaemic heart disease
-* Infective [[Snippets/Endocarditis|Endocarditis]]
+* Infective [[snippets/Endocarditis|Endocarditis]]
 * Rheumatic heart disease
 * Connective tissue disorders, such as ***Ehlers-Danlos syndrome*** or ***Marfan syndrome***
 

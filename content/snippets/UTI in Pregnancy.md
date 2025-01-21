@@ -11,7 +11,7 @@ UTI in [[Pregnancy]] should always be treated even if asymptomatic
 
 ## First Trimester
 
-* [[Snippets/Trimethoprim|Trimethoprim]] should be avoided as it is teratogenic (folate antagonist with can lead to neural tube defects)
+* [[snippets/Trimethoprim|Trimethoprim]] should be avoided as it is teratogenic (folate antagonist with can lead to neural tube defects)
 * Nitrofurantoin for 7 days - cefalexin 2nd line
 
 ## Second Trimester

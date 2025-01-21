@@ -11,7 +11,7 @@ tags: ['Drug', 'Endocrinology']
 | --- | --- |
 | **Mechanism** | Lowers plasma glucose concentration:   * Glucose transport into fat and muscle cells * Stimulating glycogen synthesis * Inhibiting gluconeogenesis |
 | **Typical Dose** | (According to requirements) |
-| **Indications** | * Diabetes type I (and 4th line for TII) * Ketoacidosis * Hyperglycaemic hyperosmotic non-ketotic coma * Emergency treatment of [[Snippets/Hyperkalaemia|Hyperkalaemia]] |
+| **Indications** | * Diabetes type I (and 4th line for TII) * Ketoacidosis * Hyperglycaemic hyperosmotic non-ketotic coma * Emergency treatment of [[snippets/Hyperkalaemia|Hyperkalaemia]] |
 | **Contra-indications** | Caution in renal impairment |
 | **Side-effects** | * [[Hypoglycaemia]] * Weight gain * Oedema |
 | **Interactions** | B-blockers - mask warning signs of [[Hypoglycaemia]] |

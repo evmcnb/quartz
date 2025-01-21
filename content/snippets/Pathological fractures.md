@@ -7,9 +7,9 @@ tags: ['Oncology', 'Orthopaedics']
 
 
 
-A fracture due to an underlying disease of the [[Snippets/Bone|Bone]] - usually a tumour, [[osteoporosis]] or Paget's disease of the [[Snippets/Bone|Bone]]. Occur with disproportionately little trauma. Common sites are **vertebral bodies and the femur**
+A fracture due to an underlying disease of the [[snippets/Bone|Bone]] - usually a tumour, [[osteoporosis]] or Paget's disease of the [[snippets/Bone|Bone]]. Occur with disproportionately little trauma. Common sites are **vertebral bodies and the femur**
 
-The main cancers that metastasise to the [[Snippets/Bone|Bone]]
+The main cancers that metastasise to the [[snippets/Bone|Bone]]
 
 * Prostate
 * Renal

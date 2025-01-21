@@ -9,5 +9,5 @@ tags: ['Antibiotic', 'Drug']
 
 Prophylactic antibiotic dose should be given in human, dog + cat bites
 
-* 1st line - [[Snippets/Co-amoxiclav|Co-amoxiclav]]
-* 2nd line - [[Snippets/Doxycycline|Doxycycline]] & [[Snippets/Metronidazole|Metronidazole]]
+* 1st line - [[snippets/Co-amoxiclav|Co-amoxiclav]]
+* 2nd line - [[snippets/Doxycycline|Doxycycline]] & [[snippets/Metronidazole|Metronidazole]]

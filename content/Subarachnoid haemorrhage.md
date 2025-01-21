@@ -10,10 +10,10 @@ date: 2023-10-05
 Bleeding into the space between the arachnoid membrane and the pia mater - **subarachnoid**
 ## Causes/Factors
 
-- **Aneurysms:** Berry [[Snippets/Aneurysm|Aneurysm]] rupture (80%) - common locations: junctions of posterior communicating with the internal carotid artery or anterior communicating with anterior cerebral artery
+- **Aneurysms:** Berry [[snippets/Aneurysm|Aneurysm]] rupture (80%) - common locations: junctions of posterior communicating with the internal carotid artery or anterior communicating with anterior cerebral artery
 - **Trauma:** Head injury or trauma can lead to bleeding.
 - **Arteriovenous Malformations (AVMs):** Abnormal connections between arteries and veins in the brain.
-- **Blood-Thinning Medications:** Medications like [[Snippets/Anticoagulants|Anticoagulants]] can increase the risk of bleeding.
+- **Blood-Thinning Medications:** Medications like [[snippets/Anticoagulants|Anticoagulants]] can increase the risk of bleeding.
 - **Family History:** A family history of aneurysms or SAH 3-5x risk
 - **Other conditions:** That increase risk of aneurysms eg [[Ehlers-Danlos syndrome]], [[Polycystic Kidney Disease]] 
 
@@ -43,7 +43,7 @@ Refer all confirmed SAH to neurosurgery
 - Blood pressure control - <160mmHg
 - Nimodipine 60mg/4h for 3wks (Ca$^{2+}$ antagonist to prevent vasospasm)
 
-Surgery: endovascular coiling vs surgical clipping depends on location of [[Snippets/Aneurysm|Aneurysm]], but coiling is preferred
+Surgery: endovascular coiling vs surgical clipping depends on location of [[snippets/Aneurysm|Aneurysm]], but coiling is preferred
 
 ## Complications/red Flags
 

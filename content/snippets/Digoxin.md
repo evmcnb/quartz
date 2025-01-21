@@ -14,7 +14,7 @@ tags: ['Cardiovascular', 'Drug']
 | **Indications** | * HF * Supraventricular [[Arrhythmias]] (esp fast AF aim for HR <100) |
 | **Contra-indications** | * Complete [[Heart Block]] * HOCM * WPW syndrome |
 | **Side-effects** | Common: nausea, vomiting, anorexia, visual disturbances  Rarely: confusion, hallucinations |
-| **Interactions** | * [[Snippets/Amiodarone|Amiodarone]]/propafenone/quinidine: antiarrhythmics ↑ risk of digoxin toxicity * CCBs: ↑ risk of digoxin toxicity * Diuretics: hypokalaemia can ↑ risk of toxicity |
+| **Interactions** | * [[snippets/Amiodarone|Amiodarone]]/propafenone/quinidine: antiarrhythmics ↑ risk of digoxin toxicity * CCBs: ↑ risk of digoxin toxicity * Diuretics: hypokalaemia can ↑ risk of toxicity |
 | **Elimination** | Excreted via the kidneys |
 | **Additional Notes** | * Can cause ST [[Depression]] - digoxin effect * Weak +ve inotrope, half life of 36 hours |
 

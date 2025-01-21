@@ -70,7 +70,7 @@ Assessment of capacity is important
 	- MoCA - 
 
 
-- **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, [[Snippets/Bone|Bone]] profile, Folate & B12, vitamin D
+- **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, [[snippets/Bone|Bone]] profile, Folate & B12, vitamin D
 - **Imaging**: CXR for [[pneumonia]], CT head to rule out bleeds, bladder USS 
 
 ## Management

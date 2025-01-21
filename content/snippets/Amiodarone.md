@@ -13,8 +13,8 @@ tags: ['Cardiovascular', 'Drug']
 | **Typical Dose** | 200-300mg |
 | **Indications** | Supraventricular/ventricular [[Arrhythmias]] - esp when other drugs are contra-indicated or failed  V fib or pulseless VT refractory to defibrillation |
 | **Contra-indications** | * Sinus bradycardia * SA block * Sinus node dysfunction * Thyroid dysfunction * Iodine sensitivity (contains iodine) * [[Pregnancy]]/breast feeding |
-| **Side-effects** | * Nausea/vomiting * [[Snippets/Jaundice|Jaundice]] * Bradycardia * Hypo/[[Snippets/Hyperthyroidism|Hyperthyroidism]] * Sleep disturbances * [[Pulmonary Fibrosis]] * Corneal opacities and [[Optic neuritis]] |
-| **Interactions** | * Beta blockers: ↑ risk of bradycardia/AV block/myocardial [[Depression]] * [[Snippets/Digoxin|Digoxin]]: increased risk of toxicity (can be used for the same thing, so not sure when to give both) * [[Snippets/Diltiazem|Diltiazem]]/verapamil: ↑ risk of bradycardia/AV block/myocardial [[Depression]] (can also be used for cardioversion) |
+| **Side-effects** | * Nausea/vomiting * [[snippets/Jaundice|Jaundice]] * Bradycardia * Hypo/[[snippets/Hyperthyroidism|Hyperthyroidism]] * Sleep disturbances * [[Pulmonary Fibrosis]] * Corneal opacities and [[Optic neuritis]] |
+| **Interactions** | * Beta blockers: ↑ risk of bradycardia/AV block/myocardial [[Depression]] * [[snippets/Digoxin|Digoxin]]: increased risk of toxicity (can be used for the same thing, so not sure when to give both) * [[snippets/Diltiazem|Diltiazem]]/verapamil: ↑ risk of bradycardia/AV block/myocardial [[Depression]] (can also be used for cardioversion) |
 | **Elimination** |  |
 | **Additional Notes** | ½ life of 36 days - interactions can occur after stopping treatment. Monitor thyroid, liver and lung function every 6 months |
 

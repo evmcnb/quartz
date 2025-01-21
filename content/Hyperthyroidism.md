@@ -63,25 +63,25 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 
 ## Management
 
-- **[[Snippets/Carbimazole|Carbimazole]]** is the first line anti-thyroid drug. Two treatment options:
-	1. The [[Snippets/Carbimazole|Carbimazole]] dose is titrated to maintain normal levels
-	2. A higher dose blocks all production and [[Snippets/Levothyroxine|Levothyroxine]] is added and titrated to effect
+- **[[snippets/Carbimazole|Carbimazole]]** is the first line anti-thyroid drug. Two treatment options:
+	1. The [[snippets/Carbimazole|Carbimazole]] dose is titrated to maintain normal levels
+	2. A higher dose blocks all production and [[snippets/Levothyroxine|Levothyroxine]] is added and titrated to effect
 	3. Risk of agranulocytosis and **acute [[pancreatitis]]**
 
 >[!warning]
 >
->The MHRA issued a warning in 2019 about the risk of acute [[pancreatitis]] in patients taking [[Snippets/Carbimazole|Carbimazole]]. In exams, look out for a patient on [[Snippets/Carbimazole|Carbimazole]] presenting with symptoms of [[pancreatitis]] (e.g., severe epigastric pain radiating to the back).
+>The MHRA issued a warning in 2019 about the risk of acute [[pancreatitis]] in patients taking [[snippets/Carbimazole|Carbimazole]]. In exams, look out for a patient on [[snippets/Carbimazole|Carbimazole]] presenting with symptoms of [[pancreatitis]] (e.g., severe epigastric pain radiating to the back).
 
 - **Propylthiouracil** is second line and works in the same way. Small risk of severe liver reaction. 
 
-**Both can cause agranulocytosis** - this makes people vulnerable to infection. A **[[Snippets/Sore throat|Sore throat]]** is a key presenting feature. Need an urgent FBC and aggressive treatment. 
+**Both can cause agranulocytosis** - this makes people vulnerable to infection. A **[[snippets/Sore throat|Sore throat]]** is a key presenting feature. Need an urgent FBC and aggressive treatment. 
 
 - **Beta blockers** - propanolol is usual as its non-selectively blocks adrenergic activity.
 
-**Surgery is definitive option** - removing the whole thyroid gland and starting life-long [[Snippets/Levothyroxine|Levothyroxine]] 
+**Surgery is definitive option** - removing the whole thyroid gland and starting life-long [[snippets/Levothyroxine|Levothyroxine]] 
 ## Complications/Red Flags
 
 - **Thyroid Storm:** It is a rare and more severe presentation of hyperthyroidism with **_fever_**, **_tachycardia_** and **_delirium_**. It can be life-threatening and requires admission for monitoring.
-- **[[osteoporosis]]:** Long-term hyperthyroidism can lead to [[Snippets/Bone|Bone]] loss and an increased risk of fractures.
+- **[[osteoporosis]]:** Long-term hyperthyroidism can lead to [[snippets/Bone|Bone]] loss and an increased risk of fractures.
 - **Heart Problems:** Untreated hyperthyroidism can strain the heart, leading to heart rhythm abnormalities and potential [[Heart Failure]].
 - **[[Pregnancy]] Complications:** Hyperthyroidism during [[Pregnancy]] requires careful management to prevent harm to both the mother and the baby.

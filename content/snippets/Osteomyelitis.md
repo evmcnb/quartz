@@ -7,7 +7,7 @@ tags: ['Orthopaedics']
 
 
 
-Infection of [[Snippets/Bone|Bone]] - acute pain swelling, pathological fracture
+Infection of [[snippets/Bone|Bone]] - acute pain swelling, pathological fracture
 
 Acute a/w inflammatory reaction, fulminant, [[Sepsis]]
 
@@ -18,7 +18,7 @@ Chronic - present for >1 month, smouldering acute flares
 * Penetrating - skin flora/ environment
 * Sickle cell - Salmonella sp.
 
-Treat with long-term antibiotics and debidement of infected [[Snippets/Bone|Bone]] in severe cases
+Treat with long-term antibiotics and debidement of infected [[snippets/Bone|Bone]] in severe cases
 
-Early detection and aggressive management are crucial to prevent complications such as [[Snippets/Bone|Bone]] necrosis and systemic spread of infection.
+Early detection and aggressive management are crucial to prevent complications such as [[snippets/Bone|Bone]] necrosis and systemic spread of infection.
 

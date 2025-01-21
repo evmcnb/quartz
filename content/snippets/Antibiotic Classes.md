@@ -26,9 +26,9 @@ tags: ['Antibiotic', 'Drug']
 
 ### Bacterial protein synthesis inhibitors
 
-* Tetracycline, [[Snippets/Doxycycline|Doxycycline]]
-* Macrolides - [[Snippets/Erythromycin|Erythromycin]]
-* Aminoglycosides - [[Snippets/Gentamicin|Gentamicin]]
+* Tetracycline, [[snippets/Doxycycline|Doxycycline]]
+* Macrolides - [[snippets/Erythromycin|Erythromycin]]
+* Aminoglycosides - [[snippets/Gentamicin|Gentamicin]]
 * Oxazolidinones
 * Mupirocin
 
@@ -36,7 +36,7 @@ tags: ['Antibiotic', 'Drug']
 
 * Fluoroquinolones
 * Sulfonamides
-* [[Snippets/Trimethoprim|Trimethoprim]] - folate antagonist
+* [[snippets/Trimethoprim|Trimethoprim]] - folate antagonist
 
 ### RNA synthesis
 

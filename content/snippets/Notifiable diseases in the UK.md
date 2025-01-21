@@ -7,9 +7,9 @@ tags: ['InfectiousDisease']
 
 
 
-* Acute [[Snippets/Encephalitis|Encephalitis]]
+* Acute [[snippets/Encephalitis|Encephalitis]]
 * Acute infectious [[Hepatitis]]
-* Acute [[Snippets/Meningitis|Meningitis]]
+* Acute [[snippets/Meningitis|Meningitis]]
 * Acute poliomyelitis
 * Anthrax
 * Botulism

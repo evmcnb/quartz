@@ -50,7 +50,7 @@ Find underlying cause
 
 Treat underlying cause
 
-- [[Snippets/Oxygen|Oxygen]]
+- [[snippets/Oxygen|Oxygen]]
 - assisted ventilation if necessary
 
 ## Complications/red Flags

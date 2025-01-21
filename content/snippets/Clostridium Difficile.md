@@ -13,8 +13,8 @@ Opportunistic when antibiotics remove other bacterial competition and can get ou
 
 ## The antibiotics most associated with C. diff start with the letter C:
 
-* [[Snippets/Clindamycin|Clindamycin]]
-* [[Snippets/Ciprofloxacin|Ciprofloxacin]] (and other fluoroquinolones)
+* [[snippets/Clindamycin|Clindamycin]]
+* [[snippets/Ciprofloxacin|Ciprofloxacin]] (and other fluoroquinolones)
 * [[Cephalosporins]]
 * [[Carbapenems]] (e.g., meropenem)
 

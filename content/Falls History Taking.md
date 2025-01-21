@@ -49,7 +49,7 @@ date: 2023-10-18
 
 |   |   |
 |---|---|
-|**General**|- Visual/hearing impairment<br>- Diabetes<br>- [[Snippets/Anaemia|Anaemia]]|
+|**General**|- Visual/hearing impairment<br>- Diabetes<br>- [[snippets/Anaemia|Anaemia]]|
 |**Cardiovascular**|- Cardiovascular disease<br>- Arrhythmias|
 |**Respiratory**|- COPD|
 |**Neurological**|- Parkinson’s disease<br>- Peripheral neuropathy<br>- Stroke<br>- Dementia|

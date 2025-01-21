@@ -20,7 +20,7 @@ In elderly - occurrence of falls often signs underlying ill health
 
 - Elderly
 - Those susceptible to falls
-- [[osteoporosis]]/[[Snippets/Bone|Bone]] metastases
+- [[osteoporosis]]/[[snippets/Bone|Bone]] metastases
 - Traumatic injuries
 - Low BMI
 - Female

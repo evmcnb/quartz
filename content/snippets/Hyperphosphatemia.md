@@ -7,7 +7,7 @@ tags: ['Symptom']
 
 
 
-Symptoms usually due to [[Snippets/Hypocalcaemia|Hypocalcaemia]]
+Symptoms usually due to [[snippets/Hypocalcaemia|Hypocalcaemia]]
 
 Causes:
 

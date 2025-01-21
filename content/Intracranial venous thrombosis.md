@@ -17,7 +17,7 @@ Most commonly sagittal sinus thrombosis (47%) or transverse sinus thrombosis (35
 
 - Anything that promotes a hypercoagulable state
 - [[Pregnancy]]
-- [[Snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill
+- [[snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill
 - Head injury
 - Dehydration
 - Tumours
