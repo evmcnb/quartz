@@ -9,12 +9,12 @@ tags: ['Drug']
 
 | **Drug Class** | Opiate |
 | --- | --- |
-| **Mechanism** | Partial metabolic conversion to morphine - 1/6 potency |
+| **Mechanism** | Partial metabolic conversion to [[Snippets/Morphine|Morphine]] - 1/6 potency |
 | **Typical Dose** | 30-60mg QDS for 3 days max |
 | **Indications** | * Mild-moderate pain * Diarrhoea * Cough suppression |
-| **Contra-indications** | * Respiratory depression * Paralytic ileus * Increase intracranial pressure (interferes with pupil response for neuro obs) |
+| **Contra-indications** | * Respiratory [[Depression]] * Paralytic [[Ileus]] * Increase intracranial pressure (interferes with pupil response for neuro obs) |
 | **Side-effects** | N&V, **constipation**, dry mouth, biliary spasm |
-| **Interactions** | **Alcohol:**enhanced hypotensive/sedative effects  Metoclopramide: antagonise effects of metoclopramide on GI tract  Cimetidine: inhibits opioid metabolism |
+| **Interactions** | **Alcohol:**enhanced hypotensive/sedative effects  [[Snippets/Metoclopramide|Metoclopramide]]: antagonise effects of [[Snippets/Metoclopramide|Metoclopramide]] on GI tract  Cimetidine: inhibits opioid metabolism |
 | **Elimination** |  |
-| **Additional Notes** | To convert dose from codeine to morphine - divide by 10 - 60mg ⇒ 6mg |
+| **Additional Notes** | To convert dose from codeine to [[Snippets/Morphine|Morphine]] - divide by 10 - 60mg ⇒ 6mg |
 

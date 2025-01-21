@@ -11,10 +11,10 @@ tags: ['Respiratory', 'Drug']
 | --- | --- |
 | **Mechanism** | Blocks ACh - inhibit parasympathetic pathway which is responsible for smooth muscle contraction. |
 | **Typical Dose** | 250-500 micrograms 3-4 times a day of neb |
-| **Indications** | * Reversible airway obstruction (particularly COPD) * Severe/life-threatening asthma * Acute bronchospasm |
+| **Indications** | * Reversible airway obstruction (particularly [[COPD]]) * Severe/life-threatening [[asthma]] * Acute bronchospasm |
 | **Contra-indications** | Caution: prostatic hyperplasia, bladder outflow obstructions, patients at risk of glaucoma |
-| **Side-effects** | Arrhythmias, constipation, cough, dizziness, dry mouth, headache, nausea |
-| **Interactions** | * Avoid with clarithromycin/erythromycin * ↑ risk of side effect antidepressants * ↓ effect of sublingual nitrates (due to dry mouth) |
+| **Side-effects** | [[Arrhythmias]], constipation, cough, dizziness, dry mouth, headache, nausea |
+| **Interactions** | * Avoid with clarithromycin/[[Snippets/Erythromycin|Erythromycin]] * ↑ risk of side effect antidepressants * ↓ effect of sublingual nitrates (due to dry mouth) |
 | **Elimination** |  |
 | **Additional Notes** |  |
 

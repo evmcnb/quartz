@@ -12,10 +12,10 @@ URT infections
 * Pharyngitis
 * Acute tonsillitis
 * Croup - inflammation and narrowing of subglottic region (larynx)
-* Acute otitis media
+* Acute [[Otitis media]]
 
 LRT infections:
 
 * pneomonia
-* bronchiolitis (RSV)
-* acute bronchitis
+* [[Bronchiolitis]] (RSV)
+* acute [[bronchitis]]

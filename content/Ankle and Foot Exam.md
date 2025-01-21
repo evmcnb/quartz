@@ -44,7 +44,7 @@ Ask the patient to walk normally, on heels (arthritis) and tip-toes (muscle weak
 
 ### Closer inspection
 - In all planes
-- Psoriasis blaques
+- [[Snippets/Psoriasis|Psoriasis]] blaques
 - Fixed flexion deformities of the toes
 - Big toe misalignment
 - Calluses 

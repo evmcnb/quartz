@@ -7,8 +7,8 @@ tags: ['Acute', 'Haematology']
 
 
 
-Type of microangiopathic haemolytic anaemia, antibodies against ADAMTS13 enzyme. So vWF cannot be broken down leading to many clots
+Type of microangiopathic haemolytic [[Snippets/Anaemia|Anaemia]], antibodies against ADAMTS13 enzyme. So vWF cannot be broken down leading to many clots
 
 * aquired
 * fragments of vWF slice up RBCs and vessels
-* treat with plasma exchange to remove antibody and prevent thrombosis with aspirin and LMWH
+* treat with plasma exchange to remove antibody and prevent thrombosis with [[Snippets/Aspirin|Aspirin]] and LMWH

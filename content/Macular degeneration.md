@@ -59,6 +59,6 @@ Wet AMD
 
 - Visual impairment and blindness. 
 - Visual hallucinations.
-- Depression.
+- [[Depression]].
 - Falls and fractures.
 - Reduced quality of life

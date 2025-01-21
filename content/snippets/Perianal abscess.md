@@ -14,7 +14,7 @@ Infection and anal gland drainage obstruction from the perianal fistula may lead
 a/w
 
 * Diabetes
-* Crohn's disease
+* [[Crohn's Disease]]
 * Pelvic infection
 * Trauma
 * Cancer ± radiation

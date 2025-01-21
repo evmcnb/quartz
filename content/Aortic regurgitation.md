@@ -50,7 +50,7 @@ etc
 
 ## Management
 
-Main target of medical therapy is to reduce systolic hypertension
+Main target of medical therapy is to reduce systolic [[Essential hypertension]]
 - ACEi helpful
 - Echo every 6-12 months to monitor
 - For TAVI if enlarged ascending aorta, increasing symptoms, enlarging LV, deteriorating LV function on echo, [[Endocarditis|Infective endocarditis]] refractory to therapy 

@@ -33,12 +33,12 @@ C - begin chest complressions at 100-120 bpm with 5-6cm depth with rebound. Afte
 
 * Hypoxia
 * Hypovolaemia
-* Hypo/hyperkalaemia/metabolic
+* Hypo/[[Snippets/Hyperkalaemia|Hyperkalaemia]]/metabolic
 * Hypothermia
 
 **4Ts**
 
 * Thrombosis
-* Tension pneumothorax
+* Tension [[pneumothorax]]
 * Tamponade
 * Toxins

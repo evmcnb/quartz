@@ -30,18 +30,18 @@ Must exclude orbital cellulitis and red flag features
 
 ## Diagnostic Tests
 
-There are no specific investigations but if there is any suspicion of orbital cellulitis or unclear diagnosis, refer to secondary care for CT head
+There are no specific investigations but if there is any suspicion of [[Orbital cellulitis]] or unclear diagnosis, refer to secondary care for CT head
 
 ## Management
 
 Emergency referral to ophthalmology/ENT if:
-- there is any suspicion of orbital cellulitis 
+- there is any suspicion of [[Orbital cellulitis]] 
 - the patient is systemically unwell
 - the patient is a child as paediatric patients require empirical IV antibiotics and daily monitoring due to the difficulty in differentiating between the two - can be challenging history and exam to take
 
-For adult patients oral co-amoxiclav is 1st line (clindamycin if pen allergic)
+For adult patients oral [[Snippets/Co-amoxiclav|Co-amoxiclav]] is 1st line ([[Snippets/Clindamycin|Clindamycin]] if pen allergic)
 Consider 24-48h follow up and safety netting advice should be given 
 
 ## Complications/red Flags
 
-- Peri-orbital cellulitis can **spread** to cause orbital cellulitis. Important to provide adequate safety netting advice to patients
+- Peri-[[Orbital cellulitis]] can **spread** to cause [[Orbital cellulitis]]. Important to provide adequate safety netting advice to patients

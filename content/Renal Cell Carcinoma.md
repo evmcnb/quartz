@@ -23,7 +23,7 @@ Two most common:
 
 - Age (60+)
 - Male
-- Obesity
+- [[Obesity]]
 - Smoking
 - NSAID use
 - ESRF and on dialysis
@@ -40,7 +40,7 @@ Two most common:
 ###### Effects of Distant Metastases
 
 - Lung mets -> SOB
-- Bone mets -> bone pain
+- [[Snippets/Bone|Bone]] mets -> [[Snippets/Bone|Bone]] pain
 
 ###### Paraneoplastic Syndromes
 

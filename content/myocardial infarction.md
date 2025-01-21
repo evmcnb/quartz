@@ -56,7 +56,7 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 | Circumflex               | Lateral        | I, aVL, V5-6  |
 | Right coronary artery    | Inferior       | II, III, aVF  |
 
-- ECG - ST elevation (STEMI), T-wave inversion, ST depression (NSTEMI) - [[ECG Lead Placement & Interpretation]]
+- ECG - ST elevation (STEMI), T-wave inversion, ST [[Depression]] (NSTEMI) - [[ECG Lead Placement & Interpretation]]
 - Bloods - raised troponin, cardiac enzymes, creatine kinase for NSTEMI
 - Echo to see area of reduced contraction
 - Coronary angio to show which artery is blocked
@@ -66,9 +66,9 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 Acute:
 
 **MOAN pneumonic**
-- Morphine 5-10mg (with metoclopramide 10mg)
-- Oxygen
-- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. Clopidogrel if high bleeding risk, or prasugrel if having angiography.
+- [[Snippets/Morphine|Morphine]] 5-10mg (with [[Snippets/Metoclopramide|Metoclopramide]] 10mg)
+- [[Snippets/Oxygen|Oxygen]]
+- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. [[Snippets/Clopidogrel|Clopidogrel]] if high bleeding risk, or prasugrel if having angiography.
 - Nitrates - GNT spray
 
 - *PCI* must be within 2 hours otherwise *thrombolysis*
@@ -83,12 +83,12 @@ Patients at **_medium_** or **_high risk_** are considered for early **_ang
 Factors in GRACE score is age HR systolic BP and associated symptoms
 
 Post MI 6A's:
-- Aspirin 75mg indefinitely
-- Another Anti-platelet - ticagrelor or clopidogrel for 12 months
+- [[Snippets/Aspirin|Aspirin]] 75mg indefinitely
+- Another Anti-platelet - ticagrelor or [[Snippets/Clopidogrel|Clopidogrel]] for 12 months
 - Atorvastatin 80mg once daily
 - ACE inhibitor as high as tolerated
-- Atenolol or another beta blocker
-- Aldosterone antagonist in those with heart failure
+- [[Snippets/Atenolol|Atenolol]] or another beta blocker
+- Aldosterone antagonist in those with [[Heart Failure]]
 
 ## Complications/red Flags
 
@@ -99,7 +99,7 @@ Post MI 6A's:
 > - Global ST elevation and TWI, pericardial effusion and raised CRP and ESR
 > - Management is with NSAIDs and in severe cases steroids ± pericardiocentesis 
 
-- Arrhythmias - most common complication
+- [[Arrhythmias]] - most common complication
 - [[Pericarditis]]
 - [[Cardiac Tamponade]]
 - LV/RV failure

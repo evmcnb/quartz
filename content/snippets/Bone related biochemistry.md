@@ -10,10 +10,10 @@ tags: ['Endocrinology']
 | Disease | ALP | Ca | Phos | PTH |
 | --- | --- | --- | --- | --- |
 | HyperPTH | \(\uparrow\) | \(\uparrow\) | \(\downarrow\) | \(\uparrow\) |
-| Osteomalacia | \(\uparrow\) | \(\downarrow\) | \(\downarrow\) | \(\uparrow\) |
-| Osteoporosis | N | N | N | N |
+| [[Snippets/Osteomalacia|Osteomalacia]] | \(\uparrow\) | \(\downarrow\) | \(\downarrow\) | \(\uparrow\) |
+| [[osteoporosis]] | N | N | N | N |
 | Paget's | \(\uparrow\) | N | N | N |
-| Bone mets | \(\uparrow\) | \(\uparrow\) | N | \(\downarrow\) |
+| [[Snippets/Bone|Bone]] mets | \(\uparrow\) | \(\uparrow\) | N | \(\downarrow\) |
 
 ## Calcium biochemistry
 
@@ -30,7 +30,7 @@ tags: ['Endocrinology']
 #### Homeostasis of calcium and phosphate
 
 * PTH and vitamin D and metabolites controlling factors
-* Balance of - GI absorption, bone storage/resorption, renal excretion/reabsorption
+* Balance of - GI absorption, [[Snippets/Bone|Bone]] storage/resorption, renal excretion/reabsorption
 
 ## Parathyroid hormone
 
@@ -39,7 +39,7 @@ Net effect:
 * **Increase serum calcium**
 * **Decrease serum phosphate**
 
-PTH causes osetoclasts to breakdown bone releasing Ca and PO4  
+PTH causes osetoclasts to breakdown [[Snippets/Bone|Bone]] releasing Ca and PO4  
 
 \(\hookrightarrow\) kidneys increase reabsorption of Ca but increase PO4 excretion
 
@@ -47,7 +47,7 @@ Kidneys also increase active form of vitamin D to absorb more from gut
 
 ### Other regulators
 
-- Calcitonin - opposes the effect of PTH by acting on osteoclasts to inhibit bone resorption. Function is usually insignificant  
+- Calcitonin - opposes the effect of PTH by acting on osteoclasts to inhibit [[Snippets/Bone|Bone]] resorption. Function is usually insignificant  
 
-- Oestrogen inhibits bone resorption
+- Oestrogen inhibits [[Snippets/Bone|Bone]] resorption
 

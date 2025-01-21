@@ -8,5 +8,5 @@ tags: ['Dermatology']
 
 
 * Small intensely itchy blisters on extensor surfaces
-* Often young pateitns a/w Coeliac disease
+* Often young pateitns a/w [[Snippets/Coeliac Disease|Coeliac Disease]]
 * IgA deposition

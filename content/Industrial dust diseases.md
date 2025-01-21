@@ -16,7 +16,7 @@ A common dust disease in countries that have/had sub-terrain coal mines
 - Inhalation of coal particles over 15-20 years. These are ingested by macophages which die releasing their enzymes causing fibrosis
 - Coexisting chronic [[bronchitis]] is common.
 - CXR - many round opacities (1-10mm) especially in upper zone 
-- Treat bronchitis
+- Treat [[bronchitis]]
 ### Progressive massive fibrosis
 
 - Due to progression of CWP

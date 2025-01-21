@@ -27,7 +27,7 @@ date: 2023-10-31
 
 #### Objects and Equipment
 
-- Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access
+- Medical equipment - [[Snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - Mobility aids
 - Prosthetic limbs
 - Vital sign charts
@@ -39,7 +39,7 @@ date: 2023-10-31
 - Colour
 - Oedema
 - Ulceration, trauma, which the patient might not be complaining about due to [[Diabetes Mellitus]] neuropathy
-- Varicose veins
+- [[Varicose veins]]
 - Missing digits
 - Check **in-between toes** and back of legs for fungal infections/ulcers
 - Trophic skins changes: hair loss, discoloured skin, dry skin, thickened nails
@@ -61,7 +61,7 @@ date: 2023-10-31
 ##### Capillary Refill time
 - Apply 5 seconds of pressure onto finger and release
 - Should return in <2 seconds
-- If >2 seconds suggests poor peripheral perfusion (hypovolaemia, congestive heart failure) and need to assess central cap refill
+- If >2 seconds suggests poor peripheral perfusion (hypovolaemia, congestive [[Heart Failure]]) and need to assess central cap refill
 
 ##### Gross motor
 - Ask the patient to wiggle their toes
@@ -102,5 +102,5 @@ Start with radial and note rate and rhythm - establish what to palpate for in th
 ## Further Assessments and Investigations
 - Full [[Cardiovascular examination]]
 - [[Upper and Lower Limb Neurological Exam|Lower limb neurological exam]]
-- Upper limb vascular exam 
+- [[Snippets/Upper limb|Upper limb]] vascular exam 
 - ABPI

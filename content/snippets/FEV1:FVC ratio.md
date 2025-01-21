@@ -13,5 +13,5 @@ FVC - volume of air to completely expel lung - total lung capacity
 
 FEV1:FVC < 0.7 ⇒ **obstructive condition** something *obstructs* the vessels to make them smaller but volume hasn't changed proportionally. So FEV1 is lower than FVC. Eg COPD, asthma, bronchiectasis
 
-FEV1:FVC > 0.7 ⇒ **restrictive condition** something is preventing the lungs from expanding to their full capacity - *restricting* them. Therefore the FVC decreases more than the FEV1. Eg pulmonary fibrosis, interstitial lung diseases
+FEV1:FVC > 0.7 ⇒ **restrictive condition** something is preventing the lungs from expanding to their full capacity - *restricting* them. Therefore the FVC decreases more than the FEV1. Eg [[Pulmonary Fibrosis]], interstitial lung diseases
 

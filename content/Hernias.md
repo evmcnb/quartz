@@ -23,7 +23,7 @@ Increased intra-abdominal pressure, weak or damage tissues
 
 Increased intra-abdominal pressure:
 - Chronic cough - [[COPD]], long-term smoking, [[bronchiectasis]], [[Cystic Fibrosis]]
-- Abdominal distension - [[Pregnancy]], ascites, peritoneal dialysis, obesity
+- Abdominal distension - [[Pregnancy]], [[Snippets/Ascites|Ascites]], peritoneal dialysis, [[Obesity]]
 - Straining - chronic conception, prostatism, heavy lifting during work
 - Kyphoscoliosis
 
@@ -32,7 +32,7 @@ Weakened tissues
 - Collagen disorders - EDS, vitamin C deficiency, FH
 - Trauma - including surgery
 - Ageing 
-- Chronic malnutrition
+- Chronic [[Snippets/Malnutrition|Malnutrition]]
 - Long-term corticosteroid use
 
 ### Inguinal hernia
@@ -52,7 +52,7 @@ Both types exit via the superficial ring. It is much more common for indirect he
 To tell the difference between the two, if you press the deep ring and the hernia still protrudes the hernia is a direct hernia
 
 - Much more common in older men
-- Low BMI - obesity seems to be protective
+- Low BMI - [[Obesity]] seems to be protective
 - **Superior and medial** to pubic tubercle (to differentiate from femoral)
 
 
@@ -74,7 +74,7 @@ Para-oesophageal type can involved stomach and other abdominal organs herniating
 
 ### Femoral hernia
 
-Less common than groin hernia but frequently present with bowel obstruction. 
+Less common than groin hernia but frequently present with [[Snippets/Bowel Obstruction|Bowel Obstruction]]. 
 
 ![[z_attachments/Pasted image 20240213141758.png]]
 
@@ -95,10 +95,10 @@ True (direct) hernia - congenital problem when the ring fails to close
 
 Paraumbilical (indirect) hernia - associated with acquired fascial defect in the linea alba within 3cm of the umbilical ring 
 
-- Most common in women especially during or after pregnancy 
+- Most common in women especially during or after [[Pregnancy]] 
 - More likely to cause problems that require surgery in men
 - Down's syndrome and Beckwith-Widemann syndrome increased incidence 
-- Increased abdo pressure - obesity or ascites
+- Increased abdo pressure - [[Obesity]] or [[Snippets/Ascites|Ascites]]
 
 Usually asymptomatic - usually report long standing lump. Can usually be managed conservatively. 
 
@@ -108,6 +108,6 @@ Very rare and difficult to diagnose clinically.
 - "Little old lady hernia".
 - Especially common in people who are very thin or recently lost weight
 
-More than 90% present as an emergency with an acute abdomen and features of bowel obstruction. The deep position of the hernia means there is hardly ever a lump.
+More than 90% present as an emergency with an [[Acute Abdomen]] and features of [[Snippets/Bowel Obstruction|Bowel Obstruction]]. The deep position of the hernia means there is hardly ever a lump.
 
 Needs emergency surgery 

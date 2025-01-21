@@ -11,10 +11,10 @@ tags: ['Antibiotic', 'Drug']
 | --- | --- |
 | **Mechanism** | Bactericidal |
 | **Typical Dose** | IV or drops only - 3-7mg/kg in 3 divided doses |
-| **Indications** | Serious aerobic gram -ve infections  Otitis externa (drops) |
-| **Contra-indications** | Myasthenia gravis  Pregnancy (can cross placenta and damage foetal CNVIII) |
+| **Indications** | Serious aerobic gram -ve infections  [[Otitis Externa]] (drops) |
+| **Contra-indications** | Myasthenia gravis  [[Pregnancy]] (can cross placenta and damage foetal CNVIII) |
 | **Side-effects** | Nephrotic and ototoxic (CNVIII) |
 | **Interactions** | Cyclosporin: potentiates nephrotoxic effects  Loop diuretics: potentiate nephrotoxic/ototoxic effects |
 | **Elimination** |  |
-| **Additional Notes** | Narrow therapeutic index makes drug **monitoring** essential:   * Peak 5-10mg/L, trough <2mg/L. * **In endocarditis:**peak 3-5mg/L, trough <1mg/L   Not usually given for **>10 days** due to toxicity risk. Usually combined with penicillin +/- metronidazole in serious infection. Can cause grey baby syndrome in neonates |
+| **Additional Notes** | Narrow therapeutic index makes drug **monitoring** essential:   * Peak 5-10mg/L, trough <2mg/L. * **In endocarditis:**peak 3-5mg/L, trough <1mg/L   Not usually given for **>10 days** due to toxicity risk. Usually combined with penicillin +/- [[Snippets/Metronidazole|Metronidazole]] in serious infection. Can cause grey baby syndrome in neonates |
 

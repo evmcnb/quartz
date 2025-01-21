@@ -9,12 +9,12 @@ tags: ['InfectiousDisease']
 
 | Area of travel | Common | Occasional | Rare but don't miss |
 | --- | --- | --- | --- |
-| Sub-Saharan Africa | * Malaria * HIV * Rickettsiae | * Schistosomiasis * Amoebiasis * Brucellosis * Dengue * Enteric fever * Meningococcus | * Other arbovirus * Trypanosomiasis * VHF * Visceral leishmaniasis |
-| South-East Asia | * Malaria * Chikungunya * Dengue * Enteric fever | * Leptospirosis * Melioidosis | * Hanta virus * Japanese encephalitis * Rickettsiae * Scrub typhus |
-| South and Central Asia | * Malaria * Dengue * Enteric fever | * Chikungunya * Visceral leishmaniasis | * VHF * Rickettsiae * Japanese encephalitis |
+| Sub-Saharan Africa | * Malaria * [[HIV]] * Rickettsiae | * Schistosomiasis * Amoebiasis * Brucellosis * Dengue * Enteric fever * Meningococcus | * Other arbovirus * Trypanosomiasis * VHF * Visceral leishmaniasis |
+| South-East Asia | * Malaria * Chikungunya * Dengue * Enteric fever | * Leptospirosis * Melioidosis | * Hanta virus * Japanese [[Snippets/Encephalitis|Encephalitis]] * Rickettsiae * Scrub typhus |
+| South and Central Asia | * Malaria * Dengue * Enteric fever | * Chikungunya * Visceral leishmaniasis | * VHF * Rickettsiae * Japanese [[Snippets/Encephalitis|Encephalitis]] |
 | Middle East, Mediterranean, North Africa |  | * Brucellosis * Q-fever * Zika | * Visceral leishmaniasis |
 | South America, Caribbean | * Malaria * Dengue * Enteric fever | * Brucellosis * Leptospirosis * Zika | * Trypansomiasis * Hanta virus * Yellow fever |
-| Eastern Europe, Scandinavia |  | * Lyme disease | * Hanta virus * Tick-bourne encephalitis |
+| Eastern Europe, Scandinavia |  | * Lyme disease | * Hanta virus * Tick-bourne [[Snippets/Encephalitis|Encephalitis]] |
 | Australia |  | * Dengue * Q-fever * Rickettsiae | * Melioidosis |
 | North America |  | * Lyme disease * Rickettsiae | * Melioidosis |
 

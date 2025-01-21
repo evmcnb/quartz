@@ -13,8 +13,8 @@ tags: ['Drug', 'Gastroenterology']
 | **Typical Dose** | 150-300mg BD for up to 4-8 weeks |
 | **Indications** | * Benign gastric/duodenal ulcers * Chronic episodic dyspepsia * GORD |
 | **Contra-indications** |  |
-| **Side-effects** | * Diarrhoea * GI/LFT disturbances * Headache/dizziness/fatigue * Rash * Rarely: pancreatitis, bradycardia, AV block |
-| **Interactions** | (Cimetidine: inhibits cyto P450 enzymes, ↓ metabolism of oral anticoagulants, phenytoin, carbamazepine, quinidine, nifedipine, theophylline, TCAs) |
+| **Side-effects** | * Diarrhoea * GI/LFT disturbances * Headache/dizziness/fatigue * Rash * Rarely: [[pancreatitis]], bradycardia, AV block |
+| **Interactions** | (Cimetidine: inhibits cyto P450 enzymes, ↓ metabolism of oral [[Snippets/Anticoagulants|Anticoagulants]], [[Snippets/Phenytoin|Phenytoin]], [[Snippets/Carbamazepine|Carbamazepine]], quinidine, nifedipine, theophylline, TCAs) |
 | **Elimination** |  |
-| **Additional Notes** | Ranitidine has fewer side effects than cimetidine.  Treatment should last for 4-8 weeks  May mask symptoms of gastric cancer |
+| **Additional Notes** | Ranitidine has fewer side effects than cimetidine.  Treatment should last for 4-8 weeks  May mask symptoms of [[Snippets/Gastric Cancer|Gastric Cancer]] |
 

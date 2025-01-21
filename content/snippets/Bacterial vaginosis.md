@@ -35,13 +35,13 @@ Can occur along side other infections - candidiasis, chlamydia and gonorrhoea
 ## Management
 
 * Asymptomatic does not require any treatment and may spontaneously resolve
-* **Metronidazole**is the antibiotic choice as anaerobic bacteria targets. Given orally or by vaginal gel. **Patients must avoid alcohol while taking**
-* Clindamycin is an alternative but not optimal
+* **[[Snippets/Metronidazole|Metronidazole]]**is the antibiotic choice as anaerobic bacteria targets. Given orally or by vaginal gel. **Patients must avoid alcohol while taking**
+* [[Snippets/Clindamycin|Clindamycin]] is an alternative but not optimal
 * Always assess the risk of pelvic infections with swabs - **chlamydia and gonorrhea**
 
 ## Complications
 
-Bacterial vaginosis can increase the risk of catching ***sexually transmitted infections***, including ***chlamydia***,***gonorrhoea***and ***HIV***.
+Bacterial vaginosis can increase the risk of catching ***sexually transmitted infections***, including ***chlamydia***,***gonorrhoea***and ***[[HIV]]***.
 
 It is also associated with several complications in pregnant women:
 

@@ -10,7 +10,7 @@ tags: ['Haematology']
 
 Excess clotting uses up all clotting factors which leads to excessive bleeding. Microvascular thrombosis $\rightarrow$ tissue ischaemia
 
-Many causes: trauma, fat necrosis, blood incompatability, liver disease, infection, sepsis, cancer
+Many causes: trauma, fat necrosis, blood incompatability, liver disease, infection, [[Sepsis]], cancer
 
 Treat underlying cause and give platelet transfusions
 
@@ -26,19 +26,19 @@ Limited treatment options - platelet tx, FFP/prothrombin complex, cryoprecipitat
 
 ### Renal disease
 
-Drugs accumulating in renal failure (penicillins) can bind to platelets and block their receptors.
+Drugs accumulating in renal failure ([[Penicillins]]) can bind to platelets and block their receptors.
 
-Anaemia can lead to decreased platelet interaction which then causes more platelet function
+[[Snippets/Anaemia|Anaemia]] can lead to decreased platelet interaction which then causes more platelet function
 
 * Easy bruising , petechia, gum bleeding, nosebleeds etc
 * Patients with uncontrolled high BP and on dialysis increased risk of ICH
 
-Correct anaemia and avoid antiplatelet drugs
+Correct [[Snippets/Anaemia|Anaemia]] and avoid antiplatelet drugs
 
 ### Vitamin K deficiency
 
 FII, VII, IX, X deficiency
 
 * Prolonged PT $\pm$ aPTT
-* Caused by broad spec antibiotics, diet, obstructive jaundice
+* Caused by broad spec antibiotics, diet, obstructive [[Snippets/Jaundice|Jaundice]]
 * Treat with vit K supplements

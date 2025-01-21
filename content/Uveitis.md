@@ -26,7 +26,7 @@ date: 2024-02-09
 ## Causes/Factors
 
 - Usually idiopathic
-- Autoimmune - reactive arthritis, psoriatic arthritis, [[Ankylosing spondylitis]] and [[inflammatory bowel disease]] - HLA-B27
+- Autoimmune - [[Snippets/Reactive Arthritis|Reactive Arthritis]], psoriatic arthritis, [[Ankylosing spondylitis]] and [[inflammatory bowel disease]] - HLA-B27
 - Infections
 - Trauma
 
@@ -75,5 +75,5 @@ In severe or chronic cases, immunosuppressive drugs, TNFi, laser phototherapy, c
 
 - **Secondary Glaucoma**: Increased intraocular pressure due to inflammation or synechiae.
 - **Cataract Formation**: Due to chronic inflammation and corticosteroid use.
-- **Retinal Complications**: Including macular edema, epiretinal membrane, and retinal detachment.
+- **Retinal Complications**: Including macular edema, epiretinal membrane, and [[Retinal detachment]].
 - **Vision Loss**: Severe or chronic inflammation leading to irreversible visual impairment.

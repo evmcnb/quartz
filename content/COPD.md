@@ -11,17 +11,17 @@ date: 2023-11-16
 - A common slowly progressive disorder characterised by airway obstruction
 - Little to no reversibility (how to differentiate from [[asthma]])
 - Includes chronic [[bronchitis]] and [[emphysema]]
-- Patients usually have either COPD or asthma not both
+- Patients usually have either COPD or [[asthma]] not both
 
 Pink puffers and blue bloaters - likely ends of the spectrum:
 
-**Pink puffers - emphysema**
+**Pink puffers - [[emphysema]]**
 
 - have $\uparrow$ alveolar ventilation near normal $PaO_2$ and a normal or low $PaCO_2$
 - breathless but not cyanosed
 - may progress to [[Respiratory Failure#Type I]]
 
-**Blue bloaters - chronic bronchitis**
+**Blue bloaters - chronic [[bronchitis]]**
 
 - have $\downarrow$ alveolar ventilation with a low $PaO_2$ and a normal or low $PaCO_2$
 - cyanosed but not breathless
@@ -53,17 +53,17 @@ Smoking, pollution
 
 ## Management
 
-- **Initial treatment**: short acting $\beta_2$ agonist (SABA) (salbutamol) and short acting muscarinic antagonist (SAMA) (ipratropium bromide) - as necessary 
+- **Initial treatment**: short acting $\beta_2$ agonist (SABA) ([[Snippets/Salbutamol|Salbutamol]]) and short acting muscarinic antagonist (SAMA) ([[Snippets/Ipratropium Bromide|Ipratropium Bromide]]) - as necessary 
 
-Step up if **no** asthma features: LABA + LAMA
+Step up if **no** [[asthma]] features: LABA + LAMA
 
-Step up treatment when symptoms and exacerbations are still a problem with **asthma/steroid responsive features**:
+Step up treatment when symptoms and exacerbations are still a problem with **[[asthma]]/steroid responsive features**:
 - Inhaled corticosteroids
 - Oral steroids (for exacerbation for 5 days)
 - Mucolytics
 - Long-term $O_2$ therapy (NICE guidelines, $O_2$ targets of 88-92%)
 
-During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - Azithromycin to Avoid infections (250mg TDS)
+During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - [[Snippets/Azithromycin|Azithromycin]] to Avoid infections (250mg TDS)
 
 ![[z_attachments/Pasted image 20240516153348.png]]
 

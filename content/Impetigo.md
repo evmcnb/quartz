@@ -40,9 +40,9 @@ The primary causes and risk factors for Impetigo include:
 
 ## Complications 
 
-- Cellulitis if the infection gets deeper in the skin
-- Sepsis
+- [[Cellulitis]] if the infection gets deeper in the skin
+- [[Sepsis]]
 - Scarring
-- Post streptococcal glomerulonephritis
+- Post streptococcal [[Snippets/Glomerulonephritis|Glomerulonephritis]]
 - Staphylococcus scalded skin syndrome
 - Scarlet fever

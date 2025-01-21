@@ -10,14 +10,14 @@ tags: ['Oncology', 'Haematology']
 Accumulation and proliferation of immature myeloid cells
 
 * Median presenting age 69
-* Features of bone marrow failure (anaemia, severe opportunistic infections, easy bruising and haemorrhage (thrombocytopenia)), fatigue, gum hypertrophy
+* Features of [[Snippets/Bone|Bone]] marrow failure ([[Snippets/Anaemia|Anaemia]], severe opportunistic infections, easy bruising and haemorrhage (thrombocytopenia)), fatigue, gum hypertrophy
 * NPM-1 good FLT3-ITD bad
-* Treatment with intensive chemo, then bone marrow transplant in vunerable, then FLT3 receptor inhibitors
+* Treatment with intensive chemo, then [[Snippets/Bone|Bone]] marrow transplant in vunerable, then FLT3 receptor inhibitors
 
 Complications include:
 
 * Bleeding
-* Neutropenic sepsis - from chemo, broad spec antibiotics
+* Neutropenic [[Sepsis]] - from chemo, broad spec antibiotics
 
 Poor overall prognosis and worsens with age. Most common type in adults
 

@@ -10,6 +10,6 @@ tags: ['Gastroenterology']
 Most common:
 
 * Diverticulosis
-* Haemorrhoids
+* [[Snippets/Haemorrhoids|Haemorrhoids]]
 * Ischaemic or infective colitis
 * Malignancy

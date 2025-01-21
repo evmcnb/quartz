@@ -7,4 +7,4 @@ tags: ['OBGYN', 'Endocrinology']
 
 
 
-* **Increase** levothyroxine in pregnancy (+25-50mg)
+* **Increase** [[Snippets/Levothyroxine|Levothyroxine]] in [[Pregnancy]] (+25-50mg)

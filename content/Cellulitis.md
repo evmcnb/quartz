@@ -8,7 +8,7 @@ date: 2024-01-14
 ---
 Cellulitis is a common bacterial skin infection that affects the deeper layers of the skin and the subcutaneous tissues. It typically occurs when bacteria enter the skin through a break or crack, causing redness, swelling, and pain. Cellulitis can occur anywhere on the body and may spread rapidly if left untreated.
 
-Ludwig's angina - cellulitis of the submandibular space (often after dental procedures)
+Ludwig's [[Angina]] - cellulitis of the submandibular space (often after dental procedures)
 
 ## Causes/Factors
 
@@ -38,7 +38,7 @@ Diagnosing Cellulitis is primarily based on clinical evaluation, but additional 
 ## Management
 
 - Elevate affected limb
-- Antibiotics (PO/IV dependant on severity) - commonly amoxicillin / ben pen + flucloxacillin. If penicillin allergic - clindamycin and ceftriaxone. 10 day course PO but up to 14 days IV if systemic. 
+- Antibiotics (PO/IV dependant on severity) - commonly [[Snippets/Amoxicillin|Amoxicillin]] / ben pen + flucloxacillin. If penicillin allergic - [[Snippets/Clindamycin|Clindamycin]] and ceftriaxone. 10 day course PO but up to 14 days IV if systemic. 
  
 ## Complications/red Flags
 

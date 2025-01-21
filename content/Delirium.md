@@ -65,13 +65,13 @@ Assessment of capacity is important
 ## Investigations
 
 - **Observations**: full set of obs, ECG, urine dip, glucose
-- **Cognitive Assessment**:
+- **[[Cognitive Assessment]]**:
 	- 4AT - Alertness, Cognition, Attention, Acute changes or fluctuating course
 	- MoCA - 
 
 
-- **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, Bone profile, Folate & B12, vitamin D
-- **Imaging**: CXR for pneumonia, CT head to rule out bleeds, bladder USS 
+- **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, [[Snippets/Bone|Bone]] profile, Folate & B12, vitamin D
+- **Imaging**: CXR for [[pneumonia]], CT head to rule out bleeds, bladder USS 
 
 ## Management
 

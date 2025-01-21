@@ -35,9 +35,9 @@ Other non-specific symptoms
 - **Fatigue:** Profound tiredness and weakness.
 - **Fever:** Elevated body temperature.
 - **Raynaud's Phenomenon:** Fingers and toes turning white or blue in response to cold or stress.
-- **Chest Pain:** Pleurisy or pericarditis, inflammation of the lining around the lungs or heart.
+- **Chest Pain:** Pleurisy or [[Snippets/Pericarditis|Pericarditis]], inflammation of the lining around the lungs or heart.
 - **Kidney Problems:** Protein or blood in the urine due to kidney inflammation.
-- **Neurological Symptoms:** Headaches, seizures, or cognitive dysfunction.
+- **Neurological Symptoms:** [[Snippets/Headaches|Headaches]], seizures, or cognitive dysfunction.
 
 ## Diagnostic Tests
 Diagnosis of SLE is done on the balance of the patient having a number of key features found in guidelines. A patient does not need to have all of the features to be diagnosed with SLE
@@ -60,4 +60,4 @@ Diagnosis of SLE is done on the balance of the patient having a number of key fe
 - **Organ Damage:** SLE can damage the skin, kidneys, heart, lungs, nervous system, and more.
 - **Flares:** Periods of increased disease activity and symptoms.
 - **Infections:** Weakened immune system can lead to infections.
-- **Pregnancy Complications:** High-risk pregnancies due to increased disease activity.
+- **[[Pregnancy]] Complications:** High-risk pregnancies due to increased disease activity.

@@ -8,15 +8,15 @@ date: 2023-09-18
 
 ## Causes/Factors
 
-Most commonly caused by viruses - rhino, corona, influenza, adeno
+Most commonly caused by [[Snippets/Viruses|Viruses]] - rhino, corona, [[Snippets/Influenza|Influenza]], adeno
 
-- **Viral Infections:** Common cold viruses (rhino, corona, adeno), flu viruses, and others can cause tonsillitis and pharyngitis.
+- **Viral Infections:** Common cold [[Snippets/Viruses|Viruses]] (rhino, corona, adeno), flu [[Snippets/Viruses|Viruses]], and others can cause tonsillitis and pharyngitis.
 - **Bacterial Infections:** Streptococcus bacteria (Group A Streptococcus) can cause strep throat, a type of tonsillitis/pharyngitis.
 - **Environmental Factors:** Allergies, smoke, pollution, and dry air can irritate the throat.
 
 ## Symptoms
 
-- **Sore Throat:** Pain or irritation in the throat, especially when swallowing.
+- **[[Snippets/Sore throat|Sore throat]]:** Pain or irritation in the throat, especially when swallowing.
 - **Redness and Swelling:** Inflammation of the tonsils and/or pharynx.
 - **Fever:** Elevated body temperature.
 - **Cough:** Dry or productive cough.
@@ -49,6 +49,6 @@ If needed:
 
 ## Complications/red Flags
 
-- **Complications of Untreated Strep Throat:** Rheumatic fever, kidney inflammation (post-streptococcal glomerulonephritis), and others.
+- **Complications of Untreated Strep Throat:** [[Snippets/Rheumatic Fever|Rheumatic Fever]], kidney inflammation (post-streptococcal [[Snippets/Glomerulonephritis|Glomerulonephritis]]), and others.
 - **Peritonsillar Abscess:** Accumulation of pus around the tonsils.
 - **Airway Obstruction:** Severe tonsillar swelling leading to breathing difficulties.

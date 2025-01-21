@@ -8,4 +8,4 @@ tags: ['Rheumatology']
 
 
 * reduce inflammation
-* stops the fuel for diseases like eczema, psoriasis, and vitiligo
+* stops the fuel for diseases like eczema, [[Snippets/Psoriasis|Psoriasis]], and vitiligo

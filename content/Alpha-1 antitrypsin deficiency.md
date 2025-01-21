@@ -14,7 +14,7 @@ Autosomal codominant inheritance pattern
 
 Symptomatic patients usually have the PiZZ genotype (homozygous for condition)
 
-- dyspnoea from emphysema
+- dyspnoea from [[emphysema]]
 - [[Liver Cirrhosis]]
 - cholestatic [[Jaundice]]
 

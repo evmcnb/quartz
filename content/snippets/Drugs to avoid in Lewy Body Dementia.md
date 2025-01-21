@@ -15,5 +15,5 @@ A- antipsychotics (in general)
 
 R- pRochlorperazine  
 
-M- metoclopramide
+M- [[Snippets/Metoclopramide|Metoclopramide]]
 

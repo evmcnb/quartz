@@ -37,18 +37,18 @@ date: 2024-02-07
 #### Objects and Equipment
 
 - Mobility aids - patients with [[Hyperthyroidism]] can develop proximal myopathy
-- Prescriptions - eg levothyroxine
+- Prescriptions - eg [[Snippets/Levothyroxine|Levothyroxine]]
 
 ## Hands
 
 #### Inspection
 
-- <span style="color:#ff0000">Thyroid acropachy</span> - similar appearance to <span style="color:#00b0f0">clubbing</span> caused by phalangeal bone overgrowth secondary to [[Grave's disease]]
+- <span style="color:#ff0000">Thyroid acropachy</span> - similar appearance to <span style="color:#00b0f0">clubbing</span> caused by phalangeal [[Snippets/Bone|Bone]] overgrowth secondary to [[Grave's disease]]
 - <span style="color:#ff0000">Onycholysis</span> - detachment of nail from the bed a/w [[Hyperthyroidism]] -<span style="color:#ff0000"> Palmar erythema</span> - reddening of palms a/w [[Hyperthyroidism]]
 
 #### Peripheral tremor
 
-A feature of hyperthyroidism due to sympathetic nervous system overactivity
+A feature of [[Snippets/Hyperthyroidism|Hyperthyroidism]] due to sympathetic nervous system overactivity
 
 1. Ask patient to stretch out their arms
 2. Place a piece of paper across both hands
@@ -151,7 +151,7 @@ Assess for:
 - Symmetry
 - Consistency
 - Masses - e.g. solitary node rather than diffuse swelling
-- Thrills (increased vascularity due to hyperthyroidism)
+- Thrills (increased vascularity due to [[Snippets/Hyperthyroidism|Hyperthyroidism]])
 
 If a mass is noted assess its **position, shape, consistency and mobility**
 
@@ -203,5 +203,5 @@ Used to screen for hyporeflexia in [[Hypothyroidism]]. Only need to assess for o
 ## Further Assessments and Investigations
 
 - **Thyroid function tests:** these include TSH, T3 and T4.
-- **ECG:** should be performed if an irregular pulse was noted to rule out atrial fibrillation.
-- **Further imaging:** an ultrasound scan of the neck to further assess any thyroid lumps.
+- **ECG:** should be performed if an irregular pulse was noted to rule out [[Atrial Fibrillation]].
+- **Further imaging:** an ultrasound scan of the neck to further assess any thyroid [[Lumps]].

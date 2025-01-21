@@ -7,18 +7,18 @@ date modified: 2024-03-11
 date: 2024-02-16
 ---
 
-Chronic reflux of gastric contents back into the oesophagus resulting gastritis
+Chronic reflux of gastric contents back into the oesophagus resulting [[Snippets/Gastritis|Gastritis]]
 
 "Proven GORD" refers to endoscopically determined reflux disease
 
-**Oesophagitis** - when inflammation and mucosal erosions are seen
+**[[Snippets/Oesophagitis|Oesophagitis]]** - when inflammation and mucosal erosions are seen
 **Endoscopy** - negative reflux disease (non-erosive reflux disease) symptoms but normal endoscopy
 
-> [!example] Barrett's Oesophagus
-> 10-15% of people with GORD will develop Barrett's oesophagus and 1-10% will develop oesophageal adenocarcinoma over next 10-20 years
+> [!example] [[Snippets/Barrett's oesophagus|Barrett's oesophagus]]
+> 10-15% of people with GORD will develop [[Snippets/Barrett's oesophagus|Barrett's oesophagus]] and 1-10% will develop oesophageal adenocarcinoma over next 10-20 years
 ## Causes/Factors
 
-- Lifestyle factors - obesity, trigger foods, smoking, alcohol, coffee and stress
+- Lifestyle factors - [[Obesity]], trigger foods, smoking, alcohol, coffee and stress
 - Drugs that decrease lower oesophageal sphincter pressure - CCBs, anti-cholinergics, theophylline, benzos and nitrates
 - [[Pregnancy]]
 
@@ -42,13 +42,13 @@ Chronic reflux of gastric contents back into the oesophagus resulting gastritis
 - Endoscopy
 - Oesophageal pH monitoring
 - Oesophageal manometry - measurement of motility and lower oesophageal sphincter pressure 
-- Barium swallow - strictures or hiatal hernias
+- Barium swallow - strictures or hiatal [[Hernias]]
 
 ## Management
 
 - Lifestyle measures - sleeping with head raised
 - Stop exacerbating drgs
-- Full-dose PPI for 4 weeks for proven GORD - 8 weeks for severe oesophagitis
+- Full-dose PPI for 4 weeks for proven GORD - 8 weeks for severe [[Snippets/Oesophagitis|Oesophagitis]]
 	- Consider a further 4 weeks if unresolved
 	- H2 receptor antagonist reduce gastric acid secretion
 

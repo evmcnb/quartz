@@ -21,7 +21,7 @@ date: 2024-02-07
 
 - Body habitus - slim, obese, cachexic
 - Scars
-- Jaundice
+- [[Snippets/Jaundice|Jaundice]]
 - Abdominal distension
 - Masses
 - Pallor
@@ -32,7 +32,7 @@ date: 2024-02-07
 - Vomit bowl
 - Surgical drains - note location and type/volume of contents
 - Feeding tubes NG or NJ
-- Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access
+- Medical equipment - [[Snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - Mobility aids
 - Vital sign charts
 - Fluid balance charts
@@ -48,7 +48,7 @@ date: 2024-02-07
 
 ##### Finger [[Clubbing]]
 
-Most likely causes to come up in abdo exam OSCE is [[inflammatory bowel disease]], [[Coeliac Disease]], [[Liver Cirrhosis]] and lymphoma of GI tract
+Most likely causes to come up in abdo exam OSCE is [[inflammatory bowel disease]], [[Coeliac Disease]], [[Liver Cirrhosis]] and [[Snippets/Lymphoma|Lymphoma]] of GI tract
 
 - Schamroth’s window test
 
@@ -119,8 +119,8 @@ The <span style="color:#ff0000">left supraclavicular lymph node (Virchow's node)
 
 #### Inspect
 
-- <span style="color:#ff0000">Spider naevi</span>: skin lesions caused by <span style="color:#00b0f0">increased levels of circulating oestrogen</span>. Can be a normal finding in pregnancy or in women taking the combined oral contraceptive pill. If more than 5 are present it is more likely to be associated with pathology such as [[Liver Cirrhosis]].
-- <span style="color:#ff0000">Gynaecomastia</span>: enlargement of male breast tissue caused by increased levels of circulating oestrogen (e.g. liver cirrhosis). Other causes include medications such as digoxin and spironolactone.
+- <span style="color:#ff0000">Spider naevi</span>: skin lesions caused by <span style="color:#00b0f0">increased levels of circulating oestrogen</span>. Can be a normal finding in [[Pregnancy]] or in women taking the [[Snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill. If more than 5 are present it is more likely to be associated with pathology such as [[Liver Cirrhosis]].
+- <span style="color:#ff0000">Gynaecomastia</span>: enlargement of male breast tissue caused by increased levels of circulating oestrogen (e.g. liver [[Snippets/Cirrhosis|Cirrhosis]]). Other causes include medications such as [[Snippets/Digoxin|Digoxin]] and spironolactone.
 - <span style="color:#ff0000">Hair loss</span>: also caused by increased levels of circulating oestrogen. <span style="color:#00b0f0">General malnourishment</span> can also result in hair loss.
 
 ## Abdomen
@@ -159,7 +159,7 @@ If any **masses** are identified during deep palpation, assess the following c
 - **Size and shape:** assess the approximate size and shape of the mass.
 - **Consistency:** assess the consistency of the mass (e.g. smooth, soft, hard, irregular).
 - **Mobility:** assess if the mass appears to be attached to superficial or underlying structures.
-- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic aneurysm).
+- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic [[Snippets/Aneurysm|Aneurysm]]).
 
 ##### <span style="color:#ff0000"> Palpate Liver</span>
 
@@ -233,7 +233,7 @@ A distended bladder can be palpated in the **suprapubic area** arising from be
 1. Percuss from the umbilical region to patients left flank - if dullness noted - may suggest ascitic fluid
 2. Whilst keeping fingers over the area at which the note became dull, ask patient to roll onto their side
 3. Keep patient on their side for 30 seconds and then repeat percussion over the same area
-4. If ascites is present the area should now be resonant
+4. If [[Snippets/Ascites|Ascites]] is present the area should now be resonant
 
 ## Abdominal Auscultation
 
@@ -243,13 +243,13 @@ A distended bladder can be palpated in the **suprapubic area** arising from be
 
 - Normal bowel sounds: typically described as gurgling (listen to an example in our video demonstration)
 - <span style="color:#ff0000">Tinkling bowel sounds</span>: typically associated with <span style="color:#00b0f0">bowel obstruction</span>.
-- <span style="color:#ff0000">Absent bowel sounds</span>: suggests ileus which is a disruption of the normal propulsive ability of the intestine due to a <span style="color:#00b0f0">malfunction of peristalsis</span>.
+- <span style="color:#ff0000">Absent bowel sounds</span>: suggests [[Ileus]] which is a disruption of the normal propulsive ability of the intestine due to a <span style="color:#00b0f0">malfunction of peristalsis</span>.
 
 #### Listen for Bruits
 
 **Auscultate** over the **aorta** and **renal arteries** to identify **vascular** **bruits** suggestive of turbulent blood flow:
 
-- **Aortic bruits:** auscultate 1-2 cm superior to the umbilicus, a bruit here may be associated with an abdominal aortic aneurysm.
+- **Aortic bruits:** auscultate 1-2 cm superior to the umbilicus, a bruit here may be associated with an abdominal aortic [[Snippets/Aneurysm|Aneurysm]].
 - **Renal bruits:** auscultate 1-2 cm superior to the umbilicus and slightly lateral to the midline on each side. A bruit in this location may be associated with renal artery stenosis.
 
 ## Legs
@@ -266,7 +266,7 @@ Assess the patient’s **lower legs** for evidence of **pitting oedema** whi
 ## Further Assessments and Investigations
 
 - **S**tool sample - MC&S
-- **H**ernial examination - if there are signs of bowel obstruction
+- **H**ernial examination - if there are signs of [[Snippets/Bowel Obstruction|Bowel Obstruction]]
 - **R**ectal exam - if suspicious of PR bleed
-- **U**rine analysis/pregnancy test
-- **G**enitalial examination - if suspecting testicular torsion
+- **U**rine analysis/[[Pregnancy]] test
+- **G**enitalial examination - if suspecting [[Snippets/Testicular Torsion|Testicular Torsion]]

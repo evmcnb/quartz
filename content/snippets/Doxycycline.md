@@ -11,10 +11,10 @@ tags: ['Antibiotic', 'Drug']
 | --- | --- |
 | **Mechanism** | Bacteriostatic - inhibit protein synthesis |
 | **Typical Dose** | 500mg BD |
-| **Indications** | * Chlamydia * Rickettsia * Refractory UTI * HAP * Chronic respiratory exacerbation * Cellulitis/diabetic foot infection/leg ulcer * Rosacea * Syphilis * Pelvic inflammatory disease * Lyme disease * Malaria/anthrax |
-| **Contra-indications** | **Pregnancy** |
+| **Indications** | * Chlamydia * Rickettsia * Refractory UTI * HAP * Chronic respiratory exacerbation * [[Cellulitis]]/diabetic foot infection/leg ulcer * Rosacea * Syphilis * Pelvic inflammatory disease * Lyme disease * Malaria/anthrax |
+| **Contra-indications** | **[[Pregnancy]]** |
 | **Side-effects** | **Visual disturbances + neuro symptoms, black bones/teeth (tetracyclines)**, Henoch-Schonlein purpura, skin reactions, N&V, diarrhoea |
-| **Interactions** | Carbamazepine/phenytoin: ↑ doxycycline metabolism  Methotrexate: ↑ methotrexate toxicity |
+| **Interactions** | [[Snippets/Carbamazepine|Carbamazepine]]/[[Snippets/Phenytoin|Phenytoin]]: ↑ doxycycline metabolism  Methotrexate: ↑ methotrexate toxicity |
 | **Elimination** |  |
 | **Additional Notes** |  |
 

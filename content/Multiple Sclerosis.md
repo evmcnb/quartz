@@ -19,7 +19,7 @@ Chronic progressive autoimmune demyelinating **CNS** condition
 - Genetic susceptibility - HLA-DRB1 + many more
 - EBV infection
 - Smoking
-- Obesity
+- [[Obesity]]
 
 ## Symptoms
 

@@ -12,7 +12,7 @@ The name for a group of health problems that increase the risk of cardiovascular
 A combination of 3:
 
 * T2 diabetes
-* Hypertension
-* Obesity
+* [[Essential hypertension]]
+* [[Obesity]]
 * Hyperlipidemia
 * Low HDL

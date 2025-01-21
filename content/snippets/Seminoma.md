@@ -10,7 +10,7 @@ tags: ['Oncology', 'Urology']
 Malignant neoplasm of germ cells in seminiferous tubules
 
 * Most common type of testicular cancer
-* \(\uparrow\) risk from cryptorchidism regardless of surgical correction
+* \(\uparrow\) risk from [[Snippets/Cryptorchidism|Cryptorchidism]] regardless of surgical correction
 * Lung and lymph node mets
 * Possible gynecomastia
 * \(\beta\) HCG, AFP, LDH (lactate dehydrogenase)

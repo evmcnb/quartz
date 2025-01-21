@@ -13,7 +13,7 @@ tags: ['Gastroenterology', 'Drug']
 | **Indications** | Symptomatic relief only:   * Gastric/duodenal ulcers * GORD * Non-ulcer dyspepsia |
 | **Contra-indications** | * Hypophosphataemia (Al/Mg salts) * Renal impairment (Mg salts) |
 | **Side-effects** | Magnesium salts = diarrhoea  Aluminium salts = constipation |
-| **Interactions** | ↓ absorption: ACE inhibitors, antibacterials, digoxin, iron  ↑ excretion: lithium |
+| **Interactions** | ↓ absorption: ACE inhibitors, antibacterials, [[Snippets/Digoxin|Digoxin]], iron  ↑ excretion: [[Snippets/Lithium|Lithium]] |
 | **Elimination** |  |
 | **Additional Notes** |  |
 

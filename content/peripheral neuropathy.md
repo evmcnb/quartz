@@ -13,7 +13,7 @@ Typically sensory change that is a symmetrical glove and stocking loss to all mo
 In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the weakness may be proximal and thus stimulates myopathic disease
 
 **Axonal degeneration** - most common pathology
-- Systemic, metabolic, toxic and nutritional disorders
+- Systemic, metabolic, toxic and [[Nutritional disorders]]
 - Damaged axons degenerate distally 
 - Predilection for large diameter and long fibres
 - EMG records show fibrillation potentials
@@ -57,7 +57,7 @@ In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the we
 **Radicular:**
 - Diabetic truncal neuropathy
 - Lyme disease
-- Sjogren's syndrome  
+- [[Sjogren's syndrome]]  
 
 **Painful neuropathies:**
 - Alcohol, [[Nutritional disorders]]

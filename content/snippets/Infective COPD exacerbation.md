@@ -7,5 +7,5 @@ tags: ['Respiratory']
 
 
 
-Infective exacerbation of COPD - the most common organism causing this is *Haemophilus influenzae*.
+Infective exacerbation of [[COPD]] - the most common organism causing this is *Haemophilus influenzae*.
 

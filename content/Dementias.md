@@ -11,28 +11,28 @@ date: 2024-01-23
 | Type of Dementia            | Common Symptoms                                                                                                       | Pathology                                                                            | Risk Factors                                                                                                                     | Treatment/Management                                                                                                                                                             |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Alzheimer's Disease**     | Amnesia, aphasia, agnosia, aprexia, associated behaviours (self neglect, personality changes, disinhibitions), steady decilne          | Amyloid plaques, neurofibrillary tangles in the brain                                | Age, family history, genetics, certain genes, head injuries, cardiovascular disease, diabetes                                    | Medications (e.g., donepezil, rivastigmine) to slow progression, cognitive and behavioural therapies, lifestyle modifications (e.g., physical and mental activities, healthy diet, social engagement) |
-| **Vascular Dementia**       | Problems with reasoning, planning, memory. Step wise decline as more microclots                                       | Reduced blood flow to the brain, often after a stroke or other cardiovascular issues | Hypertension, diabetes, smoking, high cholesterol, heart disease, stroke, transient ischemic attacks (TIAs), atrial fibrillation | Blood pressure management, cholesterol control, diabetes management, lifestyle changes (e.g., exercise, diet), cognitive rehabilitation                                          |
-| **Lewy Body Dementia**      | Fluctuating cognition, visual hallucinations + Parkinsonism (in Parkinson's Dementia, Parkinsonism first + primarily) | Lewy bodies (abnormal protein deposits), cognitive and motor symptoms                | Age, family history, Parkinson's disease, REM sleep behavior disorder                                                            | Medications for symptoms (e.g., cholinesterase inhibitors), physical therapy, occupational therapy, support for both the person and caregivers. No antipsychotics                   |
+| **Vascular Dementia**       | Problems with reasoning, planning, memory. Step wise decline as more microclots                                       | Reduced blood flow to the brain, often after a [[Stroke]] or other cardiovascular issues | [[Essential hypertension]], diabetes, smoking, high cholesterol, heart disease, [[Stroke]], transient ischemic attacks (TIAs), [[Atrial Fibrillation]] | Blood pressure management, cholesterol control, diabetes management, lifestyle changes (e.g., exercise, diet), cognitive rehabilitation                                          |
+| **Lewy Body Dementia**      | Fluctuating cognition, visual hallucinations + Parkinsonism (in Parkinson's Dementia, Parkinsonism first + primarily) | Lewy bodies (abnormal protein deposits), cognitive and motor symptoms                | Age, family history, [[Parkinson's disease]], REM sleep behavior disorder                                                            | Medications for symptoms (e.g., cholinesterase inhibitors), physical therapy, occupational therapy, support for both the person and caregivers. No antipsychotics                   |
 | **Frontotemporal Dementia** | Abrupt personality and behavior changes (loss of empathy, sexual disinhibition) language problems                     | Abnormal protein deposits in the frontal and temporal lobes                          | Genetic mutations (in some cases), family history                                                                                | Behavioral and symptom management, speech and language therapy, cognitive rehabilitation, supportive care                                                                        |
 
 
 ### Causes/Factors
 1. **Alzheimer's Disease**: Abnormal protein accumulation (amyloid plaques, tau tangles) - slow progression
-2. **Vascular Dementia**: Impaired blood flow to the brain due to stroke or other vascular issues.
+2. **Vascular Dementia**: Impaired blood flow to the brain due to [[Stroke]] or other vascular issues.
 3. **Lewy Body Dementia**: Presence of abnormal protein deposits (alpha-synuclein) in the brain.- often associated with [[Parkinson's disease]]. No anti-psychotics ^5b78b4
 4. **Frontotemporal Dementia**: Degeneration of frontal and temporal lobes of the brain.
 
 #### Pseudodementias
 
 Mimic the symptoms of dementia
-- Wernicke-korsakoff syndrome 
+- [[Snippets/Wernicke-Korsakoff syndrome|Wernicke-Korsakoff syndrome]] 
 - B12/folate deficiency
-- Depression
+- [[Depression]]
 - Hypothyroid
 
 ### Symptoms
 1. **Cognitive Decline**: Memory loss, difficulty with reasoning, problem-solving, and language.
-2. **Behavioral Changes**: Agitation, apathy, depression, anxiety, or paranoia.
+2. **Behavioral Changes**: Agitation, apathy, [[Depression]], anxiety, or paranoia.
 3. **Motor Symptoms (in certain types)**: Parkinsonism, muscle rigidity, and tremors.
 
 ### Signs
@@ -41,7 +41,7 @@ Mimic the symptoms of dementia
 3. **Language Problems**: Difficulty finding the right words or understanding conversations.
 
 ### Diagnostic Tests
-1. **Cognitive Assessments**: Mini-Mental State Examination (MMSE), Montreal Cognitive Assessment (MoCA).
+1. **Cognitive Assessments**: Mini-Mental State Examination (MMSE), Montreal [[Cognitive Assessment]] (MoCA).
 2. **Neuroimaging**: MRI, CT scans to detect brain atrophy, structural changes, or vascular abnormalities.
 3. **PET Scans**: Used to visualize abnormal protein deposits (e. g., amyloid, tau).
 4. **Blood tests:** check B12
@@ -71,5 +71,5 @@ Looks normal - physical function retained but personality changes
 **Psychological**
 - Hallucinations
 - Delusion
-- Depression
+- [[Depression]]
 - Anxiety 

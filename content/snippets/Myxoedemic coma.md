@@ -7,7 +7,7 @@ tags: ['Acute', 'Endocrinology']
 
 
 
-**Severe hypothyroidism**
+**Severe [[Hypothyroidism]]**
 
 * Hypothermia, hyporeflexia, bradycardia and seizures
 * Medical emergency

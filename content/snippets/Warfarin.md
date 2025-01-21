@@ -12,16 +12,16 @@ Vitamin K antagonist - vitamin K dependent clotting factors: II, VII, IX, X and 
 **Indications**:
 
 * Mechanical heart valves
-* Valvular atrial fibrillation
+* Valvular [[Atrial Fibrillation]]
 * End-stage renal failure needing anticoagulation
 
 **Contraindications**
 
 * Malignancy
 * Bleeding
-* Pregnancy
+* [[Pregnancy]]
 * 72 hours before major surgery, 48 hours postpartum
-* Severe hypertension
+* Severe [[Essential hypertension]]
 
 ## INR Targets
 
@@ -39,8 +39,8 @@ INR **2.5-3.5** -for mechanical heart valves
 
 Cytochrome P450 - extensive list of drug interactions
 
-* Enzyme inducers decrease the amount of active warfarin and decrease its efficacy (and INR). ***St John's wort, phenytoin and carbamazepine***
-* Enzyme inhibitors increase the amount of active warfarin in the body and increase potency (increase INR). ***Amiodarone, metronidazole, clarithromycin***
+* Enzyme inducers decrease the amount of active warfarin and decrease its efficacy (and INR). ***St John's wort, [[Snippets/Phenytoin|Phenytoin]] and [[Snippets/Carbamazepine|Carbamazepine]]***
+* Enzyme inhibitors increase the amount of active warfarin in the body and increase potency (increase INR). ***[[Snippets/Amiodarone|Amiodarone]], [[Snippets/Metronidazole|Metronidazole]], clarithromycin***
 * Many antibiotics also interact
 * Consuming foods with an excess of vitamin K may reduce warfarins efficacy - constant diet needed
 * Cranberries and cranberry juice are an enzyme inhibitor for warfarin

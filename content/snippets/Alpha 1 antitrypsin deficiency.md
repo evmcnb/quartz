@@ -9,5 +9,5 @@ tags: ['Gastroenterology', 'Respiratory']
 
 Inherited abnormal anti-protease which cannot be exported from hepatocyte
 
-* Accumulates in liver cells and damages them - cirrhosis
-* Insufficient in blood, failure to inactivate neutrophil digestive enzymes \(\rightarrow\) emphysema
+* Accumulates in liver cells and damages them - [[Snippets/Cirrhosis|Cirrhosis]]
+* Insufficient in blood, failure to inactivate neutrophil digestive enzymes \(\rightarrow\) [[emphysema]]

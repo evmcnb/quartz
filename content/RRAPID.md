@@ -15,12 +15,12 @@ date: 2023-10-05
 #### Airway - Can Be Protected by Themselves?
 - Look- vomit secretions, trauma swelling foreign body 
 - Listen - abnormal sounds, complete obstruction will be silent
-- Feel - airflow from nose/mouth, misting of oxygen
+- Feel - airflow from nose/mouth, misting of [[Snippets/Oxygen|Oxygen]]
 
 Response to obstruction
 - Call for help
-- Oxygen 15L/min via non-rebreathing mask
-	- If COPD with chronic retainment aim for 88-92% not 94%
+- [[Snippets/Oxygen|Oxygen]] 15L/min via non-rebreathing mask
+	- If [[COPD]] with chronic retainment aim for 88-92% not 94%
 - Basic airway manoeuvres
 	- Head tilt
 	- Jaw thrust (if C-Spine injury possible)
@@ -28,11 +28,11 @@ Response to obstruction
 - Remove foreign body or suction visible secretions
 
 #### Breathing - Difficulty?
-- Pneumonia 
-- Pneumothorax 
+- [[pneumonia]] 
+- [[pneumothorax]] 
 - Pulmonary oedema 
-- Asthma 
-- Pulmonary embolism
+- [[asthma]] 
+- [[pulmonary embolism]]
 - Exacerbation of [[COPD]]
 - Chest Trauma
 
@@ -41,7 +41,7 @@ Response to obstruction
 - Feel - symmetry, heart rate, tracheal deviation, chest expansion
 
 Response
-- Give oxygen 
+- Give [[Snippets/Oxygen|Oxygen]] 
 - Sit the patient up 
 - Treat the underlying cause
 	- nebulisers, antibiotics, chest drain 
@@ -70,7 +70,7 @@ Response to circulation problem
 
 #### Disability - Evaluation of a patient’s Neurological System
 - Metabolic 
-- hypoglycaemia, hypothermia, hypoxia
+- [[Hypoglycaemia]], hypothermia, hypoxia
 - Drugs 
 - opioids, benzodiazepines 
 - Seizures

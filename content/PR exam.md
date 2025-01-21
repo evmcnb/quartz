@@ -67,7 +67,7 @@ date modified: 2024-04-26
 - **Summarise** your findings.
 
 ## Further Assessments and Investigations
-- Abdominal exam
+- [[Abdominal Exam]]
 - Blood tests - FBC, U&Es, haematinics
 - FIT testing - gastrointestinal malignancy
 - Colon/sigmoidoscopy

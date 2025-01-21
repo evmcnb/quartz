@@ -7,17 +7,17 @@ tags: ['Respiratory']
 
 
 
-Asthma-COPD overlap syndrome (ACOS) is diagnosed when you have symptoms of both asthma and COPD. The sum of both components if often worse than expected.
+[[asthma]]-[[COPD]] overlap syndrome (ACOS) is diagnosed when you have symptoms of both [[asthma]] and [[COPD]]. The sum of both components if often worse than expected.
 
-ACOS is persistent airflow limitation with several features usually associated with asthma and other with COPD
+ACOS is persistent airflow limitation with several features usually associated with [[asthma]] and other with [[COPD]]
 
-Treatment recommendation is to treat the asthma until further investigations are done.- inhaled corticosteroid and add-on LABA and LAMAs.
+Treatment recommendation is to treat the [[asthma]] until further investigations are done.- inhaled corticosteroid and add-on LABA and LAMAs.
 
-COPD - still breathless despite using SABA/SAMA and **asthma/steroid responsive features** → add a LABA + ICS
+[[COPD]] - still breathless despite using SABA/SAMA and **[[asthma]]/steroid responsive features** → add a LABA + ICS
 
 **Diagnosis**
 
-* Previous diagnosis of asthma in context of COPD
+* Previous diagnosis of [[asthma]] in context of [[COPD]]
 * Variation if FEV1 of more than 400ml
 * Diurnal variability in peak flow more than 20%
 * Raised blood eosinophil count

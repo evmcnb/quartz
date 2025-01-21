@@ -7,7 +7,7 @@ tags: ['OBGYN', 'Endocrinology']
 
 
 
-Endocrine disorder characterised by hyperandrogenism + insulin resistance
+Endocrine disorder characterised by hyperandrogenism + [[Snippets/Insulin|Insulin]] resistance
 
 * \(\uparrow\) LH \(\downarrow\) FSH \(\rightarrow\) hyperandrogenism
 * Treatment with weight loss and oral contraceptive (cycle regulatio)
@@ -15,5 +15,5 @@ Endocrine disorder characterised by hyperandrogenism + insulin resistance
 Diganosis 2/3 of:
 
 * infrequent/no ovulation
-* clinical/biochemical signs of hypoaldosterism (hirutism, acne)
+* clinical/biochemical signs of hypoaldosterism (hirutism, [[Acne vulgaris]])
 * polycystic ovaries on USS

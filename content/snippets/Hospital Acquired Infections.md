@@ -18,7 +18,7 @@ tags: ['Antibiotic', 'Symptom', 'Drug']
 * People are often colonised and have the bacteria living harmlessly on their skin and respiratory tract
 * Patients admitted for surgery or inpatient treatment are swabbed via nose and armpit/groin swabs
 * Eradication involves chlorhexidine body wash and antibacterial nasal creams
-* Antibiotics to treat are doxycycline, clindamycin, vancomycin, teicoplanin, linezolid
+* Antibiotics to treat are [[Snippets/Doxycycline|Doxycycline]], [[Snippets/Clindamycin|Clindamycin]], vancomycin, teicoplanin, linezolid
 
 ## CAUTI
 

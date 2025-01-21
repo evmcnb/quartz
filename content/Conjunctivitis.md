@@ -10,7 +10,7 @@ Inflammation of the conjunctiva
 ## Causes/Factors
 
 - **Bacterial Infection:** Caused by bacteria such as Staphylococcus or Streptococcus.
-- **Viral Infection:** Viruses, including adenoviruses, often lead to infectious conjunctivitis.
+- **Viral Infection:** [[Snippets/Viruses|Viruses]], including adenoviruses, often lead to infectious conjunctivitis.
 - **Allergies:** Allergic reactions to pollen, dust, or pet dander can cause conjunctivitis.
 - **Irritants:** Exposure to irritants like smoke, chemicals, or contact lenses may trigger inflammation.
 
@@ -30,18 +30,18 @@ Inflammation of the conjunctiva
 > [!info] Viral conjunctivitis
 > 
 > - Common usually presents with clear discharge
-> - A/w other viral infection symptoms - dry cough, sore throat, blocked nose
+> - A/w other viral infection symptoms - dry cough, [[Snippets/Sore throat|Sore throat]], blocked nose
 > - Pre-auricular lymph nodes
 > - Also contagious 
 
 ## Investigations
 
-Rule out sinister causes of acute red eye
+Rule out sinister causes of [[Snippets/Acute Red Eye|Acute Red Eye]]
 
 Causes of an acute **_painful red eye_** include:
 
 - Acute angle-closure glaucoma
-- Anterior uveitis
+- Anterior [[Uveitis]]
 - [[Scleritis]]
 - Corneal abrasions or ulceration
 - Keratitis

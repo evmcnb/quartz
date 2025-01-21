@@ -17,7 +17,7 @@ Fever + new murmur = infective endocarditis until proven otherwise
 
 - recent dental work
 - renal failure
-- immunosuppression
+- [[Snippets/Immunosuppression|Immunosuppression]]
 
 **Organisms** - most common
 - Strep viridans (subacute)
@@ -54,4 +54,4 @@ Fever + new murmur = infective endocarditis until proven otherwise
 
 - Heart valve damage
 - Embolisms - clumps of infected material can break off and travel through the bloodstream
-- Heart failure - heart valve dysfunction can lead to heart failure
+- [[Heart Failure]] - heart valve dysfunction can lead to [[Heart Failure]]

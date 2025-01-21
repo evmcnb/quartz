@@ -34,7 +34,7 @@ date: 2024-02-07
 
 - <span style="color:#ff0000">Oxygen delivery devices</span> - type & rate
 - <span style="color:#ff0000">Sputum pot</span>
-- <span style="color:#ff0000">Other medical equipment </span>- oxygen, ECG, medications, catheters (note volume and colour), IV access
+- <span style="color:#ff0000">Other medical equipment </span>- [[Snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - <span style="color:#ff0000">Cigs or vapes</span>
 
 ## Hands
@@ -87,13 +87,13 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 
 #### Eyes
 
-- <span style="color:#ff0000">Conjunctival pallor</span>: suggestive of underlying anaemia*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
+- <span style="color:#ff0000">Conjunctival pallor</span>: suggestive of underlying [[Snippets/Anaemia|Anaemia]]*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
 - <span style="color:#ff0000">Ptosis, miosis and enophthalmos</span>: all features of [[Horner's Syndrome]] (anhydrosis is another important sign associated with the syndrome). <span style="color:#00b0f0">Horner’s syndrome</span> occurs when the <span style="color:#00b0f0">sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung</span> (e.g. Pancoast tumour).
 
 #### Mouth
 
 - <span style="color:#ff0000">Central cyanosis</span>: bluish discolouration of the lips and/or the tongue associated with <span style="color:#00b0f0">hypoxaemia</span>.
-- <span style="color:#ff0000">Oral candidiasis</span>: a fungal infection commonly associated with<span style="color:#00b0f0"> steroid inhaler</span> use (due to local immunosuppression). It is characterised by <span style="color:#00b0f0">pseudomembranous white slough</span> which can be easily wiped away to reveal underlying erythematous mucosa.
+- <span style="color:#ff0000">Oral candidiasis</span>: a fungal infection commonly associated with<span style="color:#00b0f0"> steroid inhaler</span> use (due to local [[Snippets/Immunosuppression|Immunosuppression]]). It is characterised by <span style="color:#00b0f0">pseudomembranous white slough</span> which can be easily wiped away to reveal underlying erythematous mucosa.
 
 ## Neck
 
@@ -101,7 +101,7 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 
 ##### Jugular Venous Pressure
 
-Indirect measure of <span style="color:#00b0f0">central venous pressure</span> (IJV connects to right atrium without any valves). Raised JVP indicates **venous hypertension** $\rightarrow$ pulmonary hypertension $\rightarrow$ [[Heart Failure|right-sided heart failure]]
+Indirect measure of <span style="color:#00b0f0">central venous pressure</span> (IJV connects to right atrium without any valves). Raised JVP indicates **venous [[Essential hypertension]]** $\rightarrow$ pulmonary [[Essential hypertension]] $\rightarrow$ [[Heart Failure|right-sided heart failure]]
 
 1. Position the patient in a semi-recumbent position (at 45°).
 2. Ask the patient to turn their head slightly to the left
@@ -232,7 +232,7 @@ Except apex beat and chest expansion if already done
 
 ## Further Assessments and Investigations
 
-- Check **oxygen saturation $SpO_2$** and provide if needed
+- Check **[[Snippets/Oxygen|Oxygen]] saturation $SpO_2$** and provide if needed
 - Check other vital signs - temp & blood pressure
 - Take a sputum sample
 - **For [[asthma]]** - perform a peak flow

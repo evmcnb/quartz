@@ -7,7 +7,7 @@ tags: ['Symptom']
 
 
 
-Symptoms usually due to hypocalcaemia
+Symptoms usually due to [[Snippets/Hypocalcaemia|Hypocalcaemia]]
 
 Causes:
 

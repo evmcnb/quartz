@@ -19,7 +19,7 @@ Precipitants
 
 Presentation
 
-* Itching, sweating, diarrhoea, vomiting, erythema, urticaria, oedema **(larynx, lids, tongue, lips)**
+* Itching, sweating, diarrhoea, vomiting, erythema, [[Urticaria]], oedema **(larynx, lids, tongue, lips)**
 * Wheeze, laryngeal obstruction, cyanosis
 * Tachycardia, hypotension
 

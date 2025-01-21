@@ -85,7 +85,7 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 - Neoplasia: metastases, lung cancer, hamartoma, adenoma
 - Infections: varicella pneumonias, septic emboli, abscess, hydatid
 - Granulomas: [[Tuberculosis]], [[Sarcoidosis]], histoplasmosis
-- Pneumoconiosis (except asbestosis)
+- [[Snippets/Pneumoconiosis|Pneumoconiosis]] (except asbestosis)
 
 ![[z_attachments/Pasted image 20231010115306.png|325]]
 
@@ -93,16 +93,16 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 **Reticular opacification** - lung parenchymal changes
 - Acute interstitial oedema
 - Infection: acute (viral, bacterial), chronic (TB, histoplasmosis)
-- Fibrosis: interstitial pneumonia, drugs (methotrexate, bleomycin, crack cocaine), connective tissue disorders, systemic sclerosis, [[Industrial dust diseases]], [[interstitial lung disease]]
+- Fibrosis: interstitial [[pneumonia]], drugs (methotrexate, [[Snippets/Bleomycin|Bleomycin]], crack cocaine), connective tissue disorders, systemic sclerosis, [[Industrial dust diseases]], [[interstitial lung disease]]
 
 ![[z_attachments/Pasted image 20231010120103.png|325]]
 
 
 **Alveolar opacification** - can be due to any material filling the alveoli
-- Pus - pneumonia
+- Pus - [[pneumonia]]
 - Blood - haemorrhage, DIC
-- Water - heart, renal or liver failure, ARDS, smoke inhalation, heroin, $O_2$ toxicity, near drowning
-- Cells - lymphoma, adenocarcinoma
+- Water - heart, renal or [[Snippets/Liver failure|Liver failure]], ARDS, smoke inhalation, heroin, $O_2$ toxicity, near drowning
+- Cells - [[Snippets/Lymphoma|Lymphoma]], adenocarcinoma
 - Protein - alveolar proteinosis, ARDS, fat emboli
 
 ![[z_attachments/Pasted image 20231010120504.png|325]]
@@ -111,7 +111,7 @@ _Ring opacities_ - either from a CT cross section referring to [[bronchiectasis]
 
 _Linear opacities_ - septal lines (Kerley B lines, i.e. interlobular lymphatics seen with something), atelectasis, pleural plaques
 
-_White out of whole hemithorax_ - [[pneumonia]], large pleural effusion, ARDS, post pneumonectomy
+_White out of whole hemithorax_ - [[pneumonia]], large [[Snippets/Pleural Effusion|Pleural Effusion]], ARDS, post pneumonectomy
 
 
 #### Cardiac
@@ -184,14 +184,14 @@ Uncontrolled haematogenous spread
 **pneumonectomy** (no mass effect - volume loss)
 ![[z_attachments/Pasted image 20240122145551.png|450]]
 
-**Massive pleural effusion** (with mass effect)
+**Massive [[Snippets/Pleural Effusion|Pleural Effusion]]** (with mass effect)
 
 ![[z_attachments/Pasted image 20240122145804.png|450]]
 ##### [[COPD]]
 - Flattened diaphragm
 - More anterior ribs seen 
 - May see floating heart sign 
-- Bullous emphysema
+- Bullous [[emphysema]]
 
 ![[z_attachments/Pasted image 20231010123331.png|425]]
 
@@ -208,6 +208,6 @@ Uncontrolled haematogenous spread
 
 ##### [[Lung Tumours]]
 Cannonball mets - from primary breast cancer
-Pancoast tumour $\rightarrow$ Horner's syndrome
+Pancoast tumour $\rightarrow$ [[Horner's Syndrome]]
 
 Check ribs for invasive lesion

@@ -37,7 +37,7 @@ Extra-articular:
 - Generalised malaise, fatigue
 - Pericardtis or percardial effusion
 - Vasculitis
-- Pulmonary fibrosis
+- [[Pulmonary Fibrosis]]
 
 **LESS**
 - **L**oss of joint space  
@@ -47,7 +47,7 @@ Extra-articular:
 
 #### Diagnostic Tests
 
-- **Bloods** - $\uparrow$ ESR, CRP - FBC: anaemia of chronic disease, thrombocytosis, leukocytosis
+- **Bloods** - $\uparrow$ ESR, CRP - FBC: [[Snippets/Anaemia|Anaemia]] of chronic disease, thrombocytosis, leukocytosis
 - **Anti-CCP antibody** - more specific and sensitive than RF 
 - **XR**/MRI of the area looking for erosions and damage
 - **Joint aspirations** - synovial fluid with increased WCC and protein
@@ -71,7 +71,7 @@ Extra-articular:
 
 - Inflammatory back pain
 - Young people
-- Can cause red inflamed eyes (iritis)
+- Can cause red inflamed eyes ([[Uveitis]])
 - Untreated bones can fuse and cause an immobile spine
 
 <hr> 

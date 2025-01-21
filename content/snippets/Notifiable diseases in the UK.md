@@ -7,9 +7,9 @@ tags: ['InfectiousDisease']
 
 
 
-* Acute encephalitis
-* Acute infectious hepatitis
-* Acute meningitis
+* Acute [[Snippets/Encephalitis|Encephalitis]]
+* Acute infectious [[Hepatitis]]
+* Acute [[Snippets/Meningitis|Meningitis]]
 * Acute poliomyelitis
 * Anthrax
 * Botulism
@@ -36,7 +36,7 @@ tags: ['InfectiousDisease']
 * Scarlet fever
 * Smallpox
 * Tetanus
-* Tuberculosis
+* [[Tuberculosis]]
 * Typhus
 * Viral haemorrhagic fever (VHF)
 * Whooping cough

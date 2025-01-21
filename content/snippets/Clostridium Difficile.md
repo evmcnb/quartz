@@ -13,10 +13,10 @@ Opportunistic when antibiotics remove other bacterial competition and can get ou
 
 ## The antibiotics most associated with C. diff start with the letter C:
 
-* Clindamycin
-* Ciprofloxacin (and other fluoroquinolones)
-* Cephalosporins
-* Carbapenems (e.g., meropenem)
+* [[Snippets/Clindamycin|Clindamycin]]
+* [[Snippets/Ciprofloxacin|Ciprofloxacin]] (and other fluoroquinolones)
+* [[Cephalosporins]]
+* [[Carbapenems]] (e.g., meropenem)
 
 **PPIs are also a risk factor for *C. difficile* infection**
 

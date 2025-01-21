@@ -35,7 +35,7 @@ Risk of cancer $\approx$ age
 
 ##### Effects of Distant Metastases
 
-- Bone - check calcium
+- [[Snippets/Bone|Bone]] - check calcium
 
 ##### Paraneoplastic Syndromes
 
@@ -64,7 +64,7 @@ Rare
 
 - **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate prostate issues). See [[Benign Prostatic Hyperplasia#^a09e56|here]] for details
 - **Biopsy:** Removal and examination of a tissue sample to confirm cancer.
-- **Imaging:** MRI, CT, or bone scans to determine cancer spread (if applicable).
+- **Imaging:** MRI, CT, or [[Snippets/Bone|Bone]] scans to determine cancer spread (if applicable).
 
 ## Management
 

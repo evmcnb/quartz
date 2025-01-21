@@ -26,4 +26,4 @@ Epithelial defect/scratch to the eye. Risk of transforming into [[Infective Kera
 
 ## Complications/red Flags
 
-- Infective keratitis
+- [[Infective Keratitis]]

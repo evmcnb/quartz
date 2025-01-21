@@ -255,7 +255,7 @@ Weakness from an UMN lesion can also produce apparent loss of coordination
 
 **Mononeuropathies** result in a localised sensory disturbance in the area supplied by the damaged nerve.
 
-**Peripheral neuropathy** typically causes symmetrical sensory deficits in a ‘glove and stocking’ distribution in the peripheral limbs. The most common causes of peripheral neuropathy are [[Diabetes Mellitus]] and chronic alcohol excess ([[B12 deficiency]]).
+**[[peripheral neuropathy]]** typically causes symmetrical sensory deficits in a ‘glove and stocking’ distribution in the peripheral limbs. The most common causes of [[peripheral neuropathy]] are [[Diabetes Mellitus]] and chronic alcohol excess ([[B12 deficiency]]).
 
 **Radiculopathy** occurs due to nerve root damage (e.g. compression by a herniated intervertebral disc), resulting in sensory disturbances in the associated dermatomes.
 

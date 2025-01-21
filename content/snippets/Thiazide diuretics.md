@@ -7,5 +7,5 @@ tags: ['Drug']
 
 
 
-* Commonly used in management of hypertension and heart failure
-* Exacerbate gout by increasing serum uric acid levels
+* Commonly used in management of [[Essential hypertension]] and [[Heart Failure]]
+* Exacerbate [[gout]] by increasing serum uric acid levels

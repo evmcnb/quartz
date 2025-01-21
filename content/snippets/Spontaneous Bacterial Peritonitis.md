@@ -7,9 +7,9 @@ tags: ['Gastroenterology', 'Hepatology']
 
 
 
-A form of peritonitis, usually seen in patients with **ascites** secondary to liver cirrhosis
+A form of peritonitis, usually seen in patients with **[[Snippets/Ascites|Ascites]]** secondary to liver [[Snippets/Cirrhosis|Cirrhosis]]
 
-* Abdominal pain and fever in patients with ascites
+* Abdominal pain and fever in patients with [[Snippets/Ascites|Ascites]]
 * Diagnosis is made from **paracentesis**, with a raised neutrophil count of over 250 cells
 * Most common causative organism is Escherichia coli then *Klebselia pneumoniae*
 * Give broad-spec antibiotics to those with a ascitic protein of <15g/L

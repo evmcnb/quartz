@@ -53,13 +53,13 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 
 | Step                                                                                                                                | Notes                                                                                                                                                                                                                                                                                                                              |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1**  <br>  <br>Newly-diagnosed asthma                                                                                             | Short-acting beta agonist (SABA)                                                                                                                                                                                                                                                                                                   |
-| **2**  <br>  <br>Not controlled on previous step  <br>OR  <br>Newly-diagnosed asthma with symptoms >= 3 / week or night-time waking | SABA + low-dose inhaled corticosteroid (ICS)                                                                                                                                                                                                                                                                                       |
+| **1**  <br>  <br>Newly-diagnosed [[Snippets/Asthma|Asthma]]                                                                                             | Short-acting beta agonist (SABA)                                                                                                                                                                                                                                                                                                   |
+| **2**  <br>  <br>Not controlled on previous step  <br>OR  <br>Newly-diagnosed [[Snippets/Asthma|Asthma]] with symptoms >= 3 / week or night-time waking | SABA + low-dose inhaled corticosteroid (ICS)                                                                                                                                                                                                                                                                                       |
 | **3**                                                                                                                               | SABA + low-dose ICS + leukotriene receptor antagonist (LTRA)                                                                                                                                                                                                                                                                       |
 | **4**                                                                                                                               | SABA + low-dose ICS + long-acting beta agonist (LABA)  <br>  <br>Continue LTRA depending on patient's response to LTRA                                                                                                                                                                                                             |
 | **5**                                                                                                                               | SABA +/- LTRA  <br>  <br>Switch ICS/LABA for a maintenance and reliever therapy (MART), that includes a low-dose ICS                                                                                                                                                                                                               |
 | **6**                                                                                                                               | SABA +/- LTRA + medium-dose ICS MART  <br>  <br>OR consider changing back to a fixed-dose of a moderate-dose ICS and a separate LABA                                                                                                                                                                                               |
-| **7**                                                                                                                               | SABA +/- LTRA + one of the following options:  <br><br>- increase ICS to high-dose (only as part of a fixed-dose regime, not as a MART)<br>- a trial of an additional drug (for example, a long-acting muscarinic receptor antagonist or theophylline)<br>- seeking advice from a healthcare professional with expertise in asthma |
+| **7**                                                                                                                               | SABA +/- LTRA + one of the following options:  <br><br>- increase ICS to high-dose (only as part of a fixed-dose regime, not as a MART)<br>- a trial of an additional drug (for example, a long-acting muscarinic receptor antagonist or theophylline)<br>- seeking advice from a healthcare professional with expertise in [[Snippets/Asthma|Asthma]] |
 
 Maintenance and reliever therapy (MART)  
 
@@ -72,14 +72,14 @@ Shit,
 I  
 Hate  
 My  
-Asthma  
+[[Snippets/Asthma|Asthma]]  
   
-1) Oxygen  
-2) Salbutamol nebulisers  
-3) Ipratropium bromide nebulisers  
-4) Hydrocortisone IV or Oral Prednisolone  
+1) [[Snippets/Oxygen|Oxygen]]  
+2) [[Snippets/Salbutamol|Salbutamol]] nebulisers  
+3) [[Snippets/Ipratropium Bromide|Ipratropium Bromide]] nebulisers  
+4) Hydrocortisone IV or Oral [[Snippets/Prednisolone|Prednisolone]]  
 5) Magnesium Sulfate IV  
-6) Aminophylline / IV salbutamol
+6) Aminophylline / IV [[Snippets/Salbutamol|Salbutamol]]
 
 ## Complications/red Flags
 
@@ -88,7 +88,7 @@ Asthma
 - Bradycardia
 
 > [!warning]
-> Prior to discharge, following an acute asthma attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or oxygen) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
+> Prior to discharge, following an acute [[Snippets/Asthma|Asthma]] attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or [[Snippets/Oxygen|Oxygen]]) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
 
 ### DDX
 

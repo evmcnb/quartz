@@ -12,9 +12,9 @@ tags: ['Drug', 'Cardiovascular']
 | **Mechanism** | Reversibly inhibits HMG CoA reductase - the rate limiting enzyme in cholesterol synthesis by the liver  Liver responds by increased LDL receptor expression taking in more LDL to plasma cholesterol |
 | **Typical Dose** | 40mg OD to be increased up to 80mg. Taking at night improves efficacy |
 | **Indications** | Hypercholesterolaemia |
-| **Contra-indications** | * Active liver disease/persistently deranged LFTs * Pregnancy/breast feeding * When taking clarithromycin |
+| **Contra-indications** | * Active liver disease/persistently deranged LFTs * [[Pregnancy]]/breast feeding * When taking clarithromycin |
 | **Side-effects** | * Myositis (achy muscles), may lead to rhabdomyolysis |
-| **Interactions** | * Clarithromycin - increased exposure to simvastatin * Cylcosporin - increased risk of myositis * Fibrate - increased risk of myositis * Warfarin - increased exposure to warfarin |
+| **Interactions** | * Clarithromycin - increased exposure to simvastatin * Cylcosporin - increased risk of myositis * Fibrate - increased risk of myositis * [[Snippets/Warfarin|Warfarin]] - increased exposure to [[Snippets/Warfarin|Warfarin]] |
 | **Elimination** | ABC transporter mediated biliary excretion |
 | **Additional Notes** | Only prescribe if diet modification has failed and secondary causes of hyperlipidaemia have been ruled out. Regular LFTs before/during treatment. |
 

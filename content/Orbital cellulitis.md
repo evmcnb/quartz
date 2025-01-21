@@ -11,16 +11,16 @@ Infection that involves the muscle and fat within the orbit - posterior to the o
 
 More common in children than adults - 16x more
 
-Differentiation between [[Periorbital cellulitis]] and orbital cellulitis can be difficult in the initial stages of infection
+Differentiation between [[Periorbital cellulitis]] and orbital [[Cellulitis]] can be difficult in the initial stages of infection
 
 > [!danger] Sight threatening condition
 > 
-> Approximately 11% of patients will have vision loss following orbital cellulitis 
+> Approximately 11% of patients will have vision loss following orbital [[Cellulitis]] 
 
 
 ## Causes/Factors
 
-- Local spreading infection of an acute bacterial sinusitis - typically from the paranasal sinuses
+- Local spreading infection of an acute bacterial [[Rhinosinusitis]] - typically from the paranasal sinuses
 - Less common causes include the extension of [[Periorbital cellulitis]], haematogenous spread, orbit trauma or contiguous spread from face or teeth from recent surgery or dental infection
 
 ## Clinical Features
@@ -45,7 +45,7 @@ Exam look for:
 - Nasal exam - ipsilateral nasal discharge
 - Oral cavity exam - assess oral hygiene, any evidence of dental disease
 - **Examination of eyes and vision** - visual fields, visual acuity, colour vision, pupil response, proptosis, slit lamp exam
-- **Neurological examination** - cranial nerve exam including assessment for meningism 
+- **Neurological examination** - [[Cranial Nerve Exam]] including assessment for meningism 
 
 ## Investigations
 
@@ -66,6 +66,6 @@ Exam look for:
 - Cavernous sinus thrombosis
 - Loss of vision
 - Intracerebral abscess
-- Osteomyelitis
-- Meningitis 
+- [[Snippets/Osteomyelitis|Osteomyelitis]]
+- [[Snippets/Meningitis|Meningitis]] 
 - Death (rarely) 

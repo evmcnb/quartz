@@ -12,5 +12,5 @@ A rash that can affect parts of the body including mouth and hands
 * F >> M
 * skin involvement 10-15%
 * Autoinflammatory disease - T cell immune response
-* Potential to transform into oral squamous cell carcinoma
+* Potential to transform into oral [[Squamous cell carcinoma]]
 * Treat with anti-inflammatory - steroids

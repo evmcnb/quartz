@@ -11,12 +11,12 @@ Irreversible liver damage - loss of normal hepatic architecture
 
 * Most commonly caused by alcohol abuse or HBV/HCV
 * Leuconychia from the hypoalbuminaemia
-* Clubbing
+* [[clubbing]]
 * Palmar erythema
 * Duputrens contracture
 * Spider naevi
 
-Cirrhosis may be present for years before becoming decompensated: jaundice, ascites or encephalopathy. Very bad prognostically but the following can be reversed to improve outcomes:
+Cirrhosis may be present for years before becoming decompensated: [[Snippets/Jaundice|Jaundice]], [[Snippets/Ascites|Ascites]] or encephalopathy. Very bad prognostically but the following can be reversed to improve outcomes:
 
 1. Dehydration
 2. Constipation

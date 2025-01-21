@@ -8,7 +8,7 @@ tags: ['Rheumatology', 'Respiratory', 'Oncology']
 
 ## Lung
 
-**Hypertrophic pulmonary osteoarthropathy** (HPOA), which is the combination of clubbing and periostitis of the small hand joints. As seen in this case, patients present with clubbing of the nails and swelling of the finger joints. HPOA as a paraneoplastic feature is also observed in the ***adenocarcinoma*** of the lung. Other paraneoplastic features of lung **SCC** include *parathyroid hormone-related protein* (PTHrP) secretion and *hyperthyroidism* due to ectopic thyroid-stimulating hormone release. In hypercalcaemia secondary to malignancy, PTH is low, although PTHrP may be raised  
+**Hypertrophic pulmonary osteoarthropathy** (HPOA), which is the combination of [[clubbing]] and periostitis of the small hand joints. As seen in this case, patients present with [[clubbing]] of the nails and swelling of the finger joints. HPOA as a paraneoplastic feature is also observed in the ***adenocarcinoma*** of the lung. Other paraneoplastic features of lung **SCC** include *parathyroid hormone-related protein* (PTHrP) secretion and *[[Snippets/Hyperthyroidism|Hyperthyroidism]]* due to ectopic thyroid-stimulating hormone release. In [[Snippets/Hypercalcaemia|Hypercalcaemia]] secondary to malignancy, PTH is low, although PTHrP may be raised  
 
   
 

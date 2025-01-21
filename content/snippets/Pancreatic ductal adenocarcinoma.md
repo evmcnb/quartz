@@ -7,6 +7,6 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 
 
 
-* Most common pancreatic cancer - usually in head of pancreas
-* ↑ risk with chronic pancreatitis, DM, alcohol
+* Most common [[Snippets/Pancreatic cancer|Pancreatic cancer]] - usually in head of pancreas
+* ↑ risk with chronic [[pancreatitis]], DM, alcohol
 * Hereditary with Lynch syndrome, FAMMM (p16), Her-2, BRCA1/2, Von Hippel-Lindau, SPINK1, Peutz-Jeghers

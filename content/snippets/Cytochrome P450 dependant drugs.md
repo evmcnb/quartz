@@ -9,35 +9,35 @@ tags: ['Drug']
 
 Dependant
 
-* **Phenytoin**
+* **[[Snippets/Phenytoin|Phenytoin]]**
 * **Theophylline**
-* **Carbamazepine**
+* **[[Snippets/Carbamazepine|Carbamazepine]]**
 * Tacrolimus and cyclosporine
-* Digoxin
+* [[Snippets/Digoxin|Digoxin]]
 * Flecainide
 * Sildenafil
-* Simvastatin
+* [[Snippets/Simvastatin|Simvastatin]]
 * SSRIs SNRIs
 
-Enzyme inducers **decrease** the amount of active warfarin and decrease its exposure (and INR)
+Enzyme inducers **decrease** the amount of active [[Snippets/Warfarin|Warfarin]] and decrease its exposure (and INR)
 
-Enzyme inhibitors **increase**the amount of active warfarin and increase its exposure (and INR)
+Enzyme inhibitors **increase**the amount of active [[Snippets/Warfarin|Warfarin]] and increase its exposure (and INR)
 
 Drugs that can **inhibit**P450
 
-* Amiodarone
-* Metronidazole
-* Ciprofloxacin, levofloxacin
-* Erythromycin, clarithromycin
+* [[Snippets/Amiodarone|Amiodarone]]
+* [[Snippets/Metronidazole|Metronidazole]]
+* [[Snippets/Ciprofloxacin|Ciprofloxacin]], levofloxacin
+* [[Snippets/Erythromycin|Erythromycin]], clarithromycin
 * Grape fruit juice
-* SSRIs- sertraline, fluoxetine
-* Sodium valproate
+* SSRIs- sertraline, [[Snippets/Fluoxetine|Fluoxetine]]
+* [[Snippets/Sodium Valproate|Sodium Valproate]]
 * Allopurinol
 
 Drugs that can **induce** P450
 
-* **Carbamazepine**(self inducing)
-* **Phenytoin**(self inducing)
+* **[[Snippets/Carbamazepine|Carbamazepine]]**(self inducing)
+* **[[Snippets/Phenytoin|Phenytoin]]**(self inducing)
 * Rifampin
 * St. John's Wort
 * Chronic alcohol

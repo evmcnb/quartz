@@ -19,7 +19,7 @@ Upper UTI = Pyelonephritis (kidney/renal pelvis)
 - $\uparrow$ Bacterial inoculation - sexual activity, urinary or faecal incontinence, constipation
 - $\uparrow$ Binding of uropathogenic bacteria - spermicide use, $\downarrow$ oestrogen
 - $\downarrow$ Urine flow - dehydration, obstructed urinary tract
-- $\uparrow$ Bacterial growth - [[Diabetes Mellitus]], immunosuppression, obstruction, stones, catheter, renal tract malformation, [[Pregnancy]]
+- $\uparrow$ Bacterial growth - [[Diabetes Mellitus]], [[Snippets/Immunosuppression|Immunosuppression]], obstruction, stones, catheter, renal tract malformation, [[Pregnancy]]
 - Catheter associated
 
 ## Symptoms
@@ -50,8 +50,8 @@ Increase fluid intake
 
 In non-pregnant women of $\geq$ 3 (or one severe) symptom of cystitis and no vaginal discharge, treat empirically without further tests. If discharge consider a [[Pelvic inflammatory disease]]
 
-Lower UTI generally **trimethoprim** or **nitrofurantoin**
-Upper UTI take a culture and treat initially with broad spectrum in accordance with local guidelines (eg cefuroxime, gentamicin, ciprofloxacin). Avoid nitrofurantoin as doesn't achieve effective concentrations in blood
+Lower UTI generally **[[Snippets/Trimethoprim|Trimethoprim]]** or **nitrofurantoin**
+Upper UTI take a culture and treat initially with broad spectrum in accordance with local guidelines (eg cefuroxime, [[Snippets/Gentamicin|Gentamicin]], [[Snippets/Ciprofloxacin|Ciprofloxacin]]). Avoid nitrofurantoin as doesn't achieve effective concentrations in blood
 
 ## Complications/red Flags
 

@@ -18,7 +18,7 @@ tags: ['Gastroenterology', 'Oncology']
 
 ## Malignant Liver tumours
 
-**Hepatocellular carcinoma** - usually in cirrhosis (Hep C/B), alpha fetoprotein (AFP) as tumour marker
+**Hepatocellular carcinoma** - usually in [[Snippets/Cirrhosis|Cirrhosis]] (Hep C/B), alpha fetoprotein (AFP) as tumour marker
 
 **Cholangiocarcinoma** - bile duct cell malignancy due to chronic inflammation, aggressive difficult to resect
 

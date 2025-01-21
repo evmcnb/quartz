@@ -7,7 +7,7 @@ tags: ['Oncology']
 
 
 
-Chemotherapy for rapidly proliferating tumours (leukaemia, lymphoma, myeloma) leads to cell death add ↑urate, K+, phosphate and ↓calcium.
+Chemotherapy for rapidly proliferating tumours (leukaemia, [[Snippets/Lymphoma|Lymphoma]], myeloma) leads to cell death add ↑urate, K+, phosphate and ↓calcium.
 
 Risk of arrhythmia and renal failure
 

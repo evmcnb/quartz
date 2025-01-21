@@ -37,4 +37,4 @@ Bone density T-scores
 
 * -1 and above normal
 * -1 to -2.5 osteopenia
-* -2.5 and below osteoporosis
+* -2.5 and below [[osteoporosis]]

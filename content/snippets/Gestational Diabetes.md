@@ -7,10 +7,10 @@ tags: ['OBGYN', 'Endocrinology']
 
 
 
-* New in pregnancy
+* New in [[Pregnancy]]
 * HbA1c not recommended
 * Similar risk factors to T2 diabetes
-* High risks for pregnancy - macrosomia, pre-eclampsia, still birth
+* High risks for [[Pregnancy]] - macrosomia, pre-eclampsia, still birth
 * Vast majority go away postpartum
 
 Secondary causes can be anything that affects the pancreas

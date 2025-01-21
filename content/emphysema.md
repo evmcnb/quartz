@@ -13,7 +13,7 @@ Defined histologically as enlarged air spaces distal to terminal bronchi with de
 
 - irreversible
 
-Emphysema and chronic bronchitis are two conditions that make up chronic obstructive pulmonary disease ([[COPD]])
+Emphysema and chronic [[bronchitis]] are two conditions that make up chronic obstructive pulmonary disease ([[COPD]])
 
 ## Causes/Factors
 

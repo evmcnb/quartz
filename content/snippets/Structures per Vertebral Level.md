@@ -11,7 +11,7 @@ tags: ['Surgery']
 | --- | --- |
 | C1 | Spinal root of accessory nerve crosses transverse process of atlas |
 | C2 | Superior cervical ganglion |
-| C3 | Body of hyoid bone |
+| C3 | Body of hyoid [[Snippets/Bone|Bone]] |
 | C4 | Superior border of thyroid cartilage Bifurcation of common carotid arteries |
 | C6 | Cricoid cartilage Larynx ends and trachea begins Pharynx ends and oesophagus begins Inferior thyroid artery crosses carotid sheath Inferior laryngeal nerve enters larynx Vertebral artery enters transverse foramen of C6 Middle cervical ganglion |
 | C7 | Vertebra prominens Stellate ganglion Isthmus of thyroid gland |

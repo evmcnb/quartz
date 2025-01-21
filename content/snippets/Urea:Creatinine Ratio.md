@@ -34,6 +34,6 @@ Eg if creatinine was 123 umol/L and urea was 16.1mmol/L.
 
 **Post-renal**
 
-* Kidney stones
+* [[Urolithiasis]]
 * Tumours
 * Retroperitoneal fibrosis

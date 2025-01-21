@@ -38,7 +38,7 @@ date modified: 2024-04-30
 - Swan neck deformity and Z-thumb- [[Inflammatory Arthritis|RA]]
 - Skin thinning - steroids
 - Psoriatic plaques - increased risk of psoriatic arthritis
-- Splinter haemorrhages - [[Endocarditis|Infective endocarditis]], [[Sepsis]], [[Vasculitis]]
+- [[Splinter haemorrhages]] - [[Endocarditis|Infective endocarditis]], [[Sepsis]], [[Vasculitis]]
 - Nail pitting and onycholysis 
 
 #### Palmar aspect of hand

@@ -9,10 +9,10 @@ tags: ['Neurology']
 
 | Seizure type | Location | Before | During | After | Treatment |
 | --- | --- | --- | --- | --- | --- |
-| Generalised tonic-clonic seizures (*grand mal*) | General brain | Aura | Tonic (muscle tensing), Clonic (muscle jerking). Tonic before clonic usually. Incontinence, tongue biting, complete LOC | Post-ictal peroid - confused tired irritable and low | Sodium valproate  **Women able to have children** - lamotrigine or levetiracetam |
-| Focal seizures (partial seizures) | Can be anywhere localised | Deja vu, strange sensations | Aware in simple partial seizure but not in complex |  | Lamotrigine or levetiracetam |
-| Myoclonic seizures |  |  | Sudden brief muscle contractions - jolt |  | Sodium valproate  **Women able to have children** - levetiracetam |
-| Tonic seizures |  |  | Sudden onset of increased muscle tone. Only last a few seconds/minutes. Patient falls if standing |  | Sodium valproate  **Women able to have children** - lamotrigine |
+| Generalised tonic-clonic seizures (*grand mal*) | General brain | Aura | Tonic (muscle tensing), Clonic (muscle jerking). Tonic before clonic usually. Incontinence, tongue biting, complete LOC | Post-ictal peroid - confused tired irritable and low | [[Snippets/Sodium Valproate|Sodium Valproate]]  **Women able to have children** - [[Snippets/Lamotrigine|Lamotrigine]] or levetiracetam |
+| Focal seizures (partial seizures) | Can be anywhere localised | Deja vu, strange sensations | Aware in simple partial seizure but not in complex |  | [[Snippets/Lamotrigine|Lamotrigine]] or levetiracetam |
+| Myoclonic seizures |  |  | Sudden brief muscle contractions - jolt |  | [[Snippets/Sodium Valproate|Sodium Valproate]]  **Women able to have children** - levetiracetam |
+| Tonic seizures |  |  | Sudden onset of increased muscle tone. Only last a few seconds/minutes. Patient falls if standing |  | [[Snippets/Sodium Valproate|Sodium Valproate]]  **Women able to have children** - [[Snippets/Lamotrigine|Lamotrigine]] |
 | Atonic seizures ("drop attacks") |  |  | Sudden loss of muscle tone. Often resulting in a fall. May indicate Lennox-Gastaut syndrome |  | Same as tonic seizures |
 | Absence seizures | More common in children |  | Becomes blank and stares into space then abruptly returns to normal. Unaware. 10-20 seconds | Usually stop with as they grow older | Ethosuximide |
 | Infantile spasms (West syndrome) | Most common in children | Hypsarrhythmia on EEG | It presents with clusters of full-body spasms | It is associated with developmental regression and has a poor prognosis. . | Treatment is with ***ACTH***and ***vigabatrin*** |

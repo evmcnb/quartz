@@ -16,9 +16,9 @@ tags: ['Hepatology']
 | Acute | 8-21 days |
 | Subacute | 4-26 weeks |
 
-Anything that harms the liver can cause liver failure and associated symptoms - jaundice, hepatic encephalopathy, asterixis etc
+Anything that harms the liver can cause liver failure and associated symptoms - [[Snippets/Jaundice|Jaundice]], hepatic encephalopathy, asterixis etc
 
 Commonest causes:
 
-* Acute viral hepatitis
-* Acute paracetamol overdose
+* Acute [[Snippets/Viral hepatitis|Viral hepatitis]]
+* Acute [[Snippets/Paracetamol|Paracetamol]] overdose

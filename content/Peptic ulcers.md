@@ -25,8 +25,8 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 
 **Bleeding risk from ulcer**
 - NSAIDs
-- Aspirin
-- Anticoagulants
+- [[Snippets/Aspirin|Aspirin]]
+- [[Snippets/Anticoagulants|Anticoagulants]]
 - Steroids
 - SSRIs 
 ## Presentation
@@ -47,13 +47,13 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 
 - OGD - endoscopy. During endoscopy a rapid urease test can be used to check for H. pylori infection. A biopsy can also be considered to exclude malignancy. 
 - Stool sample - H pylori PCR
-- PR exam - to check for melena  
+- [[PR exam]] - to check for melena  
 
 ## Management
 
 - Stopping NSAIDs
-- Treating H pylori infection - TDS amoxicillin 1g and clarithromycin 500mg or metronidazole 400mg  
-- Proton pump inhibitor to reduce gastric acid secretion - lansoprazole 30mg, omeprazole 20-40mg, etc 
+- Treating H pylori infection - TDS [[Snippets/Amoxicillin|Amoxicillin]] 1g and clarithromycin 500mg or [[Snippets/Metronidazole|Metronidazole]] 400mg  
+- Proton pump inhibitor to reduce gastric acid secretion - lansoprazole 30mg, [[Snippets/Omeprazole|Omeprazole]] 20-40mg, etc 
 
 ## Complications/red Flags
 - Significant bleeding

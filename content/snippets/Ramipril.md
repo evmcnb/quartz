@@ -11,10 +11,10 @@ tags: ['Drug', 'Cardiovascular']
 | --- | --- |
 | **Mechanism** | Inhibits angiotensin converting enzyme - ↓ angiotensin II synthesis and ↑ bradykinin accumulation |
 | **Typical Dose** | 2.5mg  - **max 10mg daily** |
-| **Indications** | * HTN * HF * Post-MI * Diabetic nephropathy |
-| **Contra-indications** | * Renal vascular disease (renal artery stenosis) * Aortic stenosis * Pregnancy (unless essential) |
-| **Side-effects** | Common: postural hypotension, **dry cough** (switch to ARB), rash  Rarely: hyperkalaemia, decreased renal function |
-| **Interactions** | * Diuretics - pronounced hypotension * Lithium - increased concentration * NSAIDs - risk of renal impairment * K-sparing diuretics - risk of hyperkalaemia |
+| **Indications** | * HTN * HF * Post-MI * [[Snippets/Diabetic Nephropathy|Diabetic Nephropathy]] |
+| **Contra-indications** | * Renal vascular disease (renal artery stenosis) * [[Aortic Stenosis]] * [[Pregnancy]] (unless essential) |
+| **Side-effects** | Common: postural hypotension, **dry cough** (switch to ARB), rash  Rarely: [[Snippets/Hyperkalaemia|Hyperkalaemia]], decreased renal function |
+| **Interactions** | * Diuretics - pronounced hypotension * [[Snippets/Lithium|Lithium]] - increased concentration * NSAIDs - risk of renal impairment * K-sparing diuretics - risk of [[Snippets/Hyperkalaemia|Hyperkalaemia]] |
 | **Elimination** |  |
 | **Additional Notes** | Patients should take 1st dose before bed to avoid 1st dose hypotension. |
 

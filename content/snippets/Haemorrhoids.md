@@ -9,7 +9,7 @@ tags: ['Gastroenterology']
 
 Abnormal swellings of the vascular mucosal anal cushions around the anus.
 
-Women are predisposed to developing haemorrhoids during pregnancy - bulk forming laxatives are not absorbed and are therefore safe for pregnancy. **No other preparations are licensed for use during pregnancy**
+Women are predisposed to developing haemorrhoids during [[Pregnancy]] - bulk forming laxatives are not absorbed and are therefore safe for [[Pregnancy]]. **No other preparations are licensed for use during [[Pregnancy]]**
 
 Classification:
 
@@ -22,5 +22,5 @@ A common presentation is with ***painless, bright red bleeding***, typically on
 
 * Aims to reduce symptoms, promote healing and prevent recurrence
 * If constipated - bulk forming laxative can be prescribed
-* Paracetamol can be prescribed for pain - opioids (can cause constipation) and NSAIDs (if rectal bleeding) should be avoided
+* [[Snippets/Paracetamol|Paracetamol]] can be prescribed for pain - opioids (can cause constipation) and NSAIDs (if rectal bleeding) should be avoided
 * Topical preparations can contain a combination of LA, corticosteroids, astringents, lubricants and antiseptics - but excessive application of LA and steroids should be avoided

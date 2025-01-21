@@ -19,12 +19,12 @@ Patients usually have good outcomes with 90%+ recovering vision to 6/12 to bette
 ## Causes/Factors
 
 - Most commonly associated with demyelinating diseases such as [[Multiple Sclerosis]] - need to rule it out
-- Metabolic - vitamin deficiencies especially of B12 severe anaemia 
-- Ischaemia - [[Diabetes Mellitus]], temporal arteritis, ateriosclerosis
+- Metabolic - vitamin deficiencies especially of B12 severe [[Snippets/Anaemia|Anaemia]] 
+- Ischaemia - [[Diabetes Mellitus]], [[Giant cell arteritis]], ateriosclerosis
 - Familial - Leber's disease
 - Infection:
-	- viral - herpes zoster, infectious mononucleosis, typhoid fever
-	- bacterial - neurosyphilis, meningitis, tuberculosis
+	- viral - herpes zoster, [[Snippets/Infectious mononucleosis|Infectious mononucleosis]], typhoid fever
+	- bacterial - neurosyphilis, [[Snippets/Meningitis|Meningitis]], [[Tuberculosis]]
 	- other - toxoplasmosis
 
 ## Clinical Features
@@ -47,9 +47,9 @@ Patients usually have good outcomes with 90%+ recovering vision to 6/12 to bette
 
 ## Management
 
-Oral prednisolone was found to be ineffective and increased the risk of recurrence
+Oral [[Snippets/Prednisolone|Prednisolone]] was found to be ineffective and increased the risk of recurrence
 
-The typical regimen is **intravenous methylprednisolone** 1g daily for three days followed by an **oral prednisolone taper** (1mg/kg for 11 days).
+The typical regimen is **intravenous methylprednisolone** 1g daily for three days followed by an **oral [[Snippets/Prednisolone|Prednisolone]] taper** (1mg/kg for 11 days).
 
 Oral methylprednisolone 500mg once a day for five days has been suggested as an **alternative to intravenous steroids**, but its use remains controversial.
 

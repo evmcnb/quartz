@@ -12,7 +12,7 @@ tags: ['Neurology']
 * **Sympathetic** - T1-L2, highly organised, widespread effect. Ganglion in sympathetic chain
 * **Parasympathetic** - CN III, VII, IX, **X**, S2-S4, localised effect. Ganglion near effector organ
 
-* Horner syndrome - injury to sympathetic supply to head and neck
+* Horner syndrome - injury to sympathetic supply to [[Snippets/Head and Neck|Head and Neck]]
   + Ptosis - drooping eye lids
   + Mitosis - constricted pupil
   + Anhydrosis - loss of sweating

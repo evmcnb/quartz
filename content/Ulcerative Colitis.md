@@ -16,7 +16,7 @@ The severity of UC is usually classified as being mild, moderate or severe:
 
 - mild: < 4 stools/day, only a small amount of blood
 - moderate: 4-6 stools/day, varying amounts of blood, no systemic upset
-- severe: >6 bloody stools per day + features of systemic upset (pyrexia, tachycardia, anaemia, raised inflammatory markers)
+- severe: >6 bloody stools per day + features of systemic upset (pyrexia, tachycardia, [[Snippets/Anaemia|Anaemia]], raised inflammatory markers)
 
 ## Causes/Factors
 
@@ -50,7 +50,7 @@ Extraintestinal signs:
 ## Diagnostic Tests
 
 - Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
-- Blood tests for inflammatory markers/anaemia (FBC, ESR, CRP, U&E, LFT)
+- Blood tests for inflammatory markers/[[Snippets/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
 - Full colonoscopy or sigmoidoscopy -> biopsy
 - AXR - no feacal shadows, mucosal thickening/islands
 

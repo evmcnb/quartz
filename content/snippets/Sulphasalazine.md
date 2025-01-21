@@ -8,5 +8,5 @@ tags: ['Gastroenterology', 'Drug']
 
 
 * Aminosalicylate - to reduce inflammation.
-* Used in the treatment of ulcerative colitis and rheumatoid arthritis
-* Can cause haemolytic anaemia with **Heinz bodies**.
+* Used in the treatment of [[Ulcerative Colitis]] and [[Snippets/Rheumatoid Arthritis|Rheumatoid Arthritis]]
+* Can cause haemolytic [[Snippets/Anaemia|Anaemia]] with **Heinz bodies**.

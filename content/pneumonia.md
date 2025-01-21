@@ -43,9 +43,9 @@ $\geq$ 3 - high risk - severe pneumonia
 
 - Hospital acquired (HAP) - after 48hs from admission
 - Ventilator associated (VAP)
-- Asp iration pneumonia
+- Asp iration [[Snippets/Pneumonia|Pneumonia]]
 
-- Immunocompromised patient - patients recurrently coming with a CAP is an indicator of HIV - esp if organism is weird
+- Immunocompromised patient - patients recurrently coming with a CAP is an indicator of [[HIV]] - esp if organism is weird
 
 ## Symptoms
 
@@ -73,7 +73,7 @@ $\geq$ 3 - high risk - severe pneumonia
 - Blood/sputum culture
 - Bronchoscopy if risk of infection for bloods
 
-- U&Es - hyponatremia pneumonia $\rightarrow$ legionella. Can also use urinary antigen very sensitive and specific for legionella
+- U&Es - hyponatremia [[Snippets/Pneumonia|Pneumonia]] $\rightarrow$ legionella. Can also use urinary antigen very sensitive and specific for legionella
 - Pet history - parrots $\rightarrow$ Chlymidia pneumonitis
 - Weird rash $\rightarrow$ Mycoplasma
 
@@ -81,17 +81,17 @@ $\geq$ 3 - high risk - severe pneumonia
 
 ABCDE
 - Fluids
-- Oxygen
+- [[Snippets/Oxygen|Oxygen]]
 - Antibiotics
 - Assisted ventilation
 
 ## Complications/red Flags
 
 - Type 1 [[Respiratory Failure]] ($PaO_2 < 8kPa$)
-- Hypotension <- vasodilation/dehydration <- sepsis
+- Hypotension <- vasodilation/dehydration <- [[Sepsis]]
 - [[Atrial Fibrillation]] - common in elderly, usually resolves with treatment
 - [[Pleural Effusion]] - inflammation of pleura leading to fluid build up
 - [[Empyema]] - pus in pleural space, should be drained with chest drain
 - [[Lung Abscess]]
 - [[Pericarditis]] and [[myocarditis]]
-- [[Jaundice]] - usually cholestatic - may be due to sepsis or secondary to antibiotic treatment (esp. flucloxacillin and co-amoxiclav)
+- [[Jaundice]] - usually cholestatic - may be due to [[Sepsis]] or secondary to antibiotic treatment (esp. flucloxacillin and [[Snippets/Co-amoxiclav|Co-amoxiclav]])

@@ -9,10 +9,10 @@ tags: ['Drug']
 
 | **Drug Class** | Calcium channel blocker |
 | --- | --- |
-| **Mechanism** | Interfere with the inward movement of calcium ions into cells   * relaxation of vascular smooth muscle * ↓ myocardial contractility * ↓ conduction at AV node, ↑ refractory period * ↓ afterload and HR - ↓ oxygen consumption |
+| **Mechanism** | Interfere with the inward movement of calcium ions into cells   * relaxation of vascular smooth muscle * ↓ myocardial contractility * ↓ conduction at AV node, ↑ refractory period * ↓ afterload and HR - ↓ [[Snippets/Oxygen|Oxygen]] consumption |
 | **Typical Dose** | 5mg to up 10mg |
-| **Indications** | * Angina * HTN |
-| **Contra-indications** | * Cardiogenic shock * Significant aortic stenosis * Unstable angina |
+| **Indications** | * [[Angina]] * HTN |
+| **Contra-indications** | * Cardiogenic shock * Significant [[Aortic Stenosis]] * Unstable [[Angina]] |
 | **Side-effects** | **Ankle oedema,**abdominal pain, nausea |
 | **Interactions** | * P450 stuff |
 | **Elimination** |  |

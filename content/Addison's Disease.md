@@ -13,7 +13,7 @@ Primary adrenal cortical insufficiency - not enough steroid hormones
 
 Triad of **hyperpigmentation**, **postural hypotension** and **hyponatraemia**
 
-Plus hyperkalaemia, metabolic acidosis
+Plus [[Snippets/Hyperkalaemia|Hyperkalaemia]], metabolic acidosis
 
 ##### Secondary and tertiary causes of adrenal insufficiency:
 More common than Addison's  
@@ -33,7 +33,7 @@ Difference
 - Usually some other evidence of pituitary failure eg hypotheyroidism after steroid withdrawal
 ## Causes/Factors
 
-- Autoimmune - other auroimmune conditions, [[Diabetes Mellitus|T1DM]], vitiligo, pernicious anaemia, [[Hashimoto's thyroiditis]], [[Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
+- Autoimmune - other auroimmune conditions, [[Diabetes Mellitus|T1DM]], vitiligo, pernicious [[Snippets/Anaemia|Anaemia]], [[Hashimoto's thyroiditis]], [[Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
 - Infections - [[Tuberculosis]], fungal infections
 - Genetic factors - rarely genetic mutations
 
@@ -67,11 +67,11 @@ Most commonly caused by: GI illness, infections, peri operative, physiological s
 - Calcium gluconate for cardioprotection
 - IM/IV hydrocortisone
 - IV fluids
-- Correct hypoglycaemia with IV dextrose
+- Correct [[Hypoglycaemia]] with IV dextrose
 - Monitor electrolytes and fluid balance
 
 ## Complications/red Flags
 
 - Adrenal crisis - life threatening situation, extreme weakness and low BP - requires hydrocortisone injection immediately 
-- Electrolyte imbalance - hyponatraemia, hyperkalaemia 
+- [[Snippets/Electrolyte imbalance|Electrolyte imbalance]] - hyponatraemia, [[Snippets/Hyperkalaemia|Hyperkalaemia]] 
 - Avoid treatment with dexamethasone as it increases risk of [[Cushing's Syndrome]]

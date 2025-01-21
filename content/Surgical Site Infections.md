@@ -33,8 +33,8 @@ Antibiotic prophylaxis should not be used routinely for clean non-prosthetic unc
 
 | Nature of operation            | Antimicrobial program        | Penicillin-allergic patient                   |
 | ------------------------------ | ---------------------------- | --------------------------------------------- |
-| Cardiothoracic                 | Cefuroxime 1.5g q12h         | Vancomycin 1g q12 + ciprofloxacin 400 mg q12h |
-| Colorectal                     | Tazocin 4.5g q8h             | Gentamicin 1.5mg/kg + metronidazole 500mg     |
-| General Surgery                | Cefazolin 1g                 | Vancomycin 1g OR clindamycin 900mg            |
-| Oesophageal or gastric surgery | Tazocin 4.5g q8h             | Gentamicin 1.5mg/kg                           |
-| Vascular surgery               | Cefazolin 1g or Tazocin 4.5g | Vancomycin 1g or Clindamycin 900mg                                              |
+| Cardiothoracic                 | Cefuroxime 1.5g q12h         | Vancomycin 1g q12 + [[Snippets/Ciprofloxacin|Ciprofloxacin]] 400 mg q12h |
+| Colorectal                     | Tazocin 4.5g q8h             | [[Snippets/Gentamicin|Gentamicin]] 1.5mg/kg + [[Snippets/Metronidazole|Metronidazole]] 500mg     |
+| General Surgery                | Cefazolin 1g                 | Vancomycin 1g OR [[Snippets/Clindamycin|Clindamycin]] 900mg            |
+| Oesophageal or gastric surgery | Tazocin 4.5g q8h             | [[Snippets/Gentamicin|Gentamicin]] 1.5mg/kg                           |
+| Vascular surgery               | Cefazolin 1g or Tazocin 4.5g | Vancomycin 1g or [[Snippets/Clindamycin|Clindamycin]] 900mg                                              |

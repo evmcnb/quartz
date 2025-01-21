@@ -11,10 +11,10 @@ tags: ['Cardiovascular', 'Drug']
 | --- | --- |
 | **Mechanism** | Activation of antithrombin causing **i**nactivation of coagulation enzymes thrombin (factor IIA), factor Xa and factor IXA |
 | **Typical Dose** | 40mg |
-| **Indications** | * VTE in pregnancy * DVT prophylaxis * DVT & PE treatment in low risk of recurrence patients * Unstable angina |
+| **Indications** | * VTE in [[Pregnancy]] * DVT prophylaxis * DVT & PE treatment in low risk of recurrence patients * Unstable [[Angina]] |
 | **Contra-indications** | * Haemophilia/haemorrhagic disorders * Thrombocytopenia * Recent cerebral bleed * Severe liver disease * Peptic ulcer disese |
 | **Side-effects** | * Haemorrhage * Thrombocytopenia |
-| **Interactions** | Aspirin - increased bleeding risk |
+| **Interactions** | [[Snippets/Aspirin|Aspirin]] - increased bleeding risk |
 | **Elimination** |  |
 | **Additional Notes** | As effective as unfractionated heparins but decreased risk of heparin-induced thrombocytopenia and act for longer. Immediate effect so suitable for acute venous events. **Can be reversed by IV protamine sulphate.** |
 

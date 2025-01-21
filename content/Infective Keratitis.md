@@ -19,7 +19,7 @@ aliases:
 |               | **Pathogens**                                                       | **Clinical features**                                                                                                                                             | **Management**                                                                  |
 | ------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | **Bacterial** | - Pseudomonas spp.<br>- Staphylococcus spp.<br>- Streptococcus spp. | - Mucopurulent discharge<br>- Yellow-white infiltrate with clearly defined margins<br>- Hypopyon +                                                                | - Topical antibiotics (chloramphenicol), and steroids<br>- +/- oral antibiotics |
-| **Viral**     | - Herpes Simplex Virus<br>- Varicella Zoster Virus                  | - Clear discharge / epiphora<br>- Epithelial defect with linear branching and terminal bulbs (**dendritic ulcer**)<br>- Reduced corneal sensation<br>- Hypopyon – | - Topical antivirals (acyclovir) and cycloplegics                               |
+| **Viral**     | - Herpes Simplex Virus<br>- [[Snippets/Varicella zoster virus|Varicella zoster virus]]                  | - Clear discharge / epiphora<br>- Epithelial defect with linear branching and terminal bulbs (**dendritic ulcer**)<br>- Reduced corneal sensation<br>- Hypopyon – | - Topical antivirals (acyclovir) and cycloplegics                               |
 | **Fungal**    | - Aspergillus spp.<br>- Fusarium spp.<br>- Candida spp.             | - Mucopurulent discharge (less than bacterial)<br>- Grey-white infiltrate with fluffy margins and satellite lesions<br>- Hypopyon +                               | - Topical antifungals<br>- +/ topical antibiotics<br>- +/- systemic antifungals |
 | **Protozoan** | - Acanthamoeba spp.                                                 | - Clear discharge / epiphora<br>- Ring-shaped infiltrate<br>- Reduced corneal sensation<br>- Hypopyon +/-                                                         | - Topical PHMB and chlorhexidine                                                |
 
@@ -34,7 +34,7 @@ aliases:
 - Contact lens wear - most common factor esp in prolonged used and poor hygiene
 - Corneal trauma
 - Ocular surface disease - dry eye, lid malposition, [[Blepharitis]]
-- immunosuppression 
+- [[Snippets/Immunosuppression|Immunosuppression]] 
 
 ##### **Features** - usually causes unilateral symptoms: 
 - Ocular pain
@@ -55,7 +55,7 @@ aliases:
 
 ##### **Management**
 - Stop contact lens use immediately
-- Topical antibiotics - initially broad spectrum (fluoroquinolone or cefuroxime and gentamicin) until culture returns
+- Topical antibiotics - initially broad spectrum (fluoroquinolone or cefuroxime and [[Snippets/Gentamicin|Gentamicin]]) until culture returns
 - Oral antibiotics in severe cases
 
 ##### **Complications**:
@@ -75,7 +75,7 @@ The overall visual outcome is **very variable** and dependent on a number of f
 
 ##### **Risk factors**
 - Direct contact with infected secretions or lesions
-- Reactivation via trauma to trigeminal nerve, stress, immunosuppression, previous reactivation
+- Reactivation via trauma to trigeminal nerve, stress, [[Snippets/Immunosuppression|Immunosuppression]], previous reactivation
 
 Each attack is associated with a greater is of recurrence
 
@@ -93,7 +93,7 @@ Each attack is associated with a greater is of recurrence
 
 ##### **Management**
 - Stop contact lens use
-- Topical antivirals (aciclovir 3% ointment 5 time a day for up to 2 weeks)
+- Topical [[Snippets/Antivirals|Antivirals]] (aciclovir 3% ointment 5 time a day for up to 2 weeks)
 - Epithelial debridement - to reduce viral load and promote healing
 - May need long term oral anti-viral prophylaxis
 

@@ -7,6 +7,6 @@ tags: ['Antibiotic', 'Drug']
 
 
 
-* Broad spectrum antibiotic - combination of amoxicillin and clavulanic acid (beta lactamase inhibitor)
+* Broad spectrum antibiotic - combination of [[Snippets/Amoxicillin|Amoxicillin]] and clavulanic acid (beta lactamase inhibitor)
 * RTIs, UTIs, skin and soft tissue infections
 * Know to cause choleangtitis

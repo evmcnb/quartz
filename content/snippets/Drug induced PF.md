@@ -7,5 +7,5 @@ tags: ['Respiratory', 'Drug']
 
 
 
-* Amiodarone
+* [[Snippets/Amiodarone|Amiodarone]]
 * Methotrexate

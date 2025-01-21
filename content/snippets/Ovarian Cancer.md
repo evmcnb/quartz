@@ -7,7 +7,7 @@ tags: ['Oncology', 'OBGYN']
 
 
 
-Often presents late due to the non-specific symptoms resulting in a worse prognosis. Presents with abdominal bloating, early satiety, pelvic pain, **pelvic mass, weight loss, ascites**- *criteria for 2 week referral.*
+Often presents late due to the non-specific symptoms resulting in a worse prognosis. Presents with abdominal bloating, early satiety, pelvic pain, **pelvic mass, weight loss, [[Snippets/Ascites|Ascites]]**- *criteria for 2 week referral.*
 
 * Surface epithelial tumours - serous, mucinous, endometrioid
 * Germ cell tumours - arise from oocyte, *teratomas* most common
@@ -27,6 +27,6 @@ FIGO staging -
 
 **Protective factors**
 
-* Combined oral contraceptive
+* [[Snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]]
 * Breastfeeding
-* Pregnancy
+* [[Pregnancy]]

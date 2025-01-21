@@ -13,8 +13,8 @@ tags: ['Drug', 'Cardiovascular']
 | **Typical Dose** | 20-40mg PO OD, taken in morning |
 | **Indications** | * Oedema secondary to LVF/HF * Oliguria secondary to renal failure |
 | **Contra-indications** | * Hypovolaemia/dehydration * Severe hypokalaemia/hyponatraemia * Comatose states |
-| **Side-effects** | OH DANG O - ototoxicity H - hypokalemia D - dehydration A - allergy N - nephritis G - gout |
-| **Interactions** | * Antibiotics: ↑ risk of ototoxicity associated with aminoglycosides, colistin and aminoglycosides * Digoxin: furosemide-induced hypokalaemia, increased effects of digoxin * Lithium: ↓ excretion - so higher risk of toxicity |
+| **Side-effects** | OH DANG O - ototoxicity H - hypokalemia D - dehydration A - allergy N - nephritis G - [[gout]] |
+| **Interactions** | * Antibiotics: ↑ risk of ototoxicity associated with aminoglycosides, colistin and aminoglycosides * [[Snippets/Digoxin|Digoxin]]: furosemide-induced hypokalaemia, increased effects of [[Snippets/Digoxin|Digoxin]] * [[Snippets/Lithium|Lithium]]: ↓ excretion - so higher risk of toxicity |
 | **Elimination** |  |
 | **Additional Notes** | Loop diuretics more effective that thiazide |
 

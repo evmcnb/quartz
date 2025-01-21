@@ -29,9 +29,9 @@ Severe
 
 **Stones** - renal stones due to hypercalciuria
 
-**Bones** - bone pain and osteoporosis due to inappropriately high PTH
+**Bones** - [[Snippets/Bone|Bone]] pain and [[osteoporosis]] due to inappropriately high PTH
 
-**Moans** - lethargy, fatigue, depression
+**Moans** - lethargy, fatigue, [[Depression]]
 
 **Groans** - abdominal pain, constipation, nausea, vomiting
 

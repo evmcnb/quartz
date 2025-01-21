@@ -40,13 +40,13 @@ date: 2023-11-12
 ## Management
 
 1. **Addressing Underlying Conditions** 
-2. **Blood Pressure Control:** Medications to manage hypertension and protect the kidneys.
+2. **Blood Pressure Control:** Medications to manage [[Essential hypertension]] and protect the kidneys.
 3. **Diuretics:** To manage edema.
 4. **Dietary Changes:** Reducing salt and fluid intake.
 5. **Immunosuppressive Medications:** In cases of autoimmune-related nephritic syndrome.
 
 ## Complications/red Flags
 
-- **Progression to Chronic Kidney Disease:** Severe and prolonged inflammation can lead to kidney damage.
+- **Progression to [[Chronic Kidney Disease]]:** Severe and prolonged inflammation can lead to kidney damage.
 - **Secondary Infections:** Weakened immune system can lead to other infections.
-- **Hypertensive Crisis:** Severe hypertension requiring immediate medical attention.
+- **Hypertensive Crisis:** Severe [[Essential hypertension]] requiring immediate medical attention.

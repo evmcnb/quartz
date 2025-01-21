@@ -22,13 +22,13 @@ Disrupted passage of electrical impulse through the AVN
 
 ## Causes/Factors
 
-- 1st and 2nd Mobitz I may be normal and asymptomatic in athletes or due to $\beta$ blockers or digoxin.
+- 1st and 2nd Mobitz I may be normal and asymptomatic in athletes or due to $\beta$ blockers or [[Snippets/Digoxin|Digoxin]].
 - May also be [[sick sinus syndrome]]
   3rd degree:
 - [[Coronary Artery Disease]]
 - [[Aortic Valve Calcification]]
 - [[Idiopathic Fibrosis]]
-- Digoxin toxicity
+- [[Snippets/Digoxin|Digoxin]] toxicity
 
 ## Symptoms
 

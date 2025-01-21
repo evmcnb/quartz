@@ -10,9 +10,9 @@ tags: ['Antibiotic', 'Drug']
 
 **Beta lactams**
 
-* Penicillins - relatively narrow spectrum
-* Cephalosporins
-* Carbapenems
+* [[Penicillins]] - relatively narrow spectrum
+* [[Cephalosporins]]
+* [[Carbapenems]]
 * Monobactams
 
 **Glycopeptides** - gram +ve only
@@ -26,9 +26,9 @@ tags: ['Antibiotic', 'Drug']
 
 ### Bacterial protein synthesis inhibitors
 
-* Tetracycline, doxycycline
-* Macrolides - erythromycin
-* Aminoglycosides - gentamicin
+* Tetracycline, [[Snippets/Doxycycline|Doxycycline]]
+* Macrolides - [[Snippets/Erythromycin|Erythromycin]]
+* Aminoglycosides - [[Snippets/Gentamicin|Gentamicin]]
 * Oxazolidinones
 * Mupirocin
 
@@ -36,7 +36,7 @@ tags: ['Antibiotic', 'Drug']
 
 * Fluoroquinolones
 * Sulfonamides
-* Trimethoprim - folate antagonist
+* [[Snippets/Trimethoprim|Trimethoprim]] - folate antagonist
 
 ### RNA synthesis
 

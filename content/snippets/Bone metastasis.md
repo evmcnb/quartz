@@ -7,7 +7,7 @@ tags: ['Oncology']
 
 
 
-Cancers that metastasise to bone
+Cancers that metastasise to [[Snippets/Bone|Bone]]
 
 * Thyroid
 * Lung

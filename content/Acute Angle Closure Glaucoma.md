@@ -25,7 +25,7 @@ Trabecular meshwork physically blocked
 - **Anatomical variance** - people with narrow drainage angles in their eye are more predisposed 
 - **Age and gender** - more common in old age and females
 - **Hyperopia** (farsightedness) - shallower anterior chamber making them more susceptible
-- **Cataracts** - increased risk 
+- **[[Cataracts]]** - increased risk 
 - **Medications**:
 	- **_Adrenergic medications_** (e.g., **_noradrenaline_**)
 	- **_Anticholinergic medications_** (e.g., **_oxybutynin_** and **_solifenacin_**)

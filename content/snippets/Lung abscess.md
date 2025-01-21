@@ -7,5 +7,5 @@ tags: ['Respiratory']
 
 
 
-Subacute productive cough, foul-smelling sputum, night sweats → ?lung abscess
+Subacute productive cough, foul-smelling sputum, night sweats → ?[[Lung Abscess]]
 

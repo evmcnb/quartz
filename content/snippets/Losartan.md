@@ -11,9 +11,9 @@ tags: ['Cardiovascular', 'Drug']
 | --- | --- |
 | **Mechanism** | Displace angiotensin II from the angiotensin I receptor |
 | **Typical Dose** | 12.5-100mg |
-| **Indications** | * HTN * Diabetic nephropathy |
-| **Contra-indications** | * **Pregnancy/breast feeding** * Caution in hepatic/renal impairment |
-| **Side-effects** | * Hypotension * Abdo pain * Hyperkalaemia |
+| **Indications** | * HTN * [[Snippets/Diabetic Nephropathy|Diabetic Nephropathy]] |
+| **Contra-indications** | * **[[Pregnancy]]/breast feeding** * Caution in hepatic/renal impairment |
+| **Side-effects** | * Hypotension * Abdo pain * [[Snippets/Hyperkalaemia|Hyperkalaemia]] |
 | **Interactions** |  |
 | **Elimination** |  |
 | **Additional Notes** |  |

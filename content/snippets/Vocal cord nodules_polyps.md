@@ -7,7 +7,7 @@ tags: ['ENT']
 
 
 
-Singers disease as caused by excessive + improper use of voice. Can also be caused by infection, hypothyroidism + smoking
+Singers disease as caused by excessive + improper use of voice. Can also be caused by infection, [[Hypothyroidism]] + smoking
 
 * Nodule nearly always bilateral
 * Polyp 90% unilateral

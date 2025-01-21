@@ -12,9 +12,9 @@ tags: ['Antibiotic', 'Drug']
 | **Mechanism** | * Broken down to toxic compounds within microbes with anaerobic/microaerophillic metabolism * Toxic compounds kill microbes by interfering with nucleic acid function and synthesis |
 | **Typical Dose** | 400mg TDS |
 | **Indications** | * Anaerobic protozoal infections * Dental infections * Helicobacter pylori eradication * Rosacea * Pseudomembranous colitis * Foot infection * etc etc |
-| **Contra-indications** | Caution: pregnancy, breastfeeding, hepatic impairment  Avoid exposure to strong sunlight/UV |
+| **Contra-indications** | Caution: [[Pregnancy]], breastfeeding, hepatic impairment  Avoid exposure to strong sunlight/UV |
 | **Side-effects** | Dry mouth, myalgia, nausea, oral disorders, metallic taste |
-| **Interactions** | **Alcohol:** causes disulfiram-like reaction (flushing abdo pain hypotension). **Must be avoided**  Warfarin & Phenytoin: increased plasma conc |
+| **Interactions** | **Alcohol:** causes disulfiram-like reaction (flushing abdo pain hypotension). **Must be avoided**  [[Snippets/Warfarin|Warfarin]] & [[Snippets/Phenytoin|Phenytoin]]: increased plasma conc |
 | **Elimination** |  |
 | **Additional Notes** | Therapeutic monitoring for course >10 days. Commonly used to treat dental infections |
 

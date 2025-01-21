@@ -9,7 +9,7 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 ## Ductal adenocarcinoma
 
 * Most common pancreatic cancer - usually in head of pancreas
-* ↑ risk with chronic pancreatitis, DM, alcohol
+* ↑ risk with chronic [[pancreatitis]], DM, alcohol
 * Hereditary with Lynch syndrome, FAMMM (p16), Her-2, BRCA1/2, Von Hippel-Lindau, SPINK1, Peutz-Jeghers
 
 ## Carcinoma
@@ -20,7 +20,7 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 
 ## Red flags
 
-* Painless obstructive jaundice - tumour compresses on bile duct
+* Painless obstructive [[Snippets/Jaundice|Jaundice]] - tumour compresses on bile duct
 * Steatorrhea
 * New onset diabetes or worsening of gllycaemic control
 

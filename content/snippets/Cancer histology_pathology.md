@@ -7,6 +7,6 @@ tags: ['Oncology']
 
 
 
-* Reed-Steinberg cells - Hodgkin's lymphoma
-* Rouleaux formation - multiple myeloma
+* Reed-Steinberg cells - Hodgkin's [[Snippets/Lymphoma|Lymphoma]]
+* Rouleaux formation - [[Snippets/Multiple myeloma|Multiple myeloma]]
 * Auer rods - AML

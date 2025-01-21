@@ -169,7 +169,7 @@ If a lump is intradermal you cannot draw the skin over it, while if the lump is 
 
 - Irregular hypertrophy of vascularised collagen forming rainsed edges at sites of previous scars that extend outside the scar
 - Common in dark skin 
-- Treatment can be difficult - intralesional steroid injections 
+- Treatment can be difficult - intralesional steroid [[Injections]] 
 
 ![[z_attachments/Pasted image 20231110131642.png|375]]
 

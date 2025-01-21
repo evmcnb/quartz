@@ -7,6 +7,6 @@ tags: ['ENT', 'Oncology']
 
 
 
-* 25 % of head and neck cancers
+* 25 % of [[Snippets/Head and Neck|Head and Neck]] cancers
 * Smoking alcohol, M>F
 * Hoarseness, dyspnea

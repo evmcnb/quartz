@@ -7,6 +7,6 @@ tags: ['ENT']
 
 
 
-* Ampicillin and amoxicillin should be avoided in patients with pharyngitis when glandular fever is considered a possibility as it may cause a maculopapular rash due to the glandular fever, which may be mistaken for an allergic reaction
+* Ampicillin and [[Snippets/Amoxicillin|Amoxicillin]] should be avoided in patients with pharyngitis when glandular fever is considered a possibility as it may cause a maculopapular rash due to the glandular fever, which may be mistaken for an allergic reaction
 * Antibiotic treatment is not routinely indicated for pharyngitis and glandular fever.
-* Phenoxymethylpenicillin (penicillin V) may substitute amoxicillin/ampicillin in cases when antibiotic therapy is desired.
+* Phenoxymethylpenicillin (penicillin V) may substitute [[Snippets/Amoxicillin|Amoxicillin]]/ampicillin in cases when antibiotic therapy is desired.

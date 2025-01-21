@@ -51,22 +51,22 @@ May also have signs and symptoms of [[Deep Vein Thrombosis#Symptoms|DVT]]
 
 ## Management
 
-- Oxygen & analgesia PRN
+- [[Snippets/Oxygen|Oxygen]] & analgesia PRN
 
 Anticoagulation for haemodynamically stable PEs:
 - DOAC - apixaban or rivaroxaban first line
-- LMWH main alternative (e.g. in kidney failure patients)
+- LMWH main alternative (e.g. in [[Snippets/Kidney Failure|Kidney Failure]] patients)
 
 ==Massive PE with haemodynamic compromise== one of
 - Continuous infusion of unfractionated heparin
-- Consider thrombolysis (streptokinase, alteplase, tenecteplase) first line
+- Consider thrombolysis ([[Snippets/Streptokinase|Streptokinase]], alteplase, tenecteplase) first line
 
 - May consider continuous infusion of unfractionated heparin
 
 ## Long-Term Anticoagulation
 The options for long-term anticoagulation in VTE are a **_DOAC_**, **_warfarin_** or **_LMWH_**.
 - DOACs (-xbans & dabigatran) are first line and are suitable for most patients - exceptions in extreme renal impairment. 
-- Warfarin - target INR 2-3 for treating DVTs and PEs. First line in patients with [[Antiphospholipid syndrome]]
+- [[Snippets/Warfarin|Warfarin]] - target INR 2-3 for treating DVTs and PEs. First line in patients with [[Antiphospholipid syndrome]]
 - Low molecular weight heparin (LMWH) is first line in [[Pregnancy]]
 
 Continue anticoagulation for: 

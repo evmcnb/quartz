@@ -7,6 +7,6 @@ tags: ['Cardiovascular', 'Drug']
 
 
 
-* Aspirin + ticagrelor for **low**bleeding risk
+* [[Snippets/Aspirin|Aspirin]] + ticagrelor for **low**bleeding risk
 * Aspirn + clopdogrel for **high**bleeding risk
 * Prasugrel used when patients are undergoing PCI

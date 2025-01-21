@@ -8,7 +8,7 @@ aliases:
   - Diabetic retinopathy
 date: 2024-01-14
 ---
-Most common forms are diabetic retinopathy, diabetic macular oedema and cataracts
+Most common forms are diabetic retinopathy, diabetic macular oedema and [[Cataracts]]
 
 ### Diabetic retinopathy
 
@@ -46,7 +46,7 @@ Presentation
 
 - **[[Diabetes Mellitus]]:** Prolonged elevated blood sugar levels contribute to the development and progression of diabetic eye disease.
 - **Duration of Diabetes:** The longer an individual has diabetes, the higher the risk of developing eye complications.
-- **Hypertension:** High blood pressure can exacerbate the effects of diabetes on the eyes.
+- **[[Essential hypertension]]:** High blood pressure can exacerbate the effects of diabetes on the eyes.
 
 ## Symptoms
 
@@ -58,7 +58,7 @@ Presentation
 
 - **Retinal Changes:** Fundoscopic examination may reveal abnormalities in the retina, such as microaneurysms or haemorrhages.
 - **Macular Oedema:** Swelling of the macula, the central part of the retina, can be a sign of diabetic macular oedema.
-- **Cataracts:** Clouding of the eye's lens.
+- **[[Cataracts]]:** Clouding of the eye's lens.
 - **Increased Intraocular Pressure:** A risk factor for glaucoma.
 
 ## Diagnostic Tests
@@ -71,11 +71,11 @@ Presentation
 
 - **Blood Sugar Control:** Tight control of blood glucose levels is crucial to prevent and manage diabetic eye disease.
 - **Blood Pressure Management:** Maintaining optimal blood pressure helps protect the eyes.
-- **Anti-VEGF Injections:** Injections may be used to treat diabetic macular edema.
+- **Anti-VEGF [[Injections]]:** [[Injections]] may be used to treat diabetic macular edema.
 - **Surgery:** Advanced cases may require surgery, such as vitrectomy for retinal issues.
 
 ## Complications/Red Flags
 
 - **Vision Loss:** Progressive vision loss can occur if diabetic eye disease is not adequately managed.
-- **Retinal Detachment:** In severe cases, the retina may detach.
+- **[[Retinal detachment]]:** In severe cases, the retina may detach.
 - **Glaucoma:** Increased risk of developing glaucoma, leading to optic nerve damage.

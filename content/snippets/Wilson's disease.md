@@ -9,7 +9,7 @@ tags: ['Gastroenterology']
 
 Inborn error of copper metabolism that usually presents at a younger age. Copper accumulates in:
 
-* Liver \(\rightarrow\) cirrhosis
+* Liver \(\rightarrow\) [[Snippets/Cirrhosis|Cirrhosis]]
 * Eyes \(\rightarrow\) Kayser-Fleischer rings
 * Brain \(\rightarrow\) ataxia etc
 

@@ -11,10 +11,10 @@ tags: ['Drug', 'Gastroenterology']
 | --- | --- |
 | **Mechanism** | Inhibits gastric acid secretion by dose-dependent inhibition of proton pump of gastric parietal cells (blocks H+/K+ pump ATPase enzyme in parietal cells) |
 | **Typical Dose** | 20-40mg OD |
-| **Indications** | * GORD * dyspepsia * Oesophagitis * GI ulcers * H. pylori eradication * Zollinger-Ellison syndrome (gastrin-secreting tumour or hyperplasia of the islet cells in the pancreas) |
-| **Contra-indications** | Caution in:   * Liver disease * Breast feeding/pregnancy |
-| **Side-effects** | * GI disturbances * Headache * Long term use associated with hypomagnesemia |
-| **Interactions** | Inhibits cytochrome P450 ↑ plasma concentration of phenytoin, warfarin |
+| **Indications** | * GORD * dyspepsia * [[Snippets/Oesophagitis|Oesophagitis]] * GI ulcers * [[Snippets/H. pylori eradication|H. pylori eradication]] * Zollinger-Ellison syndrome (gastrin-secreting tumour or hyperplasia of the islet cells in the pancreas) |
+| **Contra-indications** | Caution in:   * Liver disease * Breast feeding/[[Pregnancy]] |
+| **Side-effects** | * GI disturbances * Headache * Long term use associated with [[Snippets/Hypomagnesemia|Hypomagnesemia]] |
+| **Interactions** | Inhibits cytochrome P450 ↑ plasma concentration of [[Snippets/Phenytoin|Phenytoin]], [[Snippets/Warfarin|Warfarin]] |
 | **Elimination** | 80% renal, 20% faecal |
-| **Additional Notes** | May mask symptoms of gastric cancer |
+| **Additional Notes** | May mask symptoms of [[Snippets/Gastric Cancer|Gastric Cancer]] |
 

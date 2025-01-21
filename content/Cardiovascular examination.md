@@ -23,11 +23,11 @@ date: 2024-02-07
 - **<span style="font-weight:bold; color:#ff0000">Shortness of breath</span>** (congestive [[Heart Failure]], [[Pericarditis]] [[pneumonia]], [[pulmonary embolism]])
 - <span style="color:#ff0000">Pallor</span> - not very sensitive - paleness -> <span style="color:#00b0f0">anaemia</span> (haemorrhage, chronic disease) or <span style="color:#00b0f0">poor perfusion</span> (congestive [[Heart Failure]])
 - **<span style="font-weight:bold; color:#ff0000">Malar flush</span>** - plum red discolouration of the cheeks associated with [[Mitral stenosis]]
-- <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen (ascites). Usually in context of CVS exam congestive [[Heart Failure]]
+- <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen ([[Snippets/Ascites|Ascites]]). Usually in context of CVS exam congestive [[Heart Failure]]
 
 #### Objects and Equipment
 
-- Oxygen
+- [[Snippets/Oxygen|Oxygen]]
 - Bedside equipment - ECG, ECHO machine
 - GTN spray/medication
 
@@ -195,13 +195,13 @@ You should assess for a thrill across **each of the heart valves** in turn
 
 ##### Accentuation Manoeuvres
 
-- **Aortic stenosis** - auscultate the **carotid** **arteries** using the <span style="color:#ff0000">diaphragm</span> of the stethoscope whilst the patient holds their breath to listen for radiation of an **ejection systolic murmur**
+- **[[Aortic Stenosis]]** - auscultate the **carotid** **arteries** using the <span style="color:#ff0000">diaphragm</span> of the stethoscope whilst the patient holds their breath to listen for radiation of an **ejection systolic murmur**
 
-  ![[z_attachments/Aortic Stenosis normal speed.mp3|Aortic Stenosis normal speed]]
+  ![[z_attachments/[[Aortic Stenosis]] normal speed.mp3|[[Aortic Stenosis]] normal speed]]
 
-- **Aortic regurgitation** - sit the patient forwards and auscultate over the **aortic** **area** with the <span style="color:#ff0000">diaphragm</span> of the stethoscope during **expiration** to listen for an **early diastolic murmur**
+- **[[Aortic regurgitation]]** - sit the patient forwards and auscultate over the **aortic** **area** with the <span style="color:#ff0000">diaphragm</span> of the stethoscope during **expiration** to listen for an **early diastolic murmur**
 
-  ![[z_attachments/Aortic Regurgitation normal speed.mp3|Aortic Regurgitation normal speed]]
+  ![[z_attachments/[[Aortic regurgitation]] normal speed.mp3|[[Aortic regurgitation]] normal speed]]
 
 - **Mitral regurgitation** - roll the patient onto their **left side** and listen over the mitral area with the <span style="color:#ff0000">diaphragm</span> of the stethoscope **during expiration** for a pansystolic murmur. <span style="color:#ff0000">Continue to auscultate into the axilla to identify radiation of this murmur.</span>
 
@@ -262,7 +262,7 @@ Inspect and palpate the sacrum for evidence of pitting oedema.
 
 - Measure BP - lying and standing
 - Peripheral vascular examination
-- 12 lead ECG - look for evidence of arrhythmias
-- Dipstick urine - proteinuria or haematuria associated with hypertension
+- 12 lead ECG - look for evidence of [[Arrhythmias]]
+- Dipstick urine - proteinuria or haematuria associated with [[Essential hypertension]]
 - Capillary blood glucose - checking for DM
-- Fundoscopy - concerns about malignant hypertension
+- Fundoscopy - concerns about malignant [[Essential hypertension]]

@@ -16,7 +16,7 @@ tags: ['InfectiousDisease']
 * Aged 65 or older
 * Young children
 * Pregnant women
-* Chronic health conditions - asthma, COPD, CCF, diabetes
+* Chronic health conditions - [[asthma]], [[COPD]], CCF, diabetes
 * Healthcare workers and carers
 
 **Presentation** - lots of overlap between common cold and flu but flu tends to have a more abrupt onset. Fever is rare with a common cold. Flu if people feel completely wiped out
@@ -28,9 +28,9 @@ tags: ['InfectiousDisease']
 
 **Complications**
 
-* Otitis media, sinusitis and bronchitis
-* Viral pneumonia
-* Secondary bacteria pneumonia
-* Worsening chronic health conditions, such as COPD and heart failure
+* [[Otitis media]], [[Rhinosinusitis]] and [[bronchitis]]
+* Viral [[pneumonia]]
+* Secondary bacteria [[pneumonia]]
+* Worsening chronic health conditions, such as [[COPD]] and [[Heart Failure]]
 * Febrile convulsions (young children)
-* Encephalitis
+* [[Snippets/Encephalitis|Encephalitis]]

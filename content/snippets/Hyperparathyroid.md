@@ -11,7 +11,7 @@ tags: ['Endocrinology']
 
 Symptoms from hypercalcaeimia: moans, groans, stones, and bones
 
-Polydipsia, polyuria and hypertension are common too. Other important associations are renal stones and pancreatitis.
+Polydipsia, polyuria and [[Essential hypertension]] are common too. Other important associations are renal stones and [[pancreatitis]].
 
 ![How to Diagnose Hyperparathyroidism: For Patients and Doctors.](https://www.parathyroid.com/images/Calcium-normogram.gif)  
 
@@ -20,7 +20,7 @@ Polydipsia, polyuria and hypertension are common too. Other important associatio
 
 ***Increased PTH, increased calcium***
 
-* Uncontrolled parathyroid hormone production by a **tumour** of the parathyroid gland - leading to hypercalcaemia
+* Uncontrolled parathyroid hormone production by a **tumour** of the parathyroid gland - leading to [[Snippets/Hypercalcaemia|Hypercalcaemia]]
 * Treatment is to remove the tumour surgically
 
 ## Secondary
@@ -30,7 +30,7 @@ Polydipsia, polyuria and hypertension are common too. Other important associatio
 * Insufficient vitamin D or kidney disease reduces calcium absorption from the intestines, kidneys and bones
 * Results in a low blood calcium
 * The parathyroid glands are correctly reacting to the low calcium
-* Treatment is to correct the underlying vitamin D deficiency or chronic kidney disease
+* Treatment is to correct the underlying vitamin D deficiency or [[Chronic Kidney Disease]]
 
 ## Tertiary
 

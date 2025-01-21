@@ -7,7 +7,7 @@ tags: ['Drug']
 
 
 
-* Can exacerbate psoriasis
+* Can exacerbate [[Snippets/Psoriasis|Psoriasis]]
 * Loads of other interactions
 * Non-steroidal anti-inflammatory drugs (NSAIDs) decrease renal excretion of lithium, thus increasing plasma levels, leading to toxicity.
 * Angiotensin-converting-enzyme inhibitors (ACE-I) and diuretics also increase the risk of lithium toxicity due to renal dysfunction. Therefore, their use is contraindicated with lithium.

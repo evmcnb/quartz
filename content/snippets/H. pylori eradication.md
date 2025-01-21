@@ -17,6 +17,6 @@ Diagnosis:
 
 Triple therapy treatment for 7 days (2 antibiotics, 1 PPI):
 
-* PPI (omeprazole)
-* Amoxicillin
+* PPI ([[Snippets/Omeprazole|Omeprazole]])
+* [[Snippets/Amoxicillin|Amoxicillin]]
 * Clarithromycin

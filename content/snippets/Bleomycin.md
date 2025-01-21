@@ -8,5 +8,5 @@ tags: ['Respiratory', 'Oncology']
 
 
 * Chemotherapy agent for HL and testicular cancer
-* After treatment be very careful about giving supplemental high flow oxygen - do not give nebs
+* After treatment be very careful about giving supplemental high flow [[Snippets/Oxygen|Oxygen]] - do not give nebs
 * Can cause rapid irreversible lung fibrosis

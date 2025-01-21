@@ -7,7 +7,7 @@ tags: ['Geriatrics', 'Orthopaedics']
 
 
 
-Decreased bone mass + deranged bone microarchitecture = failure of structural integrity
+Decreased [[Snippets/Bone|Bone]] mass + deranged [[Snippets/Bone|Bone]] microarchitecture = failure of structural integrity
 
 * Aging, glucocorticoids - DEXA + XR for diagnosis
 

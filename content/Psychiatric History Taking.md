@@ -58,7 +58,7 @@ When exploring symptoms, you can use the acronym **NOTEPAD**:
 
 ### [[Depression]]
 
-When taking a history from a patient presenting with a low mood, look at the core symptoms of depression: **low mood, lack of pleasure and low energy levels**
+When taking a history from a patient presenting with a low mood, look at the core symptoms of [[Depression]]: **low mood, lack of pleasure and low energy levels**
 
 - "How has your mood been recently?"
 - "Have you felt little interest or pleasure in doing things"
@@ -156,7 +156,7 @@ These two symptoms are characteristic of [[Obsessive-compulsive disorder]] but c
 
 ### Alcohol or substance abuse
 
-The use of alcohol or recreational drugs is common and may be a trigger for a condition, an attempt to manage the symptoms of a condition or a substance misuse disorder
+The use of alcohol or recreational drugs is common and may be a trigger for a condition, an attempt to manage the symptoms of a condition or a [[Snippets/Substance Misuse Disorder|Substance Misuse Disorder]]
 
 There are several screening questions for alcohol use, for example, “**CAGE**“:
 
@@ -205,7 +205,7 @@ Ask if the patient has any **medical** **conditions**: 
 - _“Are you currently seeing a doctor or specialist regularly?”_
 - _“Have you ever had any operations?”_
 
-Some medical conditions are also **risk factors** for mental health disorders, such as chronic illness (e.g. chronic pain, cancer or [[Tinnitus]]), for depression.
+Some medical conditions are also **risk factors** for mental health disorders, such as chronic illness (e.g. chronic pain, cancer or [[Tinnitus]]), for [[Depression]].
 
 Additionally, some medical conditions will **affect treatment options**. For example, cardiovascular, renal, or hepatic disorders are often contraindications for psychiatric medication.
 
@@ -232,7 +232,7 @@ How the patient was before the morbidity. Asking the patient directly or from a 
 
 ## Insight
 
-**Insight** refers to the ability of a patient to **understand** that they have a mental health problem and that what they’re experiencing is abnormal. Patients with severe depression may demonstrate a loss of insight into their illness.
+**Insight** refers to the ability of a patient to **understand** that they have a mental health problem and that what they’re experiencing is abnormal. Patients with severe [[Depression]] may demonstrate a loss of insight into their illness.
 
 Some examples of questions which can be used to **assess insight** include:
 

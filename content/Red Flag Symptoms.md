@@ -8,7 +8,7 @@ date modified: 2024-03-11
 ## Cancer
 
 - Pressure effects - nerve compression etc spinal nerve - loss of sensation
-- Pain - brain tumour headaches, worse in the morning 
+- Pain - brain tumour [[Snippets/Headaches|Headaches]], worse in the morning 
 - Lump - breast cancer
 - Bleeding - into bowel (upper - black, lower - red) into the airways - blood in sputum, into semen from prostate or nipple in some breast cancers
 - Loss of function of affected system
@@ -18,15 +18,15 @@ date modified: 2024-03-11
 
 - Weight loss
 -  Night sweats
-- Unexplained anaemia
+- Unexplained [[Snippets/Anaemia|Anaemia]]
 - Increased breathlessness
-- Hypercalcaemia
+- [[Snippets/Hypercalcaemia|Hypercalcaemia]]
 ## Neuro
 
 - Nausea, vomiting + photophobia $\rightarrow$ increased intracranial pressure
-- Neck stiffness looking down - meningitis
+- Neck stiffness looking down - [[Snippets/Meningitis|Meningitis]]
 - Thunderclap headache $\pm$ focal neuro symptoms
-- Confusion/delirium 
+- Confusion/[[Delirium]] 
 
 
 
@@ -37,7 +37,7 @@ date modified: 2024-03-11
 
 ## Resp
 
-- Haemoptysis - bronchitis, PE, tuberculosis, lung cancer, bronchiectasis 
+- Haemoptysis - [[bronchitis]], PE, [[Tuberculosis]], lung cancer, [[bronchiectasis]] 
 - Severe or increasing breathlessness.
 
 

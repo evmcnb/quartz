@@ -17,7 +17,7 @@ Presentation:
 
 * Deep laboured breathing
 * Fruity smell of breath
-* Metabolic acidosis with increased anion gap
+* Metabolic acidosis with increased [[Snippets/Anion gap|Anion gap]]
 
-Fluid bolus (± potassium) + fixed rate insulin infusion, 0.1 units/kg/hr
+Fluid bolus (± potassium) + fixed rate [[Snippets/Insulin|Insulin]] infusion, 0.1 units/kg/hr
 

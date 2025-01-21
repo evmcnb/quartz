@@ -43,7 +43,7 @@ Obesity is a chronic condition characterized by the accumulation of excess body 
 
 #### **Type 2 [[Diabetes Mellitus]]:**
 
-- Major risk factor for insulin resistance and diabetes.
+- Major risk factor for [[Snippets/Insulin|Insulin]] resistance and diabetes.
 - Elevated blood sugar levels.
 
 #### **Joint Problems:**
@@ -53,7 +53,7 @@ Obesity is a chronic condition characterized by the accumulation of excess body 
 
 #### **Respiratory Issues:**
 
-- Increased risk of sleep apnea and asthma.
+- Increased risk of sleep apnea and [[asthma]].
 - Fat accumulation around the neck and throat narrows airways.
 
 #### **Liver Disease:**
@@ -64,12 +64,12 @@ Obesity is a chronic condition characterized by the accumulation of excess body 
 #### **Psychosocial Impact:**
 
 - Discrimination and social stigmatization.
-- Lower self-esteem, depression, and anxiety.
+- Lower self-esteem, [[Depression]], and anxiety.
 
 #### **Reproductive Issues:**
 
 - Irregular menstrual cycles, fertility issues in women.
-- Increased risk of complications during pregnancy.
+- Increased risk of complications during [[Pregnancy]].
 
 #### **Certain Cancers:**
 

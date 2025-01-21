@@ -14,7 +14,7 @@ Beware deteriorating consciousness after any head injury that initially produced
 ## Causes/Factors
 
 Any tear in dural venous sinus will result in extradural bleed
-- Suspect after any traumatic skull fracture - often fractured temporal or parietal bone causing lacerating to middle meningeal artery (pterion)
+- Suspect after any traumatic skull fracture - often fractured temporal or parietal [[Snippets/Bone|Bone]] causing lacerating to middle meningeal artery (pterion)
 
 ## Symptoms
 

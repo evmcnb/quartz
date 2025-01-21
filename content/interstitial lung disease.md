@@ -49,7 +49,7 @@ Interstitial Lung Disease (ILD) refers to a group of lung disorders characterize
 
 | Upper zones                      | Mid Zone                    | Lower zone                    |
 | -------------------------------- | --------------------------- | ----------------------------- |
-| TB, hypersensitivity pneumonitis | Sarcoidosis, histoplasmosis | Idiopathic pulmonary fibrosis |
+| TB, [[Snippets/Hypersensitivity Pneumonitis|Hypersensitivity Pneumonitis]] | [[Snippets/Sarcoidosis|Sarcoidosis]], histoplasmosis | [[Snippets/Idiopathic Pulmonary Fibrosis|Idiopathic Pulmonary Fibrosis]] |
 | Ankylosing spondylitis           |                             | Asbestosis                    |
 | Radiotherapy                     |                             |                               |
 | Progressive massive fibrosis                                 |                             |                               |
@@ -65,6 +65,6 @@ Interstitial Lung Disease (ILD) refers to a group of lung disorders characterize
 Treatment of ILD depends on the specific type and severity:
 
 1. **Medications:** Corticosteroids and immunosuppressive drugs to reduce inflammation.
-2. **Oxygen Therapy:** To improve oxygen levels in the blood.
+2. **[[Snippets/Oxygen|Oxygen]] Therapy:** To improve [[Snippets/Oxygen|Oxygen]] levels in the blood.
 3. **Pulmonary Rehabilitation:** Exercise and education programs to improve lung function.
 4. **Lung Transplant:** For severe cases when other treatments are ineffective.

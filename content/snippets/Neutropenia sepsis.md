@@ -7,5 +7,5 @@ tags: ['Haematology', 'InfectiousDisease']
 
 
 
-Gram-positive bacteria such as *Staphylococcus epidermidis* are the most common cause of neutropenic sepsis
+Gram-positive bacteria such as *Staphylococcus epidermidis* are the most common cause of neutropenic [[Sepsis]]
 

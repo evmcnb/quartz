@@ -24,7 +24,7 @@ As time progresses this infection ascends towards the liver
 
 - Fever
 - RUQ pain
-- Jaundice
+- [[Snippets/Jaundice|Jaundice]]
 - N&V
 
 ## Signs
@@ -32,15 +32,15 @@ As time progresses this infection ascends towards the liver
 > [!abstract] Charcot's triad
 >- Fever 
 >- RUQ pain
->- Jaundice
+>- [[Snippets/Jaundice|Jaundice]]
 
 **Reynold's pentad** - Charcot's triad + altered mental status + hypotension
 
 ## Investigations
 
 - FBC, CRP - elevated WCC and CRP
-- Sepsis screen - **thrombocytopenia**, **coagulopathies** and a **raised lactate**.
-- LFTs - obstructive jaundice (raised ALP and bilirubin)
+- [[Sepsis]] screen - **thrombocytopenia**, **coagulopathies** and a **raised lactate**.
+- LFTs - obstructive [[Snippets/Jaundice|Jaundice]] (raised ALP and bilirubin)
 - USS to looked for a dilated bile duct - if -ve CTA contrast should be requested
 
 ## Management
@@ -49,7 +49,7 @@ As time progresses this infection ascends towards the liver
 
 ERCP (Endoscopic retrograde cholangiopancreatography) - diagnostic and used to decompress the biliary tree urgently 
 
-Surgery may be necessary for patients with severe or complicated acute cholangitis, such as those with perforation, gangrenous cholecystitis, or biliary sepsis.
+Surgery may be necessary for patients with severe or complicated acute cholangitis, such as those with perforation, gangrenous [[Cholecystitis]], or biliary [[Sepsis]].
 
 Analgesia
 
@@ -58,5 +58,5 @@ Lifestyle advice to reduce gallstone recurrence
 ## Complications/red Flags
 
 - **[[pancreatitis]]**: Concomitant inflammation of the pancreas due to biliary obstruction or pancreatic duct involvement.
-- **Biliary Perforation**: Rupture of the bile ducts leading to bile peritonitis, abscess formation, or intra-abdominal sepsis.
+- **Biliary Perforation**: Rupture of the bile ducts leading to bile peritonitis, abscess formation, or intra-abdominal [[Sepsis]].
 - **Hepatic Abscess**: Secondary infection and abscess formation within the liver parenchyma due to bacterial seeding from the biliary system.

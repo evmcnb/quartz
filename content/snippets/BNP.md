@@ -8,5 +8,5 @@ tags: ['Cardiovascular']
 
 
 * Released from cardiomyocytes in ventricule
-* Can also be raised in sepsis
+* Can also be raised in [[Sepsis]]
 

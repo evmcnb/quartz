@@ -10,7 +10,7 @@ tags: ['Haematology']
 * Normal blood count
 * Hb Electrophoresis: Hb-S 45%, Hb-A 55%
 * Clinical picture - only issues in times of stress for body eg hypoxia/dehydration
-* Sickled red cells have short lifespan - haemolytic anaemia
+* Sickled red cells have short lifespan - haemolytic [[Snippets/Anaemia|Anaemia]]
 
 Usually structural with a single base substitution
 

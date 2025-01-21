@@ -9,4 +9,4 @@ tags: ['Oncology', 'Endocrinology']
 
 * F >> M
 * most common tumour of islet of Langerhans
-* Need paired insulin and BM levels - \(\uparrow\) peptide C also indicates
+* Need paired [[Snippets/Insulin|Insulin]] and BM levels - \(\uparrow\) peptide C also indicates

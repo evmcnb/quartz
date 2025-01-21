@@ -12,8 +12,8 @@ tags: ['Antibiotic', 'Drug']
 | **Mechanism** | Decreases bacterial folate production so bacteria cannot synthesise DNA |
 | **Typical Dose** | 200mg BD |
 | **Indications** | * UTIs (eg E coli) * Prostatitis |
-| **Contra-indications** | * **Pregnancy** * Severe renal impairment * Blood disorders |
-| **Side-effects** | Rarely: bone marrow suppression, N&V, rash, toxic epidermal necrolysis |
+| **Contra-indications** | * **[[Pregnancy]]** * Severe renal impairment * Blood disorders |
+| **Side-effects** | Rarely: [[Snippets/Bone|Bone]] marrow suppression, N&V, rash, toxic epidermal necrolysis |
 | **Interactions** | Cyclosporins: increased risk of nephrotoxicity  Pyrimethamine: increased antifolate effects |
 | **Elimination** |  |
 | **Additional Notes** | Resistance is common |

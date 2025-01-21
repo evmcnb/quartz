@@ -19,9 +19,9 @@ Staph resistance is defined by stability to methicillin (IV only equivalent to *
 | ------- | -------|  ------ |
 | Benzylpenicillin | Gram +ve streptococci, meningococcus, diptheria, anthrax, leptospirosis, Lyme disease | Give IV, poor absorption
 | Phenoxymethylpenicillin | Prophylaxis in some diseases | | 
-| Ampicillin/amoxicillin | Enterobacteria $\downarrow$ activity against Gram +ve, URTI, chest, [[Otitis media]], H. pylori | Ampicillin IV, amoxicillin PO
-| Co-amoxiclav | Used if resistance to narrower-spectrum antibiotics, chest, pyelonephritis, cellulitis, bone |
+| Ampicillin/[[Snippets/Amoxicillin|Amoxicillin]] | Enterobacteria $\downarrow$ activity against Gram +ve, URTI, chest, [[Otitis media]], H. pylori | Ampicillin IV, [[Snippets/Amoxicillin|Amoxicillin]] PO
+| [[Snippets/Co-amoxiclav|Co-amoxiclav]] | Used if resistance to narrower-spectrum antibiotics, chest, pyelonephritis, [[Cellulitis]], [[Snippets/Bone|Bone]] |
 | Tazocin | Broad spectrum including: Gram +ve, -ve, _Pseudomonas_ | Tazobactam has $\downarrow$ penetration of blood-brain-barrier. Myelosuppression with prolonged used |
-| Flucloxacillin | $\beta$-lactamase resistant, Staph: skin, bone, post-viral pneumonia | | 
+| Flucloxacillin | $\beta$-lactamase resistant, Staph: skin, [[Snippets/Bone|Bone]], post-viral [[pneumonia]] | | 
 
 

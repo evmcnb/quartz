@@ -12,12 +12,12 @@ Glomerulonephritis, often referred to as GN, is a group of kidney diseases that 
 
 |Name|Cause|Most common presentation|
 |---|---|---|
-|Minimal change disease|? autoimmune|children with nephrotic, little to no decrease in renal function. Give corticosteroids.|
+|[[Minimal change disease]]|? autoimmune|children with nephrotic, little to no decrease in renal function. Give corticosteroids.|
 |IgA nephropathy|autoimmune|Teens/young adults with nephritic.|
-|Membranous nephropathy|autoimmune|Adults with nephrotic may have PMH of hepatitis B or cancer|
-|Focal segmental glomerulosclerosis|? autoimmune|Adults with nephrotic may have PMH of HIV or anabolic steroid use|
+|Membranous nephropathy|autoimmune|Adults with nephrotic may have PMH of [[Hepatitis]] B or cancer|
+|Focal segmental glomerulosclerosis|? autoimmune|Adults with nephrotic may have PMH of [[HIV]] or anabolic steroid use|
 |Lupus nephritis|autoimmune (Type III)|Other signs of Lupus. Variable renal presentation|
-|Post infectious glomerulonephritis|autoimmune (Type III)|Children with impetigo or strep throat|
+|Post infectious glomerulonephritis|autoimmune (Type III)|Children with [[Impetigo]] or strep throat|
 |Granulomatosis with polyangiitis (Wegners)|autoimmune (Type III)|Haematuria and rapid fall in eGFR. Also nose and lung symptoms.|
 |Goodpastures disease (anti GBM)|autoimmune (Type II)|Haematuria and a rapid fall in eGFR. Also haemoptysis due to lung involvement|
 
@@ -50,7 +50,7 @@ Glomerulonephritis, often referred to as GN, is a group of kidney diseases that 
 ## Signs
 
 - **Fluid Retention:** Swelling in various body parts due to edema.
-- **High Blood Pressure:** Hypertension.
+- **High Blood Pressure:** [[Essential hypertension]].
 - **Urinalysis Findings:** Hematuria, proteinuria, frothy urine
 
 ## Diagnostic Tests
@@ -62,10 +62,10 @@ Glomerulonephritis, often referred to as GN, is a group of kidney diseases that 
 ## Management
 
 1. **Immune System Modulation:** Corticosteroids and immunosuppressive medications.
-2. **Blood Pressure Control:** Medications to manage hypertension and protect the kidneys.
+2. **Blood Pressure Control:** Medications to manage [[Essential hypertension]] and protect the kidneys.
 3. **Diuretics:** To manage edema.
 4. **Dietary Modifications:** Managing sodium and protein intake.
-5. **Dialysis:** In severe cases of kidney failure.
+5. **Dialysis:** In severe cases of [[Snippets/Kidney Failure|Kidney Failure]].
 
 ## Complications/red Flags
 

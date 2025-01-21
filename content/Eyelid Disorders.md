@@ -25,7 +25,7 @@ Hordeolum internum
 - Deeper and more painful
 - May point towards the eyeball underneath the eyelid
 
-Management with hot compress and analgesia. Topical antibiotics (chloramphenicol) may be considered if its associated with conjunctivitis or if symptoms persist. 
+Management with hot compress and analgesia. Topical antibiotics (chloramphenicol) may be considered if its associated with [[Conjunctivitis]] or if symptoms persist. 
 
 
 ## Chalazion

@@ -5,8 +5,6 @@ date modified: 2024-01-21 11:58:45.280485+00
 tags: ['Respiratory']
 ---
 
-
-
 Two anatomical patterns: bronchopneumonia following bronchi and lobar pneumonia 90% *S. pneumoniae*
 
 **Bacterial**
@@ -31,6 +29,6 @@ CAP - *S. pneumoniae* HAP - *E. coli, Klebsiella spp, Enterbacter spp* VAP - *Ps
 
 **Viral**
 
-* Influenza A and B in adults
+* [[Snippets/Influenza|Influenza]] A and B in adults
 * RSV and parainfluenza in children
-* Herpes viruses in immunocompromised
+* Herpes [[Snippets/Viruses|Viruses]] in immunocompromised

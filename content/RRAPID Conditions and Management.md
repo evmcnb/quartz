@@ -153,7 +153,7 @@ Reversible causes of cardiac arrest:
 
 | The 'Hs'                                                                                                                                             | The 'Ts'                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| - Hypoxia<br>- Hypovolaemia<br>- Hyperkalaemia, hypokalaemia, hypoglycaemia, hypocalcaemia, acidaemia and other metabolic disorders<br>- Hypothermia | - Thrombosis (coronary or pulmonary)<br>- Tension pneumothorax<br>- Tamponade - cardiac<br>- Toxins |
+| - Hypoxia<br>- Hypovolaemia<br>- [[Snippets/Hyperkalaemia|Hyperkalaemia]], hypokalaemia, [[Hypoglycaemia]], [[Snippets/Hypocalcaemia|Hypocalcaemia]], acidaemia and other metabolic disorders<br>- Hypothermia | - Thrombosis (coronary or pulmonary)<br>- Tension pneumothorax<br>- Tamponade - cardiac<br>- Toxins |
 ### [[Delirium]]
 
 Cause:
@@ -166,7 +166,7 @@ Cause:
 - **M**edication
 - **E**nvironment/electrolytes
 
-Consider sepsis 6
+Consider [[Sepsis]] 6
 
 If a danger to themselves or others:
 - Haloperidol 1st line - contraindicated in those with prolonged QTc, ventricular arrythmias or [[Parkinson's disease]]
@@ -174,7 +174,7 @@ If a danger to themselves or others:
 
 ### [[Diabetic ketoacidosis]]
 
-Metabolic acidosis with anion gap
+Metabolic acidosis with [[Snippets/Anion gap|Anion gap]]
 - Raised blood glucose >11 mmol/L
 - Capillary ketones >3 mmol/L
 - Venous pH <7.3 or bicarb <15 mmol/L
@@ -304,7 +304,7 @@ Give sodium bicarbonate - cardioprotective + lowers amount of active form of the
 
 ![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021.png)
 
-**8-24 hours:** Calculate weight and start N-acetylcysteine if ingestion is > 150 mg/kg (or if paracetamol concentration is not available).
+**8-24 hours:** Calculate weight and start N-acetylcysteine if ingestion is > 150 mg/kg (or if [[Snippets/Paracetamol|Paracetamol]] concentration is not available).
 
 **24 hours+:** Start N-acetylcystine or any time if they are clearly jaundiced or have hepatic tenderness, their ALT is above the upper limit of normal
 
@@ -313,11 +313,11 @@ Give sodium bicarbonate - cardioprotective + lowers amount of active form of the
 ### [[pulmonary embolism]]
 
 Calculate risk with **Well's Score**
-- Fracture of lower limb
+- Fracture of [[Snippets/Lower limb|Lower limb]]
 - HF/AF
 - Surgery/trauma
 - OCP
-- Pregnancy
+- [[Pregnancy]]
 etc
 
 Non-specific signs:
@@ -332,7 +332,7 @@ Management
 - <4 perform a D-dimer and if positive get a CTPA
 
 - DOAC - apixaban or rivaroxaban first line
-- LMWH main alternative (e.g. in kidney failure patients)
+- LMWH main alternative (e.g. in [[Snippets/Kidney Failure|Kidney Failure]] patients)
 
 
 ### [[pneumothorax|Pneumothorax]]
@@ -359,7 +359,7 @@ Management:
 
 ### Status Epilepticus
 
-- Alcoholism
+- [[Alcoholism]]
 - Drug use
 - Hypoxic episodes
 - Space occupying lesions
@@ -375,19 +375,19 @@ Different classifications:
 
 **Management**
 - IV lorazepam 0.1mg/kg - may be repeated once after 5-10 minutes
-- If status is ongoing can give second line agent - levetiracetam, phenytoin or sodium valporate
-- Consider IV thiamine and glucose for alcoholism
+- If status is ongoing can give second line agent - levetiracetam, [[Snippets/Phenytoin|Phenytoin]] or sodium valporate
+- Consider IV thiamine and glucose for [[Alcoholism]]
 - If refractory status (45 minutes from onset) RSI with anaesthesiologist 
 
 ### Ischaemic [[Stroke]]
 
-- Aspirin 300mg - as soon as hemorrhagic been excluded 
+- [[Snippets/Aspirin|Aspirin]] 300mg - as soon as hemorrhagic been excluded 
 - Within 4.5hr = thrombectomy + thrombolysis (alteplase)
 - Within 6-24hrs = thrombectomy only
-- Wake up stroke (unknown) = thrombectomy only
+- Wake up [[Stroke]] (unknown) = thrombectomy only
 
 Discharge medications 
-- Dual antiplatelet - 2 weeks 300mg then aspirin 75mg + clopidogrel 180mg
+- Dual antiplatelet - 2 weeks 300mg then [[Snippets/Aspirin|Aspirin]] 75mg + [[Snippets/Clopidogrel|Clopidogrel]] 180mg
 - ACE inhibitor - reduce blood pressure 
 - Beta blocker - reduce blood pressure
 - Statin 80mg

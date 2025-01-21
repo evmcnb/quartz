@@ -10,5 +10,5 @@ tags: ['Nephrology']
 **Alport = All ports affected (eyes, ears, urine)**
 
 * Faulty gene causing a type 4 collagen defect
-* Characterized by glomerulonephritis, end-stage kidney disease, and hearing loss. It can also affect the eyes, leading to abnormalities such as lenticonus.
+* Characterized by [[Snippets/Glomerulonephritis|Glomerulonephritis]], end-stage kidney disease, and hearing loss. It can also affect the eyes, leading to abnormalities such as lenticonus.
 * However, it does not cause anosmia or loss of smell.

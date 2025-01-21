@@ -23,7 +23,7 @@ date modified: 2024-04-26""
 
 #### Clinical Signs
 
-- Body habitus - obesity increased risk of joint pathology
+- Body habitus - [[Obesity]] increased risk of joint pathology
 - Scars 
 - Muscle wasting
 

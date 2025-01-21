@@ -26,7 +26,7 @@ date modified: ""
 
 #### Objects and Equipment
 
-- Medical equipment - oxygen, ECG, medications, catheters (note volume and colour), IV access
+- Medical equipment - [[Snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - Mobility aids
 - Pillows - congestive [[heart failure]] patients typically suffer from orthopnoea
 - Vital sign charts

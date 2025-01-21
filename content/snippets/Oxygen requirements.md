@@ -7,10 +7,10 @@ tags: ['Acute']
 
 
 
-If the patient is receiving **oxygen therapy** their **PaO2** should be approximately **10kPa less than** the **% inspired concentration FiO2** (so a patient on 40% oxygen would be expected to have a PaO2 of approximately 30kPa /225mmHg).
+If the patient is receiving **[[Snippets/Oxygen|Oxygen]] therapy** their **PaO2** should be approximately **10kPa less than** the **% inspired concentration FiO2** (so a patient on 40% [[Snippets/Oxygen|Oxygen]] would be expected to have a PaO2 of approximately 30kPa /225mmHg).
 
-* Remember room air has an oxygen concentration of 21% already.
-* FiO2 stands for fraction of inspired oxygen (O2).
+* Remember room air has an [[Snippets/Oxygen|Oxygen]] concentration of 21% already.
+* FiO2 stands for fraction of inspired [[Snippets/Oxygen|Oxygen]] (O2).
 * Every litre approximately increases the FiO2 by about 4 percent.
 
 ## Nasal canula rates:
@@ -22,7 +22,7 @@ If the patient is receiving **oxygen therapy** their **PaO2** should be appr
 
 ## Reservoir (non-rebreath) mask
 
-Reservoir masks deliver oxygen at concentrations between 60% and 90% when used at a flow rate of 10–15 l/min.³
+Reservoir masks deliver [[Snippets/Oxygen|Oxygen]] at concentrations between 60% and 90% when used at a flow rate of 10–15 l/min.³
 
 ## Simple face mask:
 

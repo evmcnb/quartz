@@ -13,11 +13,11 @@ Most people will only ever develop the first stage - but subsequent stages are s
 1. Simple fatty liver (steatosis) usually asymptomatic
 2. Non-alcoholic steatohepatitis (NASH) - a more serious form of NAFLD where the liver has become inflamed
 3. Fibrosis - where persistent inflammation causes scar tissue around the liver and nearby blood vessels. Liver can still function normally
-4. [[Liver Cirrhosis]] - the most severe stage occurring after years. Permanent damage and can lead to liver failure
+4. [[Liver Cirrhosis]] - the most severe stage occurring after years. Permanent damage and can lead to [[Snippets/Liver failure|Liver failure]]
 
 ## Causes/Factors
 
-- Obesity
+- [[Obesity]]
 - Type 2 diabetes
 - [[Hyperthyroidism]]
 - High blood pressure

@@ -7,5 +7,5 @@ tags: ['Neurology', 'Surgery']
 
 
 
-* Thrombectomy + thrombolysis for people with ischaemic stroke <6h.
+* Thrombectomy + thrombolysis for people with ischaemic [[Stroke]] <6h.
 * Thrombectomy if limited infarct

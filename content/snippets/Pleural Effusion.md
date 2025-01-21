@@ -20,7 +20,7 @@ How to determine what type of effusion it is:
 | Mechanism | Capillary hydrostatic pressure | Capillary permeability |
 | Protein (pleural/serum) | <0.5 | >0.5 |
 | LDH | <0.6 or  Pleural LDH < 2/3 upper limit of normal serum LDH | >0.6 or  Pleural LDH > 2/3 upper limit of normal serum LDH |
-| Common Causes | Hypoalbuminaemia (cirrhosis, nephrotic syndrome)  Congestive Heart Failure  Constrictive Pericarditis | Autoimmune disease (inflammatory)  Oesophageal rupture  Infection (TB, fungal, empyema)  Palignancy  Pancreatitis  Post-CABG |
+| Common Causes | Hypoalbuminaemia ([[Snippets/Cirrhosis|Cirrhosis]], [[Nephrotic syndrome]])  Congestive [[Heart Failure]]  Constrictive [[Snippets/Pericarditis|Pericarditis]] | Autoimmune disease (inflammatory)  Oesophageal rupture  Infection (TB, fungal, empyema)  Palignancy  [[pancreatitis]]  Post-CABG |
 
 ## Transudate effusion
 

@@ -9,7 +9,7 @@ tags: ['Cardiovascular']
 
 Acute limb ischaemia - limb MI  
 
-Critical limb ischaemia - unstable angina   
+Critical limb ischaemia - unstable [[Angina]]   
 
-Claudication - stable angina
+Claudication - stable [[Angina]]
 

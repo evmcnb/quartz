@@ -8,11 +8,11 @@ date modified: 2024-03-11
 date: 2023-11-12
 ---
 
-Vasovagal Syncope is a common cause of fainting (syncope) characterised by a sudden drop in heart rate and blood pressure, leading to a temporary loss of consciousness. 
+[[Snippets/Vasovagal Syncope|Vasovagal Syncope]] is a common cause of fainting (syncope) characterised by a sudden drop in heart rate and blood pressure, leading to a temporary loss of consciousness. 
 
 It is often triggered by a strong emotional or physical response that stimulates the vagus nerve, resulting in a reflex response that causes the heart to slow down and blood vessels to dilate, leading to a sudden drop in blood pressure.
 
-> [!Info] Vasovagal Syncope
+> [!Info] [[Snippets/Vasovagal Syncope|Vasovagal Syncope]]
 > Quite common but important to distinguish from more sinister reasons for the collapse
 > History from a observer is invaluable for diagnosis
 >
@@ -20,14 +20,14 @@ It is often triggered by a strong emotional or physical response that stimulates
 > 
 > Onset is over a few seconds - not instantaneous. Often with pre-syncopal symptoms - nausea, vomiting, sweating
 > 
-> Urinary incontinence is uncommon and there is no tongue biting
+> [[Snippets/Urinary Incontinence|Urinary Incontinence]] is uncommon and there is no tongue biting
 > 
 > LoC usually lasts for around 2 mins
 
 
 ## Causes/Factors
 
-The primary causes and triggers for Vasovagal Syncope include:
+The primary causes and triggers for [[Snippets/Vasovagal Syncope|Vasovagal Syncope]] include:
 
 - **Emotional Stress:** Anxiety, fear, or emotional distress.
 - **Pain:** Severe pain or the sight of blood.
@@ -38,7 +38,7 @@ The primary causes and triggers for Vasovagal Syncope include:
 
 ## Symptoms & Signs
 
-Symptoms of Vasovagal Syncope can include:
+Symptoms of [[Snippets/Vasovagal Syncope|Vasovagal Syncope]] can include:
 
 - Decreased pulse
 - Dilated pupils - blurred vision

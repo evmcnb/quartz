@@ -9,8 +9,8 @@ De Quervain $\rightarrow$ De QuerPAIN
 
 **_De Quervain’s thyroiditis_**, also known as subacute thyroiditis, is a condition causing temporary inflammation of the thyroid gland. There are three phases:
 
-- Thyrotoxicosis
-- Hypothyroidism
+- [[Hyperthyroidism]]
+- [[Hypothyroidism]]
 - Return to normal
 
 The initial **_thyrotoxic phase_** involves:
@@ -23,7 +23,7 @@ The initial **_thyrotoxic phase_** involves:
 It is a self-limiting condition, and supportive treatment is usually all that is necessary. This may involve:
 
 - **_NSAIDs_** for symptoms of pain and inflammation 
-- **_Beta blockers_** for the symptoms of hyperthyroidism
-- **_Levothyroxine_** for the symptoms of hypothyroidism
+- **_Beta blockers_** for the symptoms of [[Snippets/Hyperthyroidism|Hyperthyroidism]]
+- **_Levothyroxine_** for the symptoms of [[Hypothyroidism]]
 
 A small number (under 10%) remain hypothyroid long-term.

@@ -20,7 +20,7 @@ In elderly - occurrence of falls often signs underlying ill health
 
 - Elderly
 - Those susceptible to falls
-- [[osteoporosis]]/bone metastases
+- [[osteoporosis]]/[[Snippets/Bone|Bone]] metastases
 - Traumatic injuries
 - Low BMI
 - Female
@@ -36,7 +36,7 @@ Get a full history
 
 ## Diagnostic Tests
 
-Hip exam: Look, feel, move
+[[Hip Exam]]: Look, feel, move
 
 1. Symmetry of hips, Leg length etc
 2. Palpate around the hip joint

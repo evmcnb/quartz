@@ -14,6 +14,6 @@ Localised defect extending at least into submucosa
 
 Complications
 
-* Haemorrhage - acute and/or chronic anaemia
+* Haemorrhage - acute and/or chronic [[Snippets/Anaemia|Anaemia]]
 * Perforation - peritonitis/ penetration into adjacent organ (liver,..)
 * Stricturing - hour-glass deformity

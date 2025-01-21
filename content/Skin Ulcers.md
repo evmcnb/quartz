@@ -20,7 +20,7 @@ Erosion - loss of area of epidermis
 |                       |                             | malleolus.                   |
 | Etiology               | Result from venous            | Caused by poor arterial      |
 |                       | insufficiency, often due to  | blood supply, often due to  |
-|                       | varicose veins or deep vein   | atherosclerosis, embolism,  |
+|                       | [[Varicose veins]] or deep vein   | atherosclerosis, embolism,  |
 |                       | thrombosis.                   | or thrombosis.              |
 | Wound Appearance       | Shallow, irregularly shaped   | Deep, well-defined borders   |
 |                       | with a weepy, exudative base. | and minimal exudate.        |

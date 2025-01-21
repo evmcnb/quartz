@@ -20,7 +20,7 @@ The primary cause is prolonged **exposure to ultraviolet (UV)** radiation from t
 - Fair Skin: Light-skinned individuals are more susceptible.
 - Chronic Sun Exposure: Especially without adequate sun protection.
 - History of Skin Cancer: Previous BCCs or other skin cancers increase the risk.
-- Immunosuppression: Weakened immune system due to conditions or medications.
+- [[Snippets/Immunosuppression|Immunosuppression]]: Weakened immune system due to conditions or medications.
 - Age: BCC is more common in older adults.
 
 ## Symptoms

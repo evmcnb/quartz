@@ -33,15 +33,15 @@ date: 2024-02-07
 - Nipple changes
 
 > [!info] Nipple abnormalities
-> **Nipple inversion** is a normal finding in a significant proportion of women (e.g. congenital or weight-loss associated nipple inversion). However, if nipple inversion develops without a clear precipitant, the possibility of underlying pathology should be considered. Possible pathological causes of nipple inversion include breast cancer, breast abscess, mammary duct ectasia and mastitis.
+> **Nipple inversion** is a normal finding in a significant proportion of women (e.g. congenital or weight-loss associated nipple inversion). However, if nipple inversion develops without a clear precipitant, the possibility of underlying pathology should be considered. Possible pathological causes of nipple inversion include breast cancer, [[Breast abscess]], mammary duct ectasia and mastitis.
 >
-> **Nipple discharge** is benign is most cases (e.g. pregnancy, breast-feeding) however less commonly it can be associated with mastitis or underlying breast cancer (rare).
+> **Nipple discharge** is benign is most cases (e.g. [[Pregnancy]], breast-feeding) however less commonly it can be associated with mastitis or underlying breast cancer (rare).
 
 > [!info] Skin changes
 >
 > **Scaling** of the nipple and/or areola associated with erythema and pruritis are typical features of Paget’s disease of the breast (see the example image). Paget’s disease is associated with underlying in-situ or invasive carcinoma of the breast.
 >
-> **Erythema** of the breast tissue has a wide range of causes including infection (e.g. mastitis or breast abscess), trauma (e.g. fat necrosis) and underlying breast cancer.
+> **Erythema** of the breast tissue has a wide range of causes including infection (e.g. mastitis or [[Breast abscess]]), trauma (e.g. fat necrosis) and underlying breast cancer.
 >
 > **Puckering** of breast tissue is typically associated with invasion of the suspensory ligaments of the breast by an underlying malignancy that results in ligamentous contraction which draws the skin inwards.
 >

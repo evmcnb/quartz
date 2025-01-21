@@ -11,9 +11,9 @@ tags: ['Drug']
 
 **Ganciclovir** - CMV
 
-**Neuraminidase inhibitors** - Influenza
+**Neuraminidase inhibitors** - [[Snippets/Influenza|Influenza]]
 
-**AZT (zidovudine), tenofovir,** - HIV, *protease inhibitors, NRTIs, integrase inhibitors*
+**AZT (zidovudine), tenofovir,** - [[HIV]], *protease inhibitors, NRTIs, integrase inhibitors*
 
 **Entecavir, tenofovir DF and tenofovir alafenamide** - HBV
 

@@ -18,19 +18,19 @@ tags: ['ENT', 'Symptom', 'InfectiousDisease']
   + Headache
   + Dry mouth
 * Then after that **parotid swelling** - either unilateral or bilateral. ***WITH PAIN*** is a key feature so should consider mumps
-* May be other symptoms: abdominal pain (pancreatitis), testicular pain (orchitis), confusion, neck stiffness and headache (meningitis or encephalitis)
+* May be other symptoms: abdominal pain ([[pancreatitis]]), testicular pain (orchitis), confusion, neck stiffness and headache ([[Snippets/Meningitis|Meningitis]] or [[Snippets/Encephalitis|Encephalitis]])
 
 ## Other viral
 
 * Herpes
-* HIV
+* [[HIV]]
 * EBV
 * COVID-19
 
 ## Sialolithiasis
 
 * Hardened calculi that form in the gland
-* Medication (diuretics, anti-cholinergics or anti-depressants), dehydrations, gout, smoking, hyperparathyroidism
+* Medication (diuretics, anti-cholinergics or anti-depressants), dehydrations, [[gout]], smoking, hyperparathyroidism
 * Usually asymptomatic with intermittent facial swelling associated with eating
 * Halitosis
 

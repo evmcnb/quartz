@@ -10,8 +10,8 @@ tags: ['Acute', 'Ophthalmology']
 Causes of an acute ***painful red eye***include:
 
 * Acute angle-closure glaucoma
-* Anterior uveitis
-* Scleritis
+* Anterior [[Uveitis]]
+* [[Scleritis]]
 * Corneal abrasions or ulceration
 * Keratitis
 * Foreign body
@@ -19,6 +19,6 @@ Causes of an acute ***painful red eye***include:
 
 Causes of an acute ***painless red eye***include:
 
-* Conjunctivitis
+* [[Conjunctivitis]]
 * Episcleritis
 * Subconjunctival haemorrhage

@@ -6,21 +6,21 @@ date created: Wednesday, August 16th 2023, 1:57:16 pm
 date modified: 2024-03-11
 date: 2023-09-18
 ---
-Pulmonary fibrosis is a progressive lung disease characterized by the scarring and thickening of lung tissues. This scarring, known as fibrosis, makes it harder for the lungs to function properly and can result in breathing difficulties and reduced oxygen exchange.
+Pulmonary fibrosis is a progressive lung disease characterized by the scarring and thickening of lung tissues. This scarring, known as fibrosis, makes it harder for the lungs to function properly and can result in breathing difficulties and reduced [[Snippets/Oxygen|Oxygen]] exchange.
 
 ## Causes/Factors
 
 Pulmonary fibrosis can have various causes or factors, including:
 
-1. **Idiopathic Pulmonary Fibrosis (IPF):** The most common form with an unknown cause.
+1. **[[Snippets/Idiopathic Pulmonary Fibrosis|Idiopathic Pulmonary Fibrosis]] (IPF):** The most common form with an unknown cause.
 2. **Environmental Exposures:** Prolonged exposure to asbestos, silica, coal dust, or other environmental irritants. [[Industrial dust diseases]]
 3. **Autoimmune Diseases:** Conditions like [[Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] or [[Systemic Lupus Erythematosus]] can lead to lung fibrosis. [[Sarcoidosis]]
 4. **Medications:** 
-	- Amiodarone (also causes grey/blue skin)
+	- [[Snippets/Amiodarone|Amiodarone]] (also causes grey/blue skin)
 	- Cyclophosphamide
 	- Methotrexate
 	- Nitrofurantoin
-5. **Cryptogenic Organising Pneumonia** focal area of inflammation of the lung tissue. Triggered by lots of different things
+5. **Cryptogenic Organising [[pneumonia]]** focal area of inflammation of the lung tissue. Triggered by lots of different things
 6. **Infections:** Certain lung infections can result in scarring and fibrosis.
 
 ## Symptoms
@@ -37,7 +37,7 @@ Symptoms of pulmonary fibrosis can develop gradually and worsen over time:
 ## Signs
 
 - **Crackling Sounds:** Velcro-like crackling sounds (called "velcro rales") heard during lung auscultation.
-- **Clubbing:** Thickening and rounding of the fingertips due to reduced oxygen levels.
+- **[[clubbing]]:** Thickening and rounding of the fingertips due to reduced [[Snippets/Oxygen|Oxygen]] levels.
 
 ## Diagnostic Tests
 
@@ -49,7 +49,7 @@ Diagnosing pulmonary fibrosis involves various tests to assess lung function and
 
 - **Spirometry** may be normal or show a restrictive pattern 
 	- **_FEV1_** and **_FVC_** are **_equally reduced_** 
-	- FEV1:FVC ratio **greater than 70%**
+	- [[Snippets/FEV1:FVC ratio|FEV1:FVC ratio]] **greater than 70%**
 - **High-Resolution CT Scan (HRCT):** typical "ground glass" appearance
 - **Lung Biopsy:** A tissue sample from the lung to confirm the presence of fibrosis and determine its cause.
 
@@ -58,7 +58,7 @@ Diagnosing pulmonary fibrosis involves various tests to assess lung function and
 There is currently no cure for pulmonary fibrosis, but management aims to slow disease progression and improve symptoms. Treatment options include:
 
 - Remove or treat the underlying cause
-- Home oxygen where there is hypoxia
+- Home [[Snippets/Oxygen|Oxygen]] where there is hypoxia
 - Stop smoking
 - Physiotherapy and pulmonary rehabilitation
 - Pneumococcal and flu vaccine
@@ -69,6 +69,6 @@ There is currently no cure for pulmonary fibrosis, but management aims to slow d
 
 Complications and potential consequences of untreated pulmonary fibrosis include:
 
-- **Respiratory Failure:** Advanced fibrosis can lead to severe breathing difficulties and insufficient oxygen exchange.
-- **Pulmonary Hypertension:** Increased blood pressure in the lungs due to narrowed blood vessels.
+- **[[Respiratory Failure]]:** Advanced fibrosis can lead to severe breathing difficulties and insufficient [[Snippets/Oxygen|Oxygen]] exchange.
+- **Pulmonary [[Essential hypertension]]:** Increased blood pressure in the lungs due to narrowed blood vessels.
 - **Infections:** Scarring can make the lungs more susceptible to infections.

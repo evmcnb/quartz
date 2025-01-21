@@ -21,7 +21,7 @@ Exudates **extreme** - from pathological capillaries so **high protein**
 | Mechanism               | Capillary hydrostatic pressure                                                                                    | Capillary permeability                                                                                                                                      |
 | Protein (pleural/serum) | <0.5                                                                                                              | >0.5                                                                                                                                                        |
 | LDH                     | <0.6 or<br><br>Pleural LDH < 2/3 upper limit of normal serum LDH                                                  | >0.6 or<br><br>Pleural LDH > 2/3 upper limit of normal serum LDH                                                                                            |
-| Common Causes           | Hypoalbuminaemia (cirrhosis, nephrotic syndrome)<br><br>Congestive Heart Failure<br><br>Constrictive Pericarditis | Autoimmune disease (inflammatory)<br><br>Oesophageal rupture<br><br>Infection (TB, fungal, empyema)<br><br>Palignancy<br><br>Pancreatitis <br><br>Post-CABG |
+| Common Causes           | Hypoalbuminaemia ([[Snippets/Cirrhosis|Cirrhosis]], [[Nephrotic syndrome]])<br><br>Congestive Heart Failure<br><br>Constrictive Pericarditis | Autoimmune disease (inflammatory)<br><br>Oesophageal rupture<br><br>Infection (TB, fungal, empyema)<br><br>Palignancy<br><br>Pancreatitis <br><br>Post-CABG |
 
 ## Causes/Factors
 
@@ -33,10 +33,10 @@ Pleural effusion can result from various underlying causes, including:
 - RA
 
 #### Transudative - fluid moving into the pleural space
-- Congestive heart failure
+- Congestive [[Heart Failure]]
 - Hypoalbuminaemia
-- Hypothyroidism
-- Meigs syndrome
+- [[Hypothyroidism]]
+- [[Snippets/Meigs syndrome|Meigs syndrome]]
 
 ## Presentation 
 
@@ -63,4 +63,4 @@ Untreated or unmanaged pleural effusion can lead to serious complications, such 
 
 - **Lung Collapse:** Severe effusions can compress the lung, causing it to collapse (atelectasis).
 - **Empyema:** Accumulation of pus within the pleural space due to bacterial infection.
-- **Respiratory Failure:** Severe effusion can lead to difficulty breathing and reduced oxygen levels.
+- **[[Respiratory Failure]]:** Severe effusion can lead to difficulty breathing and reduced [[Snippets/Oxygen|Oxygen]] levels.

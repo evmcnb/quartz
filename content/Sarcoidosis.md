@@ -13,7 +13,7 @@ date: 2024-02-09
 - Unknown cause
 - Mainly respiratory but all organs affected
 
-Hypercalcaemia + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
+[[Snippets/Hypercalcaemia|Hypercalcaemia]] + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 ## Causes/Factors
 
 - Aged 20-40 or around 60
@@ -21,7 +21,7 @@ Hypercalcaemia + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 - Black ethnic origin
 
 >[!tip]
->The typical MCQ exam patient is a 20-40 year old black female presenting with a dry cough and shortness of breath. They may have nodules on their shins, suggesting erythema nodosum.
+>The typical MCQ exam patient is a 20-40 year old black female presenting with a dry cough and shortness of breath. They may have nodules on their shins, suggesting [[erythema nodosum]].
 ## Issues per organ
 
 ### Lungs
@@ -45,10 +45,10 @@ Hypercalcaemia + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 - [[Optic neuritis]]
 
 ### Heart
-- Bundle branch block & [[Heart Block]]
+- [[Snippets/Bundle Branch Block|Bundle Branch Block]] & [[Heart Block]]
 
 ### Kidneys
-- Stones (hypercalcaemia)
+- Stones ([[Snippets/Hypercalcaemia|Hypercalcaemia]])
 - Nephrocalcinosis
 - [[Tubulointerstitial Nephritis]]
 
@@ -57,7 +57,7 @@ Hypercalcaemia + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 
 > [!tldr] Lofgren’s Syndrome
 > Refers to a specific presentation of sarcoidosis with a classic triad of symptoms:
->- Erythema nodosum
+>- [[erythema nodosum]]
 >- Bilateral hilar lymphadenopathy 
 >- Polyarthralgia (joint pain in multiple joints)
 
@@ -65,8 +65,8 @@ Hypercalcaemia + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 The top differentials for the varied presenting features of sarcoidosis are:
 
 - [[Tuberculosis]]
-- Lymphoma
-- Hypersensitivity pneumonitis
+- [[Snippets/Lymphoma|Lymphoma]]
+- [[Snippets/Hypersensitivity Pneumonitis|Hypersensitivity Pneumonitis]]
 - [[HIV]]
 - Toxoplasmosis
 - Histoplasmosis
@@ -91,7 +91,7 @@ The blood test findings to remember are:
 
 **_Conservative management_** is considered in patients with no or mild symptoms.
 
-**_Oral steroids_** (for 6-24 months) are usually first-line where treatment is required. **_Bisphosphonates_** protect against osteoporosis whilst on long-term steroids.
+**_Oral steroids_** (for 6-24 months) are usually first-line where treatment is required. **_Bisphosphonates_** protect against [[osteoporosis]] whilst on long-term steroids.
 
 **_Methotrexate_** is a second-line option.
 

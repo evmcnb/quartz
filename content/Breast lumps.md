@@ -8,7 +8,7 @@ date created: Tuesday, February 20th 2024, 3:59:54 pm
 date modified: 2024-03-11
 date: 2024-03-11
 ---
-Benign breast lumps - see [[Breast carcinoma]] for malignant
+Benign breast [[Lumps]] - see [[Breast carcinoma]] for malignant
 
 ## Fibroadenoma
 
@@ -17,7 +17,7 @@ Benign tumours of stromal/epithelial breast duct tissue. Typically small and mob
 - Respond to female hormones - therefore regress after menopause
 - Painless, smooth, round, well circumscribed, firm, mobile, up to 3 cm diameter
 
-Fibroadenomas are not cancerous and are **not usually associated with an increased risk of  breast cancer**. However complex fibroadenomas and a positive family history of breast cancer may indicate a higher risk.
+[[Snippets/Fibroadenomas|Fibroadenomas]] are not cancerous and are **not usually associated with an increased risk of  breast cancer**. However complex [[Snippets/Fibroadenomas|Fibroadenomas]] and a positive family history of breast cancer may indicate a higher risk.
 
 ## Fibrocystic changes 
 
@@ -32,7 +32,7 @@ Can vary in severity and affect QoL if severe. Management include:
 
 ## Breast Cysts
 
-Benign individual fluid filled lumps. Most common cause of breast lumps between 30-50 y/o. 
+Benign individual fluid filled [[Lumps]]. Most common cause of breast [[Lumps]] between 30-50 y/o. 
 
 Can be painful and may fluctuate in size over cycle
 - Smooth

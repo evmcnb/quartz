@@ -12,11 +12,11 @@ Inflammation of pericardial sac - reduces effectiveness of contractions
 * **Acute** - serofibrinous, caseous, haemorrhagic & purulent
 * **Chronic** - constrictive
 
-Infections - Coxackie B, bacteria, TB, fungi etc Autoimmune - rheumatic fever, SLE, scleroderma, post-MI Other- uraemia, neoplasia, trauma
+Infections - Coxackie B, bacteria, TB, fungi etc Autoimmune - [[Snippets/Rheumatic Fever|Rheumatic Fever]], SLE, scleroderma, post-MI Other- uraemia, neoplasia, trauma
 
 **Signs:**
 
-* Saddle shaped ST segment with PR depression
+* Saddle shaped ST segment with PR [[Depression]]
 * Worse on inspiration lying down - betting leaning forwards
 * Low-grade fever
 * Friction rub on auscultation

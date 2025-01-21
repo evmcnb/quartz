@@ -19,15 +19,15 @@ Denial is a leading feature
 
 No confirmed causes but suspicions
 
-- Genetic inherited susceptibility to alcohol's effects, impaired ability to digest alcohol, increased disposition to anxiety, frustration and depression
+- Genetic inherited susceptibility to alcohol's effects, impaired ability to digest alcohol, increased disposition to anxiety, frustration and [[Depression]]
 - Psychological causes
 
 ## Symptoms
 
 **Liver** - normal in 50%, $\uparrow$ GGT.
 
-- Fatty liver; acute and reversible but may progress to cirrhosis if drinking continues
-- Alcoholic [[Hepatitis]]; 80% progress to cirrhosis
+- Fatty liver; acute and reversible but may progress to [[Snippets/Cirrhosis|Cirrhosis]] if drinking continues
+- Alcoholic [[Hepatitis]]; 80% progress to [[Snippets/Cirrhosis|Cirrhosis]]
 - [[Liver Cirrhosis]]; 5 yr survival: 48% if drinking continues 77% if stops.
 
 **CNS**
@@ -40,19 +40,19 @@ No confirmed causes but suspicions
 
 **Gut**
 
-- Obesity
-- Gastric erosions, peptic ulcers
+- [[Obesity]]
+- Gastric erosions, [[Peptic ulcers]]
 - [[Varices]]
 - [[Pancreatitis]]
 - Oesophageal rupture
 
 **Blood**
 
-- Anaemia from marrow depression, GI bleeding, alcoholism-associated folate deficiency, haemolysis, sideroblastic anaemia
+- [[Snippets/Anaemia|Anaemia]] from marrow [[Depression]], GI bleeding, alcoholism-associated folate deficiency, haemolysis, sideroblastic [[Snippets/Anaemia|Anaemia]]
 
 **Heart**
 
-- Arrhythmias
+- [[Arrhythmias]]
 - High BP
 - [[Coronary Artery Disease]]
 - Cardiomyopathy

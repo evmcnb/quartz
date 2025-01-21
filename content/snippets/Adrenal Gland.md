@@ -22,5 +22,5 @@ Medulla:
 * Phaeochromocytoma (adults)
 * Neuroblastoma (children)
 
-Tumour of neuroendocrine chromaffin cells - excessive release of catecholamines \(\rightarrow\) paroxysmal features - hypertension, sweating, anxiety, panic attacks
+Tumour of neuroendocrine chromaffin cells - excessive release of catecholamines \(\rightarrow\) paroxysmal features - [[Essential hypertension]], sweating, anxiety, panic attacks
 

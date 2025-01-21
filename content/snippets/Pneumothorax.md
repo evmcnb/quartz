@@ -18,7 +18,7 @@ Open
 * Chest wall perforation usually traumatic
 * External air is drawn into pleural cavity reducing expansion
 
-**Tension pneumothorax**
+**Tension [[pneumothorax]]**
 
 * Perforation forms a one-way valve - air can only enter the pleural cavity
 * Pressure builds up causing compression and a shift in mediastinum

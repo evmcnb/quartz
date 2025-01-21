@@ -15,7 +15,7 @@ When in hospital - if <3 months or >50 years = IV cefotaxine + amox
 
 Otherwise in hospital IV cefotaxine
 
-Contact trace all close contacts within 7 days and offer oral ciprofloxacin
+Contact trace all close contacts within 7 days and offer oral [[Snippets/Ciprofloxacin|Ciprofloxacin]]
 
 * ***Neisseria meningitidis***
 * ***Streptococcus pneumoniae*** (***pneumococcus***)
@@ -27,7 +27,7 @@ Viral causes:
 
 * ***Enteroviruses*** (e.g., ***coxsackievirus***)
 * ***Herpes simplex virus*** (***HSV***)
-* ***Varicella zoster virus*** (***VZV***)
+* ***[[Snippets/Varicella zoster virus|Varicella zoster virus]]*** (***VZV***)
 
 Typical symptoms of meningitis are:
 
@@ -42,4 +42,4 @@ Typical symptoms of meningitis are:
 There are two ***special tests*** you can perform to look for meningeal irritation:
 
 * ***Kernig’s test***- slowly straighten knee while on back keeping hip flexed - +ve spinal pain and resistance to movement
-* ***Brudzinski’s test***- lift head and neck off bed - causes +ve patient to flex hips and knees
+* ***Brudzinski’s test***- lift [[Snippets/Head and Neck|Head and Neck]] off bed - causes +ve patient to flex hips and knees

@@ -48,7 +48,7 @@ Coronary artery disease is a narrowing or blockage of your coronary arteries usu
 - Limit alcohol use
 - Statins
 - $\beta$ blockers
-- Nitro-glycerine spray (for angina symptomatic relief)
+- Nitro-glycerine spray (for [[Angina]] symptomatic relief)
 
 - Angioplasty
 - Coronary artery bypass grafting

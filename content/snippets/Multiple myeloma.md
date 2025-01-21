@@ -29,6 +29,6 @@ Plasma cell proliferation usually in older people - incurable but very treatable
 Complications:
 
 * Hyperviscosity (especially with IgA + IgM as they are larger molecules)
-* Sepsis
+* [[Sepsis]]
 * Spinal cord compression
 

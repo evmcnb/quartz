@@ -17,7 +17,7 @@ Inflammation of the brain usually viral - HSV, West Nile, enterovirus
 
 Do a neuro exam, CSF?, MRI
 
-Antivirals - for viral
+[[Snippets/Antivirals|Antivirals]] - for viral
 
 Corticosteroids - for immune-mediated
 

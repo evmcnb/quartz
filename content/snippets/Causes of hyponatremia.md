@@ -12,5 +12,5 @@ PPI TACO:
 * PPIs
 * Thiazides
 * ACEi/ARBs
-* Carbamazepine
+* [[Snippets/Carbamazepine|Carbamazepine]]
 * Opioids

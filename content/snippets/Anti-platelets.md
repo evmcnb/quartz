@@ -16,4 +16,4 @@ Inactivates platelet cyclooxygenase reducing thromboxane A2.
 
 Prevent platelet aggregation by blocking P2Y12 receptor
 
-* clopidogrel, ticagrelor, prasugrel
+* [[Snippets/Clopidogrel|Clopidogrel]], ticagrelor, prasugrel

@@ -25,7 +25,7 @@ Ear canal is the only skin-lined cul-de-sac in the body
 - Swimming
 - Trauma
 - Occlusive ear devices
-- Allergic contact dermatitis
+- Allergic [[Contact Dermatitis]]
 - Dermatological conditions
 
 - Pseudomonas aeruginosa
@@ -44,16 +44,16 @@ Ear canal is the only skin-lined cul-de-sac in the body
 ## Management
 
 - Topical antibiotic
-- Gentamicin
+- [[Snippets/Gentamicin|Gentamicin]]
 - Corticosteroid
 
 ## Complications/red Flags
 
 - Pseudomonas bacteria causing a necrotising OE -> life threatening
 
-Malignant otitis externa - infection has spread to the **temporal bone**. Additional risk factors are diabetes, immunosuppression, HIV. Can lead to:
+Malignant otitis externa - infection has spread to the **temporal [[Snippets/Bone|Bone]]**. Additional risk factors are diabetes, [[Snippets/Immunosuppression|Immunosuppression]], [[HIV]]. Can lead to:
 - facial nerve damage
 - cranial nerve involvement
-- meningitis
+- [[Snippets/Meningitis|Meningitis]]
 - intracranial thrombosis
 - death

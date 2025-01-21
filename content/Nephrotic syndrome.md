@@ -27,7 +27,7 @@ GBM has negative charge to repel proteins
 - NSAIDs
 
 > [!tip]
-> Minimal change disease often comes up in exams. If there's a 2-5 year old child with oedema proteinuria and low albumin the diagnosis is likely nephrotic syndrome. 
+> [[Minimal change disease]] often comes up in exams. If there's a 2-5 year old child with oedema proteinuria and low albumin the diagnosis is likely nephrotic syndrome. 
 
 ## Symptoms
 
@@ -58,7 +58,7 @@ Specific
 - Steroids
 - Cyclophosphamide, tacrolimus
 
-- Loop diuretics furosemide
+- Loop diuretics [[Snippets/Furosemide|Furosemide]]
 - BP control - ACEi
 - Hypercholesterolaemia - statins
 - Thrombo-prophylaxis - herparin

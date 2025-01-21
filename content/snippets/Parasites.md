@@ -10,7 +10,7 @@ tags: ['InfectiousDisease']
 
 * Distribution - typically 3-8 year olds
 * Life cycle - **direct**
-* Clinical - Malnutrition & absorption, obstruction - Loeffler's syndrome
+* Clinical - [[Snippets/Malnutrition|Malnutrition]] & absorption, obstruction - Loeffler's syndrome
 * Diagnosis - Eggs in stool microscopy or see worm
 * Treatment - albendazole, prevents glucose uptake for worms
 
@@ -20,7 +20,7 @@ Caused by helminths
 
 * Distribution - in water in tropical areas
 * Life cycle *indirect* - snails intermediate host penetrate skin
-* Clinical - anameia, *bladder tumours*, cirrhosis, swimmer's itch, Katayama syndrome
+* Clinical - anameia, *bladder tumours*, [[Snippets/Cirrhosis|Cirrhosis]], swimmer's itch, Katayama syndrome
 * Diagnosis - serology, terminal stream microscopy or stool microscopy
 * Treatment - praziquantel
 
@@ -52,7 +52,7 @@ P. knowlesi, P. falciparum, P. ovale, P. vivax, P. malariae
 
 * Distribution - sub-Saharan Africa/mosquito living
 * Life cycle - indirect via female Anopheles
-* Clinical - anaemia, bleeding, DIC, confusion, hypoglycaemia, fevers
+* Clinical - [[Snippets/Anaemia|Anaemia]], bleeding, DIC, confusion, [[Hypoglycaemia]], fevers
 * Diagnosis - blood film microsopy, PCR and serolgoy
 * Treatment - Quinones,
 
@@ -67,7 +67,7 @@ Common opportunistic pathogen in T cell deficiency
 * STI
 * It infects the genitals and may also lead to infection in the: vagina. urethra
 * Direct lifecycle
-* Metronidazole treatment
+* [[Snippets/Metronidazole|Metronidazole]] treatment
 
 ## Giardia
 
@@ -77,4 +77,4 @@ Similar to cryptosporidiasis but without without reservoir in farm animals
 * Life cycle - faecal-oral
 * Clinical - abdo pain, bloating, diarrhoea, nausea and vomiting 1-3 weeks
 * Diagnosis - ELISA, stool sample microscopy
-* Treatment - metronidazole
+* Treatment - [[Snippets/Metronidazole|Metronidazole]]

@@ -22,7 +22,7 @@ Irreversible scarring of the liver.
 
 ## Symptoms
 
-Portal hypertension - Encephalopathy - Ascites
+Portal [[Essential hypertension]] - Encephalopathy - [[Snippets/Ascites|Ascites]]
 
 Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 
@@ -37,7 +37,7 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 - [[Jaundice]]
 - hetpatomegaly
 - spider naevi
-- Ascites ^e3cff3
+- [[Snippets/Ascites|Ascites]] ^e3cff3
 
 ## Diagnostic Tests
 
@@ -50,7 +50,7 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 ## Management
 
 - Good nutrition, alcohol abstinence, avoid NSAIDs, sedatives and opiates
-- Ascites - fluid restriction, low salt diet possible spiro
+- [[Snippets/Ascites|Ascites]] - fluid restriction, low salt diet possible spiro
 - **Liver transplant** - only definitive treatment
 
 ## Monitoring
@@ -65,17 +65,17 @@ Endoscopy every 3 years for oesophageal varicies screening
 - Calculated **every 6 months**
 
 ### Child-Pugh Score
-- Assesses the severity of cirrhosis and the prognosis
+- Assesses the severity of [[Snippets/Cirrhosis|Cirrhosis]] and the prognosis
 - **A** – **A**lbumin
 - **B** – **B**ilirubin
 - **C** – **C**lotting (INR)
-- **D** – **D**ilation (ascites)
+- **D** – **D**ilation ([[Snippets/Ascites|Ascites]])
 - **E** – **E**ncephalopathy
 
 
 ## Complications/red Flags
 
 - Liver cancer - hepatocytes have to regenerate and repair over and over
-- Portal hypertension - [[oesophageal varices]]
+- Portal [[Essential hypertension]] - [[oesophageal varices]]
 - $\uparrow$ risk of infection - alterations in immune system
 

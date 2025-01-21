@@ -12,8 +12,8 @@ tags: ['Drug', 'Endocrinology']
 | **Mechanism** | * Inhibits thyroid peroxidise which is necessary for thyroid synthesis |
 | **Typical Dose** | 15-40mg up to 60mg for blocking therapy |
 | **Indications** | Hyperthyroid |
-| **Contra-indications** | Severe blood disorders  High caution in pregnancy - congenital malformations esp in 1st trimester |
-| **Side-effects** | Common: GI disturbance, headache, skin rash, pruritis, joint pain  Rare: agranulocytosis, jaundice, alopecia |
+| **Contra-indications** | Severe blood disorders  High caution in [[Pregnancy]] - congenital malformations esp in 1st trimester |
+| **Side-effects** | Common: GI disturbance, headache, skin rash, pruritis, joint pain  Rare: agranulocytosis, [[Snippets/Jaundice|Jaundice]], alopecia |
 | **Interactions** |  |
 | **Elimination** |  |
 | **Additional Notes** | Regular monitoring is essential. Graves treatment should continue for at least a year. |

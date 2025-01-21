@@ -13,8 +13,8 @@ Both are autoimmune disease where the the bile ducts are affected.
 
 * Intra and extra hepatic bile ducts are inflamed and damaged
 * Strictures develop and sclerosis occurs
-* Chronic bile obstruction leads to hepatitis, fibrosis and cirrhosis
-* Strong association with ulcerative colitis
+* Chronic bile obstruction leads to [[Hepatitis]], fibrosis and [[Snippets/Cirrhosis|Cirrhosis]]
+* Strong association with [[Ulcerative Colitis]]
 * Autoantibodies are **not** useful in diagnosis or assessment. None are sensitive or specific
 * Stent on ERCP for treatment
 

@@ -16,10 +16,10 @@ Defined as when cardiac output is inadequate for the body's normal requirements.
 
 
 **Left ventricular failure**
-- Dyspnoea, poor exercise tolerance, fatigue, orthopnoea, cardiac "asthma"
+- Dyspnoea, poor exercise tolerance, fatigue, orthopnoea, cardiac "[[asthma]]"
 
 **Right ventricular failure**
-- Peripheral oedema, ascites, nausea, anorexia
+- Peripheral oedema, [[Snippets/Ascites|Ascites]], nausea, anorexia
 - Causes: LVF, pulmonary stenosis, [[cor pulmonale]]
 
 
@@ -31,7 +31,7 @@ Defined as when cardiac output is inadequate for the body's normal requirements.
 **Low-output heart failure** - $\downarrow$ CO which fails to increase on exercise. Causes
 - Excessive pre-load: mitral regurgitation or fluid overload
 - Pump failure: systolic/diastolic heart failure, $\downarrow$ HR (eg $\beta$ blockers)
-- Chronic excess afterload: aortic stenosis, [[Essential hypertension|hypertension]]
+- Chronic excess afterload: [[Aortic Stenosis]], [[Essential hypertension|hypertension]]
 
 **High-output heart failure** - rare, normal or increase CO with demand
 ## Causes/Factors
@@ -42,7 +42,7 @@ Systolic:
 
 - [[Coronary Artery Disease]]
 - [[myocardial infarction]]
-- myocarditis
+- [[Snippets/Myocarditis|Myocarditis]]
 - dilated cardiomyopathy
 
 Diastolic:
@@ -75,7 +75,7 @@ Diastolic:
 ## Management
 
 Initial:
-- Refer to cardiology and assessment with echo BNP 400-2000 $\rightarrow$ 6 week wait, 2000+ 2WW
+- Refer to cardiology and assessment with echo [[Snippets/BNP|BNP]] 400-2000 $\rightarrow$ 6 week wait, 2000+ 2WW
 - Drug treatment
 - Lifestyle advice - annual flu vaccine, stop smoking, 
 
@@ -89,7 +89,7 @@ ACEi and Beta blockers first line.
 
 - SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin
 
-U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause hyperkalaemia
+U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause [[Snippets/Hyperkalaemia|Hyperkalaemia]]
 
 Surgical:
 

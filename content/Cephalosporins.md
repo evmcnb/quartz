@@ -20,7 +20,7 @@ date: 2023-09-28
 | Cefalexin (1st gen) | Gram +ve infection |
 | Cefuroxime (2nd gen) | Gram +ve & -ve |
 | Ceftriaxone (3rd gen) | Meningococcus, broad spectrum (**not** Pseudomonas, Enterococcus, Bacteroides) |
-| Ceftazidime (3rd gen) | Broad spectrum including Pseudomonas, but $\downarrow$ activity against Gram +ve, empirical treatment against neutropenic sepsis
+| Ceftazidime (3rd gen) | Broad spectrum including Pseudomonas, but $\downarrow$ activity against Gram +ve, empirical treatment against neutropenic [[Sepsis]]
 
 
 

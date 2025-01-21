@@ -14,7 +14,7 @@ Long-term inflammation of the bronchi.
 To be classified as chronic bronchitis:
 
 - You must have a cough and mucus most days for at least 3 months a year, for 2 years in a row.
-- Other causes of symptoms, such as tuberculosis or other lung diseases, must be ruled out.
+- Other causes of symptoms, such as [[Tuberculosis]] or other lung diseases, must be ruled out.
 
 ## Causes/Factors
 

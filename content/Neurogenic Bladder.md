@@ -17,13 +17,13 @@ Two types:
 
 ###### UMN
 
-- Stroke
+- [[Stroke]]
 - MS
 - Spinal injury
 
 ###### LMN
 
-- Pregnancy
+- [[Pregnancy]]
 - Diabetes
 - Alcohol (B12 deficiency)
 

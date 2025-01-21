@@ -137,7 +137,7 @@ An elevated JVP indicates **increased central venous pressure** secondary to flu
 
 - Scars - previous surgeries
 - Peritoneal dialysis catheter
-- Abdominal distension - [[Polycystic Kidney Disease]], [[Nephrotic syndrome]] (ascites)
+- Abdominal distension - [[Polycystic Kidney Disease]], [[Nephrotic syndrome]] ([[Snippets/Ascites|Ascites]])
 - Nephrostomy tube
 - Striae
 - Distension
@@ -165,7 +165,7 @@ If any **masses** are identified during deep palpation, assess the following c
 - **Size and shape:** assess the approximate size and shape of the mass.
 - **Consistency:** assess the consistency of the mass (e.g. smooth, soft, hard, irregular).
 - **Mobility:** assess if the mass appears to be attached to superficial or underlying structures.
-- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic aneurysm).
+- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic [[Snippets/Aneurysm|Aneurysm]]).
 
 Pay particular attention to the supra-pubic region. A distended bladder will be **dull** on percussion 
 

@@ -50,10 +50,10 @@ Lifelong gluten free diet. Some notable foods which are gluten-free include:
 Patients with coeliac disease often have a degree of **functional hyposplenism**
 - For this reason, all patients with coeliac disease are offered the pneumococcal vaccine
     - Coeliac UK recommends that everyone with coeliac disease is vaccinated against pneumococcal infection and has a booster every 5 years
-- Current guidelines suggest giving the influenza vaccine on an individual basis.
+- Current guidelines suggest giving the [[Snippets/Influenza|Influenza]] vaccine on an individual basis.
 
 ## Complications/red Flags
 
-- Anaemia
-- Dermatitis herpetiformis
+- [[Snippets/Anaemia|Anaemia]]
+- [[Snippets/Dermatitis Herpetiformis|Dermatitis Herpetiformis]]
 - Osteopenia/porosis

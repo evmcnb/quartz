@@ -12,9 +12,9 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
 - 90% are carcinomas
 - Non-small cell carcinoma 85%
     - **adenocarcinoma** 30% - mucin production
-    - **squamous cell carcinoma** 20% - presence of keratinization
+    - **[[Squamous cell carcinoma]]** 20% - presence of keratinization
     - large cell carcinoma 10%
-- **Small cell** 15% - arise from endocrine cells -> excrete peptides -> paraneoplastic syndromes
+- **Small cell** 15% - arise from endocrine cells -> excrete peptides -> [[Snippets/Paraneoplastic Syndromes|Paraneoplastic Syndromes]]
 
 Main morphological difference between the two is nuclear characteristics and amount of cytoplasm. Small cell "always" smoking
 #### Secondary Lung Tumours
@@ -44,15 +44,15 @@ Main morphological difference between the two is nuclear characteristics and amo
 
 **Small cell**  
 - ADH
-- ACTH - not typical, hypertension, hyperglycaemia, hypokalaemia, alkalosis and muscle weakness are more common than buffalo hump etc
+- ACTH - not typical, [[Essential hypertension]], hyperglycaemia, hypokalaemia, alkalosis and muscle weakness are more common than buffalo hump etc
 - [Lambert-Eaton syndrome](https://www.nosos.co.uk/snippets/lamberteaton-syndrome/)
 
   
 **Squamous cell**  
-- parathyroid hormone-related protein (PTH-rp) secretion causing **hypercalcaemia**
-- clubbing
+- parathyroid hormone-related protein (PTH-rp) secretion causing **[[Snippets/Hypercalcaemia|Hypercalcaemia]]**
+- [[clubbing]]
 - hypertrophic pulmonary osteoarthropathy (HPOA)
-- hyperthyroidism due to ectopic TSH
+- [[Snippets/Hyperthyroidism|Hyperthyroidism]] due to ectopic TSH
 
   
 **Adenocarcinoma**  
@@ -62,7 +62,7 @@ Main morphological difference between the two is nuclear characteristics and amo
 ## Signs
 
 - **[[clubbing]]** of fingers
-- anaemia
+- [[Snippets/Anaemia|Anaemia]]
 - [[Pleural Effusion]]
 - hepatomegaly
 - metastasis - lymphadenopathy

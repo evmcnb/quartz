@@ -47,7 +47,7 @@ tags: ['InfectiousDisease']
 | Virus | Transmission | Clinical | Other |
 | --- | --- | --- | --- |
 | Mumps | Resp droplet | Parotiditis, orchitis | Mumps meningoencephalitis can = deafness |
-| Measles | Resp droplet | Measles, encephalitis, SSPE | Rash starts on face + cough |
-| Rubella | Resp droplet | German measles, congenital rubella | Congenital = deafness, bilateral cataracts, cardiac defects |
+| Measles | Resp droplet | Measles, [[Snippets/Encephalitis|Encephalitis]], SSPE | Rash starts on face + cough |
+| Rubella | Resp droplet | German measles, congenital rubella | Congenital = deafness, bilateral [[Cataracts]], cardiac defects |
 | Parvovirus B19 | Resp droplet | Erythema infectiosum (red rash on face), aplastic crisis | Infects erythrocyte progenitors |
 

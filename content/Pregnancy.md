@@ -42,12 +42,12 @@ Should always be a balance of risk - drugs different again in lactation
 
 | Considered safe                                                                       | Contraindicated                     |
 | ------------------------------------------------------------------------------------- | ----------------------------------- |
-| Penicillins                                                                           | Tetracycline/doxycycline            |
-| Macrolides                                                                            | Ciprofloxacin                       |
-| Low molecular weight heparin                                                          | Trimethoprim (1st trimester)        |
-| Aspirin                                                                               | NSADs (3rd trimester)               |
+| [[Penicillins]]                                                                           | Tetracycline/[[Snippets/Doxycycline|Doxycycline]]            |
+| Macrolides                                                                            | [[Snippets/Ciprofloxacin|Ciprofloxacin]]                       |
+| Low molecular weight heparin                                                          | [[Snippets/Trimethoprim|Trimethoprim]] (1st trimester)        |
+| [[Snippets/Aspirin|Aspirin]]                                                                               | NSADs (3rd trimester)               |
 | Labetalol                                                                             | ACEi                                |
 | Nifedipine                                                                            | ARA                                 |
 | Adenosine                                                                             | Mycophenolate                       |
-| Prednisolone                                                                          | Warfarin                            |
-| Treatment for asthma: salbutamol, ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella) |  
+| [[Snippets/Prednisolone|Prednisolone]]                                                                          | [[Snippets/Warfarin|Warfarin]]                            |
+| Treatment for [[asthma]]: [[Snippets/Salbutamol|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella) |  

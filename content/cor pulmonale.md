@@ -7,7 +7,7 @@ date created: Sunday, November 12th 2023, 5:22:40 pm
 date modified: 2024-03-11
 date: 2023-11-12
 ---
-Cor Pulmonale right sided [[Heart Failure]] caused by chronic pulmonary artery hypertension.
+Cor Pulmonale right sided [[Heart Failure]] caused by chronic pulmonary artery [[Essential hypertension]].
 
 ## Causes/Factors
 

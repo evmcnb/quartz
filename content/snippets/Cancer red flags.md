@@ -11,7 +11,7 @@ tags: ['Oncology']
 * Symptomatic of SVC obstruction, stridor
 * Haemoptysis
 * Persistent/recurrent chest infection
-* Finger clubbing
+* Finger [[clubbing]]
 * Supraclavicular/cervical lymphadenopathy
 * Thrombocytosis
 * Two of: cough, fatigue, SOB, chest pain, weight loss, ↓appetite, smoker, asbestos
@@ -19,7 +19,7 @@ tags: ['Oncology']
 ## Upper GI
 
 * Dysphagia with weight loss and upper abdo pain/reflux/dyspepsia
-* Jaundice or upper abdo mass
+* [[Snippets/Jaundice|Jaundice]] or upper abdo mass
 * Diarrhoea plus back pain, abdo pain, nausea, constipation, new-onset diabetes
 * Haematemesis
 
@@ -28,7 +28,7 @@ tags: ['Oncology']
 * Faecal occult blood
 * Abdo pain plus weight loss
 * Rectal bleeding
-* Iron deficiency anaemia
+* Iron deficiency [[Snippets/Anaemia|Anaemia]]
 * Change in bowel habit
 * Rectal/abdo mass
 

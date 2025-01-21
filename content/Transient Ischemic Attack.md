@@ -9,7 +9,7 @@ date: 2023-10-05
 ---
 Ischaemic usually embolic neurological event with symptoms that resolve within 24hr
 
-**Without intervention 1 in 12 patients subsequently have a stroke within a week**
+**Without intervention 1 in 12 patients subsequently have a [[Stroke]] within a week**
 
 ## Causes/Factors
 
@@ -33,7 +33,7 @@ Specific to the arterial territory involved
 ## Management
 
 - **Control cardiovascular risk factors** 
-- Antiplatelet drugs - 300mg aspirin OD for 2 weeks, then switch to 75mg clopidogrel
+- Antiplatelet drugs - 300mg [[Snippets/Aspirin|Aspirin]] OD for 2 weeks, then switch to 75mg [[Snippets/Clopidogrel|Clopidogrel]]
 
 - Driving is prohibited for at least 1 month afterwards
 

@@ -40,7 +40,7 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 
 **Inflammatory breast cancer**
 - 1-3% of carcinomas
-- Presents similarly to a breast abscess or mastitis
+- Presents similarly to a [[Breast abscess]] or mastitis
 - Swollen, warm, tender breast with pitting skin (peau d'orange)
 - Does not respond to antibiotics
 - Worse prognosis than other breast cancers 
@@ -64,20 +64,20 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 - Family history - first degree (BRCA1/2 gene)
 	- BRCA1 gene on chromosome 17
 		- Around 70% will develop breast cancer by 80
-		- Around 50% will develop ovarian cancer
+		- Around 50% will develop [[Snippets/Ovarian Cancer|Ovarian Cancer]]
 		- Also increased risk of bowel and prostate
 	- BRCA2 gene on chromosome 13
 		- Around 60% will develop breast cancer by aged 80
-		- Around 20% will develop ovarian cancer 
-- Increased oestrogen exposure (earlier onset of periods and later menopause; nulliparity; 1st pregnancy 30>yrs old)
+		- Around 20% will develop [[Snippets/Ovarian Cancer|Ovarian Cancer]] 
+- Increased oestrogen exposure (earlier onset of periods and later menopause; nulliparity; 1st [[Pregnancy]] 30>yrs old)
 - More dense breast tissue - more glandular tissue
-- Obesity
+- [[Obesity]]
 - Smoking
 
 ## Presentation
 
-- Lumps that are hard, irregular, painless or fixed in place
-- Lumps may be tethered to the skin or the chest wall
+- [[Lumps]] that are hard, irregular, painless or fixed in place
+- [[Lumps]] may be tethered to the skin or the chest wall
 - Nipple retraction
 - Skin dimpling or oedema (peau d’orange)
 - Lymphadenopathy, particularly in the axilla
@@ -96,7 +96,7 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 >- **_Imaging_** (ultrasound or mammography)
 >- **_Biopsy_** (fine needle aspiration or core biopsy)
 
-- **_Ultrasound scans_** are typically used to assess lumps in younger women - distinguish solid lumps from cystic fluid
+- **_Ultrasound scans_** are typically used to assess [[Lumps]] in younger women - distinguish solid [[Lumps]] from cystic fluid
 - **_Mammograms_** are generally more effective in older women - can find calcifications
 - ***MRI*** for screening women in higher risk groups or to further assess the size and features of a tumour
 
@@ -119,11 +119,11 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 
 ### High risk patients
 There are different recommendations for screening patients with a higher risk.
-- Genetic counselling 
+- Genetic [[Counselling]] 
 - Annual mammogram
 - Chemoprevention 
 	- Tamoxifen (ER modulator) if premenopausal
-	- Anastrozole (prevents conversion of androgens to oestrogen) if post (except with severe osteoporosis)
+	- Anastrozole (prevents conversion of androgens to oestrogen) if post (except with severe [[osteoporosis]])
 
 ## Management
 

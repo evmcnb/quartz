@@ -20,7 +20,7 @@ Peripheral arterial disease (PAD) is where a build-up of fatty deposits in the a
 **_Atherosclerosis_**
 
 - Smoking
-- Obesity
+- [[Obesity]]
 - [[Essential hypertension|hypertension]]
 - etc
 
@@ -44,9 +44,9 @@ Peripheral arterial disease (PAD) is where a build-up of fatty deposits in the a
 
 ## Management
 
-- Low dose aspirin to start
+- Low dose [[Snippets/Aspirin|Aspirin]] to start
 - Then stenting
 
 ## Complications/red Flags
 
-- Eventually develop gangrene due to oxygen starvation and require amputation
+- Eventually develop gangrene due to [[Snippets/Oxygen|Oxygen]] starvation and require amputation

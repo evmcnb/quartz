@@ -21,10 +21,10 @@ tags: ['InfectiousDisease']
 ## Candida
 
 * Yeast (dimorphic)
-* Cause thrush - disease of oral and vaginal mucosa (fluconazole)
-* Candidaemia can lead to occular candidosis and candida endocarditis
+* Cause thrush - disease of oral and vaginal mucosa ([[Snippets/Fluconazole|Fluconazole]])
+* Candidaemia can lead to occular candidosis and candida [[Snippets/Endocarditis|Endocarditis]]
 * Avoid azole therapy for vaginal thrush in pregnant women
-* Opportunistic - $\uparrow$ HIV patients
+* Opportunistic - $\uparrow$ [[HIV]] patients
 
 ## Aspergillus
 
