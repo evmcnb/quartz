@@ -85,10 +85,10 @@ To determine whether it is true left axis deviation look at lead II and it will 
 1. Examine the ST segments
 	- 1mm in at least 2 anatomically continuous leads
 	- ST elevation: STEMI, LBBB, LVH, early repolarization, [[snippets/Pericarditis|Pericarditis]], vasospasm 
-	- ST [[Depression]]: Ischaemia/infarction, tachycardia, [[snippets/Digoxin|Digoxin]], hypokalaemia, secondary repolarization abnormality 
+	- ST Depression: Ischaemia/infarction, tachycardia, [[snippets/Digoxin|Digoxin]], hypokalaemia, secondary repolarization abnormality 
 
 2. Examine the [[snippets/T waves|T waves]]
-	- Inverted [[snippets/T waves|T waves]] same as ST [[Depression]] + intracranial haemorrhage, later stage [[snippets/Pericarditis|Pericarditis]] and [[Hypothyroidism]]
+	- Inverted [[snippets/T waves|T waves]] same as ST Depression + intracranial haemorrhage, later stage [[snippets/Pericarditis|Pericarditis]] and [[Hypothyroidism]]
 	- Peaked [[snippets/T waves|T waves]] suggest [[snippets/Hyperkalaemia|Hyperkalaemia]] or hyperacute MI
 
 3. Measure QT interval and correct for HR (should be <1/2 RR interval)
