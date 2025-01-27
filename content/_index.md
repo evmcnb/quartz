@@ -1,15 +1,15 @@
 ---
 tags: 
-title: Nosos Notes
+title: _index
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
-date modified: 2024-03-11
+date modified: 2025-01-27
 date: 2024-02-17
 ---
 
 ![[z_attachments/logo5.png|245]]
 
-> [Back](https://www.nosos.co.uk/snippets)
+> [Back](https://www.nosos.co.uk/)
 
 **Welcome to the Nosos Notes Collection**, access high-quality notes and study materials to support your studies at any stage.
 
@@ -22,13 +22,6 @@ date: 2024-02-17
 ## About Us
 
 Created by medical students for medical students, this site aims to simplify accessing comprehensive and collaborative medical study materials. We thrive on the principle that sharing and collaborating enhance learning for everyone involved.
-
-## Contributing
-
-Join us in enriching our community's resources. If you have informative notes or corrections to suggest, here's how you can contribute:
-
-- Fork this repository, create a branch, make your changes, and submit a pull request. We review submissions and add valuable contributions to our collection.
-- Remember to provide references for your information and respect patient privacy.
 
 ## Disclaimer
 
