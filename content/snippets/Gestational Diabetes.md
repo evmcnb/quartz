@@ -5,7 +5,7 @@ date modified: 2024-01-21 13:31:10.557695+00
 tags: ['OBGYN', 'Endocrinology']
 ---
 
-
+Women with a BMI > 30 should be offered oral glucose tolerance test at 24-28 weeks in the pregnancy. Insulin resistance usually starts at 24 weeks into the pregnancy. 
 
 * New in [[Pregnancy]]
 * HbA1c not recommended
