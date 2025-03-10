@@ -31,8 +31,14 @@ Diagnosis is based on stool samples. Stools can be tested for:
 
 * Oral vancomycin 1st
 * Oral fidaxomicin 2nd
+* Oral vancomycin + IV metronidazole 3rd
 
 Source isolated for 48 hrs after the last episode of diarrhoea. High recurrence rate. Foaecal microbiota transplant is an option for recurrent cases after 2 or more episodes
+
+#### Further episodes
+
+- Relapse within 12 weeks - oral fidaxomicin
+- Relapse after 12 weeks - oral vancomycin or oral fidaxomicin 
 
 ## Complications
 
@@ -42,5 +48,5 @@ Inflammation in the large intestine with yellow/white plaques that form pseudome
 
 ### Toxic megacolon
 
-Complication of severe inflammation in the large intestine and involves dilation of the colon. Patients are very unwell and have a high risk
+Complication of severe inflammation in the large intestine and involves dilation of the colon. Patients are very unwell and have a high risk. Stop anti-motility drugs (e.g. codeine, loperamide) to reduce risk.
 
