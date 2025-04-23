@@ -1,7 +1,7 @@
 ---
 tags:
   - Cardiovascular
-title: Snippet Template
+title: Ankle Brachial Pressure Indexmplate
 date: 2023-09-27
 date modified: 2025-04-23
 ---
