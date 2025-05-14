@@ -12,9 +12,28 @@ date: 2024-01-14
 
 An acute lower respiratory tract infection associated with fever and other abnormal chest symptoms and signs
 
+**Bacterial**
+* Usually rapid onset
+* Productive cough
+* SOB
+* Fatigue, anorexia, myalgia, fever
+* Dull to percuss with reduced air entry
+
+
+**Viral**
+* [[snippets/Influenza|Influenza]] A and B in adults
+* RSV and parainfluenza in children
+* Herpes [[snippets/Viruses|Viruses]] in immunocompromised
+
 ## Causes/Factors
 
-- Community acquired (CAP) - most common streptococcus pneumoniae. Occurring outside of hospital or within 48hr of admission
+- **Community acquired** (CAP) - most common **streptococcus pneumoniae**. Occurring outside of hospital or within 48hr of admission
+- Haemophilus influenzae - common in older patients with [[COPD]] 
+- Klebsiella pneumonia - more common in diabetics and patients with alcohol excess. Frequently caused by aspiration. Can cause "red jelly". Commonly affects upper lobes
+- Staphylococcus aureus pneumonia commonly occurs after influenza or as a complication of measles infection. CXR shows multi-lobar consolidation, cavitation or pneumothorax
+
+- Mycoplasma is a typical which classically presents with a gradual onset dry cough and other weird symptoms - autoimmune haemolytic anaemia and erythema multiforme 
+
   ![|600](z_attachments/600.png)
   
 ### **CURB-65** - one point for each
