@@ -27,7 +27,7 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Deep Ve
 
 - Pyrexia - usually low grade
 - Cyanosis
-- Sinus tachycardia ([other ECG changes](https://www.nosos.co.uk/snippets/pe-ecg-changes/))
+- Sinus tachycardia ([[snippets/PE ECG changes|PE ECG changes]])
 - Tachypnoea (may lead to resp alkalosis)
 - Hypotension
 - Raised JVP

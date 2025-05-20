@@ -9,7 +9,7 @@ tags: ['Acute']
 
 Type I IgE mediated hypersensitivity reaction. Release of histamine and other cytokines
 
-More common in [atopic individuals](https://www.nosos.co.uk/snippets/atopic-individuals/)
+More common in [[snippets/Atopic individuals|Atopic individuals]]
 
 Precipitants
 

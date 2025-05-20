@@ -36,7 +36,7 @@ date: 2024-02-09
 
 ### Liver
 - Liver nodules
-- [Cirrhosis](https://www.nosos.co.uk/snippets/cirrhosis/)
+- [[snippets/Cirrhosis|Cirrhosis]]
 - Cholestasis
 
 ### Eyes

@@ -18,8 +18,7 @@ Causes
 * Pseudohypoparathyroidism Type 1A - bones + kidney don't respond to parathyroid hormones - defective parathyroid hormone receptor
 * **Surgical damage to the gland after thyroidectomy**
 
-Symptoms of hypocalcemia and [[snippets/Hyperphosphatemia|Hyperphosphatemia]] ([table](https://www.nosos.co.uk/snippets/electrolyte-imbalance/))
-
+Symptoms of hypocalcemia and [[snippets/Hyperphosphatemia|Hyperphosphatemia]] ([[snippets/Electrolyte imbalance|table]])
 ## Secondary
 
 [[Depression]] due to chronic [[snippets/Hypocalcaemia|Hypocalcaemia]], would likely accompanied by signs of [[snippets/Hypocalcaemia|Hypocalcaemia]]

@@ -58,7 +58,7 @@ Dependance on alcohol and then suddenly going cold turkey has a risk of progress
 
 ##### Management
 - Chlordiazepoxide - benzo used to combat the effects. Given orally and titrated
-- High dose B vitamins (Pabrinex) IV, followed by long term oral thiamine. Prevention of [Wernicke-Korsakoff syndrome](https://www.nosos.co.uk/snippets/wernicke-korsakoff-syndrome/)
+- High dose B vitamins (Pabrinex) IV, followed by long term oral thiamine. Prevention of [[snippets/Wernicke-Korsakoff syndrome|Wernicke-Korsakoff syndrome]]
 
 #### Delirium tremens
 - Medial emergency - 35% mortality if left untreated
