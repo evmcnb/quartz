@@ -7,7 +7,7 @@ tags: ['Symptom']
 
 
 
-* Rapid [[snippets/Bone|Bone]] turnover and formation - \(\uparrow\) ALP
+* Rapid [[snippets/Bone|Bone]] turnover and formation - $\uparrow$ ALP
 * Abnormal [[snippets/Bone|Bone]] remodelling mainly in over 50 year old
 * [[snippets/Bone|Bone]] pain, deformity, fractures, arthritis
 * Cranial nerve defects if skull affected

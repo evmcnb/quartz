@@ -8,5 +8,5 @@ tags: ['OBGYN']
 
 
 * [[Obesity]], PCOS, estrogen exposure - treatment by reducing exposure
-* Simple with normal stroma:gland complex \(\uparrow\) glands:\(\downarrow\) stroma
+* Simple with normal stroma:gland complex $\uparrow$ glands:$\downarrow$ stroma
 

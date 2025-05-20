@@ -8,7 +8,7 @@ tags: ['Neurology', 'Orthopaedics']
 
 
 * Pterion formed of joining of parietal, frontal, sphenoid and temporal
-  + Trauma \(\rightarrow\) ruptured middle meningeal \(\rightarrow\) extradural
+  + Trauma $\rightarrow$ ruptured middle meningeal $\rightarrow$ extradural
 * Dural folds: falx cerebri, tentorium cerebelli, falx cerebelli
 * Sinuses: superior and inferior sagittal sinus, straight sinus transverse sinus, sigmoid sinus, cavernous sinus
 * Epidural space occupied by fat in spinal cord

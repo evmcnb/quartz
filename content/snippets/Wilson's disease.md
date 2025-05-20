@@ -9,9 +9,9 @@ tags: ['Gastroenterology']
 
 Inborn error of copper metabolism that usually presents at a younger age. Copper accumulates in:
 
-* Liver \(\rightarrow\) [[snippets/Cirrhosis|Cirrhosis]]
-* Eyes \(\rightarrow\) Kayser-Fleischer rings
-* Brain \(\rightarrow\) ataxia etc
+* Liver $\rightarrow$ [[snippets/Cirrhosis|Cirrhosis]]
+* Eyes $\rightarrow$ Kayser-Fleischer rings
+* Brain $\rightarrow$ ataxia etc
 
 Check serum copper & caeruloplasmin, uninary copper, slit lamp and liver biopsy
 

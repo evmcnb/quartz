@@ -7,7 +7,7 @@ tags: ['Nephrology', 'Urology']
 
 
 
-Stones forming in the lumen of the urinary tract, anywhere from renal calyx \(\rightarrow\) bladder. Types:
+Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\rightarrow$ bladder. Types:
 
 * Calcium oxalate 70% - raised calcium
 * Urate 5% - raised urate, [[gout]] etc

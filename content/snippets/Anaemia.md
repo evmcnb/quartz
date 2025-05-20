@@ -9,14 +9,14 @@ tags: ['Haematology']
 
 | Disease | Iron | TIBC | Ferritin |
 | --- | --- | --- | --- |
-| Iron deficiency | \(\downarrow\) | \(\uparrow\) | \(\downarrow\) |
-| Anaemia of chronic disease | \(\downarrow\) | \(\downarrow\) | \(\uparrow\) |
-| Chronic haemolysis | \(\uparrow\) | \(\downarrow\) | \(\uparrow\) |
-| [[snippets/Haemochromatosis|Haemochromatosis]] | \(\uparrow\) | \(\downarrow\) or \(\leftrightarrow\) | \(\uparrow\) |
-| [[Pregnancy]] | \(\uparrow\) | \(\uparrow\) | \(\leftrightarrow\) |
-| Sideroblastic anaemia | \(\uparrow\) | \(\leftrightarrow\) | \(\uparrow\) |
+| Iron deficiency | $\downarrow$ | $\uparrow$ | $\downarrow$ |
+| Anaemia of chronic disease | $\downarrow$ | $\downarrow$ | $\uparrow$ |
+| Chronic haemolysis | $\uparrow$ | $\downarrow$ | $\uparrow$ |
+| [[snippets/Haemochromatosis|Haemochromatosis]] | $\uparrow$ | $\downarrow$ or $\leftrightarrow$ | $\uparrow$ |
+| [[Pregnancy]] | $\uparrow$ | $\uparrow$ | $\leftrightarrow$ |
+| Sideroblastic anaemia | $\uparrow$ | $\leftrightarrow$ | $\uparrow$ |
 
-Haemolytic - macrocytic \(\uparrow\) reticulocytes \(\uparrow\) bilirubin
+Haemolytic - macrocytic $\uparrow$ reticulocytes $\uparrow$ bilirubin
 
 * Things wrong inside cell - sickle cell, G6PD def, [[snippets/Thalassaemia|Thalassaemia]]
 * Things wrong with RBC membrane - spherocytosis elliptocytosis
