@@ -17,12 +17,9 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs({
-      spacerSymbol: "❯", // symbol between crumbs
-      rootName: "Home", // name of first/root element
-      resolveFrontmatterTitle: true, // whether to resolve folder names through frontmatter titles
-      hideOnRoot: true, // whether to hide breadcrumbs on root `index.md` page
-      showCurrentPage: true, // whether to display the current page in the breadcrumbs
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
@@ -30,11 +27,18 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
-    Component.Darkmode(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.DesktopOnly(Component.RecentNotes()),
-    // Component.DesktopOnly(Component.Explorer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
+      ],
+    }),
+    Component.RecentNotes({ limit: 4 }),
   ],
   right: [
     Component.Graph({
