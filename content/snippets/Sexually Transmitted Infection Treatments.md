@@ -2,9 +2,9 @@
 tags:
   - InfectiousDisease
   - Urology
-title: Snippet Template
+title: Sexually Transmitted Infpcpionetr Temmntsplate
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: 2025-054-123
 ---
 
 Empirical treatment consists of an STI is a STAT dose of IM ceftriaxone to cover for _Neisseria gonorrhoeae_ and a 10-14 day course of oral doxycycline to cover for _Chlamydia trachomatis_. This treatment reflects the most commonly transmitted bacterial sexually transmitted infections in the UK.

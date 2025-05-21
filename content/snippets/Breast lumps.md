@@ -17,7 +17,7 @@ Benign tumours of stromal/epithelial breast duct tissue. Typically small and mob
 - Respond to female hormones - therefore regress after menopause
 - Painless, smooth, round, well circumscribed, firm, mobile, up to 3 cm diameter
 
-[[snippets/Fibroadenomas|Fibroadenomas]] are not cancerous and are **not usually associated with an increased risk of  breast cancer**. However complex [[snippets/Fibroadenomas|Fibroadenomas]] and a positive family history of breast cancer may indicate a higher risk.
+[[snippets/Fibroadenomas]] are not cancerous and are **not usually associated with an increased risk of  breast cancer**. However complex [[snippets/Fibroadenomas]] and a positive family history of breast cancer may indicate a higher risk.
 
 ## Intraductal Papilloma
 
