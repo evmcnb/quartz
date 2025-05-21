@@ -19,56 +19,6 @@ date: 2024-02-17
 > - Explore the graph view at the page's bottom.
 > - Check out the [tags](https://notes.nosos.co.uk/tags/) for more topics.
 
-<Cards cols={2}>
-  <Card 
-    icon={<BookIcon />} 
-    title="User Manual" 
-    href="/user-manual" 
-    description="Complete user guide and features" 
-  />
-  <Card 
-    icon={<Paintbrush />} 
-    title="CSS Live Editing" 
-    href="/guides/live-editing" 
-    description="Live CSS editing for customizing the browser" 
-  />
-  <Card
-    icon={<Hammer />}
-    title="Build the Browser"
-    href="/guides/building"
-    description="Build the browser from source"
-  />
-  <Card 
-    icon={<PaletteIcon />} 
-    title="Mods Registry" 
-    href="/themes-store/themes-marketplace" 
-    description="Custom themes and modifications" 
-  />
-  <Card 
-    icon={<HelpCircleIcon />} 
-    title="FAQ" 
-    href="/faq" 
-    description="Frequently asked questions" 
-  />
-  <Card 
-    icon={<ShieldIcon />} 
-    title="Security" 
-    href="/security" 
-    description="Security features and protocols" 
-  />
-  <Card 
-    icon={<SpeechIcon />} 
-    title="Code of Conduct" 
-    href="/contribute/code-of-conduct" 
-    description="Community guidelines" 
-  />
-  <Card 
-    icon={<HeartIcon />} 
-    title="Contribute" 
-    href="/contribute/contributing" 
-    description="How to contribute to the project" 
-  />
-</Cards>
 ## Disclaimer
 
 > [!warning] **Notice**
