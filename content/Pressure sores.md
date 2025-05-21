@@ -3,7 +3,7 @@ tags:
   - Cardiovascular
 title: Pressure sores
 date created: Friday, February 23rd 2024, 10:55:08 am
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-02-23
 ---
 Localised damage to the skin due to pressure in combination with a shearing force.

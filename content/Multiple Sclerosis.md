@@ -5,7 +5,7 @@ tags:
   - Incomplete
 title: Multiple Sclerosis
 date: 2024-11-06
-modified: 2024-11-06
+date modified: 2024-11-06
 ---
 Chronic progressive autoimmune demyelinating **CNS** condition
 - Only attacks the oligodendrocytes in the CNS

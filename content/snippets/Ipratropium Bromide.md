@@ -1,7 +1,7 @@
 ---
 title: "Ipratropium Bromide"
 date created: 2024-04-09 20:21:20.361669+01
-modified: 2024-04-09 20:21:20.366876+01
+date modified: 2024-04-09 20:21:20.366876+01
 tags: ['Respiratory', 'Drug']
 ---
 

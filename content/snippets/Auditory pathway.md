@@ -1,7 +1,7 @@
 ---
 title: "Auditory pathway"
 date created: Sunday, January 21th 2024, 11:48:31 AM
-modified: 2024-01-21 11:48:31.765484+00
+date modified: 2024-01-21 11:48:31.765484+00
 tags: ['ENT', 'Neurology']
 ---
 

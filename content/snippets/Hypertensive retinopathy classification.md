@@ -1,7 +1,7 @@
 ---
 title: "Hypertensive retinopathy classification"
 date created: 2024-04-11 18:27:27.365871+01
-modified: 2024-04-11 18:27:27.372441+01
+date modified: 2024-04-11 18:27:27.372441+01
 tags: ['Ophthalmology']
 ---
 

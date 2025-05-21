@@ -1,7 +1,7 @@
 ---
 title: "Clopidogrel"
 date created: 2024-04-08 19:09:52.074469+01
-modified: 2024-04-08 19:09:52.079571+01
+date modified: 2024-04-08 19:09:52.079571+01
 tags: ['Cardiovascular', 'Drug']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Wernicke-Korsakoff syndrome"
 date created: Tuesday, March 19th 2024, 02:21:02 PM
-modified: 2024-03-19 14:21:02.413269+00
+date modified: 2024-03-19 14:21:02.413269+00
 tags: ['Gastroenterology', 'Neurology', 'Psychiatry']
 ---
 

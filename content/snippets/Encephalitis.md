@@ -1,7 +1,7 @@
 ---
 title: "Encephalitis"
 date created: Friday, February 23th 2024, 02:01:10 PM
-modified: 2024-02-23 14:01:10.308348+00
+date modified: 2024-02-23 14:01:10.308348+00
 tags: ['Neurology']
 ---
 

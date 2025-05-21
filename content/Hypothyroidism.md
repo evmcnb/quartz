@@ -3,7 +3,7 @@ tags:
   - Endocrinology
 title: Hypothyroidism
 date created: Sunday, September 24th 2023, 5:31:12 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-09-27
 ---
 - Underactive thyroid

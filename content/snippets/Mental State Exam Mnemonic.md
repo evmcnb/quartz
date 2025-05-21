@@ -1,7 +1,7 @@
 ---
 title: "Mental State Exam Mnemonic"
 date created: Tuesday, February 06th 2024, 12:23:09 PM
-modified: 2024-02-06 12:23:09.233055+00
+date modified: 2024-02-06 12:23:09.233055+00
 tags: ['Examination', 'OSCE', 'Psychiatry']
 ---
 

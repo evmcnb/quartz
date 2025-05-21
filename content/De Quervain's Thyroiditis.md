@@ -2,7 +2,7 @@
 tags: Endocrinology
 title: "De Quervain's Thyroiditis"
 date created: Monday, March 11th 2024, 7:24:03 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-03-11
 ---
 De Quervain $\rightarrow$ De QuerPAIN 

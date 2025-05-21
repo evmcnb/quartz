@@ -2,7 +2,7 @@
 tags: 
 title: Bipolar disorder
 date: 2024-01-19
-modified: 2024-03-11
+date modified: 2024-03-11
 ---
 Usually spent more in depressive phase, rather than manic
 

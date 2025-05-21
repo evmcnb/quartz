@@ -3,7 +3,7 @@ tags:
   - Cardiovascular
 title: Coronary Artery Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 aliases:
   - Ischemic Heart Disease
 date: 2023-11-12

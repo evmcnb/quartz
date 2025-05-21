@@ -4,7 +4,7 @@ tags:
   - Antibiotic
 title: Cephalosporins
 date created: Thursday, September 28th 2023, 12:56:34 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-09-28
 ---
 - $\beta$-lactam (cell wall synthesis inhibitors)

@@ -4,7 +4,7 @@ tags:
   - OSCE
 title: RRAPID Conditions and Management
 date: 2024-04-27
-modified: 2024-04-27
+date modified: 2024-04-27
 ---
 >[!tldr] SAMPLE History Whilst Assessing Airway
 >- **S**igns and symptoms

@@ -2,7 +2,7 @@
 tags: Dermatology
 title: Folliculitis
 date created: Thursday, December 21st 2023, 5:30:35 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-01-11
 ---
 Folliculitis is a common skin condition that causes red bumps or pustules around hair follicles. Infections (bacterial, fungal, or viral) and factors like friction, shaving, or a weakened immune system contribute to its development.

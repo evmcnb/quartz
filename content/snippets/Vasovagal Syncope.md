@@ -1,7 +1,7 @@
 ---
 title: "Vasovagal Syncope"
 date created: Monday, February 26th 2024, 12:25:09 PM
-modified: 2024-02-26 12:25:09.063137+00
+date modified: 2024-02-26 12:25:09.063137+00
 tags: ['Neurology', 'Cardiovascular']
 ---
 

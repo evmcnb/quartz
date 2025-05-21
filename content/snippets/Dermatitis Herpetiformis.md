@@ -1,7 +1,7 @@
 ---
 title: "Dermatitis Herpetiformis"
 date created: Sunday, January 21th 2024, 02:41:30 PM
-modified: 2024-01-21 14:41:30.061302+00
+date modified: 2024-01-21 14:41:30.061302+00
 tags: ['Dermatology']
 ---
 

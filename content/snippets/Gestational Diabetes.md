@@ -1,7 +1,7 @@
 ---
 title: "Gestational Diabetes"
 date created: Sunday, January 21th 2024, 01:31:10 PM
-modified: 2024-01-21 13:31:10.557695+00
+date modified: 2024-01-21 13:31:10.557695+00
 tags: ['OBGYN', 'Endocrinology']
 ---
 

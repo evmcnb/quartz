@@ -4,7 +4,7 @@ tags:
   - ENT
 title: "Sjogren's syndrome"
 date created: Saturday, October 7th 2023, 4:44:55 pm
-modified: 2024-04-21
+date modified: 2024-04-21
 date: 2023-10-12
 ---
 Chronic autoimmune disorder - inflammation and dysfunction of the exocrine glands, primarily the salivary and lacrimal glands. 

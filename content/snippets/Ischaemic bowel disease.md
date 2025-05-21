@@ -1,7 +1,7 @@
 ---
 title: "Ischaemic bowel disease"
 date created: Sunday, January 21th 2024, 03:50:29 PM
-modified: 2024-01-21 15:50:29.404383+00
+date modified: 2024-01-21 15:50:29.404383+00
 tags: ['Gastroenterology', 'Surgery']
 ---
 

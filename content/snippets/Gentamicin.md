@@ -1,7 +1,7 @@
 ---
 title: "Gentamicin"
 date created: Sunday, January 21th 2024, 11:13:03 AM
-modified: 2024-04-13 18:35:51.783188+01
+date modified: 2024-04-13 18:35:51.783188+01
 tags: ['Antibiotic', 'Drug']
 ---
 

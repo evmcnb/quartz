@@ -1,7 +1,7 @@
 ---
 title: "Losartan"
 date created: 2024-04-08 18:16:39.148324+01
-modified: 2024-04-08 18:16:39.15305+01
+date modified: 2024-04-08 18:16:39.15305+01
 tags: ['Cardiovascular', 'Drug']
 ---
 

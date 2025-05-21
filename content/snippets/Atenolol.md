@@ -1,7 +1,7 @@
 ---
 title: "Atenolol"
 date created: 2024-04-08 17:56:43.641118+01
-modified: 2024-04-08 18:17:14.804006+01
+date modified: 2024-04-08 18:17:14.804006+01
 tags: ['Drug', 'Cardiovascular']
 ---
 

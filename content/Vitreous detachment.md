@@ -4,7 +4,7 @@ tags:
   - Incomplete
 title: Vitreous detachment
 date: 2024-02-09
-modified: 2024-04-21
+date modified: 2024-04-21
 ---
 With age the vitreous gets less jelly-like and more firm - loss of fluid, pulls the vitreous off the posterior wall 
 ![[z_attachments/Pasted image 20240416103155.png]]

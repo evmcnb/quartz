@@ -4,7 +4,7 @@ tags:
   - Antibiotic
 title: Bacterial protein synthesis inhibitors
 date created: Friday, September 29th 2023, 11:20:24 am
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-11-04
 ---
 ## Aminoglycosides

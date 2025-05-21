@@ -1,7 +1,7 @@
 ---
 title: "Metabolic changes following trauma"
 date created: Sunday, January 21th 2024, 04:06:23 PM
-modified: 2024-01-21 16:06:23.008296+00
+date modified: 2024-01-21 16:06:23.008296+00
 tags: ['Acute', 'Geriatrics', 'Surgery']
 ---
 

@@ -3,7 +3,7 @@ tags:
   - Dermatology
 title: Acne vulgaris
 date created: Saturday, December 23rd 2023, 2:01:46 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-01-14
 aliases:
   - Acne

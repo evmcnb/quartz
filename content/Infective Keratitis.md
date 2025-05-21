@@ -3,7 +3,7 @@ tags:
   - Ophthalmology
 title: Infective Keratitis
 date created: Wednesday, February 7th 2024, 12:58:38 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-02-07
 aliases:
   - Corneal ulcer

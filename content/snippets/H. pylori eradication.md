@@ -1,7 +1,7 @@
 ---
 title: "H. pylori eradication"
 date created: 2024-05-10 13:53:22.807884+01
-modified: 2024-05-10 13:53:22.814258+01
+date modified: 2024-05-10 13:53:22.814258+01
 tags: ['Gastroenterology']
 ---
 

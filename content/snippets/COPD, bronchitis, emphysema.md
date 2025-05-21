@@ -1,7 +1,7 @@
 ---
 title: "COPD, bronchitis, emphysema"
 date created: Saturday, January 20th 2024, 12:15:43 AM
-modified: 2024-04-06 16:02:42.438227+01
+date modified: 2024-04-06 16:02:42.438227+01
 tags: ['Respiratory']
 ---
 

@@ -4,7 +4,7 @@ tags:
   - Drug
 title: Carbapenems
 date created: Thursday, September 28th 2023, 1:06:49 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-09-28
 ---
 - Broadest spectrum of all $\beta$ lacatam antibiotics (cell wall synthesis inhibitor)

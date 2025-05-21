@@ -2,7 +2,7 @@
 tags: [Endocrinology, Rheumatology]
 title: "Addison's Disease"
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-11-01
 ---
 

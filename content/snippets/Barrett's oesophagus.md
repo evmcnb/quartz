@@ -1,7 +1,7 @@
 ---
 title: "Barrett's oesophagus"
 date created: Sunday, January 21th 2024, 02:45:25 PM
-modified: 2024-05-16 17:54:31.477069+01
+date modified: 2024-05-16 17:54:31.477069+01
 tags: ['ENT', 'Gastroenterology', 'Oncology']
 ---
 

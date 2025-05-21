@@ -1,7 +1,7 @@
 ---
 title: "Clindamycin"
 date created: Friday, March 01th 2024, 04:25:21 PM
-modified: 2024-03-01 16:25:21.91038+00
+date modified: 2024-03-01 16:25:21.91038+00
 tags: ['Antibiotic', 'Drug']
 ---
 

@@ -3,7 +3,7 @@ title: Pulmonary Fibrosis
 tags:
   - Respiratory
 date created: Wednesday, August 16th 2023, 1:57:16 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-09-18
 ---
 Pulmonary fibrosis is a progressive lung disease characterized by the scarring and thickening of lung tissues. This scarring, known as fibrosis, makes it harder for the lungs to function properly and can result in breathing difficulties and reduced [[snippets/Oxygen|Oxygen]] exchange.

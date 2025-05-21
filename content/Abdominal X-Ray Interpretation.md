@@ -5,7 +5,7 @@ tags:
   - Gastroenterology
 title: Abdominal X-Ray Interpretation
 date: 2024-04-27
-modified: 2024-04-27
+date modified: 2024-04-27
 ---
 ### 1. Patient details
 

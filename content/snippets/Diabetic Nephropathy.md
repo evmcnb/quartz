@@ -1,7 +1,7 @@
 ---
 title: "Diabetic Nephropathy"
 date created: Friday, March 08th 2024, 03:00:14 PM
-modified: 2024-03-08 15:00:30.583803+00
+date modified: 2024-03-08 15:00:30.583803+00
 tags: ['Endocrinology', 'Nephrology']
 ---
 

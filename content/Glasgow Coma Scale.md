@@ -1,7 +1,7 @@
 ---
 title: Glasgow Coma Scale
 date created: Wednesday, October 4th 2023, 4:35:16 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 tags:
   - OSCE
   - Examination

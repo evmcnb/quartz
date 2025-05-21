@@ -1,7 +1,7 @@
 ---
 title: "Diabetes Sick Day Rules"
 date created: 2024-04-10 15:26:04.881591+01
-modified: 2024-04-10 15:26:04.886569+01
+date modified: 2024-04-10 15:26:04.886569+01
 tags: ['Drug', 'Endocrinology']
 ---
 

@@ -3,7 +3,7 @@ tags:
   - Geriatrics
 title: osteoporosis
 date created: Friday, November 10th 2023, 1:52:40 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-11-10
 ---
 Reduced [[snippets/Bone|Bone]] mass

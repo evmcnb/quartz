@@ -1,7 +1,7 @@
 ---
 title: "Septic Arthritis"
 date created: Sunday, January 21th 2024, 02:43:13 PM
-modified: 2024-02-23 13:24:38.774387+00
+date modified: 2024-02-23 13:24:38.774387+00
 tags: ['Acute', 'Orthopaedics']
 ---
 

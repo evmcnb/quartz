@@ -2,7 +2,7 @@
 tags: [Dermatology, Oncology, Surgery]
 title: Lumps
 date created: Friday, November 10th 2023, 12:48:36 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-11-29
 ---
 ## Terminology

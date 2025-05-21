@@ -1,7 +1,7 @@
 ---
 title: "Ciprofloxacin"
 date created: 2024-04-13 17:43:10.185983+01
-modified: 2024-04-13 17:43:10.191757+01
+date modified: 2024-04-13 17:43:10.191757+01
 tags: ['Antibiotic', 'Drug']
 ---
 

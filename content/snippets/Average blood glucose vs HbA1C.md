@@ -1,7 +1,7 @@
 ---
 title: "Average blood glucose vs HbA1C"
 date created: Tuesday, March 05th 2024, 03:37:56 PM
-modified: 2024-03-05 15:37:56.588564+00
+date modified: 2024-03-05 15:37:56.588564+00
 tags: ['Haematology', 'Endocrinology']
 ---
 

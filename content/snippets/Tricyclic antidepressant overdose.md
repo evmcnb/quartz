@@ -1,7 +1,7 @@
 ---
 title: "Tricyclic antidepressant overdose"
 date created: Sunday, January 21th 2024, 11:18:37 AM
-modified: 2024-01-21 11:18:37.549049+00
+date modified: 2024-01-21 11:18:37.549049+00
 tags: ['Acute', 'Psychiatry']
 ---
 

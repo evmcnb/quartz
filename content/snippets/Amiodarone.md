@@ -1,7 +1,7 @@
 ---
 title: "Amiodarone"
 date created: 2024-04-08 18:51:02.732966+01
-modified: 2024-04-08 18:55:40.029963+01
+date modified: 2024-04-08 18:55:40.029963+01
 tags: ['Cardiovascular', 'Drug']
 ---
 

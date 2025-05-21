@@ -1,7 +1,7 @@
 ---
 title: "Doxycycline"
 date created: Saturday, January 20th 2024, 05:22:25 PM
-modified: 2024-04-19 13:58:17.571591+01
+date modified: 2024-04-19 13:58:17.571591+01
 tags: ['Antibiotic', 'Drug']
 ---
 

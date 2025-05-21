@@ -1,7 +1,7 @@
 ---
 title: "Autoimmune types"
 date created: Sunday, January 21th 2024, 12:25:15 PM
-modified: 2024-01-21 12:25:15.995896+00
+date modified: 2024-01-21 12:25:15.995896+00
 tags: ['Rheumatology']
 ---
 

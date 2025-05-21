@@ -5,7 +5,7 @@ tags:
   - MSK
 title: Wrist Exam
 date: 2024-04-30
-modified: 2024-04-30
+date modified: 2024-04-30
 ---
 
 ## Introduction

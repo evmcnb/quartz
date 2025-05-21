@@ -1,7 +1,7 @@
 ---
 title: "Antibiotics in Pharyngitis"
 date created: 2024-04-12 13:55:02.251784+01
-modified: 2024-04-12 13:55:02.256918+01
+date modified: 2024-04-12 13:55:02.256918+01
 tags: ['ENT']
 ---
 

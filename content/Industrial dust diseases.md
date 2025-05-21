@@ -3,7 +3,7 @@ tags:
   - Respiratory
 title: Industrial dust diseases
 date created: Saturday, October 7th 2023, 4:44:52 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 aliases:
   - Pneumoconiosis
   - Hypersensitivity pneumonitis

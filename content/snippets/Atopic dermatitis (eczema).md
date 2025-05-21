@@ -1,7 +1,7 @@
 ---
 title: "Atopic dermatitis (eczema)"
 date created: Sunday, January 21th 2024, 02:39:07 PM
-modified: 2024-01-21 14:39:07.788238+00
+date modified: 2024-01-21 14:39:07.788238+00
 tags: ['Dermatology']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Skull Anatomy"
 date created: Saturday, January 20th 2024, 04:53:11 AM
-modified: 2024-01-20 05:33:12.827381+00
+date modified: 2024-01-20 05:33:12.827381+00
 tags: ['Neurology', 'Orthopaedics']
 ---
 

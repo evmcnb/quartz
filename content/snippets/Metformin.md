@@ -1,7 +1,7 @@
 ---
 title: "Metformin"
 date created: 2024-04-12 19:15:02.415961+01
-modified: 2024-04-12 19:17:05.805805+01
+date modified: 2024-04-12 19:17:05.805805+01
 tags: ['Drug', 'Endocrinology']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Systemic Lupus Erythematosus"
 date created: Sunday, January 21th 2024, 02:40:20 PM
-modified: 2024-01-21 14:40:20.584598+00
+date modified: 2024-01-21 14:40:20.584598+00
 tags: ['Nephrology', 'Rheumatology', 'Dermatology']
 ---
 

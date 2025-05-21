@@ -1,7 +1,7 @@
 ---
 title: "Mesalazine"
 date created: 2024-04-08 17:33:40.243498+01
-modified: 2024-04-08 18:18:17.353905+01
+date modified: 2024-04-08 18:18:17.353905+01
 tags: ['Drug', 'Gastroenterology']
 ---
 

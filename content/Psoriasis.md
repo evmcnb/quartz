@@ -4,7 +4,7 @@ tags:
   - Rheumatology
 title: Psoriasis
 date created: Tuesday, January 2nd 2024, 3:56:27 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-01-14
 ---
 Psoriasis is a chronic autoimmune skin disorder characterized by the  buildup of skin cells, resulting in thick, scaly patches. It often involves redness, itching, and discomfort.

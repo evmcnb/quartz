@@ -4,7 +4,7 @@ tags:
   - Gastroenterology
 title: Ileus
 date created: Friday, February 16th 2024, 4:12:01 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-02-16
 ---
 Affects small bowel where normal peristalsis temporally stops - paralytic  or adynamic ileus

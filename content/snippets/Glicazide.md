@@ -1,7 +1,7 @@
 ---
 title: "Glicazide"
 date created: 2024-04-12 19:07:54.358764+01
-modified: 2024-04-12 19:07:54.364718+01
+date modified: 2024-04-12 19:07:54.364718+01
 tags: ['Drug', 'Endocrinology']
 ---
 

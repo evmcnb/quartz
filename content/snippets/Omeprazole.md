@@ -1,7 +1,7 @@
 ---
 title: "Omeprazole"
 date created: 2024-04-08 12:32:37.414764+01
-modified: 2024-04-08 18:18:47.284019+01
+date modified: 2024-04-08 18:18:47.284019+01
 tags: ['Drug', 'Gastroenterology']
 ---
 

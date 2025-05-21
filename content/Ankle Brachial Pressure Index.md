@@ -3,7 +3,7 @@ tags:
   - Cardiovascular
 title: Ankle Brachial Pressure Indexmplate
 date: 2023-09-27
-modified: 2025-04-23
+date modified: 2025-04-23
 ---
 $$
 ABPI = \frac{\text{Ankle Systolic Pressure}}{\text{Brachial Systolic Pressure}}

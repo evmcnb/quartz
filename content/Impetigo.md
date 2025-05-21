@@ -3,7 +3,7 @@ tags:
   - Dermatology
 title: Impetigo
 date created: Saturday, December 16th 2023, 2:14:14 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-01-11
 ---
 Impetigo is a highly contagious bacterial skin infection primarily affecting children, although it can occur in people of all ages.

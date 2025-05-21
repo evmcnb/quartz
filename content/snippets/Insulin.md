@@ -1,7 +1,7 @@
 ---
 title: "Insulin"
 date created: 2024-04-12 19:02:15.105221+01
-modified: 2024-04-12 19:02:15.110477+01
+date modified: 2024-04-12 19:02:15.110477+01
 tags: ['Drug', 'Endocrinology']
 ---
 

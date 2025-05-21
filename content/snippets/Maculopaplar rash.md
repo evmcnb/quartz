@@ -1,7 +1,7 @@
 ---
 title: "Maculopaplar rash"
 date created: 2024-04-15 21:46:44.592412+01
-modified: 2024-04-15 21:46:44.628169+01
+date modified: 2024-04-15 21:46:44.628169+01
 tags: ['Dermatology']
 ---
 

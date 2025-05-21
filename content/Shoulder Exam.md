@@ -5,7 +5,7 @@ tags:
   - MSK
 title: Shoulder Exam Template
 date: 2024-04-26
-modified: 2024-04-26""
+date modified: 2024-04-26""
 ---
 
 ## Introduction

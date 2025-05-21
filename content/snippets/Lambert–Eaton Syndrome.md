@@ -1,7 +1,7 @@
 ---
 title: "Lambert–Eaton Syndrome"
 date created: Tuesday, March 05th 2024, 03:28:32 PM
-modified: 2024-03-05 15:28:32.157636+00
+date modified: 2024-03-05 15:28:32.157636+00
 tags: ['Neurology', 'Oncology']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Alendronate"
 date created: 2024-04-12 19:37:21.704686+01
-modified: 2024-04-12 19:37:21.717636+01
+date modified: 2024-04-12 19:37:21.717636+01
 tags: ['Geriatrics', 'Drug', 'Endocrinology']
 ---
 

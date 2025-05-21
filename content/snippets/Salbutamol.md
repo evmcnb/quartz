@@ -1,7 +1,7 @@
 ---
 title: "Salbutamol"
 date created: 2024-04-09 11:14:41.561564+01
-modified: 2024-04-09 11:14:41.567637+01
+date modified: 2024-04-09 11:14:41.567637+01
 tags: ['Respiratory', 'Drug']
 ---
 

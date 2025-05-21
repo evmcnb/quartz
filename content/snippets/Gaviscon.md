@@ -1,7 +1,7 @@
 ---
 title: "Gaviscon"
 date created: 2024-04-08 12:21:59.581322+01
-modified: 2024-04-08 12:21:59.587347+01
+date modified: 2024-04-08 12:21:59.587347+01
 tags: ['Gastroenterology', 'Drug']
 ---
 

@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Biliary colic
 date created: Friday, February 23rd 2024, 12:31:29 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2024-02-23
 ---
 

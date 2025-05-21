@@ -1,7 +1,7 @@
 ---
 title: "Tubulointerstitial Nephritis"
 date created: Sunday, January 21th 2024, 12:21:17 PM
-modified: 2024-01-21 12:21:17.005823+00
+date modified: 2024-01-21 12:21:17.005823+00
 tags: ['Nephrology', 'Rheumatology']
 ---
 

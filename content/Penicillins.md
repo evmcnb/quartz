@@ -4,7 +4,7 @@ tags:
   - Antibiotic
 title: Penicillins
 date created: Thursday, September 28th 2023, 12:38:13 pm
-modified: 2024-03-11
+date modified: 2024-03-11
 date: 2023-09-28
 ---
 - Beta lactam (cell wall synthesis inhibitors)

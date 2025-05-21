@@ -1,7 +1,7 @@
 ---
 title: "Syncope vs Seizure"
 date created: Monday, February 26th 2024, 12:25:57 PM
-modified: 2024-02-26 12:25:57.68157+00
+date modified: 2024-02-26 12:25:57.68157+00
 tags: ['Neurology', 'Cardiovascular']
 ---
 

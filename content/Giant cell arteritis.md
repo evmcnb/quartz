@@ -4,7 +4,7 @@ tags:
   - Ophthalmology
 title: Giant cell arteritis
 date: 2024-02-09
-modified: 2024-04-21
+date modified: 2024-04-21
 aliases:
   - Temporal arteritis
 ---
