@@ -19,6 +19,14 @@ Benign tumours of stromal/epithelial breast duct tissue. Typically small and mob
 
 [[snippets/Fibroadenomas|Fibroadenomas]] are not cancerous and are **not usually associated with an increased risk of  breast cancer**. However complex [[snippets/Fibroadenomas|Fibroadenomas]] and a positive family history of breast cancer may indicate a higher risk.
 
+## Intraductal Papilloma
+
+An intraductal papilloma is a warty lesion that grows within one of the ducts in the breast. It is the result of the proliferation of epithelial cells. The typical presentation is with clear or blood-stained nipple discharge.
+
+Intraductal papillomas are benign tumours; however, they can be associated with atypical hyperplasia or breast cancer.
+
+- Intraductal papillomas require complete surgical excision
+
 ## Fibrocystic changes 
 
 Generalised lumpiness to the breast - considered a variation of normal and not a disease. Connective tissue, ducts and lobules of the breast respond to the oestrogen and progesterone becoming fibrous and cystic. Fluctuate with the menstrual cycle
