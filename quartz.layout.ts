@@ -36,9 +36,9 @@ export const defaultContentPageLayout: PageLayout = {
         },
         { Component: Component.Darkmode() },
         { Component: Component.ReaderMode() },
+        { Component: Component.RecentNotes({ limit: 4 }) },
       ],
     }),
-    Component.RecentNotes({ limit: 4 }),
   ],
   right: [
     Component.ConditionalRender({
