@@ -3,7 +3,7 @@ tags:
   - Ophthalmology
 title: Central retinal vein occlusion
 date: 2024-02-09
-date modified: 2024-04-21
+modified: 2024-04-21
 ---
 
 ## Causes/Factors

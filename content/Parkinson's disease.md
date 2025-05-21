@@ -4,7 +4,7 @@ tags:
   - Incomplete
 title: "Parkinson's disease"
 date created: Thursday, September 28th 2023, 1:38:19 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2024-01-23
 ---
 - Lack of dopamine

@@ -4,7 +4,7 @@ tags:
   - Acute
 title: Bowel obstruction
 date created: Friday, February 16th 2024, 3:42:32 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2024-02-16
 ---
 Small bowel obstruction is more common

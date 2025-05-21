@@ -4,7 +4,7 @@ tags:
   - Ophthalmology
 title: Thyroid Eye Disease
 date created: Saturday, January 13th 2024, 3:36:24 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 aliases:
   - Graves' orbitopathy
   - Graves' ophthalmopathy

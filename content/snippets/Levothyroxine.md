@@ -1,7 +1,7 @@
 ---
 title: "Levothyroxine"
 date created: 2024-04-12 19:21:25.123003+01
-date modified: 2024-04-12 19:21:25.129568+01
+modified: 2024-04-12 19:21:25.129568+01
 tags: ['Drug', 'Endocrinology']
 ---
 

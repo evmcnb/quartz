@@ -1,7 +1,7 @@
 ---
 title: "Diltiazem"
 date created: 2024-04-08 18:03:33.065918+01
-date modified: 2024-04-08 18:17:02.676085+01
+modified: 2024-04-08 18:17:02.676085+01
 tags: ['Drug', 'Cardiovascular']
 ---
 

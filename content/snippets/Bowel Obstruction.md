@@ -1,7 +1,7 @@
 ---
 title: "Bowel Obstruction"
 date created: Monday, February 05th 2024, 02:08:39 PM
-date modified: 2024-02-16 15:56:47.179202+00
+modified: 2024-02-16 15:56:47.179202+00
 tags: ['Gastroenterology', 'Surgery']
 ---
 

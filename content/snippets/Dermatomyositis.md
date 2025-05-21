@@ -1,7 +1,7 @@
 ---
 title: "Dermatomyositis"
 date created: Sunday, January 21th 2024, 02:40:34 PM
-date modified: 2024-01-21 14:40:34.645503+00
+modified: 2024-01-21 14:40:34.645503+00
 tags: ['Dermatology']
 ---
 

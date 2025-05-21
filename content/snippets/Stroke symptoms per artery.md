@@ -1,7 +1,7 @@
 ---
 title: "Stroke symptoms per artery"
 date created: Sunday, January 21th 2024, 10:42:08 AM
-date modified: 2024-02-05 14:15:51.375476+00
+modified: 2024-02-05 14:15:51.375476+00
 tags: ['Neurology', 'Cardiovascular']
 ---
 

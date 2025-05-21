@@ -1,7 +1,7 @@
 ---
 title: "Ranitidine"
 date created: 2024-04-08 12:27:43.683758+01
-date modified: 2024-04-08 18:18:34.236117+01
+modified: 2024-04-08 18:18:34.236117+01
 tags: ['Drug', 'Gastroenterology']
 ---
 

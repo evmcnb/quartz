@@ -1,7 +1,7 @@
 ---
 title: "Colorectal polyps"
 date created: Sunday, January 21th 2024, 03:51:47 PM
-date modified: 2024-01-21 15:51:47.579312+00
+modified: 2024-01-21 15:51:47.579312+00
 tags: ['Gastroenterology', 'Surgery']
 ---
 

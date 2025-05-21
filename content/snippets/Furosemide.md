@@ -1,7 +1,7 @@
 ---
 title: "Furosemide"
 date created: 2024-04-08 17:41:00.079363+01
-date modified: 2024-04-19 11:00:56.502712+01
+modified: 2024-04-19 11:00:56.502712+01
 tags: ['Drug', 'Cardiovascular']
 ---
 

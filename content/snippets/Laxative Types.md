@@ -1,7 +1,7 @@
 ---
 title: "Laxative Types"
 date created: Friday, January 26th 2024, 09:50:55 AM
-date modified: 2024-03-18 20:26:00.31526+00
+modified: 2024-03-18 20:26:00.31526+00
 tags: ['Geriatrics', 'Surgery', 'Drug']
 ---
 

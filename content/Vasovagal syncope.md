@@ -4,7 +4,7 @@ tags:
   - Neurology
 title: Vasovagal syncope
 date created: Sunday, November 12th 2023, 6:28:57 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2023-11-12
 ---
 

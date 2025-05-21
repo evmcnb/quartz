@@ -1,7 +1,7 @@
 ---
 title: "Isosorbide Mononitrate"
 date created: 2024-04-08 18:37:56.132882+01
-date modified: 2024-04-08 18:37:56.138885+01
+modified: 2024-04-08 18:37:56.138885+01
 tags: ['Cardiovascular', 'Drug']
 ---
 

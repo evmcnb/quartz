@@ -1,7 +1,7 @@
 ---
 title: "Loperamide"
 date created: 2024-04-08 12:43:11.742416+01
-date modified: 2024-04-08 18:18:59.745108+01
+modified: 2024-04-08 18:18:59.745108+01
 tags: ['Drug', 'Gastroenterology']
 ---
 

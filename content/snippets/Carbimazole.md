@@ -1,7 +1,7 @@
 ---
 title: "Carbimazole"
 date created: 2024-04-12 19:26:44.914701+01
-date modified: 2024-04-12 19:26:44.921975+01
+modified: 2024-04-12 19:26:44.921975+01
 tags: ['Drug', 'Endocrinology']
 ---
 

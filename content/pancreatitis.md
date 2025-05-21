@@ -4,7 +4,7 @@ tags:
   - Endocrinology
 title: pancreatitis
 date created: Wednesday, October 11th 2023, 2:06:18 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2024-01-14
 ---
 Not an infective cause

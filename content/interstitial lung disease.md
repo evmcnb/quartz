@@ -3,7 +3,7 @@ tags:
   - Respiratory
 title: interstitial lung disease
 date created: Saturday, October 7th 2023, 4:21:02 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2023-10-12
 ---
 Interstitial Lung Disease (ILD) refers to a group of lung disorders characterized by inflammation and scarring (fibrosis) of the lung parenchyma in a diffuse manner

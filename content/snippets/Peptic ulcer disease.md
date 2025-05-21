@@ -1,7 +1,7 @@
 ---
 title: "Peptic ulcer disease"
 date created: Sunday, January 21th 2024, 02:47:24 PM
-date modified: 2024-01-21 14:47:24.624417+00
+modified: 2024-01-21 14:47:24.624417+00
 tags: ['Gastroenterology']
 ---
 

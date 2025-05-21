@@ -3,7 +3,7 @@ tags:
   - Ophthalmology
 title: Cataracts
 date: 2024-02-09
-date modified: 2024-04-21
+modified: 2024-04-21
 ---
 Opacification of the lens of the eye due to proteins in the lens degrading
 ## Causes/Factors

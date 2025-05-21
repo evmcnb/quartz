@@ -1,7 +1,7 @@
 ---
 title: "Orthostatic hypotension"
 date created: 2024-04-24 15:29:56.247767+01
-date modified: 2024-04-24 15:29:56.25332+01
+modified: 2024-04-24 15:29:56.25332+01
 tags: ['Geriatrics', 'Symptom']
 ---
 

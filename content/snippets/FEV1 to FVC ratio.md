@@ -1,7 +1,7 @@
 ---
 title: "FEV1:FVC ratio"
 date created: 2024-05-10 15:00:20.859727+01
-date modified: 2024-05-10 15:00:20.866117+01
+modified: 2024-05-10 15:00:20.866117+01
 tags: ['Respiratory']
 ---
 

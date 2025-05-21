@@ -2,7 +2,7 @@
 tags: 
 title: Condition Template
 date: 
-date modified: ""
+modified: ""
 ---
 
 ## Causes/Factors

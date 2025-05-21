@@ -1,7 +1,7 @@
 ---
 title: "Senna"
 date created: 2024-04-08 12:47:42.26063+01
-date modified: 2024-04-08 18:19:10.152664+01
+modified: 2024-04-08 18:19:10.152664+01
 tags: ['Drug', 'Gastroenterology']
 ---
 

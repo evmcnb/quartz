@@ -3,7 +3,7 @@ tags:
   - ENT
 title: "Meniere's disease"
 date created: Monday, February 19th 2024, 8:01:29 pm
-date modified: 2024-04-21
+modified: 2024-04-21
 date: 2024-02-23
 ---
 Long term inner ear disorder that causes recurrent attacks of vertigo and symptoms of hearing loss and tinnitus.

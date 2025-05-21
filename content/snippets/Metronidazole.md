@@ -1,7 +1,7 @@
 ---
 title: "Metronidazole"
 date created: 2024-04-13 17:49:31.347929+01
-date modified: 2024-04-13 17:49:31.353817+01
+modified: 2024-04-13 17:49:31.353817+01
 tags: ['Antibiotic', 'Drug']
 ---
 

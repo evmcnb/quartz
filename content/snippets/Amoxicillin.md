@@ -1,7 +1,7 @@
 ---
 title: "Amoxicillin"
 date created: 2024-04-13 16:49:36.779227+01
-date modified: 2024-04-13 16:49:36.787794+01
+modified: 2024-04-13 16:49:36.787794+01
 tags: ['Antibiotic', 'Drug']
 ---
 

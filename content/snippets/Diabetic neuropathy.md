@@ -1,7 +1,7 @@
 ---
 title: "Diabetic neuropathy"
 date created: Friday, March 08th 2024, 04:36:40 PM
-date modified: 2024-03-08 16:36:40.376938+00
+modified: 2024-03-08 16:36:40.376938+00
 tags: ['Endocrinology']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Antibiotic Classes"
 date created: Sunday, January 21th 2024, 12:00:38 PM
-date modified: 2024-01-21 12:00:38.32138+00
+modified: 2024-01-21 12:00:38.32138+00
 tags: ['Antibiotic', 'Drug']
 ---
 

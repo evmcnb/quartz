@@ -1,7 +1,7 @@
 ---
 title: "Lamotrigine"
 date created: 2024-04-12 18:47:22.677178+01
-date modified: 2024-04-12 18:47:22.689581+01
+modified: 2024-04-12 18:47:22.689581+01
 tags: ['Neurology', 'Drug']
 ---
 

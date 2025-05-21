@@ -2,7 +2,7 @@
 tags: [OSCE]
 title: Basic Clinical Skills
 date created: Tuesday, October 24th 2023, 9:01:36 am
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2023-10-31
 ---
 ## Vital signs

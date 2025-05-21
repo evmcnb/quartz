@@ -3,7 +3,7 @@ tags:
   - Cardiovascular
 title: Essential hypertension
 date created: Tuesday, October 17th 2023, 4:07:47 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 aliases:
   - hypertension
   - Hypertension

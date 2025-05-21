@@ -1,7 +1,7 @@
 ---
 title: "Retinitis Pigmentosa"
 date created: 2024-04-16 10:42:56.746182+01
-date modified: 2024-04-16 10:42:56.751548+01
+modified: 2024-04-16 10:42:56.751548+01
 tags: ['Ophthalmology']
 ---
 

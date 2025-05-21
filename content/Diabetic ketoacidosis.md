@@ -4,7 +4,7 @@ tags:
   - Acute
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2023-11-12
 ---
 When the lack of [[snippets/Insulin|Insulin]] or [[snippets/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 

@@ -1,7 +1,7 @@
 ---
 title: "Bone changes in osteoarthritis vs rheumatoid"
 date created: 2024-05-10 15:16:05.050472+01
-date modified: 2024-05-10 15:16:05.074205+01
+modified: 2024-05-10 15:16:05.074205+01
 tags: ['Rheumatology', 'Orthopaedics']
 ---
 

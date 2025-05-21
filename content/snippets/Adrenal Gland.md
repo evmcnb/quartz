@@ -1,7 +1,7 @@
 ---
 title: "Adrenal Gland"
 date created: Sunday, January 21th 2024, 01:27:41 PM
-date modified: 2024-01-21 13:27:41.636032+00
+modified: 2024-01-21 13:27:41.636032+00
 tags: ['Endocrinology']
 ---
 

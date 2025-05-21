@@ -1,7 +1,7 @@
 ---
 title: "Azithromycin"
 date created: Tuesday, March 05th 2024, 02:52:55 PM
-date modified: 2024-04-07 15:49:10.786571+01
+modified: 2024-04-07 15:49:10.786571+01
 tags: ['Antibiotic']
 ---
 

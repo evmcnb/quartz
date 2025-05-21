@@ -1,7 +1,7 @@
 ---
 title: "COPD Classification"
 date created: 2024-05-16 17:47:44.375289+01
-date modified: 2024-05-16 17:47:44.384221+01
+modified: 2024-05-16 17:47:44.384221+01
 tags: ['Respiratory']
 ---
 

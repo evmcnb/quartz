@@ -5,7 +5,7 @@ tags:
   - Examination
 title: Dermatological Exam
 date: 2024-04-21
-date modified: 2024-04-21
+modified: 2024-04-21
 ---
 
 ## Introduction

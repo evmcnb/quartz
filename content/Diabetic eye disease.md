@@ -3,7 +3,7 @@ tags:
   - Endocrinology
 title: Diabetic eye disease
 date created: Saturday, January 13th 2024, 5:13:31 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 aliases:
   - Diabetic retinopathy
 date: 2024-01-14

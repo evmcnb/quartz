@@ -5,7 +5,7 @@ tags:
   - Antibiotic
 title: Surgical Site Infections
 date created: Sunday, December 3rd 2023, 9:19:57 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2024-01-25
 ---
 Prophylactic antibiotics are given to counter the risk of wound infection which occurs in ~20% of elective surgeries and up to 60% in emergency surgery  

@@ -1,7 +1,7 @@
 ---
 title: "Metoclopramide"
 date created: 2024-04-12 18:38:09.94799+01
-date modified: 2024-04-12 18:38:09.954491+01
+modified: 2024-04-12 18:38:09.954491+01
 tags: ['Gastroenterology', 'Neurology', 'Drug']
 ---
 

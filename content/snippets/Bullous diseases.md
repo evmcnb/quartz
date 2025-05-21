@@ -1,7 +1,7 @@
 ---
 title: "Bullous diseases"
 date created: Sunday, January 21th 2024, 02:41:14 PM
-date modified: 2024-01-21 14:41:14.358847+00
+modified: 2024-01-21 14:41:14.358847+00
 tags: ['Dermatology']
 ---
 

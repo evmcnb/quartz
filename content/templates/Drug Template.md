@@ -2,7 +2,7 @@
 tags: 
 title: Drug Template
 date: 2023-09-27
-date modified: 2024-03-11
+modified: 2024-03-11
 ---
 
 Example drugs:

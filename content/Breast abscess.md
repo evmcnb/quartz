@@ -4,7 +4,7 @@ tags:
   - OBGYN
 title: Breast abscess
 date created: Tuesday, February 20th 2024, 4:50:05 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2024-02-23
 ---
 - **_Lactational abscess_** (associated with breastfeeding) 

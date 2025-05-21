@@ -3,7 +3,7 @@ tags:
   - Acute
 title: Burns
 date: 2025-02-27
-date modified: 2025-02-27
+modified: 2025-02-27
 ---
 
 ### Surface Area Calculation

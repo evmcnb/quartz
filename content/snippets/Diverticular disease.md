@@ -1,7 +1,7 @@
 ---
 title: "Diverticular disease"
 date created: Sunday, January 21th 2024, 03:51:11 PM
-date modified: 2024-03-18 20:16:00.621642+00
+modified: 2024-03-18 20:16:00.621642+00
 tags: ['Gastroenterology', 'Surgery']
 ---
 

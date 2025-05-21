@@ -1,7 +1,7 @@
 ---
 title: "Maturity-Onset Diabetes of the Young"
 date created: 2024-04-10 13:34:16.381657+01
-date modified: 2024-04-10 13:34:16.386479+01
+modified: 2024-04-10 13:34:16.386479+01
 tags: ['Endocrinology']
 ---
 

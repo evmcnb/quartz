@@ -4,7 +4,7 @@ tags:
   - InfectiousDisease
 title: Management
 date created: Thursday, December 21st 2023, 5:07:02 pm
-date modified: 2024-03-11
+modified: 2024-03-11
 date: 2024-01-11
 ---
 ## Dermatophytosis

@@ -1,7 +1,7 @@
 ---
 title: "Wilson's disease"
 date created: Sunday, January 21th 2024, 03:55:36 PM
-date modified: 2024-01-21 15:55:36.545444+00
+modified: 2024-01-21 15:55:36.545444+00
 tags: ['Gastroenterology']
 ---
 

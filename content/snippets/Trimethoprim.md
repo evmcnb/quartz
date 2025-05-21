@@ -1,7 +1,7 @@
 ---
 title: "Trimethoprim"
 date created: 2024-04-13 16:55:33.0531+01
-date modified: 2024-04-13 16:55:33.05814+01
+modified: 2024-04-13 16:55:33.05814+01
 tags: ['Antibiotic', 'Drug']
 ---
 
