@@ -133,7 +133,9 @@
         }
 
         @media all and ($mobile) {
-          & > #preview-container {
+          flex-direction: column;
+
+          & > .preview-container {
             display: none !important;
           }
 
