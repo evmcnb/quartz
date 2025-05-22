@@ -30,41 +30,5 @@ The information here is for educational use. As medical knowledge evolves, alway
 
 For questions or feedback, reach out at support@nosos.co.uk. Happy studying!
 
-<div class="grid-container">
-
-<a href="AllGatekeepers" class="grid-item type-1">
-<div class="icon"><img src="/assets/Gatekeepers/Hybrid_Portrait_mini.png" alt="gatekeepers" style="width: 50px; height: 50px;"></div>
-<div class="title">Gatekeepers</div>
-<div class="description">All the characters in the game.</div>
-</a>
-
-<a href="[[FAQ]]" class="grid-item type-2">
-<div class="icon">❓</div>
-<div class="title">FAQ</div>
-<div class="description">Frequently asked questions about the Gatekeepers game.</div>
-</a>
-
-<a href="AllArtifacts" class="grid-item type-3">
-<div class="icon"><img src="/assets/Artifacts/amulets/Juju.png" alt="items" style="width: 50px; height: 50px;"></div>
-<div class="title">Artifacts</div>
-<div class="description">A database of all the items in the game and how to unlock them.</div>
-</a>
-
-<a href="Achievements" class="grid-item type-4">
-<div class="icon">👑</div>
-<div class="title">Achievements</div>
-<div class="description">Achievements, what they unlock and tips on how to accomplish them.</div>
-</a>
-
-<a href="AllMonsters" class="grid-item type-5">
-<div class="icon"><img src="/assets/Enemies/aurora/Prince_Icon.png" alt="Monsters" style="width: 50px; height: 50px;"></div>
-<div class="title">Monsters</div>
-<div class="description">Careful where you step.</div>
-</a>
-
-<a href="PatchNotes" class="grid-item type-6">
-<div class="icon">📋</div>
-<div class="title">Patch Notes</div>
-<div class="description">All patchnotes since the game became purchasable.</div>
-</a>
-</div>
+  
+<div class="landing-hero"> <h1>My Medical School Journey</h1> <p>A comprehensive collection of notes, resources, and insights.</p> <a href="/subjects" class="cta-button">Explore Subjects</a> </div> <section class="features"> <div class="feature-item"> <img src="/static/images/icon-brain.svg" alt="Neurology Icon"> <h2>Neurology</h2> <p>Deep dives into the nervous system.</p> </div> <div class="feature-item"> <img src="/static/images/icon-heart.svg" alt="Cardiology Icon"> <h2>Cardiology</h2> <p>Understanding the heart and circulation.</p> </div> <!-- More features --> </section> <footer> <p>© 2024 Your Name - Medical Notes</p> </footer> <style> /* Basic CSS - ideally move this to a separate file (see below) */ .landing-page .page-body { /* Target the main content area if Quartz wraps it */ padding: 0; /* Remove default padding if needed */ } .landing-hero { background-color: #f0f4f8; color: #333; padding: 60px 20px; text-align: center; } .landing-hero h1 { font-size: 2.5em; margin-bottom: 0.5em; } .cta-button { display: inline-block; background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; } /* Add more styles for .features, .feature-item, footer etc. */ </style>
