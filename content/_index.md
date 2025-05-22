@@ -19,6 +19,10 @@ date: 2024-02-17
 > - Explore the graph view at the page's bottom.
 > - Check out the [tags](https://notes.nosos.co.uk/tags/) for more topics.
 
+
+<div class="search"><button class="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"><div class="search-layout" data-preview="true"><div class="results-container"></div><div class="preview-container"></div></div></div></div></div>
+
+
 ## Disclaimer
 
 > [!warning] **Notice**
