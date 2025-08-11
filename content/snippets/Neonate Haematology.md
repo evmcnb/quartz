@@ -25,5 +25,5 @@ Haemoglobin:
 
 * Different Hb (Hb-F completely gone by 6 months)
 * Polycythaemic
-* \(\uparrow\) reticulocytes
-* \(\uparrow\) nucleated RBCs - gone after 3-4 days, if still present after indicates baby struggled in womb/placental hypoxia
+* $\uparrow$ reticulocytes
+* $\uparrow$ nucleated RBCs - gone after 3-4 days, if still present after indicates baby struggled in womb/placental hypoxia

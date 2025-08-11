@@ -10,7 +10,7 @@ Bowel cancer usually refers to cancer of the colon or rectum. Small bowel and an
 
 ## Causes/Factors
 
-- Familial adenomatous polyposis (**_FAP_**) - [familial cancer syndromes](https://www.nosos.co.uk/snippets/familial-cancer-syndromes/)
+- Familial adenomatous polyposis (**_FAP_**) - [[snippets/Familial cancer syndromes|Familial cancer syndromes]]
 - Hereditary nonpolyposis colorectal cancer (HNPCC), also known as **_Lynch syndrome_**
 - [[inflammatory bowel disease]]
 - Age

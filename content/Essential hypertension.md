@@ -24,7 +24,7 @@ _Secondary_ hypertension can be due to **ROPED**:
 - **R**enal diseases which causes an imbalance in RAAS hormones. 
 - [[Obesity]] 
 - [[Pregnancy]]
-- **E**ndocrine diseases: [[Cushing's Syndrome]], [Conn's syndrome](https://www.nosos.co.uk/snippets/conns-syndrome/), etc
+- **E**ndocrine diseases: [[Cushing's Syndrome]], [[snippets/Conn's syndrome|Conn's syndrome]], etc
 	- **D**rugs
 ## Causes/Factors
 

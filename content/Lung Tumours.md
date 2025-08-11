@@ -45,7 +45,7 @@ Main morphological difference between the two is nuclear characteristics and amo
 **Small cell**  
 - ADH
 - ACTH - not typical, [[Essential hypertension]], hyperglycaemia, hypokalaemia, alkalosis and muscle weakness are more common than buffalo hump etc
-- [Lambert-Eaton syndrome](https://www.nosos.co.uk/snippets/lamberteaton-syndrome/)
+- [[snippets/Lambert–Eaton Syndrome|Lambert–Eaton Syndrome]]
 
   
 **Squamous cell**  

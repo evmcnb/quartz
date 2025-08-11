@@ -19,17 +19,15 @@ date: 2024-02-17
 > - Explore the graph view at the page's bottom.
 > - Check out the [tags](https://notes.nosos.co.uk/tags/) for more topics.
 
-## About Us
-
-Created by medical students for medical students, this site aims to simplify accessing comprehensive and collaborative medical study materials. We thrive on the principle that sharing and collaborating enhance learning for everyone involved.
 
 ## Disclaimer
 
 > [!warning] **Notice**
 > Some graph view pages might not be ready yet, and we're working on them. Also, treat pages tagged `#Incomplete` with caution as they may be missing information.
 
-The information here is for educational use. As medical knowledge evolves, always cross-reference and consult professionals as needed.
+The information here is for educational use. As medical knowledge evolves, always cross-reference and con sult professionals as needed.
 
 ## Contact Us
 
 For questions or feedback, reach out at support@nosos.co.uk. Happy studying!
+

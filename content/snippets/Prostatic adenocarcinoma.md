@@ -7,4 +7,4 @@ tags: ['Urology']
 
 
 
-* BRCA1/2 mutations & pesticide exposure Same compression symptoms as BPH but possible metastases to [[snippets/Bone|Bone]] \(\rightarrow\) [[snippets/Bone|Bone]] pain
+* BRCA1/2 mutations & pesticide exposure Same compression symptoms as BPH but possible metastases to [[snippets/Bone|Bone]] $\rightarrow$ [[snippets/Bone|Bone]] pain

@@ -14,4 +14,3 @@ Women with a BMI > 30 should be offered oral glucose tolerance test at 24-28 wee
 * Vast majority go away postpartum
 
 Secondary causes can be anything that affects the pancreas
-

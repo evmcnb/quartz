@@ -102,7 +102,7 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 - Skin colour and lesions - uraemic frost, [[Squamous cell carcinoma]], [[Basal Cell Carcinoma]]
 - Cushingoid appearance
 - Hypertrichosis - excessive hair growth. A side effect of ciclosporin
-- Hearing aid - consider [Alport syndrome](https://www.nosos.co.uk/snippets/alport-syndrome/)
+- Hearing aid - consider [[snippets/Alport syndrome|Alport syndrome]]
 
 
 #### Eyes

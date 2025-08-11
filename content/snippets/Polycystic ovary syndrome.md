@@ -9,7 +9,7 @@ tags: ['OBGYN', 'Endocrinology']
 
 Endocrine disorder characterised by hyperandrogenism + [[snippets/Insulin|Insulin]] resistance
 
-* \(\uparrow\) LH \(\downarrow\) FSH \(\rightarrow\) hyperandrogenism
+* $\uparrow$ LH $\downarrow$ FSH $\rightarrow$ hyperandrogenism
 * Treatment with weight loss and oral contraceptive (cycle regulatio)
 
 Diganosis 2/3 of:

@@ -9,11 +9,11 @@ tags: ['Endocrinology']
 
 | Disease | ALP | Ca | Phos | PTH |
 | --- | --- | --- | --- | --- |
-| HyperPTH | \(\uparrow\) | \(\uparrow\) | \(\downarrow\) | \(\uparrow\) |
-| [[snippets/Osteomalacia|Osteomalacia]] | \(\uparrow\) | \(\downarrow\) | \(\downarrow\) | \(\uparrow\) |
+| HyperPTH | $\uparrow$ | $\uparrow$ | $\downarrow$ | $\uparrow$ |
+| [[snippets/Osteomalacia|Osteomalacia]] | $\uparrow$ | $\downarrow$ | $\downarrow$ | $\uparrow$ |
 | [[osteoporosis]] | N | N | N | N |
-| Paget's | \(\uparrow\) | N | N | N |
-| [[snippets/Bone|Bone]] mets | \(\uparrow\) | \(\uparrow\) | N | \(\downarrow\) |
+| Paget's | $\uparrow$ | N | N | N |
+| [[snippets/Bone|Bone]] mets | $\uparrow$ | $\uparrow$ | N | $\downarrow$ |
 
 ## Calcium biochemistry
 

@@ -7,7 +7,7 @@ tags: ['OBGYN', 'Haematology']
 
 
 
-* Plasma volume \(\uparrow\) 50%, RBC \(\uparrow\) 25%, so dilutation occurs, maximally at 32 weeks.
+* Plasma volume $\uparrow$ 50%, RBC $\uparrow$ 25%, so dilutation occurs, maximally at 32 weeks.
 * Increases folic acid requirements
 * Leukocytosis - mainly neutrophilia (left shift may also been seen more immature cells)
 * Thrombocytopenia - no pathological significance and recovers

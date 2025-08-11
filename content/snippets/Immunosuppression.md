@@ -7,7 +7,7 @@ tags: ['Rheumatology', 'Drug']
 
 
 
-* Corticosteroids - \(\downarrow\) neutrophil margination, \(\downarrow\) inflammatory cytokines,\(\downarrow\) T cell proliferation, \(\downarrow\) Ig production
+* Corticosteroids - $\downarrow$ neutrophil margination, $\downarrow$ inflammatory cytokines,$\downarrow$ T cell proliferation, $\downarrow$ Ig production
 * Antimetabolites - azathioprine, mycophenolate
 * Calcineurin inhibitors - ciclosporin A, tacrolimus - reversible T cell inhibition
 * M-TOR inhibitors - Sirolimus inhibits response to IL-2

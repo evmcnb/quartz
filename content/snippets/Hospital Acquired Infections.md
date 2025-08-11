@@ -10,7 +10,7 @@ tags: ['Antibiotic', 'Symptom', 'Drug']
 
 * Treatment of a patient with antibiotics, PPIs eg, allows the bacteria to grow unregulated → symptoms
 * Spore are released in faeces and can survive on surfaces for ages
-* See [here](https://www.nosos.co.uk/snippets/clostridium-difficile/) for more
+* See [[snippets/Clostridium Difficile|Clostridium Difficile]] for more
 
 ## MRSA
 
