@@ -53,4 +53,3 @@ Aim of treatment is to reduce the symptoms, risk of scaring and psychosocial imp
 - Dry skin and lips
 - Photosensitivity
 - [[Depression]], anxiety, aggression and ***suicidal ideation***. Patients need to be screen for mental health issues prior to treatment
-

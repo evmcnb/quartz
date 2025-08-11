@@ -11,6 +11,7 @@ Usually doesn't occur in isolation
 
 **Stages**
 
+
 | Stage | Creatinine                                                                | Urine Output              |
 | ----- | ------------------------------------------------------------------------- | ------------------------- |
 | 1     | SCr increase >26 $\mu$mol/L within 48hr or SCr increase 1.5-1.9x baseline | <0.5mL/kg/hr for 6 hours  |
