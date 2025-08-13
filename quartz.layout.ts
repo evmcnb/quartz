@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.FolderContent(),
+    Component.RecentNotes(),
   ],
   right: [
     Component.ConditionalRender({
