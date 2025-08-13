@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "notes.nosos.co.uk",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Excalidraw"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",

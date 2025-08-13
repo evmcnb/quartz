@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.FolderContent(),
   ],
   right: [
     Component.ConditionalRender({
