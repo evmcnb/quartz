@@ -11,8 +11,8 @@ tags: ['Oncology']
 | --- | --- | --- |
 | Lung | non-small cell carcinoma   * [[Squamous cell carcinoma]] * large cell carcinoma * adenocarcinoma   EGFR, KRAS, ALK | more common that primary [[snippets/Lung Tumours|Lung Tumours]]   * from breast, GI and kidney |
 | Pleura | mesothelioma - asbestos exposure | carcinoma - breast lung, others  [[snippets/Lymphoma|Lymphoma]]  [[Melanoma]] |
-| Kidney | [[snippets/Renal Cell Carcinoma|Renal Cell Carcinoma]] - VHL. Causes cannonball mets on lungs   * clear cell - 75% * papillary - 10%   [[Wilms' Tumour]] (nephroblastoma) - WT1 |  |
-| Bladder | [[Urothelial Carcinoma]] - dye and rubber exposure |  |
+| Kidney | [[snippets/Renal Cell Carcinoma|Renal Cell Carcinoma]] - VHL. Causes cannonball mets on lungs   * clear cell - 75% * papillary - 10%   [[full/Wilms' Tumour]] (nephroblastoma) - WT1 |  |
+| Bladder | [[full/Urothelial Carcinoma]] - dye and rubber exposure |  |
 | Prostate | prostatic adenoma/carcinoma - BRCA1/2   * causes [[snippets/Bone|Bone]] mets with sclertotic changes |  |
 | Testicular | [[snippets/Seminoma|Seminoma]] - [[snippets/Cryptorchidism|Cryptorchidism]], KIT |  |
 | Cervical | FIGO staging  HPV16&18 testing - p16 positive confirms HPV associated but can be independant  cervical intraepithelial neoplasia (CIN III)  [[Squamous cell carcinoma]]  adenocarcinoma in situ |  |

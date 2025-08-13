@@ -12,7 +12,7 @@ tags: ['Drug', 'Endocrinology']
 | **Mechanism** | Mimics endogenous thyroxine |
 | **Typical Dose** | Initially 25-50 micrograms OD adjusted in 25 microgram steps according to symptoms |
 | **Indications** | [[Hypothyroidism]] |
-| **Contra-indications** | [[Hyperthyroidism]] |
+| **Contra-indications** | [[full/Hyperthyroidism]] |
 | **Side-effects** | * Hyperthyroid symptoms if over adjusted * Rare: cardiac dysrhythmias, MI, [[Angina]], |
 | **Interactions** | [[snippets/Warfarin|Warfarin]]: ↑ effect of [[snippets/Warfarin|Warfarin]] |
 | **Elimination** |  |

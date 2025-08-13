@@ -39,6 +39,6 @@ C - begin chest complressions at 100-120 bpm with 5-6cm depth with rebound. Afte
 **4Ts**
 
 * Thrombosis
-* Tension [[pneumothorax]]
+* Tension [[full/pneumothorax]]
 * Tamponade
 * Toxins

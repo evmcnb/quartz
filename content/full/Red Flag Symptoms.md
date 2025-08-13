@@ -1,0 +1,80 @@
+---
+tags: 
+title: Red Flag Symptoms
+date: 2023-11-30
+date modified: 2024-03-11
+---
+
+## Cancer
+
+- Pressure effects - nerve compression etc spinal nerve - loss of sensation
+- Pain - brain tumour [[snippets/Headaches|Headaches]], worse in the morning 
+- Lump - breast cancer
+- Bleeding - into bowel (upper - black, lower - red) into the airways - blood in sputum, into semen from prostate or nipple in some breast cancers
+- Loss of function of affected system
+	- bruising when the blood fails to clot (leukaemia)
+	- altered eye movements - tumour pressing on optic nerve
+	- 
+
+- Weight loss
+-  Night sweats
+- Unexplained [[snippets/Anaemia|Anaemia]]
+- Increased breathlessness
+- [[snippets/Hypercalcaemia|Hypercalcaemia]]
+## Neuro
+
+- Nausea, vomiting + photophobia $\rightarrow$ increased intracranial pressure
+- Neck stiffness looking down - [[snippets/Meningitis|Meningitis]]
+- Thunderclap headache $\pm$ focal neuro symptoms
+- Confusion/[[Delirium]] 
+
+
+
+## ENT
+
+
+
+
+## Resp
+
+- Haemoptysis - [[bronchitis]], PE, [[Tuberculosis]], lung cancer, [[full/bronchiectasis]] 
+- Severe or increasing breathlessness.
+
+
+## Cardio
+
+- Crushing central chest pain 
+- Dizziness, breathlessness, sweating
+- Increasing pain in legs
+
+## Upper GI
+
+- Black stools 
+
+
+## Lower GI
+
+- Bowel habit changes
+- Obstruction
+- Blood in stool
+- Vomiting
+- Fatigue
+- Dysphagia
+- Sleep
+- Constipation
+- Genitourinary symptoms
+
+
+## Urological
+
+
+
+## Reproductive
+
+- Early satiety
+- Frequency.
+- Abdominal distension 
+
+
+
+

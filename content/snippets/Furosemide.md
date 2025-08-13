@@ -6,15 +6,14 @@ tags: ['Drug', 'Cardiovascular']
 ---
 
 
-
-| **Drug Class** | Loop diuretic |
-| --- | --- |
-| **Mechanism** | * Inhibits Na/K/2Cl pump in **ascending loop of Henle** * Inhibits reabsorption of Na, K and water leading to their loss |
-| **Typical Dose** | 20-40mg PO OD, taken in morning |
-| **Indications** | * Oedema secondary to LVF/HF * Oliguria secondary to renal failure |
-| **Contra-indications** | * Hypovolaemia/dehydration * Severe hypokalaemia/hyponatraemia * Comatose states |
-| **Side-effects** | OH DANG O - ototoxicity H - hypokalemia D - dehydration A - allergy N - nephritis G - [[gout]] |
-| **Interactions** | * Antibiotics: ↑ risk of ototoxicity associated with aminoglycosides, colistin and aminoglycosides * [[snippets/Digoxin|Digoxin]]: furosemide-induced hypokalaemia, increased effects of [[snippets/Digoxin|Digoxin]] * [[snippets/Lithium|Lithium]]: ↓ excretion - so higher risk of toxicity |
-| **Elimination** |  |
-| **Additional Notes** | Loop diuretics more effective that thiazide |
+| **Drug Class**         | Loop diuretic                                                                                                                                                                                                                                     |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mechanism**          | * Inhibits Na/K/2Cl pump in **ascending loop of Henle** * Inhibits reabsorption of Na, K and water leading to their loss                                                                                                                          |
+| **Typical Dose**       | 20-40mg PO OD, taken in morning                                                                                                                                                                                                                   |
+| **Indications**        | * Oedema secondary to LVF/HF * Oliguria secondary to renal failure                                                                                                                                                                                |
+| **Contra-indications** | * Hypovolaemia/dehydration * Severe hypokalaemia/hyponatraemia * Comatose states                                                                                                                                                                  |
+| **Side-effects**       | OH DANG O - ototoxicity H - hypokalemia D - dehydration A - allergy N - nephritis G - [[gout]]                                                                                                                                                    |
+| **Interactions**       | * Antibiotics: ↑ risk of ototoxicity associated with aminoglycosides, colistin and aminoglycosides <br>* [[Digoxin]]: furosemide-induced hypokalaemia, increased effects of [[Digoxin]]<br>* [[Lithium]] ↓ excretion - so higher risk of toxicity |
+| **Elimination**        |                                                                                                                                                                                                                                                   |
+| **Additional Notes**   | Loop diuretics more effective that thiazide                                                                                                                                                                                                       |
 

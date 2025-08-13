@@ -28,7 +28,7 @@ date modified: ""
 
 - Medical equipment - [[snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - Mobility aids
-- Pillows - congestive [[heart failure]] patients typically suffer from orthopnoea
+- Pillows - congestive [[Heart Failure]] patients typically suffer from orthopnoea
 - Vital sign charts
 - Fluid balance charts
 - Prescription

@@ -10,4 +10,4 @@ tags: ['ENT']
 Non-neoplastic swellings of sinonasal mucosa - surgery to treat
 
 * Nasal obstruction, rhinorrhoea, [[snippets/Headaches|Headaches]]
-* Bilateral polyps, [[asthma]] and [[snippets/Aspirin|Aspirin]] intolerance - Samter triad
+* Bilateral polyps, [[full/asthma]] and [[snippets/Aspirin|Aspirin]] intolerance - Samter triad

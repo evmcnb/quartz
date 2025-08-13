@@ -46,7 +46,7 @@ tags: ['Genetics']
 ## Homocystinuria
 
 * Cannot process **methionine**→ accumulation of homocysteine   00
-* Near sightedness - [[osteoporosis]]
+* Near sightedness - [[full/osteoporosis]]
 * 30 year prognosis
 
 ## Androgen insensitivity syndrome

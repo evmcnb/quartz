@@ -33,7 +33,7 @@ Can cause hormone deficiencies or excess depending if the tumour is functional
 * ***Acromegaly*** (excessive growth hormone)
 * ***Hyperprolactinaemia*** (excessive prolactin)
 * ***Cushing’s disease***(excessive ACTH and cortisol)
-* ***[[Hyperthyroidism]]*** (excessive TSH and thyroid hormone)
+* ***[[full/Hyperthyroidism]]*** (excessive TSH and thyroid hormone)
 
 Good prognosis with surgery and radiotherapy.
 

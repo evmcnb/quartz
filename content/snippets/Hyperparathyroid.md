@@ -11,7 +11,7 @@ tags: ['Endocrinology']
 
 Symptoms from hypercalcaeimia: moans, groans, stones, and bones
 
-Polydipsia, polyuria and [[Essential hypertension]] are common too. Other important associations are renal stones and [[pancreatitis]].
+Polydipsia, polyuria and [[Essential hypertension]] are common too. Other important associations are renal stones and [[full/pancreatitis]].
 
 ![How to Diagnose Hyperparathyroidism: For Patients and Doctors.](https://www.parathyroid.com/images/Calcium-normogram.gif)  
 

@@ -9,5 +9,5 @@ tags: ['Respiratory']
 
 * Abnormally thickened mucous due to chloride channel deletion of a phenylalanine residue - all tubes/mucous places have issues
 * Dehydrated mucus that blocks lumen $\rightarrow$ infections, inflammation and scarrinng (S. aureus in childhood, Pseudomonas aeruginosa)
-* [[bronchitis]], [[bronchiectasis]], pancreas - exocrine aatrophy and fibrosis, seminiferous tubules blockage 95% males infertile
+* [[bronchitis]], [[full/bronchiectasis]], pancreas - exocrine aatrophy and fibrosis, seminiferous tubules blockage 95% males infertile
 * Chronic cough, lung infections malabsorption and eventual right sided [[Heart Failure]]
