@@ -11,7 +11,9 @@ When the lack of [[snippets/Insulin|Insulin]] or [[snippets/Insulin|Insulin]] se
 
 The combination of both acidosis and hyperglycaemia can be deadly
 
-Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2  
+Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2 
+
+
 ## Causes/Factors
 
 - **[[snippets/Insulin|Insulin]] Deficiency:** Often due to missed [[snippets/Insulin|Insulin]] doses or inadequate [[snippets/Insulin|Insulin]] therapy.
