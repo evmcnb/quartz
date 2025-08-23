@@ -201,7 +201,7 @@ You should assess for a thrill across **each of the heart valves** in turn
 
 - **[[Aortic regurgitation]]** - sit the patient forwards and auscultate over the **aortic** **area** with the <span style="color:#ff0000">diaphragm</span> of the stethoscope during **expiration** to listen for an **early diastolic murmur**
 
-  ![[z_attachments/Aortic regurgitation normal speed.mp3]]
+  ![[z_attachments/Aortic Regurgitation normal speed.mp3|Aortic Regurgitation normal speed]]
 
 - **Mitral regurgitation** - roll the patient onto their **left side** and listen over the mitral area with the <span style="color:#ff0000">diaphragm</span> of the stethoscope **during expiration** for a pansystolic murmur. <span style="color:#ff0000">Continue to auscultate into the axilla to identify radiation of this murmur.</span>
 
