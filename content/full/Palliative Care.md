@@ -2,7 +2,7 @@
 tags: 
 title: Palliative Care
 date: 
-date modified: Saturday, August 23rd 2025, 10:19:54 am
+date modified: Saturday, August 23rd 2025, 11:47:13 am
 date created: Saturday, August 23rd 2025, 10:18:03 am
 ---
 
@@ -99,14 +99,14 @@ If the patient requires regular rescue doses for breakthrough pain, the dose of 
 
 *Opioid conversion table*
 
-| **Opioid**      | **Route**    | **Equivalent Dose** |
-| --------------- | ------------ | ------------------- |
-| **Morphine**    | Oral         | 10mg                |
-| **Codeine**     | Oral         | 100mg               |
-| **Tramadol**    | Oral         | 100mg               |
-| **Oxycodone**   | Oral         | 6.6mg               |
-| **Morphine**    | IV / IM / SC | 5mg                 |
-| **Diamorphine** | IV / IM / SC | 3mg                 |
+| Opioid  | Route    | Equivalent Dose |
+| ----------- | ------------ | ------------------- |
+| Morphine    | Oral         | 10mg                |
+| Codeine     | Oral         | 100mg               |
+| Tramadol    | Oral         | 100mg               |
+| Oxycodone   | Oral         | 6.6mg               |
+| Morphine    | IV / IM / SC | 5mg                 |
+| Diamorphine | IV / IM / SC | 3mg                 |
 
 It is also possible to use opioid patches for background analgesia:
 - **_Buprenorphine patches_** (5 mcg/hour patches are roughly equivalent to 12 mg/24 hours of oral morphine)
@@ -120,7 +120,7 @@ It is also possible to use opioid patches for background analgesia:
 
 Mechanism-based prescribing:
 
-| **Stimulus**     | **Area stimulated**        | **Receptors**         | **Anti-emetic choices**                              | **Disqualifying features**                                                                                                                                   |
+| Stimulus         | Area stimulated            | Receptors             | Anti-emetic choices                                  | Disqualifying features                                                                                                                                       |
 | ---------------- | -------------------------- | --------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Drugs, metabolic | Chemoreceptor trigger zone | Dopamine              | Metoclopramide (10mg), haloperidol (0.5-1mg BID/TID) | Avoid metoclopramide in b/o and both in [[full/Parkinson's disease\|Parkinson's disease]]. Haloperidol good for b/o, avoid in those with arrythmias (++ QTc) |
 | Chemotherapy     |                            | Serotonin             | Ondansetron                                          | Avoid in those with arrythmias                                                                                                                               |
