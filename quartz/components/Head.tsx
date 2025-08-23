@@ -58,8 +58,8 @@ export default (() => {
         <meta property="og:width" content="1200" />
         <meta property="og:height" content="675" />
 
-        <link rel="icon" href={iconPathLight} media="(prefers-color-scheme: dark" />
-        <link rel="icon" href={iconPathDark} media="(prefers-color-scheme: light" />
+        <link rel="icon" href={iconPathLight} media="prefers-color-scheme: dark" />
+        <link rel="icon" href={iconPathDark} media="prefers-color-scheme: light" />
 
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
