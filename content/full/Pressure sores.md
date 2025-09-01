@@ -24,7 +24,7 @@ Usually occur over a bony prominence - but may be related to a medical device/ot
 - Reduced mobility
 - Nutritional deficiency
 - Older age
-- Poor vascular supply to skin and soft tissues ([[Diabetes Mellitus]], [[peripheral vascular disease]])
+- Poor vascular supply to skin and soft tissues ([[Full/Diabetes Mellitus]], [[Full/peripheral vascular disease]])
 
 ## Locations
 

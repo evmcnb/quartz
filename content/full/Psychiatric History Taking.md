@@ -37,7 +37,7 @@ Depending on the situation, information may be need to be gathered from a collat
 
 ## History of presenting complaint
 
-- Low mood ([[Depression]])
+- Low mood ([[Full/Depression]])
 - Self-harm/suicidal ideation
 - Elevated mood and energy (hypomania and mania)
 - Anxiety, panic attacks, or phobias
@@ -56,9 +56,9 @@ When exploring symptoms, you can use the acronym **NOTEPAD**:
 - **A**ssociated symptoms
 - **D**isability
 
-### [[Depression]]
+### [[Full/Depression]]
 
-When taking a history from a patient presenting with a low mood, look at the core symptoms of [[Depression]]: **low mood, lack of pleasure and low energy levels**
+When taking a history from a patient presenting with a low mood, look at the core symptoms of [[Full/Depression]]: **low mood, lack of pleasure and low energy levels**
 
 - "How has your mood been recently?"
 - "Have you felt little interest or pleasure in doing things"
@@ -76,7 +76,7 @@ Associated symptoms include:
 
 ### Hypomania/mania
 
-Episodes of mania and hypomania are part of the diagnostic criteria for [[Bipolar disorder]]
+Episodes of mania and hypomania are part of the diagnostic criteria for [[Full/Bipolar disorder]]
 
 - "Have you noticed any change in your mood or energy levels?"
 - "Can you describe the change"
@@ -97,7 +97,7 @@ Collateral history is also very useful to know how they've changed
 
 Anxiety is an unpleasant physical and psychological set of symptoms that occur in response to a potential/uncertain threat. 
 
-There are several anxiety disorders, including [[Generalised anxiety disorder]], specific phobias and panic disorder.
+There are several anxiety disorders, including [[Full/Generalised anxiety disorder]], specific phobias and panic disorder.
 
 - "Have you been worrying a lot about things recently?"
 - "Are you always anxious or does it happen at certain times?"
@@ -120,7 +120,7 @@ Symptoms of psychosis include hallucinations, thought abnormalities and delusion
 
 #### Hallucinations
 
-Any form of sensory modality. Schizophrenia is generally a/w auditory hallucinations whereas [[Dementias#^5b78b4|Lewy-body dementia]] is more a/w visual hallucinations
+Any form of sensory modality. Schizophrenia is generally a/w auditory hallucinations whereas [[Full/Dementias#^5b78b4|Lewy-body dementia]] is more a/w visual hallucinations
 
 - "Do you ever hear noises or voices when there is nobody else?"
 - "Do you ever feel  or see that someone or something when there is nobody there?"
@@ -156,7 +156,7 @@ These two symptoms are characteristic of [[Obsessive-compulsive disorder]] but c
 
 ### Alcohol or substance abuse
 
-The use of alcohol or recreational drugs is common and may be a trigger for a condition, an attempt to manage the symptoms of a condition or a [[snippets/Substance Misuse Disorder|Substance Misuse Disorder]]
+The use of alcohol or recreational drugs is common and may be a trigger for a condition, an attempt to manage the symptoms of a condition or a [[Pearls/Substance Misuse Disorder|Substance Misuse Disorder]]
 
 There are several screening questions for alcohol use, for example, “**CAGE**“:
 
@@ -205,7 +205,7 @@ Ask if the patient has any **medical** **conditions**: 
 - _“Are you currently seeing a doctor or specialist regularly?”_
 - _“Have you ever had any operations?”_
 
-Some medical conditions are also **risk factors** for mental health disorders, such as chronic illness (e.g. chronic pain, cancer or [[Tinnitus]]), for [[Depression]].
+Some medical conditions are also **risk factors** for mental health disorders, such as chronic illness (e.g. chronic pain, cancer or [[Tinnitus]]), for [[Full/Depression]].
 
 Additionally, some medical conditions will **affect treatment options**. For example, cardiovascular, renal, or hepatic disorders are often contraindications for psychiatric medication.
 
@@ -232,7 +232,7 @@ How the patient was before the morbidity. Asking the patient directly or from a 
 
 ## Insight
 
-**Insight** refers to the ability of a patient to **understand** that they have a mental health problem and that what they’re experiencing is abnormal. Patients with severe [[Depression]] may demonstrate a loss of insight into their illness.
+**Insight** refers to the ability of a patient to **understand** that they have a mental health problem and that what they’re experiencing is abnormal. Patients with severe [[Full/Depression]] may demonstrate a loss of insight into their illness.
 
 Some examples of questions which can be used to **assess insight** include:
 

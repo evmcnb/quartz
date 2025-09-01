@@ -17,10 +17,10 @@ Rest of GI tract secretes fluid that is later absorbed in colon. When there is a
 
 | **Common** | **Rare** |
 | ---- | ---- |
-| *[[Hernias]]* *(small bowel) | Strictures ([[Crohn's Disease]]) |
+| *[[Full/Hernias]]* *(small bowel) | Strictures ([[Full/Crohn's Disease]]) |
 | *Adhesions* *(small bowel - past surgery) | Intussusception (in young children) |
 | *Malignancy* *(large bowel) | Volvulus (large bowel) |
-| Constipation | Gallstone [[Ileus]]  |
+| Constipation | Gallstone [[Full/Ileus]]  |
 _*big three_
 
 
@@ -31,7 +31,7 @@ _*big three_
 
 Might occur with: 
 - Adhesions
-- [[Hernias]]
+- [[Full/Hernias]]
 - Volvulus
 - A single point of obstruction but with a ileocaecal valve that is competent 
 ## Presentation
@@ -49,12 +49,12 @@ Might occur with:
 	- Small bowel usually don't extend to the peripheries but have lines that **do** extend the full length (valvulae conniventes)
 - Erect chest XR - to check for pneumoperitoneum (bowel perforation)
 
-Small [[snippets/Bowel Obstruction|Bowel Obstruction]] (coiled-spring appearance)
+Small [[Pearls/Bowel Obstruction|Bowel Obstruction]] (coiled-spring appearance)
 
 ![[z_attachments/Pasted image 20240216160213.png|450]]
 
 
-Large [[snippets/Bowel Obstruction|Bowel Obstruction]]
+Large [[Pearls/Bowel Obstruction|Bowel Obstruction]]
 
 ![[z_attachments/Pasted image 20240216160339.png|425]]
 ## Management
@@ -63,7 +63,7 @@ ABCDE approach - may be haemodynamically unstable and require urgent interventio
 - hypovolaemic shock 
 - Bowel ischaemia 
 - Bowel perforation
-- [[Sepsis]] 
+- [[Full/Sepsis]] 
 
 Full set of bloods: 
 - U&E 

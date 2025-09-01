@@ -11,15 +11,15 @@ date: 2024-01-14
 
 Air getting in pleural cavity causing collapse of the lung
 
-Becomes a tensions [[snippets/Pneumothorax|Pneumothorax]] when the pressure causes a shift in the mediastinum -> impairment of cardiopulmonary system
+Becomes a tensions [[Pearls/Pneumothorax|Pneumothorax]] when the pressure causes a shift in the mediastinum -> impairment of cardiopulmonary system
 
 ## Causes/Factors
 
-- [[COPD]]
-- [[full/asthma]]
-- [[full/pneumonia]]
-- [[full/Lung Abscess]]
-- [[full/Cystic Fibrosis]]
+- [[Full/COPD]]
+- [[Full/asthma]]
+- [[Full/pneumonia]]
+- [[Full/Lung Abscess]]
+- [[Full/Cystic Fibrosis]]
 - Trauma
 - Spontaneous
 
@@ -29,7 +29,7 @@ Determined by size of air leak and speed at which it occurs
 
 - Chest pain
 - Dyspnoea - shallow rapid
-- If secondary to [[COPD]] or [[full/asthma]] may present with sudden deterioration
+- If secondary to [[Full/COPD]] or [[Full/asthma]] may present with sudden deterioration
 
 ## Signs
 

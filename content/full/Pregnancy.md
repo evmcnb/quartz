@@ -42,7 +42,7 @@ Should always be a balance of risk - drugs different again in lactation
 
 | Considered safe                                                                       | Contraindicated                     |
 | ------------------------------------------------------------------------------------- | ----------------------------------- |
-| [[Penicillins]]                                                                           | Tetracycline/[[snippets/Doxycycline|Doxycycline]]            |
+| [[Full/Penicillins]]                                                                           | Tetracycline/[[snippets/Doxycycline|Doxycycline]]            |
 | Macrolides                                                                            | [[snippets/Ciprofloxacin|Ciprofloxacin]]                       |
 | Low molecular weight heparin                                                          | [[snippets/Trimethoprim|Trimethoprim]] (1st trimester)        |
 | [[snippets/Aspirin|Aspirin]]                                                                               | NSADs (3rd trimester)               |
@@ -50,4 +50,4 @@ Should always be a balance of risk - drugs different again in lactation
 | Nifedipine                                                                            | ARA                                 |
 | Adenosine                                                                             | Mycophenolate                       |
 | [[snippets/Prednisolone|Prednisolone]]                                                                          | [[snippets/Warfarin|Warfarin]]                            |
-| Treatment for [[full/asthma]]: [[snippets/Salbutamol|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella) |  
+| Treatment for [[Full/asthma]]: [[snippets/Salbutamol|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella) |  

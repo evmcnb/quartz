@@ -62,7 +62,7 @@ date: 2023-10-18
 
 Some medications increase the chance of 
 - Beta-blockers (bradycardia)
-- Diabetic medications ([[Hypoglycaemia]])
+- Diabetic medications ([[Full/Hypoglycaemia]])
 - Antihypertensives (hypotension)
 - Benzodiazepines (sedation)
 - Antibiotics (intercurrent infection)

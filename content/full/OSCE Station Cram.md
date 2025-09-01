@@ -10,7 +10,7 @@ date modified: 2024-04-21
 >Don't forget general inspection and legs!
 ## Respiratory
 
-### [[Respiratory Exam|Exam]]
+### [[Full/Respiratory Exam|Exam]]
 - Fine tremor & flapping tremor 
 - Respiratory rate
 - Trachea position
@@ -25,7 +25,7 @@ date modified: 2024-04-21
 
 ## Cardio
 
-### [[Cardiovascular examination|Exam]]
+### [[Full/Cardiovascular examination|Exam]]
 - Cap refill
 - Different pulses
 - Blood pressure - ask examiner
@@ -41,7 +41,7 @@ date modified: 2024-04-21
 
 ## Gastro
 
-### [[Abdominal Exam|Exam]]
+### [[Full/Abdominal Exam|Exam]]
 - Temperature of hands
 - Arms and axillae
 - Lymph nodes - Virchow's node 
@@ -53,13 +53,13 @@ date modified: 2024-04-21
 - Diet and exercise
 - Systems screen
 
-## [[Cranial Nerve Exam]]
+## [[Full/Cranial Nerve Exam]]
 
 - 40% of the exam is cranial nerves 2 and 3 effectively - once done everything with those on home straight
 - CNII: Snellen test, **visual fields**, offer to do fundoscopy, check pupil size, alignment and reflexes, offer colour test with Ishihara charts 
 - CNV: assess muscles of mastication - assess atrophy. Say you would test jaw jerk and corneal reflex
 
-### [[Upper and Lower Limb Neurological Exam|Upper Limb Neuro]]
+### [[Full/Upper and Lower Limb Neurological Exam|Upper Limb Neuro]]
 
 *   Pronator drift
 *   Biceps C5/6
@@ -68,7 +68,7 @@ date modified: 2024-04-21
 *   Finger nose test
 *   Dysdiadochokinesia
 
-### [[Upper and Lower Limb Neurological Exam|Lower Limb Neuro]]
+### [[Full/Upper and Lower Limb Neurological Exam|Lower Limb Neuro]]
 
 *   Gait - stance, stability, arm swing, steps, turning
 *   Romberg’s test
@@ -78,7 +78,7 @@ date modified: 2024-04-21
 *   Plantar reflex L5-S1
 *   Heel shin
 
-### [[Urological Examination]]
+### [[Full/Urological Examination]]
 
 - Inspection
 - HR, BP, RR
@@ -98,7 +98,7 @@ date modified: 2024-04-21
 - End pieces
 
 ## Thyroid
-### [[Thyroid Exam]]
+### [[Full/Thyroid Exam]]
 
 *   Weight, behaviour, clothing, voice
 *   Trachea central?
@@ -115,7 +115,7 @@ date modified: 2024-04-21
 - Amiodarone or recent contrast material use
 - Recent viral infection
 
-### [[Lower Limb Vascular Exam]]
+### [[Full/Lower Limb Vascular Exam]]
 
 >[!danger] Warning
 >Read the station to see if they only want lower limb or complete peripheral vascular exam. 
@@ -127,7 +127,7 @@ date modified: 2024-04-21
 *   Gross peripheral (feet) **movement and sensation** 
 *   Buerger’s test ± Trendelenburg
 
-### [[Knee Joint Exam]]
+### [[Full/Knee Joint Exam]]
 
 *   Gross inspection in all planes
 *   Assess gait
@@ -137,7 +137,7 @@ date modified: 2024-04-21
 *  Fixed flexion deformities and hyperextension
 *   **Special tests:** Posterior sag (PCL), Anterior draw test (ACL), posterior draw, medial and lateral collateral ligament assessment, medial and lateral meniscus test
 
-### [[Thoracic and Lumbar Spine Exam]]
+### [[Full/Thoracic and Lumbar Spine Exam]]
 
 - Look - inspect from all planes DWASS
 - Feel - para-vertebral muscles + joints + sacroiliac joint
@@ -145,7 +145,7 @@ date modified: 2024-04-21
 - Special tests - straight leg raise, reflexes, dorsiflexion of big toe
 
 ## Breast
-### [[Breast Exam]] 
+### [[Full/Breast Exam]] 
 
 *   Chaperone and consented for everything - maintain dignity 
 *   Exaggerating manoeuvres 
@@ -160,7 +160,7 @@ date modified: 2024-04-21
 - Brief OBGYN history - menarche and menopause, OCP use
 - Family history of breast bowel or ovarian cancer
 
-## [[Dermatological Exam]]
+## [[Full/Dermatological Exam]]
 
 - General inspection - Fitzpatrick skin type, hands, scalp, face, arms, legs
 - **Describe** 
@@ -169,7 +169,7 @@ date modified: 2024-04-21
 - **Palpate** - surface, consistency, mobility, tenderness, temperature 
 
 ## Other intimate
-### [[PR exam]]
+### [[Full/PR exam]]
 
 *   Need for a chaperone
 *   Don’t forget to position and inspect the perianal region
@@ -177,7 +177,7 @@ date modified: 2024-04-21
 *   Then 360 sweep
 *   Test anal tone? - ask to cough 
 
-### [[Testicular exam]]
+### [[Full/Testicular exam]]
 
 *   Need for a chaperone
 *   Inspect the surrounding region and penis and testicles
@@ -188,7 +188,7 @@ date modified: 2024-04-21
 *   Assess while standing
 
 ## Psych
-### [[Mental State Exam]]
+### [[Full/Mental State Exam]]
 
 **ASEPTIC**
 *   Appearance/Behaviour - open question observe throughout
@@ -202,7 +202,7 @@ date modified: 2024-04-21
 *   Social history - other people in your situations may turn to drugs and alcohol - is that something 
 *   Risk & safe guarding - harming yourself and others 
 
-### [[Psychiatric History Taking|Mental Health History]]
+### [[Full/Psychiatric History Taking|Mental Health History]]
 - **Presenting complaint** - SOCRATES + disability
 - Biological - sleep, eat, mood, libdo
 - Cognitive - concentration, delirium?
@@ -214,7 +214,7 @@ date modified: 2024-04-21
 - **FH** - psychiatric and medical 
 - **SH** - smoke, drunk, drugs, gambling, lifestyle, living situation, exercise, occupation, family and support network
 
-### [[Cognitive Assessment]]
+### [[Full/Cognitive Assessment]]
 
 **O**nly **A**my **L**oves **M**cdonalds **C**learly - rule of three
 - **O**ritentation - three domains, three questions per domain. 
@@ -242,14 +242,14 @@ May be asked instead of a cognitive assessment - similar stuff
 10. What are the roles of 2 people
 11. What is the address that I gave you before
 
-### [[RRAPID Conditions and Management]]
+### [[Full/RRAPID Conditions and Management]]
 
 --- 
 
 Old ones the medical school thought was a good idea to tell us wasn't in the exam 2 weeks before the exam (despite the fact they've been in every year before us)
 
 
-### [[GALS Exam]]
+### [[Full/GALS Exam]]
 
 *   Ask specific screening questions
 *   Close inspection in all planes
@@ -258,7 +258,7 @@ Old ones the medical school thought was a good idea to tell us wasn't in the exa
 *   Spine movements
 *   TMJ function
 
-### [[Shoulder Exam]]
+### [[Full/Shoulder Exam]]
 
 *   Inspection in all planes
 *   Compound movements: hands on head, hands behind their back and reach up as far as they are able
@@ -266,7 +266,7 @@ Old ones the medical school thought was a good idea to tell us wasn't in the exa
 *   Only internal and external rotation against resistance
 *   **Special tests**: Empty can test, painful arc, scarf test
 
-### [[Wrist Exam]]
+### [[Full/Wrist Exam]]
 
 - Loads of strange shit - basically a neuro exam  
 - Inspect the hand well - esp thenar/hypothenar
@@ -275,20 +275,20 @@ Old ones the medical school thought was a good idea to tell us wasn't in the exa
 - Active, passive and functional movements
 - **Special tests**: Tinel's tests, Phalen's test
 
-### [[Ankle and Foot Exam]]
+### [[Full/Ankle and Foot Exam]]
 
 - Gait
 - Achilles tendon palpation
 - Active and passive movements
 - **Special tests**: Simmond's for Achilles tendon rupture
 
-### [[Hip Exam]]
+### [[Full/Hip Exam]]
 
 - Gait
 - Apparent and true leg length
 - Active and passive movement
 - **Special tests** - Thomas's test, Trendelenburg's test 
-### [[Elbow Exam]]
+### [[Full/Elbow Exam]]
 
 - Carrying angle
 - Biceps tendon palpation 

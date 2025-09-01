@@ -96,6 +96,6 @@ Same as medial but for extensor tendons
 - **Summarise** your findings.
 
 ## Further Assessments and Investigations
-- [[Shoulder Exam]] and [[Wrist Exam]]
-- [[Upper and Lower Limb Neurological Exam]]
+- [[Full/Shoulder Exam]] and [[Full/Wrist Exam]]
+- [[Full/Upper and Lower Limb Neurological Exam]]
 - Further imaging as required 

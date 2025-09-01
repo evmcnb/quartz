@@ -37,7 +37,7 @@ Extra-articular:
 - Generalised malaise, fatigue
 - Pericardtis or percardial effusion
 - Vasculitis
-- [[Pulmonary Fibrosis]]
+- [[Full/Pulmonary Fibrosis]]
 
 **LESS**
 - **L**oss of joint space  
@@ -47,7 +47,7 @@ Extra-articular:
 
 #### Diagnostic Tests
 
-- **Bloods** - $\uparrow$ ESR, CRP - FBC: [[snippets/Anaemia|Anaemia]] of chronic disease, thrombocytosis, leukocytosis
+- **Bloods** - $\uparrow$ ESR, CRP - FBC: [[Pearls/Anaemia|Anaemia]] of chronic disease, thrombocytosis, leukocytosis
 - **Anti-CCP antibody** - more specific and sensitive than RF 
 - **XR**/MRI of the area looking for erosions and damage
 - **Joint aspirations** - synovial fluid with increased WCC and protein
@@ -62,7 +62,7 @@ Extra-articular:
 > TNF inhibitors eg adalimimab and immunomodulators such as rituximab are used in adults with highly active disease who have failed to respond to 2 DMARDs
 #### Psoriatic Arthritis
 
-- About 15% of people with [[full/Psoriasis]] will develop psoriatic arthritis
+- About 15% of people with [[Full/Psoriasis]] will develop psoriatic arthritis
 - Dactylitis & nail changes (onycholysis)
 - Increased CV risk
   ![|250](z_attachments/250.png)
@@ -71,7 +71,7 @@ Extra-articular:
 
 - Inflammatory back pain
 - Young people
-- Can cause red inflamed eyes ([[Uveitis]])
+- Can cause red inflamed eyes ([[Full/Uveitis]])
 - Untreated bones can fuse and cause an immobile spine
 
 <hr> 

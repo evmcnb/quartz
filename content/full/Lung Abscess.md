@@ -11,7 +11,7 @@ A cavitating area of localised suppurative infection within the lung
 
 ## Causes/Factors
 
-- Inadequately treated [[full/pneumonia]]
+- Inadequately treated [[Full/pneumonia]]
 - Aspiration
 - Bronchial obstruction
 - Pulmonary Infarction
@@ -25,7 +25,7 @@ A cavitating area of localised suppurative infection within the lung
 - Haemoptysis
 - Malaise
 - Weight loss
-- Finger [[clubbing]]
+- Finger [[Full/clubbing]]
 
 ## Diagnostic Tests
 

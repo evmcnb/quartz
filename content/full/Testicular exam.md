@@ -50,15 +50,15 @@ Ask the patient to lift their penis out of the way to allow for close inspection
 
 #### Prehn's test
 
-Used to differentiate testicular pain caused by acute epididymitis and [[snippets/Testicular Torsion|Testicular Torsion]]
+Used to differentiate testicular pain caused by acute epididymitis and [[Pearls/Testicular Torsion|Testicular Torsion]]
 - Elevate the testes and assess the impact on pain
 - A reduction in pain is associated with epididymitis
 - Doppler is needed to rule out torsion
 
 #### Cremasteric reflex 
 
-Loss of the reflex is associated with [[snippets/Testicular Torsion|Testicular Torsion]]
-- [[Stroke]] inside of thigh
+Loss of the reflex is associated with [[Pearls/Testicular Torsion|Testicular Torsion]]
+- [[Full/Stroke]] inside of thigh
 - Ipsilateral testicle should move towards the inguinal canal
 
 ### Hernias and Lymph nodes

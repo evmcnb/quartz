@@ -43,12 +43,12 @@ Top to toe screen of other body systems that may or may not be related. Might al
 
 - **Systemic** - weight loss, fever
 - **Neurological** - headache, sensory disturbance
-- **Respiratory** - [[snippets/Sore throat|Sore throat]], cough, SOB
+- **Respiratory** - [[Pearls/Sore throat|Sore throat]], cough, SOB
 - **Cardiovascular** - chest pain, palpitations
 - **Musculoskeletal** - trauma, limb weakness, joint pain
 - **Gastrointestinal** - _eating and drinking_, vomiting or diarrhoea, bloating
 - **Genitourinary** - _passing urine and stool_, and pain or discomfort
-- Dermatology - [[snippets/Rashes|Rashes]], itching
+- Dermatology - [[Pearls/Rashes|Rashes]], itching
 
 
 ## Past medical history
@@ -69,7 +69,7 @@ Anything that might be relevant to the presenting complaint
 
 ## Family history
 
-If relevant to the disease - for something like a [[snippets/Sore throat|Sore throat]] this won't be necessary
+If relevant to the disease - for something like a [[Pearls/Sore throat|Sore throat]] this won't be necessary
 
 - Any history of disease in siblings/parents/grandparents
 - Suspicious deaths/deaths at a young age

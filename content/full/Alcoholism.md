@@ -19,16 +19,16 @@ Denial is a leading feature
 
 No confirmed causes but suspicions
 
-- Genetic inherited susceptibility to alcohol's effects, impaired ability to digest alcohol, increased disposition to anxiety, frustration and [[Depression]]
+- Genetic inherited susceptibility to alcohol's effects, impaired ability to digest alcohol, increased disposition to anxiety, frustration and [[Full/Depression]]
 - Psychological causes
 
 ## Symptoms
 
 **Liver** - normal in 50%, $\uparrow$ GGT.
 
-- Fatty liver; acute and reversible but may progress to [[snippets/Cirrhosis|Cirrhosis]] if drinking continues
-- Alcoholic [[Hepatitis]]; 80% progress to [[snippets/Cirrhosis|Cirrhosis]]
-- [[Liver Cirrhosis]]; 5 yr survival: 48% if drinking continues 77% if stops.
+- Fatty liver; acute and reversible but may progress to [[Pearls/Cirrhosis|Cirrhosis]] if drinking continues
+- Alcoholic [[Full/Hepatitis]]; 80% progress to [[Pearls/Cirrhosis|Cirrhosis]]
+- [[Full/Liver Cirrhosis]]; 5 yr survival: 48% if drinking continues 77% if stops.
 
 **CNS**
 
@@ -40,21 +40,21 @@ No confirmed causes but suspicions
 
 **Gut**
 
-- [[Obesity]]
-- Gastric erosions, [[Peptic ulcers]]
+- [[Full/Obesity]]
+- Gastric erosions, [[Full/Peptic ulcers]]
 - [[Varices]]
-- [[full/pancreatitis]]
+- [[Full/pancreatitis]]
 - Oesophageal rupture
 
 **Blood**
 
-- [[snippets/Anaemia|Anaemia]] from marrow [[Depression]], GI bleeding, alcoholism-associated folate deficiency, haemolysis, sideroblastic [[snippets/Anaemia|Anaemia]]
+- [[Pearls/Anaemia|Anaemia]] from marrow [[Full/Depression]], GI bleeding, alcoholism-associated folate deficiency, haemolysis, sideroblastic [[Pearls/Anaemia|Anaemia]]
 
 **Heart**
 
-- [[Arrhythmias]]
+- [[Full/Arrhythmias]]
 - High BP
-- [[Coronary Artery Disease]]
+- [[Full/Coronary Artery Disease]]
 - Cardiomyopathy
 - Sudden death
 

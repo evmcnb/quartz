@@ -14,17 +14,17 @@ Inadequate closure of the aortic valve during diastole that allows for reverse b
 ## Causes/Factors
 
 **Acute**
-- [[full/Endocarditis|Infective endocarditis]]
+- [[Full/Endocarditis|Infective endocarditis]]
 - Ascending aortic dissection
 - Chest trauma
 
 **Chronic**
 - Congenital abnormality 
 - Connective tissue disorders [[Marfan's syndrome]], [[Ehlers-Danlos syndrome]]
-- [[Rheumatic fever]]
+- [[Pearls/Rheumatic Fever]]
 - [[Takayasu arteritis]]
-- [[Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
-- [[full/Systemic Lupus Erythematosus]]
+- [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
+- [[Full/Systemic Lupus Erythematosus]]
 etc
 
 ## Symptoms
@@ -50,10 +50,10 @@ etc
 
 ## Management
 
-Main target of medical therapy is to reduce systolic [[Essential hypertension]]
+Main target of medical therapy is to reduce systolic [[Full/Essential hypertension]]
 - ACEi helpful
 - Echo every 6-12 months to monitor
-- For TAVI if enlarged ascending aorta, increasing symptoms, enlarging LV, deteriorating LV function on echo, [[full/Endocarditis|Infective endocarditis]] refractory to therapy 
+- For TAVI if enlarged ascending aorta, increasing symptoms, enlarging LV, deteriorating LV function on echo, [[Full/Endocarditis|Infective endocarditis]] refractory to therapy 
 - Open heart surgery if not suitable to TAVI
 
 Aim to replace the valve before significant LV dysfunction - poor post-operative prognosis is EF <50%. 

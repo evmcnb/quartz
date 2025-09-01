@@ -34,11 +34,11 @@ date modified: 2024-04-30
 #### Dorsal aspect
 - Hand posture
 - Scars, welling, bruising
-- Bouchard's and Heberden's nodes - occur at PIPJ and DIPJ respectively and are associated with [[Osteoarthritis]]
-- Swan neck deformity and Z-thumb- [[Inflammatory Arthritis|RA]]
+- Bouchard's and Heberden's nodes - occur at PIPJ and DIPJ respectively and are associated with [[Full/Osteoarthritis]]
+- Swan neck deformity and Z-thumb- [[Full/Inflammatory Arthritis|RA]]
 - Skin thinning - steroids
 - Psoriatic plaques - increased risk of psoriatic arthritis
-- [[Splinter haemorrhages]] - [[full/Endocarditis|Infective endocarditis]], [[Sepsis]], [[Vasculitis]]
+- [[Full/Splinter haemorrhages]] - [[Full/Endocarditis|Infective endocarditis]], [[Full/Sepsis]], [[Vasculitis]]
 - Nail pitting and onycholysis 
 
 #### Palmar aspect of hand
@@ -48,7 +48,7 @@ date modified: 2024-04-30
 - Dupuytren's contracture - thickening of the palmar fascia 
 - Thenar/hypothenar wasting. Isolated wasting of the **thenar eminence** is suggestive of **median** nerve damage - **carpal tunnel syndrome** 
 - Elbows
-- [[Janeway lesions and Osler's nodes]]
+- [[Full/Janeway lesions and Osler's nodes]]
 
 ## Feel
 
@@ -161,6 +161,6 @@ Further for carpal tunnel syndrome
 - **Summarise** your findings.
 
 ## Further Assessments and Investigations
-- [[Shoulder Exam]] and [[Elbow Exam]]
-- [[Upper and Lower Limb Neurological Exam]]
+- [[Full/Shoulder Exam]] and [[Full/Elbow Exam]]
+- [[Full/Upper and Lower Limb Neurological Exam]]
 - Further imaging as required 

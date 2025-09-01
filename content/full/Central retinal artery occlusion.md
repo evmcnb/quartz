@@ -12,14 +12,14 @@ Sudden blockage of the central retinal artery leading to ischaemia of the inner 
 
 Ophthalmologic emergency
 
-May be transient - Amaurosis fugax - treated like [[Transient Ischemic Attack]]
+May be transient - Amaurosis fugax - treated like [[Full/Transient Ischemic Attack]]
 
 ## Causes/Factors
 
 Anything that increases the risk of embolic events or CVD
 - Embolic events - theromboemboli from the carotid artery or heart can occlude the vessel
 - Atherosclerosis - buld-up of plaque in the carotid artery or ophthalmic artery
-- Vasculitis - inflammatory conditions such as [[Giant cell arteritis]]
+- Vasculitis - inflammatory conditions such as [[Full/Giant cell arteritis]]
 - Hypercoagulable states - [[Antiphospholipid syndrome]] or protein C/S defiency
 
 ## Clinical Features
@@ -48,11 +48,11 @@ Anything that increases the risk of embolic events or CVD
 
 Sudden loss of vision is an ophthalmological emergency and requires immediate referral to the eye emergency department.
 - (Ocular massage - digital massage may dislodge the emboli)
-- High dose [[snippets/Aspirin|Aspirin]] - 300mg
+- High dose [[Pearls/Aspirin|Aspirin]] - 300mg
 - Intraocular pressure lowering - topical medications or anterior chamber paracentesis
 - IV acetazolamide 
 
 ## Complications/red Flags
 - Permanent vision loss
 - Contralateral eye involvement - increased risk of contralateral CRAO 
-- Systemic embolic events - can be a manifestation of systemic embolic disease warranting further evaluation for [[Stroke]] or [[myocardial infarction]]
+- Systemic embolic events - can be a manifestation of systemic embolic disease warranting further evaluation for [[Full/Stroke]] or [[Full/myocardial infarction]]

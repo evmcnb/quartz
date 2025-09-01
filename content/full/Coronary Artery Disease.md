@@ -16,7 +16,7 @@ Coronary artery disease is a narrowing or blockage of your coronary arteries usu
 
 **_Atherosclerosis_**
 
-- [[Essential hypertension|Hypertension]]
+- [[Full/Essential hypertension|Hypertension]]
 - hypercholesterolemia
 - high LDL-A
 - poor exercise
@@ -27,7 +27,7 @@ Coronary artery disease is a narrowing or blockage of your coronary arteries usu
 
 ## Symptoms
 
-- [[Angina]]
+- [[Full/Angina]]
 - Tiredness
 - SoB
 - Syncope/pre-syncope - on exercise
@@ -48,12 +48,12 @@ Coronary artery disease is a narrowing or blockage of your coronary arteries usu
 - Limit alcohol use
 - Statins
 - $\beta$ blockers
-- Nitro-glycerine spray (for [[Angina]] symptomatic relief)
+- Nitro-glycerine spray (for [[Full/Angina]] symptomatic relief)
 
 - Angioplasty
 - Coronary artery bypass grafting
 
 ## Complications/red Flags
 
-- [[myocardial infarction]]
-- [[Heart Failure]]
+- [[Full/myocardial infarction]]
+- [[Full/Heart Failure]]

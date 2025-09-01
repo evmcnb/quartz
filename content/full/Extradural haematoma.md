@@ -14,7 +14,7 @@ Beware deteriorating consciousness after any head injury that initially produced
 ## Causes/Factors
 
 Any tear in dural venous sinus will result in extradural bleed
-- Suspect after any traumatic skull fracture - often fractured temporal or parietal [[snippets/Bone|Bone]] causing lacerating to middle meningeal artery (pterion)
+- Suspect after any traumatic skull fracture - often fractured temporal or parietal [[Pearls/Bone|Bone]] causing lacerating to middle meningeal artery (pterion)
 
 ## Symptoms
 
@@ -27,7 +27,7 @@ Any tear in dural venous sinus will result in extradural bleed
 
 ## Signs
 
-- **Lucid Interval:** A period of consciousness between the head injury and the onset of symptoms. This may last hours to days before a bleed declares itself by falling [[Glasgow Coma Scale|GCS]]
+- **Lucid Interval:** A period of consciousness between the head injury and the onset of symptoms. This may last hours to days before a bleed declares itself by falling [[Full/Glasgow Coma Scale|GCS]]
 
 ## Diagnostic Tests
 

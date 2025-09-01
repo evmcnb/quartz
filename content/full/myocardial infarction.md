@@ -6,7 +6,7 @@ date modified: 2024-03-11
 date: 2023-11-12
 ---
 
-Belongs to a group of [[Acute Coronary Syndrome|acute coronary syndromes]] along with unstable [[Angina]]. These share a common pathology atherosclerotic plaque rupture, thrombosis and inflammation. However may also be rarely due to emboli, coronary spasm or vasculitis
+Belongs to a group of [[Full/Acute Coronary Syndrome|acute coronary syndromes]] along with unstable [[Full/Angina]]. These share a common pathology atherosclerotic plaque rupture, thrombosis and inflammation. However may also be rarely due to emboli, coronary spasm or vasculitis
 
 Myocardial infarction - there is myocardial cell death -> release of troponin
 Ischaemia - lack of blood supply (possible not cell death - no troponin in unstable angina)
@@ -20,9 +20,9 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 ## Causes/Factors
 
 - Age
-- Family history of [[Coronary Artery Disease]]
+- Family history of [[Full/Coronary Artery Disease]]
 - Smoking
-- [[Essential hypertension|Hypertension]]
+- [[Full/Essential hypertension|Hypertension]]
 - [[Familial hypercholesterolaemia]]
 - Hyperlipidaemia
 - Obesity
@@ -56,7 +56,7 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 | Circumflex               | Lateral        | I, aVL, V5-6  |
 | Right coronary artery    | Inferior       | II, III, aVF  |
 
-- ECG - ST elevation (STEMI), T-wave inversion, ST [[Depression]] (NSTEMI) - [[ECG Lead Placement & Interpretation]]
+- ECG - ST elevation (STEMI), T-wave inversion, ST [[Full/Depression]] (NSTEMI) - [[Full/ECG Lead Placement & Interpretation]]
 - Bloods - raised troponin, cardiac enzymes, creatine kinase for NSTEMI
 - Echo to see area of reduced contraction
 - Coronary angio to show which artery is blocked
@@ -66,9 +66,9 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 Acute:
 
 **MOAN pneumonic**
-- [[snippets/Morphine|Morphine]] 5-10mg (with [[snippets/Metoclopramide|Metoclopramide]] 10mg)
-- [[snippets/Oxygen|Oxygen]]
-- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. [[snippets/Clopidogrel|Clopidogrel]] if high bleeding risk, or prasugrel if having angiography.
+- [[Pearls/Morphine|Morphine]] 5-10mg (with [[Pearls/Metoclopramide|Metoclopramide]] 10mg)
+- [[Pearls/Oxygen|Oxygen]]
+- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. [[Pearls/Clopidogrel|Clopidogrel]] if high bleeding risk, or prasugrel if having angiography.
 - Nitrates - GNT spray
 
 - *PCI* must be within 2 hours otherwise *thrombolysis*
@@ -83,12 +83,12 @@ Patients at **_medium_** or **_high risk_** are considered for early **_ang
 Factors in GRACE score is age HR systolic BP and associated symptoms
 
 Post MI 6A's:
-- [[snippets/Aspirin|Aspirin]] 75mg indefinitely
-- Another Anti-platelet - ticagrelor or [[snippets/Clopidogrel|Clopidogrel]] for 12 months
+- [[Pearls/Aspirin|Aspirin]] 75mg indefinitely
+- Another Anti-platelet - ticagrelor or [[Pearls/Clopidogrel|Clopidogrel]] for 12 months
 - Atorvastatin 80mg once daily
 - ACE inhibitor as high as tolerated
-- [[snippets/Atenolol|Atenolol]] or another beta blocker
-- Aldosterone antagonist in those with [[Heart Failure]]
+- [[Pearls/Atenolol|Atenolol]] or another beta blocker
+- Aldosterone antagonist in those with [[Full/Heart Failure]]
 
 ## Complications/red Flags
 
@@ -99,7 +99,7 @@ Post MI 6A's:
 > - Global ST elevation and TWI, pericardial effusion and raised CRP and ESR
 > - Management is with NSAIDs and in severe cases steroids ± pericardiocentesis 
 
-- [[Arrhythmias]] - most common complication
-- [[Pericarditis]]
+- [[Full/Arrhythmias]] - most common complication
+- [[Pearls/Pericarditis]]
 - [[Cardiac Tamponade]]
 - LV/RV failure

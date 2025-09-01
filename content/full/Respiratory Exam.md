@@ -24,7 +24,7 @@ date: 2024-02-07
 
 - <span style="color:#ff0000">Cyanosis</span>
 - Shortness of breath
-- <span style="color:#ff0000">Cough</span> - wet: [[full/pneumonia]], [[full/bronchiectasis]], [[COPD]], [[full/Cystic Fibrosis]] dry: [[full/asthma]], [[interstitial lung disease]]
+- <span style="color:#ff0000">Cough</span> - wet: [[Full/pneumonia]], [[Full/bronchiectasis]], [[Full/COPD]], [[Full/Cystic Fibrosis]] dry: [[Full/asthma]], [[Full/interstitial lung disease]]
 - Wheeze/stridor
 - <span style="color:#ff0000">Pallor</span>
 - <span style="color:#ff0000">Oedema</span>
@@ -34,7 +34,7 @@ date: 2024-02-07
 
 - <span style="color:#ff0000">Oxygen delivery devices</span> - type & rate
 - <span style="color:#ff0000">Sputum pot</span>
-- <span style="color:#ff0000">Other medical equipment </span>- [[snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
+- <span style="color:#ff0000">Other medical equipment </span>- [[Pearls/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - <span style="color:#ff0000">Cigs or vapes</span>
 
 ## Hands
@@ -46,9 +46,9 @@ date: 2024-02-07
 - **<span style="color:#ff0000">Skin changes:</span>** bruising and thinning of the skin can be associated with <span style="color:#00b0f0">long-term steroid use (e.g. asthma, COPD, interstitial lung disease)</span>.
 - <span style="color:#ff0000">Joint swelling or deformity:</span> may be associated with <span style="color:#00b0f0">rheumatoid arthritis</span> which has several extra-articular manifestations that affect the respiratory system (e.g. <span style="color:#00b0f0">pleural effusions/pulmonary fibrosis</span>).
 
-##### Finger [[clubbing]]
+##### Finger [[Full/clubbing]]
 
-Most likely causes to come up in resp exam OSCE is [[full/Lung Tumours]], [[interstitial lung disease]], [[full/Cystic Fibrosis]], [[full/bronchiectasis]]
+Most likely causes to come up in resp exam OSCE is [[Full/Lung Tumours]], [[Full/interstitial lung disease]], [[Full/Cystic Fibrosis]], [[Full/bronchiectasis]]
 
 - Schamroth’s window test
 
@@ -58,7 +58,7 @@ Ask the patient to hold out their hands in an <span style="color:#ff0000">outstr
 
 ##### Asterixis (flapping tremor)
 
-In context of resp exam most likely underlying cause is $CO_2$ <span style="color:#ff0000">retention</span> due to [[Respiratory Failure#Type II|Type II respiratory failure]]. [[Hepatic encephalopathy]]<span style="color:#00b0f0"> and uraemia are other causes</span>
+In context of resp exam most likely underlying cause is $CO_2$ <span style="color:#ff0000">retention</span> due to [[Full/Respiratory Failure#Type II|Type II respiratory failure]]. [[Hepatic encephalopathy]]<span style="color:#00b0f0"> and uraemia are other causes</span>
 
 - <span style="color:#ff0000">Ask patient to stick arms out and cock hands back for 30 seconds</span>
 
@@ -83,17 +83,17 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 
 #### General
 
-- <span style="color:#ff0000">Plethoric complexion</span>: a congested red-faced appearance associated with <span style="color:#00b0f0">polycythaemia</span> (e.g. [[COPD]]) and $CO_2$ <span style="color:#00b0f0">retention</span> (e.g. [[Respiratory Failure#Type II|type II respiratory failure]]).
+- <span style="color:#ff0000">Plethoric complexion</span>: a congested red-faced appearance associated with <span style="color:#00b0f0">polycythaemia</span> (e.g. [[Full/COPD]]) and $CO_2$ <span style="color:#00b0f0">retention</span> (e.g. [[Full/Respiratory Failure#Type II|type II respiratory failure]]).
 
 #### Eyes
 
-- <span style="color:#ff0000">Conjunctival pallor</span>: suggestive of underlying [[snippets/Anaemia|Anaemia]]*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
-- <span style="color:#ff0000">Ptosis, miosis and enophthalmos</span>: all features of [[Horner's Syndrome]] (anhydrosis is another important sign associated with the syndrome). <span style="color:#00b0f0">Horner’s syndrome</span> occurs when the <span style="color:#00b0f0">sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung</span> (e.g. Pancoast tumour).
+- <span style="color:#ff0000">Conjunctival pallor</span>: suggestive of underlying [[Pearls/Anaemia|Anaemia]]*.* Ask the patient to gently pull down their lower eyelid to allow you to inspect the conjunctiva.
+- <span style="color:#ff0000">Ptosis, miosis and enophthalmos</span>: all features of [[Full/Horner's Syndrome]] (anhydrosis is another important sign associated with the syndrome). <span style="color:#00b0f0">Horner’s syndrome</span> occurs when the <span style="color:#00b0f0">sympathetic trunk is damaged by pathology such as lung cancer affecting the apex of the lung</span> (e.g. Pancoast tumour).
 
 #### Mouth
 
 - <span style="color:#ff0000">Central cyanosis</span>: bluish discolouration of the lips and/or the tongue associated with <span style="color:#00b0f0">hypoxaemia</span>.
-- <span style="color:#ff0000">Oral candidiasis</span>: a fungal infection commonly associated with<span style="color:#00b0f0"> steroid inhaler</span> use (due to local [[snippets/Immunosuppression|Immunosuppression]]). It is characterised by <span style="color:#00b0f0">pseudomembranous white slough</span> which can be easily wiped away to reveal underlying erythematous mucosa.
+- <span style="color:#ff0000">Oral candidiasis</span>: a fungal infection commonly associated with<span style="color:#00b0f0"> steroid inhaler</span> use (due to local [[Pearls/Immunosuppression|Immunosuppression]]). It is characterised by <span style="color:#00b0f0">pseudomembranous white slough</span> which can be easily wiped away to reveal underlying erythematous mucosa.
 
 ## Neck
 
@@ -101,7 +101,7 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 
 ##### Jugular Venous Pressure
 
-Indirect measure of <span style="color:#00b0f0">central venous pressure</span> (IJV connects to right atrium without any valves). Raised JVP indicates **venous [[Essential hypertension]]** $\rightarrow$ pulmonary [[Essential hypertension]] $\rightarrow$ [[Heart Failure|right-sided heart failure]]
+Indirect measure of <span style="color:#00b0f0">central venous pressure</span> (IJV connects to right atrium without any valves). Raised JVP indicates **venous [[Full/Essential hypertension]]** $\rightarrow$ pulmonary [[Full/Essential hypertension]] $\rightarrow$ [[Full/Heart Failure|right-sided heart failure]]
 
 1. Position the patient in a semi-recumbent position (at 45°).
 2. Ask the patient to turn their head slightly to the left
@@ -142,7 +142,7 @@ Position patient upright and examine from behind if possible. <span style="color
 
 ![|325](z_attachments/325.png)
 
-Causes include [[full/Lung Tumours]] [[Tuberculosis]] and [[full/Sarcoidosis]]
+Causes include [[Full/Lung Tumours]] [[Full/Tuberculosis]] and [[Full/Sarcoidosis]]
 
 ## Chest
 
@@ -153,7 +153,7 @@ Causes include [[full/Lung Tumours]] [[Tuberculosis]] and [[full/Sarcoidosis]]
   - Asymmetry
   - Pectus excavatum - caved-in or sunken appearance
   - Pectus carinatum - protrusion of the sternum and ribs
-  - <span style="color:#ff0000">hyperexpansion</span> (<span style="color:#ff0000">barrel chest</span>) associated with [[full/asthma]] <span style="color:#00b0f0">and</span> [[COPD]]
+  - <span style="color:#ff0000">hyperexpansion</span> (<span style="color:#ff0000">barrel chest</span>) associated with [[Full/asthma]] <span style="color:#00b0f0">and</span> [[Full/COPD]]
 
 ##### Apex Beat
 
@@ -179,8 +179,8 @@ Causes include [[full/Lung Tumours]] [[Tuberculosis]] and [[full/Sarcoidosis]]
 
 - **Resonant:** a normal finding
 - <span style="color:#ff0000">Dullness</span>: suggests <span style="color:#00b0f0">increased tissue density</span> (e.g. <span style="color:#00b0f0">cardiac dullness, consolidation, tumour, lobar collapse</span>).
-- <span style="color:#ff0000">Stony dullness</span>: typically caused by an underlying [[full/Pleural Effusion]]
-- <span style="color:#ff0000">Hyper-resonance</span>: the opposite of dullness, suggestive of <span style="color:#00b0f0">decreased tissue density</span> (e.g. [[full/pneumothorax]]).
+- <span style="color:#ff0000">Stony dullness</span>: typically caused by an underlying [[Full/Pleural Effusion]]
+- <span style="color:#ff0000">Hyper-resonance</span>: the opposite of dullness, suggestive of <span style="color:#00b0f0">decreased tissue density</span> (e.g. [[Full/pneumothorax]]).
 
 ### Auscultate Lung Fields
 
@@ -196,13 +196,13 @@ Normal vesicular breathing:
 
 #### Added Sounds
 
-- <span style="color:#ff0000">Wheeze</span>: often associated with [[full/asthma]], [[COPD]] and [[full/bronchiectasis]] - <span style="color:#00b0f0">lower airways</span>
+- <span style="color:#ff0000">Wheeze</span>: often associated with [[Full/asthma]], [[Full/COPD]] and [[Full/bronchiectasis]] - <span style="color:#00b0f0">lower airways</span>
   ![[z_attachments/wheeze.mp3|wheeze]]
 - <span style="color:#ff0000">Stridor</span>: a <span style="color:#00b0f0">high-pitched extra-thoracic breath</span> sound resulting from turbulent airflow through <span style="color:#00b0f0">narrowed upper airways</span>. Stridor has a wide range of causes, including foreign body inhalation (acute) and subglottic stenosis (chronic).
   ![[z_attachments/inspiratory stridor.mp3|inspiratory stridor]]
-- <span style="color:#ff0000">Coarse crackles</span>: associated with [[full/pneumonia]], [[full/bronchiectasis]] <span style="color:#00b0f0">and pulmonary oedema</span>.
+- <span style="color:#ff0000">Coarse crackles</span>: associated with [[Full/pneumonia]], [[Full/bronchiectasis]] <span style="color:#00b0f0">and pulmonary oedema</span>.
   ![[z_attachments/coarse crackles.mp3|coarse crackles]]
-- <span style="color:#ff0000">Fine end-inspiratory crackles</span>:  associated with [[Pulmonary Fibrosis]]
+- <span style="color:#ff0000">Fine end-inspiratory crackles</span>:  associated with [[Full/Pulmonary Fibrosis]]
   ![[z_attachments/fine crackles.mp3|fine crackles]]
 
 ##### Vocal Resonance
@@ -221,7 +221,7 @@ Except apex beat and chest expansion if already done
 ## Final Steps
 
 - Assess for <span style="color:#ff0000">sacral and pedal oedema</span> - <span style="color:#00b0f0">HF</span>
-- <span style="color:#ff0000">Assess calves</span> for signs of [[Deep Vein Thrombosis]]
+- <span style="color:#ff0000">Assess calves</span> for signs of [[Full/Deep Vein Thrombosis]]
 
 ## To Complete the Exam
 
@@ -232,9 +232,9 @@ Except apex beat and chest expansion if already done
 
 ## Further Assessments and Investigations
 
-- Check **[[snippets/Oxygen|Oxygen]] saturation $SpO_2$** and provide if needed
+- Check **[[Pearls/Oxygen|Oxygen]] saturation $SpO_2$** and provide if needed
 - Check other vital signs - temp & blood pressure
 - Take a sputum sample
-- **For [[full/asthma]]** - perform a peak flow
+- **For [[Full/asthma]]** - perform a peak flow
 - Request chest X-Ray if abnormalities noted
 - Take ABG if indicated

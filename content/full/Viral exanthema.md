@@ -9,7 +9,7 @@ A wide spread rash that accompanies a viral infection. Quite common. Can appear 
 
 ![[z_attachments/Pasted image 20240102162040.png]]
 
-[[snippets/Viruses|Viruses]] that commonly cause exanthem rash include: 
+[[Pearls/Viruses|Viruses]] that commonly cause exanthem rash include: 
 - Chicken pox (VZV)
 - COVID-19 
 - Fifth disease (parvovirus B19)

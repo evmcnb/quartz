@@ -13,7 +13,7 @@ Primary adrenal cortical insufficiency - not enough steroid hormones
 
 Triad of **hyperpigmentation**, **postural hypotension** and **hyponatraemia**
 
-Plus [[snippets/Hyperkalaemia|Hyperkalaemia]], metabolic acidosis
+Plus [[Pearls/Hyperkalaemia|Hyperkalaemia]], metabolic acidosis
 
 ##### Secondary and tertiary causes of adrenal insufficiency:
 More common than Addison's  
@@ -33,8 +33,8 @@ Difference
 - Usually some other evidence of pituitary failure eg hypotheyroidism after steroid withdrawal
 ## Causes/Factors
 
-- Autoimmune - other auroimmune conditions, [[Diabetes Mellitus|T1DM]], vitiligo, pernicious [[snippets/Anaemia|Anaemia]], [[Hashimoto's thyroiditis]], [[Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
-- Infections - [[Tuberculosis]], fungal infections
+- Autoimmune - other auroimmune conditions, [[Full/Diabetes Mellitus|T1DM]], vitiligo, pernicious [[Pearls/Anaemia|Anaemia]], [[Full/Hashimoto's thyroiditis]], [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
+- Infections - [[Full/Tuberculosis]], fungal infections
 - Genetic factors - rarely genetic mutations
 
 ## Symptoms
@@ -67,11 +67,11 @@ Most commonly caused by: GI illness, infections, peri operative, physiological s
 - Calcium gluconate for cardioprotection
 - IM/IV hydrocortisone
 - IV fluids
-- Correct [[Hypoglycaemia]] with IV dextrose
+- Correct [[Full/Hypoglycaemia]] with IV dextrose
 - Monitor electrolytes and fluid balance
 
 ## Complications/red Flags
 
 - Adrenal crisis - life threatening situation, extreme weakness and low BP - requires hydrocortisone injection immediately 
-- [[snippets/Electrolyte imbalance|Electrolyte imbalance]] - hyponatraemia, [[snippets/Hyperkalaemia|Hyperkalaemia]] 
-- Avoid treatment with dexamethasone as it increases risk of [[full/Cushing's Syndrome]]
+- [[Pearls/Electrolyte imbalance|Electrolyte imbalance]] - hyponatraemia, [[Pearls/Hyperkalaemia|Hyperkalaemia]] 
+- Avoid treatment with dexamethasone as it increases risk of [[Full/Cushing's Syndrome]]

@@ -24,7 +24,7 @@ Hepatitis B ^b362b5
 
 Hepatitis C
 
-- Most common [[snippets/Viral hepatitis|Viral hepatitis]] in UK
+- Most common [[Pearls/Viral hepatitis|Viral hepatitis]] in UK
 - Often causes no symptoms
 - 25% will fight of the infection the rest will have a chronic infection
 - Good drug treatment options
@@ -33,7 +33,7 @@ Hepatitis D
 
 - Only affects people who are already infected with hep B
 - Spread via blood
-- Chronic infection of hep B and D can increase risk of [[snippets/Cirrhosis|Cirrhosis]] and liver cancer
+- Chronic infection of hep B and D can increase risk of [[Pearls/Cirrhosis|Cirrhosis]] and liver cancer
 
 Hepatitis E
 
@@ -43,9 +43,9 @@ Hepatitis E
 
 Alcoholic hepatitis
 
-- [[Alcohol-related Liver Disease]]
+- [[Full/Alcohol-related Liver Disease]]
 
-[[snippets/Paracetamol|Paracetamol]] Overdose
+[[Pearls/Paracetamol|Paracetamol]] Overdose
 
 Autoimmune hepatitis
 
@@ -66,7 +66,7 @@ Autoimmune hepatitis
 
 ## Signs
 
-- [[Jaundice]]
+- [[Pearls/Jaundice]]
 - pyrexia
 
 ## Diagnostic Tests
@@ -83,4 +83,4 @@ Mostly symptomatic relief
 ## Complications/red Flags
 
 - Acute liver injury should result in regeneration of the liver
-- Chronic liver injury results in [[Liver Cirrhosis]] (fibrous/scarring)
+- Chronic liver injury results in [[Full/Liver Cirrhosis]] (fibrous/scarring)

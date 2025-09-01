@@ -9,7 +9,7 @@ date: 2024-01-14
 ---
 Psoriasis is a chronic autoimmune skin disorder characterized by the  buildup of skin cells, resulting in thick, scaly patches. It often involves redness, itching, and discomfort.
 
-Relapsing-remitting course and may have nail and joint involvement [[Inflammatory Arthritis#Psoriatic Arthritis|psoriatic arthritis]]
+Relapsing-remitting course and may have nail and joint involvement [[Full/Inflammatory Arthritis#Psoriatic Arthritis|psoriatic arthritis]]
 
 ## Causes/Factors
 

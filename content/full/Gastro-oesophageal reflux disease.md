@@ -7,20 +7,20 @@ date modified: 2024-03-11
 date: 2024-02-16
 ---
 
-Chronic reflux of gastric contents back into the oesophagus resulting [[snippets/Gastritis|Gastritis]]
+Chronic reflux of gastric contents back into the oesophagus resulting [[Pearls/Gastritis|Gastritis]]
 
 "Proven GORD" refers to endoscopically determined reflux disease
 
-**[[snippets/Oesophagitis|Oesophagitis]]** - when inflammation and mucosal erosions are seen
+**[[Pearls/Oesophagitis|Oesophagitis]]** - when inflammation and mucosal erosions are seen
 **Endoscopy** - negative reflux disease (non-erosive reflux disease) symptoms but normal endoscopy
 
-> [!example] [[snippets/Barrett's oesophagus|Barrett's oesophagus]]
-> 10-15% of people with GORD will develop [[snippets/Barrett's oesophagus|Barrett's oesophagus]] and 1-10% will develop oesophageal adenocarcinoma over next 10-20 years
+> [!example] [[Pearls/Barrett's oesophagus|Barrett's oesophagus]]
+> 10-15% of people with GORD will develop [[Pearls/Barrett's oesophagus|Barrett's oesophagus]] and 1-10% will develop oesophageal adenocarcinoma over next 10-20 years
 ## Causes/Factors
 
-- Lifestyle factors - [[Obesity]], trigger foods, smoking, alcohol, coffee and stress
+- Lifestyle factors - [[Full/Obesity]], trigger foods, smoking, alcohol, coffee and stress
 - Drugs that decrease lower oesophageal sphincter pressure - CCBs, anti-cholinergics, theophylline, benzos and nitrates
-- [[Pregnancy]]
+- [[Full/Pregnancy]]
 
 ## Symptoms
 
@@ -42,13 +42,13 @@ Chronic reflux of gastric contents back into the oesophagus resulting [[snippets
 - Endoscopy
 - Oesophageal pH monitoring
 - Oesophageal manometry - measurement of motility and lower oesophageal sphincter pressure 
-- Barium swallow - strictures or hiatal [[Hernias]]
+- Barium swallow - strictures or hiatal [[Full/Hernias]]
 
 ## Management
 
 - Lifestyle measures - sleeping with head raised
 - Stop exacerbating drgs
-- Full-dose PPI for 4 weeks for proven GORD - 8 weeks for severe [[snippets/Oesophagitis|Oesophagitis]]
+- Full-dose PPI for 4 weeks for proven GORD - 8 weeks for severe [[Pearls/Oesophagitis|Oesophagitis]]
 	- Consider a further 4 weeks if unresolved
 	- H2 receptor antagonist reduce gastric acid secretion
 

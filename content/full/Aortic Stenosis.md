@@ -19,7 +19,7 @@ Pressure overload - high resistance low reps -> hypertrophy
 ## Symptoms
 
 **S**yncope
-**A**[[Angina|ngina]]
+**A**[[Full/Angina|ngina]]
 **D**yspnoea - on exercise
 
 ## Signs

@@ -25,8 +25,8 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 
 **Bleeding risk from ulcer**
 - NSAIDs
-- [[snippets/Aspirin|Aspirin]]
-- [[snippets/Anticoagulants|Anticoagulants]]
+- [[Pearls/Aspirin|Aspirin]]
+- [[Pearls/Anticoagulants|Anticoagulants]]
 - Steroids
 - SSRIs 
 ## Presentation
@@ -37,7 +37,7 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 - Haematemesis
 - Coffee ground vomit
 - Melaena
-- Iron deficiency [[full/Anaemia]]
+- Iron deficiency [[Full/Anaemia]]
 
 > [!tip] Gastric vs duodenal ulcers differentiating history
 > - Eating typically worsens the pain of gastric ulcers - so patients tend to lose weight due to the fear of pain on eating
@@ -47,13 +47,13 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 
 - OGD - endoscopy. During endoscopy a rapid urease test can be used to check for H. pylori infection. A biopsy can also be considered to exclude malignancy. 
 - Stool sample - H pylori PCR
-- [[PR exam]] - to check for melena  
+- [[Full/PR exam]] - to check for melena  
 
 ## Management
 
 - Stopping NSAIDs
-- Treating H pylori infection - TDS [[snippets/Amoxicillin|Amoxicillin]] 1g and clarithromycin 500mg or [[snippets/Metronidazole|Metronidazole]] 400mg  
-- Proton pump inhibitor to reduce gastric acid secretion - lansoprazole 30mg, [[snippets/Omeprazole|Omeprazole]] 20-40mg, etc 
+- Treating H pylori infection - TDS [[Pearls/Amoxicillin|Amoxicillin]] 1g and clarithromycin 500mg or [[Pearls/Metronidazole|Metronidazole]] 400mg  
+- Proton pump inhibitor to reduce gastric acid secretion - lansoprazole 30mg, [[Pearls/Omeprazole|Omeprazole]] 20-40mg, etc 
 
 ## Complications/red Flags
 - Significant bleeding

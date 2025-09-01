@@ -9,23 +9,23 @@ date: 2023-11-16
 
 - Chronic _obstructive_ pulmonary disease
 - A common slowly progressive disorder characterised by airway obstruction
-- Little to no reversibility (how to differentiate from [[full/asthma]])
-- Includes chronic [[bronchitis]] and [[emphysema]]
-- Patients usually have either COPD or [[full/asthma]] not both
+- Little to no reversibility (how to differentiate from [[Full/asthma]])
+- Includes chronic [[Full/bronchitis]] and [[Full/emphysema]]
+- Patients usually have either COPD or [[Full/asthma]] not both
 
 Pink puffers and blue bloaters - likely ends of the spectrum:
 
-**Pink puffers - [[emphysema]]**
+**Pink puffers - [[Full/emphysema]]**
 
 - have $\uparrow$ alveolar ventilation near normal $PaO_2$ and a normal or low $PaCO_2$
 - breathless but not cyanosed
-- may progress to [[Respiratory Failure#Type I]]
+- may progress to [[Full/Respiratory Failure#Type I]]
 
-**Blue bloaters - chronic [[bronchitis]]**
+**Blue bloaters - chronic [[Full/bronchitis]]**
 
 - have $\downarrow$ alveolar ventilation with a low $PaO_2$ and a normal or low $PaCO_2$
 - cyanosed but not breathless
-- may go on to develop [[cor pulmonale]]
+- may go on to develop [[Full/cor pulmonale]]
 - respiratory centres relatively insensitive to $CO_2$ and rely on hypoxic drive to maintain respiratory effort
 
 ### Causes
@@ -53,17 +53,17 @@ Smoking, pollution
 
 ## Management
 
-- **Initial treatment**: short acting $\beta_2$ agonist (SABA) ([[snippets/Salbutamol|Salbutamol]]) and short acting muscarinic antagonist (SAMA) ([[snippets/Ipratropium Bromide|Ipratropium Bromide]]) - as necessary 
+- **Initial treatment**: short acting $\beta_2$ agonist (SABA) ([[Pearls/Salbutamol|Salbutamol]]) and short acting muscarinic antagonist (SAMA) ([[Pearls/Ipratropium Bromide|Ipratropium Bromide]]) - as necessary 
 
-Step up if **no** [[full/asthma]] features: LABA + LAMA
+Step up if **no** [[Full/asthma]] features: LABA + LAMA
 
-Step up treatment when symptoms and exacerbations are still a problem with **[[full/asthma]]/steroid responsive features**:
+Step up treatment when symptoms and exacerbations are still a problem with **[[Full/asthma]]/steroid responsive features**:
 - Inhaled corticosteroids
 - Oral steroids (for exacerbation for 5 days)
 - Mucolytics
 - Long-term $O_2$ therapy (NICE guidelines, $O_2$ targets of 88-92%)
 
-During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - [[snippets/Azithromycin|Azithromycin]] to Avoid infections (250mg TDS)
+During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - [[Pearls/Azithromycin|Azithromycin]] to Avoid infections (250mg TDS)
 
 ![[z_attachments/Pasted image 20240516153348.png]]
 
@@ -73,6 +73,6 @@ Patients should have the **_pneumococcal_** and **_annual flu_** vaccine.
 ### Complications
 
 - [[polycythaemia]] - increased haematocrit 
-- [[Respiratory Failure]]
-- [[full/pneumothorax]]
-- [[cor pulmonale]]
+- [[Full/Respiratory Failure]]
+- [[Full/pneumothorax]]
+- [[Full/cor pulmonale]]

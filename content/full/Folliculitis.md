@@ -11,7 +11,7 @@ Folliculitis is a common skin condition that causes red bumps or pustules around
 
 - **Infections:** Bacteria (Staphylococcus aureus), Fungi (Malassezia), Virus (Herpes Simplex)
 - **Irritation or Trauma:** Friction, shaving, tight clothing.
-- **Compromised Immune System:** [[HIV]]/AIDS, diabetes.
+- **Compromised Immune System:** [[Full/HIV]]/AIDS, diabetes.
 - **Waterborne Bacteria:** Pseudomonas aeruginosa in hot tubs or pools.
 - **Topical Steroid Use:** Prolonged use leading to steroid folliculitis.
 
@@ -30,4 +30,4 @@ Clinical examination and lesion culture help identify the infectious agent.
 - **Warm Compresses:** Relieve discomfort and promote drainage.
 - **Avoiding Irritants:** Preventive measures to reduce friction and trauma.
 
-**Complications/Red Flags** -  boils, [[Cellulitis]], and scarring, especially with chronic cases.
+**Complications/Red Flags** -  boils, [[Full/Cellulitis]], and scarring, especially with chronic cases.

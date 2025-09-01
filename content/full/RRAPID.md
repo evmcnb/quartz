@@ -15,12 +15,12 @@ date: 2023-10-05
 #### Airway - Can Be Protected by Themselves?
 - Look- vomit secretions, trauma swelling foreign body 
 - Listen - abnormal sounds, complete obstruction will be silent
-- Feel - airflow from nose/mouth, misting of [[snippets/Oxygen|Oxygen]]
+- Feel - airflow from nose/mouth, misting of [[Pearls/Oxygen|Oxygen]]
 
 Response to obstruction
 - Call for help
-- [[snippets/Oxygen|Oxygen]] 15L/min via non-rebreathing mask
-	- If [[COPD]] with chronic retainment aim for 88-92% not 94%
+- [[Pearls/Oxygen|Oxygen]] 15L/min via non-rebreathing mask
+	- If [[Full/COPD]] with chronic retainment aim for 88-92% not 94%
 - Basic airway manoeuvres
 	- Head tilt
 	- Jaw thrust (if C-Spine injury possible)
@@ -28,12 +28,12 @@ Response to obstruction
 - Remove foreign body or suction visible secretions
 
 #### Breathing - Difficulty?
-- [[full/pneumonia]] 
-- [[full/pneumothorax]] 
+- [[Full/pneumonia]] 
+- [[Full/pneumothorax]] 
 - Pulmonary oedema 
-- [[full/asthma]] 
-- [[pulmonary embolism]]
-- Exacerbation of [[COPD]]
+- [[Full/asthma]] 
+- [[Full/pulmonary embolism]]
+- Exacerbation of [[Full/COPD]]
 - Chest Trauma
 
 - Look - RR, central cyanosis, working to breath, chest injury, ability to clear secretions by coughing, sweating 
@@ -41,7 +41,7 @@ Response to obstruction
 - Feel - symmetry, heart rate, tracheal deviation, chest expansion
 
 Response
-- Give [[snippets/Oxygen|Oxygen]] 
+- Give [[Pearls/Oxygen|Oxygen]] 
 - Sit the patient up 
 - Treat the underlying cause
 	- nebulisers, antibiotics, chest drain 
@@ -70,14 +70,14 @@ Response to circulation problem
 
 #### Disability - Evaluation of a patient’s Neurological System
 - Metabolic 
-- [[Hypoglycaemia]], hypothermia, hypoxia
+- [[Full/Hypoglycaemia]], hypothermia, hypoxia
 - Drugs 
 - opioids, benzodiazepines 
 - Seizures
 - Raised intracranial pressure 
 - head injury
 - Intracranial infection 
-- [[Sepsis]]
+- [[Full/Sepsis]]
 
 - Assess conscious level
 	- AVPU

@@ -21,7 +21,7 @@ Trabecular network has increased resistance so drainage is slower.
 Glaucoma affects the **_peripheral vision_** first, resulting in a **_gradual onset_** of **_peripheral vision loss_** (**_tunnel vision_**). It can also cause:
 
 - Fluctuating pain
-- [[snippets/Headaches|Headaches]]
+- [[Pearls/Headaches|Headaches]]
 - Blurred vision 
 - Halos around lights, particularly at night
 
@@ -32,7 +32,7 @@ Both apply pressure to cornea and measure response/resistance
 - Goldmann applanation tonometry (gold standard)
 
 
-- Slit lamp assessment for increased **cup-disk ratio** ([[snippets/Glaucoma Pathophysiology|Glaucoma Pathophysiology]])
+- Slit lamp assessment for increased **cup-disk ratio** ([[Pearls/Glaucoma Pathophysiology|Glaucoma Pathophysiology]])
 - Visual field assessment for peripheral vision loss
 - Gonioscopy to assess angle between iris and cornea
 

@@ -3,10 +3,11 @@ title: Pleural Effusion
 tags:
   - Respiratory
 date created: Wednesday, August 16th 2023, 1:49:49 pm
-date modified: 2024-03-11
+date modified: Sunday, August 24th 2025, 4:30:50 pm
 aliases: 
 date: 2024-01-14
 ---
+
 Exudative - high protein content (>30g/L)
 Transudative - lower protein (<30g/L)
 
@@ -14,14 +15,16 @@ Transudate **tame** - fluids leak from intact vessels so **low protein** 
 
 Exudates **extreme** - from pathological capillaries so **high protein**
 
+Any unilateral effusion is suspicious and should be investigated. Bilateral effusions are most likely volume related.
+
 ### Light's criteria
 
-|                         | Transudative                                                                                                      | Exudative                                                                                                                                                   |
-| ----------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mechanism               | Capillary hydrostatic pressure                                                                                    | Capillary permeability                                                                                                                                      |
-| Protein (pleural/serum) | <0.5                                                                                                              | >0.5                                                                                                                                                        |
-| LDH                     | <0.6 or<br><br>Pleural LDH < 2/3 upper limit of normal serum LDH                                                  | >0.6 or<br><br>Pleural LDH > 2/3 upper limit of normal serum LDH                                                                                            |
-| Common Causes           | Hypoalbuminaemia ([[snippets/Cirrhosis|Cirrhosis]], [[Nephrotic syndrome]])<br><br>Congestive Heart Failure<br><br>Constrictive Pericarditis | Autoimmune disease (inflammatory)<br><br>Oesophageal rupture<br><br>Infection (TB, fungal, empyema)<br><br>Palignancy<br><br>Pancreatitis <br><br>Post-CABG |
+|                         | Transudative                                                                                                                                                           | Exudative                                                                                                                                                           |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mechanism               | Capillary hydrostatic pressure                                                                                                                                         | Capillary permeability                                                                                                                                              |
+| Protein (pleural/serum) | <0.5                                                                                                                                                                   | >0.5                                                                                                                                                                |
+| LDH                     | <0.6 or<br><br>Pleural LDH < 2/3 upper limit of normal serum LDH                                                                                                       | >0.6 or<br><br>Pleural LDH > 2/3 upper limit of normal serum LDH                                                                                                    |
+| Common Causes           | Hypoalbuminaemia ([[Pearls/Cirrhosis\|Cirrhosis]], [[Full/Nephrotic syndrome\|Nephrotic syndrome]])<br><br>Congestive Heart Failure<br><br>Constrictive Pericarditis | <br>Autoimmune disease (inflammatory)<br><br>Oesophageal rupture<br><br>Infection (TB, fungal, empyema)<br><br>Palignancy<br><br>Pancreatitis <br><br>Post-CABG<br> |
 
 ## Causes/Factors
 
@@ -33,10 +36,10 @@ Pleural effusion can result from various underlying causes, including:
 - RA
 
 #### Transudative - fluid moving into the pleural space
-- Congestive [[Heart Failure]]
+- Congestive [[Full/Heart Failure]]
 - Hypoalbuminaemia
-- [[Hypothyroidism]]
-- [[snippets/Meigs syndrome|Meigs syndrome]]
+- [[Full/Hypothyroidism]]
+- [[Pearls/Meigs syndrome|Meigs syndrome]]
 
 ## Presentation 
 
@@ -63,4 +66,4 @@ Untreated or unmanaged pleural effusion can lead to serious complications, such 
 
 - **Lung Collapse:** Severe effusions can compress the lung, causing it to collapse (atelectasis).
 - **Empyema:** Accumulation of pus within the pleural space due to bacterial infection.
-- **[[Respiratory Failure]]:** Severe effusion can lead to difficulty breathing and reduced [[snippets/Oxygen|Oxygen]] levels.
+- **[[Full/Respiratory Failure]]:** Severe effusion can lead to difficulty breathing and reduced [[Pearls/Oxygen|Oxygen]] levels.

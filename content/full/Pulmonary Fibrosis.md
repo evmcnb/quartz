@@ -6,21 +6,21 @@ date created: Wednesday, August 16th 2023, 1:57:16 pm
 date modified: 2024-03-11
 date: 2023-09-18
 ---
-Pulmonary fibrosis is a progressive lung disease characterized by the scarring and thickening of lung tissues. This scarring, known as fibrosis, makes it harder for the lungs to function properly and can result in breathing difficulties and reduced [[snippets/Oxygen|Oxygen]] exchange.
+Pulmonary fibrosis is a progressive lung disease characterized by the scarring and thickening of lung tissues. This scarring, known as fibrosis, makes it harder for the lungs to function properly and can result in breathing difficulties and reduced [[Pearls/Oxygen|Oxygen]] exchange.
 
 ## Causes/Factors
 
 Pulmonary fibrosis can have various causes or factors, including:
 
-1. **[[snippets/Idiopathic Pulmonary Fibrosis|Idiopathic Pulmonary Fibrosis]] (IPF):** The most common form with an unknown cause.
-2. **Environmental Exposures:** Prolonged exposure to asbestos, silica, coal dust, or other environmental irritants. [[Industrial dust diseases]]
-3. **Autoimmune Diseases:** Conditions like [[Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] or [[full/Systemic Lupus Erythematosus]] can lead to lung fibrosis. [[full/Sarcoidosis]]
+1. **[[Pearls/Idiopathic Pulmonary Fibrosis|Idiopathic Pulmonary Fibrosis]] (IPF):** The most common form with an unknown cause.
+2. **Environmental Exposures:** Prolonged exposure to asbestos, silica, coal dust, or other environmental irritants. [[Full/Industrial dust diseases]]
+3. **Autoimmune Diseases:** Conditions like [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|rheumatoid arthritis]] or [[Full/Systemic Lupus Erythematosus]] can lead to lung fibrosis. [[Full/Sarcoidosis]]
 4. **Medications:** 
-	- [[snippets/Amiodarone|Amiodarone]] (also causes grey/blue skin)
+	- [[Pearls/Amiodarone|Amiodarone]] (also causes grey/blue skin)
 	- Cyclophosphamide
 	- Methotrexate
 	- Nitrofurantoin
-5. **Cryptogenic Organising [[full/pneumonia]]** focal area of inflammation of the lung tissue. Triggered by lots of different things
+5. **Cryptogenic Organising [[Full/pneumonia]]** focal area of inflammation of the lung tissue. Triggered by lots of different things
 6. **Infections:** Certain lung infections can result in scarring and fibrosis.
 
 ## Symptoms
@@ -37,7 +37,7 @@ Symptoms of pulmonary fibrosis can develop gradually and worsen over time:
 ## Signs
 
 - **Crackling Sounds:** Velcro-like crackling sounds (called "velcro rales") heard during lung auscultation.
-- **[[clubbing]]:** Thickening and rounding of the fingertips due to reduced [[snippets/Oxygen|Oxygen]] levels.
+- **[[Full/clubbing]]:** Thickening and rounding of the fingertips due to reduced [[Pearls/Oxygen|Oxygen]] levels.
 
 ## Diagnostic Tests
 
@@ -58,7 +58,7 @@ Diagnosing pulmonary fibrosis involves various tests to assess lung function and
 There is currently no cure for pulmonary fibrosis, but management aims to slow disease progression and improve symptoms. Treatment options include:
 
 - Remove or treat the underlying cause
-- Home [[snippets/Oxygen|Oxygen]] where there is hypoxia
+- Home [[Pearls/Oxygen|Oxygen]] where there is hypoxia
 - Stop smoking
 - Physiotherapy and pulmonary rehabilitation
 - Pneumococcal and flu vaccine
@@ -69,6 +69,6 @@ There is currently no cure for pulmonary fibrosis, but management aims to slow d
 
 Complications and potential consequences of untreated pulmonary fibrosis include:
 
-- **[[Respiratory Failure]]:** Advanced fibrosis can lead to severe breathing difficulties and insufficient [[snippets/Oxygen|Oxygen]] exchange.
-- **Pulmonary [[Essential hypertension]]:** Increased blood pressure in the lungs due to narrowed blood vessels.
+- **[[Full/Respiratory Failure]]:** Advanced fibrosis can lead to severe breathing difficulties and insufficient [[Pearls/Oxygen|Oxygen]] exchange.
+- **Pulmonary [[Full/Essential hypertension]]:** Increased blood pressure in the lungs due to narrowed blood vessels.
 - **Infections:** Scarring can make the lungs more susceptible to infections.

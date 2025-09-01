@@ -10,12 +10,12 @@ date: 2023-09-18
 
 hypoxia ($PaO_2 < 8kPa$) with a normal or low $PaCO_2$. Its caused primarily by V/Q mismatch, hypoventilation, abnormal diffusion, right to left cardiac shunts. Eg of V/Q mismatch:
 
-- [[full/pneumonia]]
+- [[Full/pneumonia]]
 - [[pulmonary oedema]]
-- [[pulmonary embolism]]
-- [[full/asthma]]
-- [[emphysema]]
-- [[Pulmonary Fibrosis]]
+- [[Full/pulmonary embolism]]
+- [[Full/asthma]]
+- [[Full/emphysema]]
+- [[Full/Pulmonary Fibrosis]]
 - [[ARDS]]
 
 #### Type II
@@ -24,7 +24,7 @@ hypoxia ($PaO_2 < 8kPa$) with a normal or low $PaCO_2$. Its caused primarily by 
 
 hypoxia with hypercapnia ($PaCO_2 < 6kPa$). Caused by alveolar hypoventilation with or without V/Q mismatch. Causes include:
 
-- Pulmonary disease: [[full/asthma]], [[COPD]], [[full/pneumonia]], [[Pulmonary Fibrosis]], [[Obstructive Sleep Apnoea]]
+- Pulmonary disease: [[Full/asthma]], [[Full/COPD]], [[Full/pneumonia]], [[Full/Pulmonary Fibrosis]], [[Full/Obstructive Sleep Apnoea]]
 - Reduced respiratory drive: sedatives, CNS tumour/trauma
 - Neuromuscular disease: Cervical chord lesion, diaphragmatic paralysis, [[poliomyelitis]], [[myasthenia gravis]], [[Guillain-Barre Syndrome]]
 - Thoracic wall disease: fail chest, [[kyphoscoliosis]]
@@ -33,7 +33,7 @@ hypoxia with hypercapnia ($PaCO_2 < 6kPa$). Caused by alveolar hypoventilation w
 
 Features are of underlying cause plus symptoms of hypoxia with or without hypercapnia
 
-Hypoxia: dyspnoea, restlessness, agitation, confusion, central cyanosis - if chronic/long standing pulmonary [[Essential hypertension]], [[polycythaemia]], [[cor pulmonale]]
+Hypoxia: dyspnoea, restlessness, agitation, confusion, central cyanosis - if chronic/long standing pulmonary [[Full/Essential hypertension]], [[polycythaemia]], [[Full/cor pulmonale]]
 
 Hypercapnia: headache, peripheral vasodilation, tachycardia, bouncing pulse, confusion, drowsiness, coma
 
@@ -50,7 +50,7 @@ Find underlying cause
 
 Treat underlying cause
 
-- [[snippets/Oxygen|Oxygen]]
+- [[Pearls/Oxygen|Oxygen]]
 - assisted ventilation if necessary
 
 ## Complications/red Flags

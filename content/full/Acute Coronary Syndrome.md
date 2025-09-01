@@ -10,7 +10,7 @@ Acute coronary syndrome is **a term used to describe a range of conditions asso
 
 ![[z_attachments/Pasted image 20231112170730.png]]
 
-Includes [[Angina#^1f93a5|unstable angina]] and [[myocardial infarction]]. Common underlying pathology: plaque rupture, thrombosis and inflammation. However can rarely be caused by emboli, coronary spasm or vasculitis.
+Includes [[Full/Angina#^1f93a5|unstable angina]] and [[Full/myocardial infarction]]. Common underlying pathology: plaque rupture, thrombosis and inflammation. However can rarely be caused by emboli, coronary spasm or vasculitis.
 
 Therefore share common risk factors
 

@@ -6,22 +6,22 @@ date modified: 2024-03-11
 date: 2024-02-17
 ---
 
-Aortic [[snippets/Aneurysm|Aneurysm]] is a localized, abnormal dilation of the aortic wall.
+Aortic [[Pearls/Aneurysm|Aneurysm]] is a localized, abnormal dilation of the aortic wall.
 Approx. 90% mortality if ruptures while not in surgery. 
-Two main types: Abdominal Aortic [[snippets/Aneurysm|Aneurysm]] (AAA) and Thoracic Aortic [[snippets/Aneurysm|Aneurysm]] (TAA).
+Two main types: Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA) and Thoracic Aortic [[Pearls/Aneurysm|Aneurysm]] (TAA).
   
 ## Causes/Factors
 - **Atherosclerosis**: Common cause, leading to weakening of the arterial wall.
 - **Genetic Factors**: Family history of aortic aneurysms.
-- **[[Essential hypertension]]**: Prolonged high blood pressure contributing to aortic wall stress.
+- **[[Full/Essential hypertension]]**: Prolonged high blood pressure contributing to aortic wall stress.
 - **Connective Tissue Disorders**: Conditions like [[Marfan syndrome]].
 
 ## Symptoms
-- **Abdominal Aortic [[snippets/Aneurysm|Aneurysm]] (AAA)**:
+- **Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA)**:
   - Often asymptomatic.
   - Abdominal or back pain.
   - Pulsatile abdominal mass.
-- **Thoracic Aortic [[snippets/Aneurysm|Aneurysm]] (TAA)**:
+- **Thoracic Aortic [[Pearls/Aneurysm|Aneurysm]] (TAA)**:
   - Chest or back pain.
   - Shortness of breath.
   - Hoarseness or difficulty swallowing.
@@ -29,7 +29,7 @@ Two main types: Abdominal Aortic [[snippets/Aneurysm|Aneurysm]] (AAA) and Thorac
 ## Signs
 - **AAA**:
   - Pulsatile mass on abdominal examination.
-  - Bruit over the [[snippets/Aneurysm|Aneurysm]].
+  - Bruit over the [[Pearls/Aneurysm|Aneurysm]].
   - Often ruptures
 - **TAA**:
   - Widened mediastinum on chest X-ray.
@@ -42,11 +42,11 @@ Two main types: Abdominal Aortic [[snippets/Aneurysm|Aneurysm]] (AAA) and Thorac
 - **MRI**: Especially useful for TAA assessment.
 
 ## Management
-- **Monitoring**: Regular imaging to track [[snippets/Aneurysm|Aneurysm]] size.
-- **Medication**: Beta-blockers to reduce blood pressure and stress on the [[snippets/Aneurysm|Aneurysm]].
+- **Monitoring**: Regular imaging to track [[Pearls/Aneurysm|Aneurysm]] size.
+- **Medication**: Beta-blockers to reduce blood pressure and stress on the [[Pearls/Aneurysm|Aneurysm]].
 - **Surgery**: Repair or replacement of the weakened aortic segment, particularly for larger aneurysms.
 
 ## Complications/Red Flags
 - **Rupture**: Sudden, severe pain, hypotension, and shock.
 - **Dissection**: Tear in the aortic wall, leading to life-threatening complications.
-- **Thrombosis**: Formation of blood clots within the [[snippets/Aneurysm|Aneurysm]].
+- **Thrombosis**: Formation of blood clots within the [[Pearls/Aneurysm|Aneurysm]].

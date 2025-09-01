@@ -56,15 +56,15 @@ date: 2024-02-17
 
 #### Airway
 1. Trachea
-	-  PUSH - any increase in volume - significant [[full/pneumothorax]] or [[full/Pleural Effusion]] exhibit _mass effect_
+	-  PUSH - any increase in volume - significant [[Full/pneumothorax]] or [[Full/Pleural Effusion]] exhibit _mass effect_
 	- PULL - loss in volume - lung collapse
 2. Carina and bronchi
 	- Right bronchus is straighter and wider than the left $\uparrow$ risk for aspiration
 3. Hilar regions
 	- Check for abnormal vessels, or enlarged lymph nodes
 	- Right hilar should always be higher than left
-	- Bilaterally enlargement suggests [[Tuberculosis]] or [[full/Sarcoidosis]]
-	- If unilateral think [[full/Lung Tumours]]
+	- Bilaterally enlargement suggests [[Full/Tuberculosis]] or [[Full/Sarcoidosis]]
+	- If unilateral think [[Full/Lung Tumours]]
 
 #### Breathing
 
@@ -72,7 +72,7 @@ Zones are used instead of lobes when localising a lesion
 
 ![[z_attachments/Pasted image 20231010113437.png|350]]
 
-Lack of any lung markings $\rightarrow$ [[full/pneumothorax]]
+Lack of any lung markings $\rightarrow$ [[Full/pneumothorax]]
 
 Pleura are only visible if they become thickened or fluid accumulates (e.g. mesothelioma)
 
@@ -84,8 +84,8 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 **Nodules** - if >3cm across it becomes a pulmonary mass
 - Neoplasia: metastases, lung cancer, hamartoma, adenoma
 - Infections: varicella pneumonias, septic emboli, abscess, hydatid
-- Granulomas: [[Tuberculosis]], [[full/Sarcoidosis]], histoplasmosis
-- [[snippets/Pneumoconiosis|Pneumoconiosis]] (except asbestosis)
+- Granulomas: [[Full/Tuberculosis]], [[Full/Sarcoidosis]], histoplasmosis
+- [[Pearls/Pneumoconiosis|Pneumoconiosis]] (except asbestosis)
 
 ![[z_attachments/Pasted image 20231010115306.png|325]]
 
@@ -93,25 +93,25 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 **Reticular opacification** - lung parenchymal changes
 - Acute interstitial oedema
 - Infection: acute (viral, bacterial), chronic (TB, histoplasmosis)
-- Fibrosis: interstitial [[full/pneumonia]], drugs (methotrexate, [[snippets/Bleomycin|Bleomycin]], crack cocaine), connective tissue disorders, systemic sclerosis, [[Industrial dust diseases]], [[interstitial lung disease]]
+- Fibrosis: interstitial [[Full/pneumonia]], drugs (methotrexate, [[Pearls/Bleomycin|Bleomycin]], crack cocaine), connective tissue disorders, systemic sclerosis, [[Full/Industrial dust diseases]], [[Full/interstitial lung disease]]
 
 ![[z_attachments/Pasted image 20231010120103.png|325]]
 
 
 **Alveolar opacification** - can be due to any material filling the alveoli
-- Pus - [[full/pneumonia]]
+- Pus - [[Full/pneumonia]]
 - Blood - haemorrhage, DIC
-- Water - heart, renal or [[snippets/Liver failure|Liver failure]], ARDS, smoke inhalation, heroin, $O_2$ toxicity, near drowning
-- Cells - [[snippets/Lymphoma|Lymphoma]], adenocarcinoma
+- Water - heart, renal or [[Pearls/Liver failure|Liver failure]], ARDS, smoke inhalation, heroin, $O_2$ toxicity, near drowning
+- Cells - [[Pearls/Lymphoma|Lymphoma]], adenocarcinoma
 - Protein - alveolar proteinosis, ARDS, fat emboli
 
 ![[z_attachments/Pasted image 20231010120504.png|325]]
 
-_Ring opacities_ - either from a CT cross section referring to [[full/bronchiectasis]]/[[bronchitis]] or cavitating lesions on CXR
+_Ring opacities_ - either from a CT cross section referring to [[Full/bronchiectasis]]/[[Full/bronchitis]] or cavitating lesions on CXR
 
 _Linear opacities_ - septal lines (Kerley B lines, i.e. interlobular lymphatics seen with something), atelectasis, pleural plaques
 
-_White out of whole hemithorax_ - [[full/pneumonia]], large [[snippets/Pleural Effusion|Pleural Effusion]], ARDS, post pneumonectomy
+_White out of whole hemithorax_ - [[Full/pneumonia]], large [[Pearls/Pleural Effusion|Pleural Effusion]], ARDS, post pneumonectomy
 
 
 #### Cardiac
@@ -120,7 +120,7 @@ _White out of whole hemithorax_ - [[full/pneumonia]], large [[snippets/Pleural E
 - Boarders should be clearly defined - usually consolidation would change this
 - Consolidation of the lingula blurs the left heart boarder
 - 1/3 should lie to the right of the vertebral column, 2/3 to the left
-- May appear elongated if the chest is hyperinflated [[COPD]] or enlarged in AP or if there is [[Heart Failure|LV failure]] or pericardial effusion
+- May appear elongated if the chest is hyperinflated [[Full/COPD]] or enlarged in AP or if there is [[Full/Heart Failure|LV failure]] or pericardial effusion
 
 
 #### Diaphragm 
@@ -140,14 +140,14 @@ _White out of whole hemithorax_ - [[full/pneumonia]], large [[snippets/Pleural E
 
 ## Examples of pathological scans
 
-##### Lobar [[full/pneumonia]] (typical Strep. pneumoniae)
+##### Lobar [[Full/pneumonia]] (typical Strep. pneumoniae)
 ![[z_attachments/Pasted image 20231010122446.png|450]]
 ##### Atypical pneumonia (mycoplasma)
 ![[z_attachments/Pasted image 20231010122550.png|425]]
 ##### Aspiration pneumonia (can move depending on position)
 ![[z_attachments/Pasted image 20231010122619.png|425]]
 
-##### [[Tuberculosis]]
+##### [[Full/Tuberculosis]]
 Ghon lesion - left middle lobe
 Calcified lymph nodes
 
@@ -158,7 +158,7 @@ Uncontrolled haematogenous spread
 
 ![[z_attachments/Pasted image 20231010122917.png|425]]
 
-##### [[full/pneumothorax]]
+##### [[Full/pneumothorax]]
 ![[z_attachments/Pasted image 20231010122953.png|450]]
 
 **Hydropneumothorax**
@@ -178,24 +178,24 @@ Uncontrolled haematogenous spread
 
 ![[z_attachments/Pasted image 20231010123145.png|425]]
 
-##### [[full/Pleural Effusion]]
+##### [[Full/Pleural Effusion]]
 ![[z_attachments/Pasted image 20231010123236.png|450]]
 
 **pneumonectomy** (no mass effect - volume loss)
 ![[z_attachments/Pasted image 20240122145551.png|450]]
 
-**Massive [[snippets/Pleural Effusion|Pleural Effusion]]** (with mass effect)
+**Massive [[Pearls/Pleural Effusion|Pleural Effusion]]** (with mass effect)
 
 ![[z_attachments/Pasted image 20240122145804.png|450]]
-##### [[COPD]]
+##### [[Full/COPD]]
 - Flattened diaphragm
 - More anterior ribs seen 
 - May see floating heart sign 
-- Bullous [[emphysema]]
+- Bullous [[Full/emphysema]]
 
 ![[z_attachments/Pasted image 20231010123331.png|425]]
 
-##### [[Heart Failure]]
+##### [[Full/Heart Failure]]
 - **A**lveolar oedema - bat wing opacities in middle
 - (Kerley) **B** lines - thickened interlobular septum which extend inwards. Horizontal line that extends to the periphery
 - **C**ardiomegaly 
@@ -206,8 +206,8 @@ Uncontrolled haematogenous spread
 ##### Hiatus hernia
 ![[z_attachments/Pasted image 20231010123705.png|425]]
 
-##### [[full/Lung Tumours]]
+##### [[Full/Lung Tumours]]
 Cannonball mets - from primary breast cancer
-Pancoast tumour $\rightarrow$ [[Horner's Syndrome]]
+Pancoast tumour $\rightarrow$ [[Full/Horner's Syndrome]]
 
 Check ribs for invasive lesion

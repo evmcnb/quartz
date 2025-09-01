@@ -30,11 +30,11 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 
 ## Symptoms
 
-- **[[Essential hypertension|Hypertension]]:** Elevated blood pressure.
+- **[[Full/Essential hypertension|Hypertension]]:** Elevated blood pressure.
 - **Pain:** Abdominal or back pain due to enlarged kidneys and cysts.
 - **Hematuria:** Blood in the urine.
-- **[[snippets/Urinary Tract Infections|Urinary Tract Infections]]:** Due to cysts obstructing normal urine flow.
-- **[[full/Urolithiasis]]:** Due to cysts interfering with urinary drainage.
+- **[[Pearls/Urinary Tract Infections|Urinary Tract Infections]]:** Due to cysts obstructing normal urine flow.
+- **[[Full/Urolithiasis]]:** Due to cysts interfering with urinary drainage.
 - **Renal Dysfunction:** Impaired kidney function over time.
 
 
@@ -59,7 +59,7 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 
 
 - **Tolvaptan** (vasopressin receptor antagonist) can slow the development of cysts and the progression of renal failure in **autosomal dominant** PCKD
-- **_Antihypertensives_** for [[Essential hypertension]] (e.g., ACE inhibitors)
+- **_Antihypertensives_** for [[Full/Essential hypertension]] (e.g., ACE inhibitors)
 - **_Analgesia_** for acute pain
 - **_Antibiotics_** for infections (e.g., UTIs or cyst infections)
 - **_Drainage_** of symptomatic can be performed by aspiration or surgery
@@ -68,6 +68,6 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 
 ## Complications/red Flags
 
-- **[[snippets/Kidney Failure|Kidney Failure]]:** Gradual loss of kidney function.
+- **[[Pearls/Kidney Failure|Kidney Failure]]:** Gradual loss of kidney function.
 - **Cyst Rupture or Bleeding:** Pain and complications due to cysts bursting or bleeding.
-- **[[snippets/Urinary Tract Infections|Urinary Tract Infections]]:** Frequent infections due to cyst obstruction.
+- **[[Pearls/Urinary Tract Infections|Urinary Tract Infections]]:** Frequent infections due to cyst obstruction.

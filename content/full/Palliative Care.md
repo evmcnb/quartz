@@ -122,7 +122,7 @@ Mechanism-based prescribing:
 
 | Stimulus         | Area stimulated            | Receptors             | Anti-emetic choices                                  | Disqualifying features                                                                                                                                       |
 | ---------------- | -------------------------- | --------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Drugs, metabolic | Chemoreceptor trigger zone | Dopamine              | Metoclopramide (10mg), haloperidol (0.5-1mg BID/TID) | Avoid metoclopramide in b/o and both in [[full/Parkinson's disease\|Parkinson's disease]]. Haloperidol good for b/o, avoid in those with arrythmias (++ QTc) |
+| Drugs, metabolic | Chemoreceptor trigger zone | Dopamine              | Metoclopramide (10mg), haloperidol (0.5-1mg BID/TID) | Avoid metoclopramide in b/o and both in [[Full/Parkinson's disease\|Parkinson's disease]]. Haloperidol good for b/o, avoid in those with arrythmias (++ QTc) |
 | Chemotherapy     |                            | Serotonin             | Ondansetron                                          | Avoid in those with arrythmias                                                                                                                               |
 | Motion           | Vestibular                 | Muscarinic, histamine | Cyclizine, Promethazine, Diphenhydramine             |                                                                                                                                                              |
 | Viceral          | Organs                     | Dopamine<br>Serotonin | Metoclopramide, haloperidol,<br>Ondansetron          |                                                                                                                                                              |
@@ -132,11 +132,11 @@ Mechanism-based prescribing:
 
 Most common causes:
 - tumour involving airways
-- [[snippets/Pneumonia|Pneumonia]]
-- [[full/COPD|COPD]], [[full/Heart Failure|Heart Failure]], [[full/pulmonary embolism|pulmonary embolism]]
+- [[Pearls/Pneumonia|Pneumonia]]
+- [[Full/COPD|COPD]], [[Full/Heart Failure|Heart Failure]], [[Full/pulmonary embolism|pulmonary embolism]]
 - Respiratory muscle weakness
 - Ascites
-- [[snippets/Anaemia|Anaemia]]
+- [[Pearls/Anaemia|Anaemia]]
 - Anxiety
 
 **Opioids** - lower dose than for pain but same principles

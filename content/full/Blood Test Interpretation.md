@@ -11,8 +11,8 @@ date: 2024-01-19
 
 | **Component** | **What the Test Shows** | **High Levels (Possible Causes)** | **Low Levels (Possible Causes)** |
 | ---- | ---- | ---- | ---- |
-| **Hemoglobin (Hb)** | Oxygen-carrying capacity of red blood cells. | - Dehydration | - [[full/Anaemia]] (iron, vitamin B12, or folate deficiency) |
-|  |  | - [[polycythaemia]] (increased red blood cell production) | - Chronic diseases ([[Chronic Kidney Disease]], inflammation) |
+| **Hemoglobin (Hb)** | Oxygen-carrying capacity of red blood cells. | - Dehydration | - [[Full/Anaemia]] (iron, vitamin B12, or folate deficiency) |
+|  |  | - [[polycythaemia]] (increased red blood cell production) | - Chronic diseases ([[Full/Chronic Kidney Disease]], inflammation) |
 |  |  |  | - Blood loss (bleeding, menstruation) |
 | **Hematocrit (Hct)** | Volume of red blood cells as a percentage of total blood volume. | - Dehydration | - Anemia (iron, vitamin B12, or folate deficiency) |
 |  |  | - Polycythemia (increased red blood cell production) | - Chronic diseases (chronic kidney disease, inflammation) |
@@ -32,8 +32,8 @@ date: 2024-01-19
 | **Neutrophils** | Type of white blood cells involved in bacterial infection. | - Infection (bacterial) | - Bone marrow disorders (aplastic anemia) |
 | **Lymphocytes** | Type of white blood cells involved in viral infections. | - Viral infections (e.g., influenza, HIV) | - Immune deficiency disorders |
 | **Monocytes** | Type of white blood cells involved in immune response. | - Chronic inflammatory conditions | - Bone marrow disorders (aplastic anemia) |
-| **Eosinophils** | Type of white blood cells involved in allergic reactions. | - Allergic reactions | - [[full/Hyperthyroidism]] |
-| **Basophils** | Type of white blood cells involved in allergic reactions. | - Allergic reactions | - [[Hypothyroidism]] |
+| **Eosinophils** | Type of white blood cells involved in allergic reactions. | - Allergic reactions | - [[Full/Hyperthyroidism]] |
+| **Basophils** | Type of white blood cells involved in allergic reactions. | - Allergic reactions | - [[Full/Hypothyroidism]] |
 
 
 
@@ -41,8 +41,8 @@ date: 2024-01-19
 
 | **LFT Component** | **Reference Range** | **High Levels (Possible Causes)** | **Low Levels (Possible Causes)** | **What the Test Shows** |
 | ---- | ---- | ---- | ---- | ---- |
-| **1. Alanine Aminotransferase (ALT)** | 7 to 56 units/L (may vary slightly between labs) | - Liver inflammation ([[Hepatitis]]) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage, particularly hepatocellular. |
-| **2. Aspartate Aminotransferase (AST)** | 10 to 40 units/L (may vary slightly between labs) | - Liver inflammation ([[Hepatitis]]) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage; not specific to the liver. |
+| **1. Alanine Aminotransferase (ALT)** | 7 to 56 units/L (may vary slightly between labs) | - Liver inflammation ([[Full/Hepatitis]]) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage, particularly hepatocellular. |
+| **2. Aspartate Aminotransferase (AST)** | 10 to 40 units/L (may vary slightly between labs) | - Liver inflammation ([[Full/Hepatitis]]) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Indicates liver cell damage; not specific to the liver. |
 | **3. Alkaline Phosphatase (ALP)** | 44 to 147 units/L (may vary slightly between labs) | - Biliary obstruction (cholestasis) | - [[snippets/Malnutrition|Malnutrition]], especially severe protein deficiency | Reflects liver or [[snippets/Bone|Bone]] disease; additional tests help pinpoint. |
 | **4. Total Bilirubin** | 0.3 to 1.9 mg/dL | - Liver disease, hemolysis | - [[snippets/Gilbert Syndrome|Gilbert Syndrome]] (mild increase) | Measures breakdown product of hemoglobin; assesses liver function. |
 | **5. Direct Bilirubin** | 0 to 0.3 mg/dL | - Biliary obstruction (cholestasis) | - Reduced liver function due to severe disease or failure | Measures bilirubin that has been processed by the liver. |

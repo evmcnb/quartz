@@ -28,27 +28,27 @@ date: 2024-02-07
 
 #### Clinical Signs
 
-- <span style="color:#ff0000">Weight</span> - weight loss a/w [[full/Hyperthyroidism]], weight gain a/w [[Hypothyroidism]]
-- <span style="color:#ff0000">Behaviour</span> - anxiety and hyperactivity with [[full/Hyperthyroidism]], low mood with [[Hypothyroidism]]
+- <span style="color:#ff0000">Weight</span> - weight loss a/w [[Full/Hyperthyroidism]], weight gain a/w [[Full/Hypothyroidism]]
+- <span style="color:#ff0000">Behaviour</span> - anxiety and hyperactivity with [[Full/Hyperthyroidism]], low mood with [[Full/Hypothyroidism]]
 - <span style="color:#ff0000">Clothing</span> - may be inappropriate for the current temperature
-- <span style="color:#ff0000">Hoarse voice</span> - caused by compression of the larynx due to enlargement [[Hypothyroidism]]
-- <span style="color:#ff0000">Slurred and slow voice</span> - [[full/Hyperthyroidism]]
+- <span style="color:#ff0000">Hoarse voice</span> - caused by compression of the larynx due to enlargement [[Full/Hypothyroidism]]
+- <span style="color:#ff0000">Slurred and slow voice</span> - [[Full/Hyperthyroidism]]
 
 #### Objects and Equipment
 
-- Mobility aids - patients with [[full/Hyperthyroidism]] can develop proximal myopathy
-- Prescriptions - eg [[snippets/Levothyroxine|Levothyroxine]]
+- Mobility aids - patients with [[Full/Hyperthyroidism]] can develop proximal myopathy
+- Prescriptions - eg [[Pearls/Levothyroxine|Levothyroxine]]
 
 ## Hands
 
 #### Inspection
 
-- <span style="color:#ff0000">Thyroid acropachy</span> - similar appearance to <span style="color:#00b0f0">clubbing</span> caused by phalangeal [[snippets/Bone|Bone]] overgrowth secondary to [[Grave's disease]]
-- <span style="color:#ff0000">Onycholysis</span> - detachment of nail from the bed a/w [[full/Hyperthyroidism]] -<span style="color:#ff0000"> Palmar erythema</span> - reddening of palms a/w [[full/Hyperthyroidism]]
+- <span style="color:#ff0000">Thyroid acropachy</span> - similar appearance to <span style="color:#00b0f0">clubbing</span> caused by phalangeal [[Pearls/Bone|Bone]] overgrowth secondary to [[Full/Grave's disease]]
+- <span style="color:#ff0000">Onycholysis</span> - detachment of nail from the bed a/w [[Full/Hyperthyroidism]] -<span style="color:#ff0000"> Palmar erythema</span> - reddening of palms a/w [[Full/Hyperthyroidism]]
 
 #### Peripheral tremor
 
-A feature of [[snippets/Hyperthyroidism|Hyperthyroidism]] due to sympathetic nervous system overactivity
+A feature of [[Pearls/Hyperthyroidism|Hyperthyroidism]] due to sympathetic nervous system overactivity
 
 1. Ask patient to stretch out their arms
 2. Place a piece of paper across both hands
@@ -58,7 +58,7 @@ A feature of [[snippets/Hyperthyroidism|Hyperthyroidism]] due to sympathetic ner
 
 Assess for rate and rhythm
 
-Hyperthyroid: $\uparrow$ HR and possibly [[Atrial Fibrillation]]
+Hyperthyroid: $\uparrow$ HR and possibly [[Full/Atrial Fibrillation]]
 Hypothyroid: $\downarrow$ HR
 
 #### Ask to do a blood pressure
@@ -67,10 +67,10 @@ Hypothyroid: $\downarrow$ HR
 
 #### Inspect
 
-- <span style="color:#ff0000">Dry skin</span> - [[Hypothyroidism]]
-- <span style="color:#ff0000">Excessive sweating</span> - [[full/Hyperthyroidism]]
-- <span style="color:#ff0000">Eyebrow loss</span> - absence of the outer third of eyebrows is a/w [[Hypothyroidism]]
-- <span style="color:#ff0000">Thin hair</span> - [[Hypothyroidism]]
+- <span style="color:#ff0000">Dry skin</span> - [[Full/Hypothyroidism]]
+- <span style="color:#ff0000">Excessive sweating</span> - [[Full/Hyperthyroidism]]
+- <span style="color:#ff0000">Eyebrow loss</span> - absence of the outer third of eyebrows is a/w [[Full/Hypothyroidism]]
+- <span style="color:#ff0000">Thin hair</span> - [[Full/Hypothyroidism]]
 
 ### Eyes
 
@@ -80,7 +80,7 @@ Inspect the eyes from the front and note if sclera is visible above the iris.
 
 ![[z_attachments/Pasted image 20230924174644.png]]
 
-Most commonly due to [[Grave's disease]]
+Most commonly due to [[Full/Grave's disease]]
 
 Also look for any sign of inflammation due to the retraction.
 
@@ -92,7 +92,7 @@ Bulging of the eye is budging anteriorly
 
 #### Eye movements
 
-Assess for <span style="color:#ff0000">ophthalmoplegia</span> (paralysis or weakness of the eye muscles) and pain during movement caused by [[Grave's disease]]
+Assess for <span style="color:#ff0000">ophthalmoplegia</span> (paralysis or weakness of the eye muscles) and pain during movement caused by [[Full/Grave's disease]]
 
 1. Ask the patient to keep their head still and follow your finger with their eyes
 2. Move your finger in <span style="color:#ff0000">H shape</span>
@@ -151,7 +151,7 @@ Assess for:
 - Symmetry
 - Consistency
 - Masses - e.g. solitary node rather than diffuse swelling
-- Thrills (increased vascularity due to [[snippets/Hyperthyroidism|Hyperthyroidism]])
+- Thrills (increased vascularity due to [[Pearls/Hyperthyroidism|Hyperthyroidism]])
 
 If a mass is noted assess its **position, shape, consistency and mobility**
 
@@ -177,21 +177,21 @@ Percuss the sternum<span style="color:#ff0000"> moving downwards from the sterna
 
 #### Auscultation
 
-<span style="color:#ff0000">Auscultate each lobe</span> of the gland for a bruit using the bell of the stethoscope. A <span style="color:#00b0f0">bruit indicates increased vascularity</span> a/w [[Grave's disease]]
+<span style="color:#ff0000">Auscultate each lobe</span> of the gland for a bruit using the bell of the stethoscope. A <span style="color:#00b0f0">bruit indicates increased vascularity</span> a/w [[Full/Grave's disease]]
 
 ## Further tests
 
 #### Reflexes
 
-Used to screen for hyporeflexia in [[Hypothyroidism]]. Only need to assess for one so probably do knee jerk as its the easiest to get
+Used to screen for hyporeflexia in [[Full/Hypothyroidism]]. Only need to assess for one so probably do knee jerk as its the easiest to get
 
 #### Complications to watch out for
 
-**Pretibial myxoedema** - diffuse mucinosis which presents as waxy discoloured induration of the skin as a rare complication of [[Grave's disease]]
+**Pretibial myxoedema** - diffuse mucinosis which presents as waxy discoloured induration of the skin as a rare complication of [[Full/Grave's disease]]
 
 ![[z_attachments/Pasted image 20230924182318.png|283]]
 
-**Proximal myopathy** - potential complication of both multinodular goitre and [[Grave's disease]]. Patients develop wasting of proximal musculature. To screen ask the patient to stand from a sitting position with their arms crossed.
+**Proximal myopathy** - potential complication of both multinodular goitre and [[Full/Grave's disease]]. Patients develop wasting of proximal musculature. To screen ask the patient to stand from a sitting position with their arms crossed.
 
 ## To Complete the Exam
 
@@ -203,5 +203,5 @@ Used to screen for hyporeflexia in [[Hypothyroidism]]. Only need to assess for o
 ## Further Assessments and Investigations
 
 - **Thyroid function tests:** these include TSH, T3 and T4.
-- **ECG:** should be performed if an irregular pulse was noted to rule out [[Atrial Fibrillation]].
-- **Further imaging:** an ultrasound scan of the neck to further assess any thyroid [[Lumps]].
+- **ECG:** should be performed if an irregular pulse was noted to rule out [[Full/Atrial Fibrillation]].
+- **Further imaging:** an ultrasound scan of the neck to further assess any thyroid [[Full/Lumps]].

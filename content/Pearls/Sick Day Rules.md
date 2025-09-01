@@ -1,0 +1,20 @@
+---
+title: Sick Day Rules
+date created: Thursday, January 25th 2024, 01:02:10 PM
+date modified: Saturday, August 30th 2025, 12:08:28 pm
+tags: ['Nephrology', 'Drug']
+---
+
+
+
+Some medications require good kidney function. During sick days or periods of dehydration they should be stopped to preserve the kidneys. Stop for 3 days and see if illness improves - keep stopped if fluid intake is not enough
+
+OSCE stations could sneakily ask you write up a drug chart for a dehydrated patient which includes some of these drugs which you would be expected to recognised and stop.
+
+## MAND
+
+- **M**etformin - dehydration increases the risk of lactic acidosis
+- **A**CEi/**A**RBs - impair kidney function
+- **N**SAIDs - impair kidney function, may cause fluid retention
+- **D**iuretics - worsen dehydration
+

@@ -7,24 +7,24 @@ date created: Sunday, November 12th 2023, 12:59:52 pm
 date modified: 2024-03-11
 date: 2023-11-12
 ---
-When the lack of [[snippets/Insulin|Insulin]] or [[snippets/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
+When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
 
 The combination of both acidosis and hyperglycaemia can be deadly
 
-Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2 
+Typically in [[Full/Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2 
 
 
 ## Causes/Factors
 
-- **[[snippets/Insulin|Insulin]] Deficiency:** Often due to missed [[snippets/Insulin|Insulin]] doses or inadequate [[snippets/Insulin|Insulin]] therapy.
-- **Infection or Illness:** Infections or other illnesses can increase the body's need for [[snippets/Insulin|Insulin]].
+- **[[Pearls/Insulin|Insulin]] Deficiency:** Often due to missed [[Pearls/Insulin|Insulin]] doses or inadequate [[Pearls/Insulin|Insulin]] therapy.
+- **Infection or Illness:** Infections or other illnesses can increase the body's need for [[Pearls/Insulin|Insulin]].
 - **Undiagnosed Diabetes:** In some cases, DKA may be the first sign of diabetes.
 - **Stress or Trauma:** Physical or emotional stress can contribute e.g.
 	- Infection
 	- Surgery
 	- MI
-	- [[full/pancreatitis]]
-- **Certain Medications:** Such as corticosteroids, wrong [[snippets/Insulin|Insulin]] dose, antipsychotics 
+	- [[Full/pancreatitis]]
+- **Certain Medications:** Such as corticosteroids, wrong [[Pearls/Insulin|Insulin]] dose, antipsychotics 
 
 ## Symptoms
 
@@ -39,7 +39,7 @@ Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2
 ## Diagnostic Tests
 
 1. Acidaemia (venous pH <7.3 or HCO3 < 15mmol/L)
-2. Hyperglycaemia (> 11mmol/L or known to have [[Diabetes Mellitus]])
+2. Hyperglycaemia (> 11mmol/L or known to have [[Full/Diabetes Mellitus]])
 3. Ketonaemia (> 3mmol/L or ++ on dipstick) 
 
 ## Management
@@ -59,16 +59,16 @@ Typically in [[Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2
 > - SpO2 <92% on air (assuming no respiratory disease)
 > - Systolic <90
 > - Pulse >100 or <60
-> - [[snippets/Anion gap|Anion gap]] above 16
+> - [[Pearls/Anion gap|Anion gap]] above 16
 
 #### Complications
 
 - Cerebral oedema - watch for fall in GCS
-- Aspiration [[full/pneumonia]] 
+- Aspiration [[Full/pneumonia]] 
 - Hypo -kalacemia, -magnesaemia and -phosphataemia
 
-- Plasma glucose is usually high but not always especially if [[snippets/Insulin|Insulin]] continued
+- Plasma glucose is usually high but not always especially if [[Pearls/Insulin|Insulin]] continued
 - High WCC may be present without an infection 
 - Often no fever with an infection
 - Some creatinine assays cross-react with ketones so may not get a true renal picture
-- Serum amylase is often raise and non-specific abdo pain is common even without a [[full/pancreatitis]]
+- Serum amylase is often raise and non-specific abdo pain is common even without a [[Full/pancreatitis]]

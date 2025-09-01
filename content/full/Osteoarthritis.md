@@ -12,7 +12,7 @@ date: 2023-11-29
 
 1. Cartilage flakes off
 2. Fragments of cartilage triggers slight inflammatory reaction
-3. [[snippets/Bone|Bone]] form cysts as tries to remodel
+3. [[Pearls/Bone|Bone]] form cysts as tries to remodel
 
 ![|575](z_attachments/575-1.png)
 
@@ -37,14 +37,14 @@ Affects weight bearing joints
 - Referred pain to the joint below
 - Reduced power due to muscle wastage from reduced use) 
 
-No systemic features or early morning stiffness. This is seen in [[Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
+No systemic features or early morning stiffness. This is seen in [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
 ## Diagnostic Tests
 
 - Clinical examination
 - XR AP + lateral of affected joint
 1. **L**oss of joint space
 2. **O**steophyte formation (bony spurs protrude out)
-3. **S**clerosis (underlying [[snippets/Bone|Bone]] becomes hard)
+3. **S**clerosis (underlying [[Pearls/Bone|Bone]] becomes hard)
 4. **S**ubchondrial cyst
 
 
@@ -54,7 +54,7 @@ No systemic features or early morning stiffness. This is seen in [[Inflammatory 
 ## Management
 
 Conservative:
-- analgesia - [[snippets/Paracetamol|Paracetamol]] (+ [[snippets/Codeine|Codeine]] if bad). NSAIDs for a short period of time
+- analgesia - [[Pearls/Paracetamol|Paracetamol]] (+ [[Pearls/Codeine|Codeine]] if bad). NSAIDs for a short period of time
 - intraarticular steroids give short term improvement when there is a painful joint effusion 
 
 Systemic steroids are not used

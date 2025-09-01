@@ -13,7 +13,7 @@ date: 2024-02-09
 - Unknown cause
 - Mainly respiratory but all organs affected
 
-[[snippets/Hypercalcaemia|Hypercalcaemia]] + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
+[[Pearls/Hypercalcaemia|Hypercalcaemia]] + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 ## Causes/Factors
 
 - Aged 20-40 or around 60
@@ -21,12 +21,12 @@ date: 2024-02-09
 - Black ethnic origin
 
 >[!tip]
->The typical MCQ exam patient is a 20-40 year old black female presenting with a dry cough and shortness of breath. They may have nodules on their shins, suggesting [[erythema nodosum]].
+>The typical MCQ exam patient is a 20-40 year old black female presenting with a dry cough and shortness of breath. They may have nodules on their shins, suggesting [[Full/erythema nodosum]].
 ## Issues per organ
 
 ### Lungs
 - Mediastinal lymphadenopathy
-- [[Pulmonary Fibrosis]]
+- [[Full/Pulmonary Fibrosis]]
 - Pulmonary nodules
 
 ### Systemic
@@ -36,38 +36,38 @@ date: 2024-02-09
 
 ### Liver
 - Liver nodules
-- [[snippets/Cirrhosis|Cirrhosis]]
+- [[Pearls/Cirrhosis|Cirrhosis]]
 - Cholestasis
 
 ### Eyes
-- [[Uveitis]]
-- [[Conjunctivitis]]
-- [[Optic neuritis]]
+- [[Full/Uveitis]]
+- [[Full/Conjunctivitis]]
+- [[Full/Optic neuritis]]
 
 ### Heart
-- [[snippets/Bundle Branch Block|Bundle Branch Block]] & [[Heart Block]]
+- [[Pearls/Bundle Branch Block|Bundle Branch Block]] & [[Full/Heart Block]]
 
 ### Kidneys
-- Stones ([[snippets/Hypercalcaemia|Hypercalcaemia]])
+- Stones ([[Pearls/Hypercalcaemia|Hypercalcaemia]])
 - Nephrocalcinosis
-- [[full/Tubulointerstitial Nephritis]]
+- [[Full/Tubulointerstitial Nephritis]]
 
 ### Others but more non specific
 
 
 > [!tldr] Lofgren’s Syndrome
 > Refers to a specific presentation of sarcoidosis with a classic triad of symptoms:
->- [[erythema nodosum]]
+>- [[Full/erythema nodosum]]
 >- Bilateral hilar lymphadenopathy 
 >- Polyarthralgia (joint pain in multiple joints)
 
 ## Differentials
 The top differentials for the varied presenting features of sarcoidosis are:
 
-- [[Tuberculosis]]
-- [[snippets/Lymphoma|Lymphoma]]
-- [[snippets/Hypersensitivity Pneumonitis|Hypersensitivity Pneumonitis]]
-- [[HIV]]
+- [[Full/Tuberculosis]]
+- [[Pearls/Lymphoma|Lymphoma]]
+- [[Pearls/Hypersensitivity Pneumonitis|Hypersensitivity Pneumonitis]]
+- [[Full/HIV]]
 - Toxoplasmosis
 - Histoplasmosis
 
@@ -91,7 +91,7 @@ The blood test findings to remember are:
 
 **_Conservative management_** is considered in patients with no or mild symptoms.
 
-**_Oral steroids_** (for 6-24 months) are usually first-line where treatment is required. **_Bisphosphonates_** protect against [[full/osteoporosis]] whilst on long-term steroids.
+**_Oral steroids_** (for 6-24 months) are usually first-line where treatment is required. **_Bisphosphonates_** protect against [[Full/osteoporosis]] whilst on long-term steroids.
 
 **_Methotrexate_** is a second-line option.
 

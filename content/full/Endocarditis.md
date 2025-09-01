@@ -17,7 +17,7 @@ Fever + new murmur = infective endocarditis until proven otherwise
 
 - recent dental work
 - renal failure
-- [[snippets/Immunosuppression|Immunosuppression]]
+- [[Pearls/Immunosuppression|Immunosuppression]]
 
 **Organisms** - most common
 - Strep viridans (subacute)
@@ -48,10 +48,10 @@ Fever + new murmur = infective endocarditis until proven otherwise
 ## Management
 
 1. IV-antibiotics - flucloxacillin standard but depends on organism
-2. Surgery if [[Heart Failure]], valvular obstruction, repeated emboli, fungal
+2. Surgery if [[Full/Heart Failure]], valvular obstruction, repeated emboli, fungal
 
 ## Complications/red Flags
 
 - Heart valve damage
 - Embolisms - clumps of infected material can break off and travel through the bloodstream
-- [[Heart Failure]] - heart valve dysfunction can lead to [[Heart Failure]]
+- [[Full/Heart Failure]] - heart valve dysfunction can lead to [[Full/Heart Failure]]

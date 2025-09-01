@@ -13,7 +13,7 @@ Most common type of testicular cancer
 ## Causes/Factors
 
 - **Age:** Most common in men between 25 and 45 years of age.
-- **[[full/Cryptorchidism]]:** regardless of whether it was surgically corrected or only affected the other testis
+- **[[Full/Cryptorchidism]]:** regardless of whether it was surgically corrected or only affected the other testis
 - **Family History:** Having a close relative with testicular cancer increases risk.
 
 ## Clinical Features

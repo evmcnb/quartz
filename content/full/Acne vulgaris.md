@@ -19,12 +19,12 @@ The inflammation comes from increased sebum production trapping dead skin cells 
 ## Clinical Presentation:
 
 - Macules - flat marks on skin
-- Papules - small [[Lumps]] on skin
-- Pustules - small [[Lumps]] containing pus
+- Papules - small [[Full/Lumps]] on skin
+- Pustules - small [[Full/Lumps]] containing pus
 - Comedomes - skin coloured papules - blocked pilosebaceous units
 - Blackheads - open comedones with black pigmentation
 - Ice pick scars - small indentations in the skin that remain after acne lesions heal
-- Hypertrophic scars - small [[Lumps]] in skin that remain...
+- Hypertrophic scars - small [[Full/Lumps]] in skin that remain...
 - Rolling scars are irregular wave like irregularities
 
 ## Management
@@ -32,12 +32,12 @@ The inflammation comes from increased sebum production trapping dead skin cells 
 Aim of treatment is to reduce the symptoms, risk of scaring and psychosocial impact. 
 
 > [!warning]
-> Always explore the psychosocial burden and any potential anxiety and [[Depression]] that may be associated with the condition 
+> Always explore the psychosocial burden and any potential anxiety and [[Full/Depression]] that may be associated with the condition 
 
 - If mild no treatment may be an option
 - **Topical benzyol peroxide** - reduces inflammation, helps unblock the comedomes and is toxic to the P. acnes bacteria  
 - **Topical retinoids** - chemicals related to vitamin A that slow the production of sebum
-- **Topical antibiotics** - [[snippets/Clindamycin|Clindamycin]] 
+- **Topical antibiotics** - [[Pearls/Clindamycin|Clindamycin]] 
 - **Oral antibiotics** - lymecycline
 - **Oral contraceptive pill** - can help female patients stabilise hormones to slow production of sebum 
 
@@ -52,4 +52,4 @@ Aim of treatment is to reduce the symptoms, risk of scaring and psychosocial imp
 **Other side effects**
 - Dry skin and lips
 - Photosensitivity
-- [[Depression]], anxiety, aggression and ***suicidal ideation***. Patients need to be screen for mental health issues prior to treatment
+- [[Full/Depression]], anxiety, aggression and ***suicidal ideation***. Patients need to be screen for mental health issues prior to treatment

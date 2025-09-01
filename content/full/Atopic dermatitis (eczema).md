@@ -9,7 +9,7 @@ date: 2024-03-11
 ---
 Acute or chronic inflammation of the dermis. Often appears in childhood and can continue to adulthood. 
 
-Atopy - triad of dermatitis/eczema, [[full/asthma]] and allergic rhinitis (hay fever)
+Atopy - triad of dermatitis/eczema, [[Full/asthma]] and allergic rhinitis (hay fever)
 
 Triggered as the result of an allergen - hypersensitivity type I 
 ## Causes/Factors
@@ -51,4 +51,4 @@ Systemic
 4. **Phototherapy:** Controlled exposure to ultraviolet (UV) light.
 
 ## Complications/red Flags
-- Affects appearance and social stigma around it. Therefore increased risk of [[Depression]] and anxiety in adults
+- Affects appearance and social stigma around it. Therefore increased risk of [[Full/Depression]] and anxiety in adults

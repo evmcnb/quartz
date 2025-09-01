@@ -18,7 +18,7 @@ date: 2024-02-09
 ## Causes/Factors
 
 - Most commonly age-related - in people aged 50 and over 
-- Can also be due to [[Diabetes Mellitus]], [[Nutritional disorders]], and genetics 
+- Can also be due to [[Full/Diabetes Mellitus]], [[Full/Nutritional disorders]], and genetics 
 
 ## Symptoms
 
@@ -59,6 +59,6 @@ Wet AMD
 
 - Visual impairment and blindness. 
 - Visual hallucinations.
-- [[Depression]].
+- [[Full/Depression]].
 - Falls and fractures.
 - Reduced quality of life

@@ -19,13 +19,13 @@ Chronic progressive autoimmune demyelinating **CNS** condition
 - Genetic susceptibility - HLA-DRB1 + many more
 - EBV infection
 - Smoking
-- [[Obesity]]
+- [[Full/Obesity]]
 
 ## Symptoms
 
 ### Eye issues
 
-#### [[Optic neuritis]]
+#### [[Full/Optic neuritis]]
 - Central sctoma
 - Pain with eye movement
 - Impaired colour vision
@@ -33,7 +33,7 @@ Chronic progressive autoimmune demyelinating **CNS** condition
 
 #### Eye movement abnormalities
 
-Lesions can affect any cranial nerves, so [[Cranial Nerve Exam]] is important.
+Lesions can affect any cranial nerves, so [[Full/Cranial Nerve Exam]] is important.
 
 ![[z_attachments/Pasted image 20241106031132.png]]
 
@@ -42,7 +42,7 @@ Lesions can affect any cranial nerves, so [[Cranial Nerve Exam]] is important.
 Breaks down into focal weakness and sensory symptoms:
 
 - Incontinence
-- [[Horner's Syndrome]]
+- [[Full/Horner's Syndrome]]
 - Facial nerve palsy
 - Limb paralysis
 

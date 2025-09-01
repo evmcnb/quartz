@@ -15,7 +15,7 @@ Urinary tract calculi/stones
 Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\rightarrow$ bladder. Types:
 
 - Calcium 70% - raised calcium
-- Urate 5% - raised urate, [[gout]] etc
+- Urate 5% - raised urate, [[Full/gout]] etc
 - Cystine 1% - raised cystine eg congenital cystinuria
 - Struvite 15% - raised pH of urine so magnesium ammonium phosphate salts precipitate out
 
@@ -23,8 +23,8 @@ Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\ri
 
 - Raised associated mineral
 
-  - [[snippets/Hypercalcaemia|Hypercalcaemia]] eg parathyroid adenoma
-  - Raised urate eg [[gout]]
+  - [[Pearls/Hypercalcaemia|Hypercalcaemia]] eg parathyroid adenoma
+  - Raised urate eg [[Full/gout]]
 
 - Dehydration
 - Stagnant urine
@@ -55,9 +55,9 @@ Pain - excruciating
 
 ##### Symptoms
 Opiates not effective
-- NSAIDs - [[snippets/Diclofenac|Diclofenac]] - IM or rectal
-- IV [[snippets/Paracetamol|Paracetamol]] if NSAIDs contraindicated
-- Anti-emetics - [[snippets/Metoclopramide|Metoclopramide]], prochlorperazine, cyclizine
+- NSAIDs - [[Pearls/Diclofenac|Diclofenac]] - IM or rectal
+- IV [[Pearls/Paracetamol|Paracetamol]] if NSAIDs contraindicated
+- Anti-emetics - [[Pearls/Metoclopramide|Metoclopramide]], prochlorperazine, cyclizine
 - Antibiotics if infected 
 
 ##### Stone
@@ -76,7 +76,7 @@ Watch and wait approach if less than 5mm in diameter as there is a 50-80% chance
 - Reduce salt intake
 - Maintain normal calcium intake - too low intake can also increase risk
 
-- Potassium citrate + [[snippets/Thiazide diuretics|Thiazide diuretics]] for patients with recurrent calcium stones 
+- Potassium citrate + [[Pearls/Thiazide diuretics|Thiazide diuretics]] for patients with recurrent calcium stones 
 ## Complications/red Flags
 
 - Infections

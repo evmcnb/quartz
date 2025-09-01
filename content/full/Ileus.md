@@ -15,8 +15,8 @@ Pseudo-obstruction a functional obstruction of the large bowel. Present with an 
 
 - Injury to the bowel
 - Handling of the bowel during surgery
-- Inflammation of infection in or nearby the bowel ([[Peritonitis]], [[Appendicitis]], [[full/pancreatitis]] or [[full/pneumonia]])
-- [[Electrolyte Imbalance]]
+- Inflammation of infection in or nearby the bowel ([[Peritonitis]], [[Full/Appendicitis]], [[Full/pancreatitis]] or [[Full/pneumonia]])
+- [[Pearls/Electrolyte imbalance]]
 
 Usually occurs after surgery and resolves in a few days with supportive care
 

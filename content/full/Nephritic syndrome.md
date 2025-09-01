@@ -13,9 +13,9 @@ date: 2023-11-12
  - Proteinuria
  - Fluid retention
 
-> [!tip] Difference between **nephritic** and **[[Nephrotic syndrome|nephrotic]]** syndrome
+> [!tip] Difference between **nephritic** and **[[Full/Nephrotic syndrome|nephrotic]]** syndrome
 >- haematuria in nephritic
->- proteinuria in [[Nephrotic syndrome|nephrotic]]
+>- proteinuria in [[Full/Nephrotic syndrome|nephrotic]]
 
 ## Causes/Factors
 
@@ -28,7 +28,7 @@ date: 2023-11-12
 - **Hematuria:** Blood in the urine, giving it a pink or brown color.
 - **Only mild proteinuria** 
 - **Oedema** 
-- **[[Essential hypertension|Hypertension]]** 
+- **[[Full/Essential hypertension|Hypertension]]** 
 - **Reduced urine output:** renal failure
 
 ## Diagnostic Tests
@@ -40,13 +40,13 @@ date: 2023-11-12
 ## Management
 
 1. **Addressing Underlying Conditions** 
-2. **Blood Pressure Control:** Medications to manage [[Essential hypertension]] and protect the kidneys.
+2. **Blood Pressure Control:** Medications to manage [[Full/Essential hypertension]] and protect the kidneys.
 3. **Diuretics:** To manage edema.
 4. **Dietary Changes:** Reducing salt and fluid intake.
 5. **Immunosuppressive Medications:** In cases of autoimmune-related nephritic syndrome.
 
 ## Complications/red Flags
 
-- **Progression to [[Chronic Kidney Disease]]:** Severe and prolonged inflammation can lead to kidney damage.
+- **Progression to [[Full/Chronic Kidney Disease]]:** Severe and prolonged inflammation can lead to kidney damage.
 - **Secondary Infections:** Weakened immune system can lead to other infections.
-- **Hypertensive Crisis:** Severe [[Essential hypertension]] requiring immediate medical attention.
+- **Hypertensive Crisis:** Severe [[Full/Essential hypertension]] requiring immediate medical attention.

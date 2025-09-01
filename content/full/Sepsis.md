@@ -47,7 +47,7 @@ Septic shock is a subset of sepsis. Profound circulatory, cellular and metabolic
 
 - Altered mental status
 - RR >25
-- New need for [[snippets/Oxygen|Oxygen]]
+- New need for [[Pearls/Oxygen|Oxygen]]
 - HR >130
 - Systolic <90 or 40 below normal
 - Not passed urine in pervious 18 hours

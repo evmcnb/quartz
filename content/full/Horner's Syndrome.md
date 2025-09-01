@@ -36,7 +36,7 @@ Pre-ganglionic lesions:
 
 Post-ganglionic lesions:
 
-- **C** – **C**arotid [[snippets/Aneurysm|Aneurysm]]
+- **C** – **C**arotid [[Pearls/Aneurysm|Aneurysm]]
 - **C** – **C**arotid artery dissection
 - **C** – **C**avernous sinus thrombosis
 - **C** – **C**luster headache

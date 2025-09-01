@@ -21,14 +21,14 @@ An acute lower respiratory tract infection associated with fever and other abnor
 
 
 **Viral**
-* [[snippets/Influenza|Influenza]] A and B in adults
+* [[Pearls/Influenza|Influenza]] A and B in adults
 * RSV and parainfluenza in children
-* Herpes [[snippets/Viruses|Viruses]] in immunocompromised
+* Herpes [[Pearls/Viruses|Viruses]] in immunocompromised
 
 ## Causes/Factors
 
 - **Community acquired** (CAP) - most common **streptococcus pneumoniae**. Occurring outside of hospital or within 48hr of admission
-- Haemophilus influenzae - common in older patients with [[COPD]] 
+- Haemophilus influenzae - common in older patients with [[Full/COPD]] 
 - Klebsiella pneumonia - more common in diabetics and patients with alcohol excess. Frequently caused by aspiration. Can cause "red jelly". Commonly affects upper lobes
 - Staphylococcus aureus pneumonia commonly occurs after influenza or as a complication of measles infection. CXR shows multi-lobar consolidation, cavitation or pneumothorax
 
@@ -62,9 +62,9 @@ $\geq$ 3 - high risk - severe pneumonia
 
 - Hospital acquired (HAP) - after 48hs from admission
 - Ventilator associated (VAP)
-- Asp iration [[snippets/Pneumonia|Pneumonia]]
+- Asp iration [[Pearls/Pneumonia|Pneumonia]]
 
-- Immunocompromised patient - patients recurrently coming with a CAP is an indicator of [[HIV]] - esp if organism is weird
+- Immunocompromised patient - patients recurrently coming with a CAP is an indicator of [[Full/HIV]] - esp if organism is weird
 
 ## Symptoms
 
@@ -92,7 +92,7 @@ $\geq$ 3 - high risk - severe pneumonia
 - Blood/sputum culture
 - Bronchoscopy if risk of infection for bloods
 
-- U&Es - hyponatremia [[snippets/Pneumonia|Pneumonia]] $\rightarrow$ legionella. Can also use urinary antigen very sensitive and specific for legionella
+- U&Es - hyponatremia [[Pearls/Pneumonia|Pneumonia]] $\rightarrow$ legionella. Can also use urinary antigen very sensitive and specific for legionella
 - Pet history - parrots $\rightarrow$ Chlymidia pneumonitis
 - Weird rash $\rightarrow$ Mycoplasma
 
@@ -100,17 +100,17 @@ $\geq$ 3 - high risk - severe pneumonia
 
 ABCDE
 - Fluids
-- [[snippets/Oxygen|Oxygen]]
+- [[Pearls/Oxygen|Oxygen]]
 - Antibiotics
 - Assisted ventilation
 
 ## Complications/red Flags
 
-- Type 1 [[Respiratory Failure]] ($PaO_2 < 8kPa$)
-- Hypotension <- vasodilation/dehydration <- [[Sepsis]]
-- [[Atrial Fibrillation]] - common in elderly, usually resolves with treatment
-- [[full/Pleural Effusion]] - inflammation of pleura leading to fluid build up
+- Type 1 [[Full/Respiratory Failure]] ($PaO_2 < 8kPa$)
+- Hypotension <- vasodilation/dehydration <- [[Full/Sepsis]]
+- [[Full/Atrial Fibrillation]] - common in elderly, usually resolves with treatment
+- [[Full/Pleural Effusion]] - inflammation of pleura leading to fluid build up
 - [[Empyema]] - pus in pleural space, should be drained with chest drain
-- [[full/Lung Abscess]]
-- [[Pericarditis]] and [[myocarditis]]
-- [[Jaundice]] - usually cholestatic - may be due to [[Sepsis]] or secondary to antibiotic treatment (esp. flucloxacillin and [[snippets/Co-amoxiclav|Co-amoxiclav]])
+- [[Full/Lung Abscess]]
+- [[Pearls/Pericarditis]] and [[Pearls/Myocarditis]]
+- [[Pearls/Jaundice]] - usually cholestatic - may be due to [[Full/Sepsis]] or secondary to antibiotic treatment (esp. flucloxacillin and [[Pearls/Co-amoxiclav|Co-amoxiclav]])

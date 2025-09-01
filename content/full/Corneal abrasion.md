@@ -4,7 +4,7 @@ title: Corneal abrasion
 date: 2024-02-09
 date modified: 2024-04-21
 ---
-Epithelial defect/scratch to the eye. Risk of transforming into [[Infective Keratitis]]
+Epithelial defect/scratch to the eye. Risk of transforming into [[Full/Infective Keratitis]]
 ## Causes/Factors
 
 - Trauma
@@ -26,4 +26,4 @@ Epithelial defect/scratch to the eye. Risk of transforming into [[Infective Kera
 
 ## Complications/red Flags
 
-- [[Infective Keratitis]]
+- [[Full/Infective Keratitis]]

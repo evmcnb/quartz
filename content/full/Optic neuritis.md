@@ -18,13 +18,13 @@ Patients usually have good outcomes with 90%+ recovering vision to 6/12 to bette
 
 ## Causes/Factors
 
-- Most commonly associated with demyelinating diseases such as [[full/Multiple Sclerosis]] - need to rule it out
-- Metabolic - vitamin deficiencies especially of B12 severe [[snippets/Anaemia|Anaemia]] 
-- Ischaemia - [[Diabetes Mellitus]], [[Giant cell arteritis]], ateriosclerosis
+- Most commonly associated with demyelinating diseases such as [[Full/Multiple Sclerosis]] - need to rule it out
+- Metabolic - vitamin deficiencies especially of B12 severe [[Pearls/Anaemia|Anaemia]] 
+- Ischaemia - [[Full/Diabetes Mellitus]], [[Full/Giant cell arteritis]], ateriosclerosis
 - Familial - Leber's disease
 - Infection:
-	- viral - herpes zoster, [[snippets/Infectious mononucleosis|Infectious mononucleosis]], typhoid fever
-	- bacterial - neurosyphilis, [[snippets/Meningitis|Meningitis]], [[Tuberculosis]]
+	- viral - herpes zoster, [[Pearls/Infectious mononucleosis|Infectious mononucleosis]], typhoid fever
+	- bacterial - neurosyphilis, [[Pearls/Meningitis|Meningitis]], [[Full/Tuberculosis]]
 	- other - toxoplasmosis
 
 ## Clinical Features
@@ -47,9 +47,9 @@ Patients usually have good outcomes with 90%+ recovering vision to 6/12 to bette
 
 ## Management
 
-Oral [[snippets/Prednisolone|Prednisolone]] was found to be ineffective and increased the risk of recurrence
+Oral [[Pearls/Prednisolone|Prednisolone]] was found to be ineffective and increased the risk of recurrence
 
-The typical regimen is **intravenous methylprednisolone** 1g daily for three days followed by an **oral [[snippets/Prednisolone|Prednisolone]] taper** (1mg/kg for 11 days).
+The typical regimen is **intravenous methylprednisolone** 1g daily for three days followed by an **oral [[Pearls/Prednisolone|Prednisolone]] taper** (1mg/kg for 11 days).
 
 Oral methylprednisolone 500mg once a day for five days has been suggested as an **alternative to intravenous steroids**, but its use remains controversial.
 

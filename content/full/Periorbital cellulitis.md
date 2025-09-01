@@ -7,10 +7,10 @@ date: 2024-01-24
 ---
 An infection in the eyelid tissues **anterior to the orbital septum**
 
-Much more common and less serious than [[Orbital cellulitis]]
+Much more common and less serious than [[Full/Orbital cellulitis]]
 ## Causes/Factors
 
-- Superficial injury (eg insect bite, [[Eyelid Disorders#Chalazion|chalazion]], [[Conjunctivitis]])
+- Superficial injury (eg insect bite, [[Full/Eyelid Disorders#Chalazion|chalazion]], [[Full/Conjunctivitis]])
 - Can be secondary to URTI or sinusitis
 
 ## Clinical Features
@@ -30,18 +30,18 @@ Must exclude orbital cellulitis and red flag features
 
 ## Diagnostic Tests
 
-There are no specific investigations but if there is any suspicion of [[Orbital cellulitis]] or unclear diagnosis, refer to secondary care for CT head
+There are no specific investigations but if there is any suspicion of [[Full/Orbital cellulitis]] or unclear diagnosis, refer to secondary care for CT head
 
 ## Management
 
 Emergency referral to ophthalmology/ENT if:
-- there is any suspicion of [[Orbital cellulitis]] 
+- there is any suspicion of [[Full/Orbital cellulitis]] 
 - the patient is systemically unwell
 - the patient is a child as paediatric patients require empirical IV antibiotics and daily monitoring due to the difficulty in differentiating between the two - can be challenging history and exam to take
 
-For adult patients oral [[snippets/Co-amoxiclav|Co-amoxiclav]] is 1st line ([[snippets/Clindamycin|Clindamycin]] if pen allergic)
+For adult patients oral [[Pearls/Co-amoxiclav|Co-amoxiclav]] is 1st line ([[Pearls/Clindamycin|Clindamycin]] if pen allergic)
 Consider 24-48h follow up and safety netting advice should be given 
 
 ## Complications/red Flags
 
-- Peri-[[Orbital cellulitis]] can **spread** to cause [[Orbital cellulitis]]. Important to provide adequate safety netting advice to patients
+- Peri-[[Full/Orbital cellulitis]] can **spread** to cause [[Full/Orbital cellulitis]]. Important to provide adequate safety netting advice to patients

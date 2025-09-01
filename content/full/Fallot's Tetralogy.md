@@ -40,7 +40,7 @@ Tetralogy features:
 
 ## Management
 
-- [[snippets/Oxygen|Oxygen]]
+- [[Pearls/Oxygen|Oxygen]]
 - Surgery to repair VSD and replace pulmonary valve
 
 ## Complications/red Flags

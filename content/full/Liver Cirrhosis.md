@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Liver Cirrhosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Sunday, August 24th 2025, 4:34:54 pm
 date: 2023-09-18
 ---
 
@@ -15,16 +15,16 @@ Irreversible scarring of the liver.
 
 ## Causes/Factors
 
-- [[Alcohol-related Liver Disease]]
-- [[Hepatitis#^b362b5]]
-- [[Wilson's Disease]]
+- [[Full/Alcohol-related Liver Disease]]
+- [[Full/Hepatitis#^b362b5]]
+- [[Pearls/Wilson's disease]]
 - [[Hemochromatosis]]
-- [[Alpha-1 antitrypsin deficiency]]
-- [[Non-alcoholic Fatty Liver Disease]]
+- [[Full/Alpha-1 antitrypsin deficiency]]
+- [[Full/Non-alcoholic Fatty Liver Disease]]
 
 ## Symptoms
 
-Portal [[Essential hypertension]] - Encephalopathy - [[snippets/Ascites|Ascites]]
+Portal [[Full/Essential hypertension]] - Encephalopathy - [[Pearls/Ascites|Ascites]]
 
 Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 
@@ -36,10 +36,10 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 
 ## Signs
 
-- [[Jaundice]]
+- [[Pearls/Jaundice]]
 - hetpatomegaly
 - spider naevi
-- [[snippets/Ascites|Ascites]] ^e3cff3
+- [[Pearls/Ascites|Ascites]] ^e3cff3
 
 ## Diagnostic Tests
 
@@ -52,7 +52,7 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 ## Management
 
 - Good nutrition, alcohol abstinence, avoid NSAIDs, sedatives and opiates
-- [[snippets/Ascites|Ascites]] - fluid restriction, low salt diet possible spiro
+- [[Pearls/Ascites|Ascites]] - fluid restriction, low salt diet possible spiro
 - **Liver transplant** - only definitive treatment
 
 > [!important]  Complications & their Management (VIBES)
@@ -74,20 +74,21 @@ Endoscopy every 3 years for oesophageal varicies screening
 - Model for End-Stage Liver Disease 
 - Using LFTs gives an estimated 3 month mortality 
 - Calculated **every 6 months**
+- Meld of above 10/15 should start consideration of transplantation
 
 ### Child-Pugh Score
-- Assesses the severity of [[snippets/Cirrhosis|Cirrhosis]] and the prognosis
+- Assesses the severity of [[Pearls/Cirrhosis|Cirrhosis]] and the prognosis
 - **A** – **A**lbumin
 - **B** – **B**ilirubin
 - **C** – **C**lotting (INR)
-- **D** – **D**ilation ([[snippets/Ascites|Ascites]])
+- **D** – **D**ilation ([[Pearls/Ascites|Ascites]])
 - **E** – **E**ncephalopathy
 
 
 ## Complications/red Flags
 
 Hepatorenal syndrome:
-- Cirrhotic patient  + [[Acute Kidney Injury]] + low BP.
+- Cirrhotic patient  + [[Full/Acute Kidney Injury]] + low BP.
 - Splachnic increase in circulation leads to decreased effective circulating volume -> AKI
 - Albumin challenge 1g/kg/day x2 days. If they respond, pre-renal AKI. No response is HRS
 - HRS is characterised by an extremely low urine Na
@@ -107,6 +108,6 @@ Hyponatremia
 - Treat with 25% albumin to increase Na NOT normal saline
 
 - Liver cancer - hepatocytes have to regenerate and repair over and over
-- Portal [[Essential hypertension]] - [[oesophageal varices]]
+- Portal [[Full/Essential hypertension]] - [[oesophageal varices]]
 - $\uparrow$ risk of infection - alterations in immune system
 

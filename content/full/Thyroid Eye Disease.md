@@ -10,7 +10,7 @@ aliases:
   - Graves' ophthalmopathy
 date: 2024-01-14
 ---
-Autoimmune condition associated with [[Grave's disease]] seen in 25-50% of people with Graves'.
+Autoimmune condition associated with [[Full/Grave's disease]] seen in 25-50% of people with Graves'.
 
 Due to a specific immune response that causes retro-orbital inflammation. Swelling and oedema of the extraocular muscles lead to limitation of movement and to proptosis which is usually bilateral 
 
@@ -37,14 +37,14 @@ Nerve damage does not go hand in hand with protrusion - if the eye cannot protru
 ## Diagnostic Tests
 
 - **Clinical Examination:** Ophthalmologists assess eye symptoms and perform a thorough eye examination.
-- **Thyroid Function Tests:** Assessing thyroid hormone levels to determine if [[snippets/Graves' disease|Graves' disease]] is present.
+- **Thyroid Function Tests:** Assessing thyroid hormone levels to determine if [[Pearls/Graves' disease|Graves' disease]] is present.
 - **Imaging Studies:** CT or MRI scans may be used to visualize eye and orbital structures.
 
 ## Management
 
 - **Control of Thyroid Function:** Managing hyper or hypo thyroidism 
 - **Symptomatic Treatment:** Lubricating eye drops, sunglasses, and elevation of the head during sleep (decrease periorbital oedema). to alleviate symptoms.
-- **Systemic Steroids:** In severe cases, [[snippets/Prednisolone|Prednisolone]] 30-120mg daily usually reduces inflammation
+- **Systemic Steroids:** In severe cases, [[Pearls/Prednisolone|Prednisolone]] 30-120mg daily usually reduces inflammation
 
 
 ## Complications/red Flags

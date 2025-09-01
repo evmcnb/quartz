@@ -64,8 +64,8 @@ Posterior:
 
 - There are symptoms of corneal disease or an eye becomes painful and/or red.
 - There is loss of vision.
-- Orbital or pre-septal [[Cellulitis]] is suspected.
+- Orbital or pre-septal [[Full/Cellulitis]] is suspected.
 - There is persistent localised disease or eyelid asymmetry (to exclude eyelid malignancy).
-- An underlying condition requiring management in secondary care (such as [[Sjogren's syndrome]] or pemphigoid) is suspected.
+- An underlying condition requiring management in secondary care (such as [[Full/Sjogren's syndrome]] or pemphigoid) is suspected.
 - There are ongoing symptoms despite optimal treatment in primary care.
 - The diagnosis is uncertain.

@@ -7,7 +7,7 @@ date: 2023-09-18
 ---
 
 
-[[snippets/Mycobacterium Tuberculosis|Mycobacterium Tuberculosis]] - can affect almost any organ
+[[Pearls/Mycobacterium Tuberculosis|Mycobacterium Tuberculosis]] - can affect almost any organ
 
 Infects 1/3 of the world's population - most common infectious cause of death
 

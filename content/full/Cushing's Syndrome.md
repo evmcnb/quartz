@@ -36,7 +36,7 @@ Peak incidence age 25-40
 - High blood pressure
 - Skin changes - fragile with stretch marks
 - Mood changes - irritability & anxiety
-- [[full/osteoporosis]]
+- [[Full/osteoporosis]]
 - Menstrual irregularities
 - Hirsutism
 - Glucose intolerance
@@ -62,6 +62,6 @@ Peak incidence age 25-40
 
 ## Complications/red Flags
 
-- [[full/osteoporosis]]
+- [[Full/osteoporosis]]
 - Suppressed immune function $\rightarrow$ increased infection risk
 - Cardiovascular complications - due to the high blood pressure

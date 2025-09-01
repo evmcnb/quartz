@@ -11,14 +11,14 @@ Not an infective cause
 
 Acute damage can be temporary and can restore function
 
-Chronic [[snippets/Pancreatitis|Pancreatitis]] results in fibrosis and reduced function. Alcohol is the most common cause. 
+Chronic [[Pearls/Pancreatitis|Pancreatitis]] results in fibrosis and reduced function. Alcohol is the most common cause. 
 
 ![[z_attachments/Pasted image 20231011141201.png|350]]
 
  - Mild - swollen gland with fat necrosis
 - Severe - swollen, necrotic gland and haemorrhage (Grey Turner's and Cullen's sign)
 - Pseudocysts (full of pancreatic juice)
-- Drugs - [[snippets/Furosemide|Furosemide]], [[snippets/Thiazide diuretics|Thiazide diuretics]], azathioprine 
+- Drugs - [[Pearls/Furosemide|Furosemide]], [[Pearls/Thiazide diuretics|Thiazide diuretics]], azathioprine 
 ## Causes/Factors
 
 Gallstones (50%), alcohol (25%), idiopathic (10%)
@@ -27,17 +27,17 @@ Gallstones (50%), alcohol (25%), idiopathic (10%)
 
 - Epigastric pain (radiating to back)
 - N+V
-- [[snippets/Jaundice|Jaundice]] if due to gallstones
+- [[Pearls/Jaundice|Jaundice]] if due to gallstones
 
 ## Signs
 - Grey-Turner's (remember by _"you **turn** on your side"_) sign/Cullen's sign
 
 ### Glasgow Score
 
-Used to assess the severity of [[snippets/Pancreatitis|Pancreatitis]]. 
-- **0 or 1** – mild [[snippets/Pancreatitis|Pancreatitis]]
-- **2** – moderate [[snippets/Pancreatitis|Pancreatitis]]
-- **3 or more** – severe [[snippets/Pancreatitis|Pancreatitis]]
+Used to assess the severity of [[Pearls/Pancreatitis|Pancreatitis]]. 
+- **0 or 1** – mild [[Pearls/Pancreatitis|Pancreatitis]]
+- **2** – moderate [[Pearls/Pancreatitis|Pancreatitis]]
+- **3 or more** – severe [[Pearls/Pancreatitis|Pancreatitis]]
 
 ## Diagnostic Tests
 
@@ -45,9 +45,9 @@ Used to assess the severity of [[snippets/Pancreatitis|Pancreatitis]].
 - USS - to access for gallstones
 - CTAP - necrossi, abscesses and fluid collection
 
-**Amylase** raised more than 3x the normal limit indicates an acute [[snippets/Pancreatitis|Pancreatitis]]
+**Amylase** raised more than 3x the normal limit indicates an acute [[Pearls/Pancreatitis|Pancreatitis]]
 
-Lipase is more **sensitive and specific** than amylase for [[snippets/Pancreatitis|Pancreatitis]]
+Lipase is more **sensitive and specific** than amylase for [[Pearls/Pancreatitis|Pancreatitis]]
 
 ## Management
 
@@ -69,7 +69,7 @@ Lipase is more **sensitive and specific** than amylase for [[snippets/Pancreatit
 
 
 #### Acute
-- Persistent [[snippets/Hypocalcaemia|Hypocalcaemia]] poor prognostic sign
+- Persistent [[Pearls/Hypocalcaemia|Hypocalcaemia]] poor prognostic sign
 - Necrosis of pancreas
 - Pseudocyst can develop 4 weeks after
-- Chronic [[snippets/Pancreatitis|Pancreatitis]]
+- Chronic [[Pearls/Pancreatitis|Pancreatitis]]

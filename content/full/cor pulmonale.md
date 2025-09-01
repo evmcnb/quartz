@@ -7,13 +7,13 @@ date created: Sunday, November 12th 2023, 5:22:40 pm
 date modified: 2024-03-11
 date: 2023-11-12
 ---
-Cor Pulmonale right sided [[Heart Failure]] caused by chronic pulmonary artery [[Essential hypertension]].
+Cor Pulmonale right sided [[Full/Heart Failure]] caused by chronic pulmonary artery [[Full/Essential hypertension]].
 
 ## Causes/Factors
 
-- [[COPD]]
+- [[Full/COPD]]
 - Pulmonary vascular disorders
-- [[interstitial lung disease]]
+- [[Full/interstitial lung disease]]
 - Thoracic cage abnormalities
 - Sleep apnoea
 
@@ -31,7 +31,7 @@ Lack of perfusion
 - Tachycardia
 - Raised JVP with prominent a and v waves
 - RV heave
-- Loud pan-systolic murmur [[Tricuspid regurgitation]]
+- Loud pan-systolic murmur [[Full/Tricuspid regurgitation]]
 - Early diastolic Graham Steell murmur
 - Hepatomegaly and oedema
 
@@ -45,8 +45,8 @@ Lack of perfusion
 ## Management
 
 - Treat underlying cause
-- Treat [[Respiratory Failure]]
-- Treat [[Heart Failure]]
+- Treat [[Full/Respiratory Failure]]
+- Treat [[Full/Heart Failure]]
 - Consider venesection 
 - Consider heart-lung transplant in young patients 
 

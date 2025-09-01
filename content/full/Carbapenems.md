@@ -11,7 +11,7 @@ date: 2023-09-28
 - Only use after consulting with specialist 
 
 ### Examples
-- Broad spectrum (Gram +ve & -ve, aerobes, anaerobes); HAP, VAP complicated infections, neutropenic [[Sepsis]]
+- Broad spectrum (Gram +ve & -ve, aerobes, anaerobes); HAP, VAP complicated infections, neutropenic [[Full/Sepsis]]
 
 **Imipenem** - given with cliastatin to decrease renal metabolism 
 **Meropenem**

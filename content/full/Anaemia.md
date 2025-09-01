@@ -3,9 +3,10 @@ tags:
   - Haematology
 title: Anaemia
 date created: Friday, November 10th 2023, 1:52:37 pm
-date modified: 2024-03-11
+date modified: Monday, September 1st 2025, 12:58:26 pm
 date: 2023-11-10
 ---
+
 A low haemoglobin (Hb) concentration <135 g/L for men <115 g/L women.
 
 Can be caused by low red cell mass or increased plasma volume
@@ -23,23 +24,23 @@ Can be caused by low red cell mass or increased plasma volume
 1. Acute blood loss
 2. Anaemia of chronic disease (or $\downarrow$ MCV)
 3. Bone marrow failure (not producing enough)
-4. [[Chronic Kidney Disease]] (not enough EPO)
-5. [[Hypothyroidism]]
+4. [[Full/Chronic Kidney Disease]] (not enough EPO)
+5. [[Full/Hypothyroidism]]
 6. Haemolysis (or $\uparrow$ MCV)
-7. [[Pregnancy]]
+7. [[Full/Pregnancy]]
 
 > [!Info] Note
 > If $\downarrow$ WCC or $\downarrow$ platelet in normocytic anaemia suspect bone marrow failure
 
 
 ##### High MCV - macrocytic anaemia 
-1. [[Nutritional disorders]] - B12 or folate deficiency
-2. [[Alcohol-related Liver Disease]]
+1. [[Full/Nutritional disorders]] - B12 or folate deficiency
+2. [[Full/Alcohol-related Liver Disease]]
 3. Reticulocytosis
 4. Cytotoxics (hydroxycarbamide)
-5. [[Myelodysplastic syndromes]]
+5. [[Pearls/Myelodysplastic syndromes]]
 6. Marrow infiltration
-7. [[Hypothyroidism]]
+7. [[Full/Hypothyroidism]]
 8. Anti-folate drugs (phenytoin)
 
 
@@ -75,7 +76,7 @@ These do not fit into the above classification as it may be normo- or macrocytic
 | Anaemia of chronic disease | $\downarrow$ | $\downarrow$                      | $\uparrow$        |
 | Chronic haemolysis         | $\uparrow$   | $\downarrow$                      | $\uparrow$        |
 | [[snippets/Haemochromatosis|Haemochromatosis]]           | $\uparrow$   | $\downarrow$ or $\leftrightarrow$ | $\uparrow$        |
-| [[Pregnancy]]                  | $\uparrow$   | $\uparrow$                        | $\leftrightarrow$ |
+| [[Full/Pregnancy]]                  | $\uparrow$   | $\uparrow$                        | $\leftrightarrow$ |
 | Sideroblastic anaemia      | $\uparrow$   | $\leftrightarrow$                 | $\uparrow$                  |
 
 ## Management

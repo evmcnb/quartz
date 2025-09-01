@@ -16,7 +16,7 @@ A combination of high trait anxiety and a critical mass of psychosocial stressor
 - Avoidance - need to expose to stimulus to uncouple anxiety from it
 - Attentional and cognitive bias - anxiety makes people pay attention to things and perceive threats more easily
 - Anxious rumination - snowballing events 
-- Low self worth - frequently comorbid with [[Depression]]
+- Low self worth - frequently comorbid with [[Full/Depression]]
 - Poor sleep - essential functions relating to cognition, emotional processing and memory 
 
 

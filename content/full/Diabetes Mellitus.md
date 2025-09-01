@@ -14,15 +14,15 @@ date: 2024-01-14
 |              | Type I                                                                                             | Type II                                                                               |
 | ------------ | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | Aetiology    | Autoimmune ($\beta$-cell destruction)                                                              | Cells become insulin resistance and $\beta$-cell dysfunction                          |
-| Presentation | Young (12 y/o peak) slim, osmotic symptoms, weight loss (days to weeks), [[full/Diabetic ketoacidosis]] | Older (60 y/o) osmotic symptoms, diabetic complications (months-years), usually obese |
+| Presentation | Young (12 y/o peak) slim, osmotic symptoms, weight loss (days to weeks), [[Full/Diabetic ketoacidosis]] | Older (60 y/o) osmotic symptoms, diabetic complications (months-years), usually obese |
 | Treatment    | Insulin (match size of meals)                                                                      | Diet, exercise, oral hypoglycemics, insulin later                                                                                      |
 
 - Gestational diabetes
 
 Secondary
 
-- Pancreatic destruction ([[full/pancreatitis]], [[full/Cystic Fibrosis]])
-- [[full/Cushing's Syndrome]]
+- Pancreatic destruction ([[Full/pancreatitis]], [[Full/Cystic Fibrosis]])
+- [[Full/Cushing's Syndrome]]
 
 ## Presenting Features
 
@@ -82,7 +82,7 @@ Hypoglycaemic agents:
 
 ##### Second line 
 - **DPP4 inhibitors/gliptins** - block enzyme which destroys the hormone incretin (stimulates a decrease in blood glucose levels) _eg sitagliptin_ - few side effects (headaches, rarely pancreatitis)
-- **Glitazone** - $\uparrow$ insulin sensitivity, LFTs needed every 8 weeks - **do not use in patient with [[Heart Failure]]** _eg pioglitazone_
+- **Glitazone** - $\uparrow$ insulin sensitivity, LFTs needed every 8 weeks - **do not use in patient with [[Full/Heart Failure]]** _eg pioglitazone_
 	- Decreases the liver production of glucose
 	- Side effects of: weight gain, heart failure, bone fractures, bladder cancers
 - **Sulfonyurea** - $\uparrow$ insulin secretion but increased cardiovascular morbidity and mortality - promote weight gain _eg Gliclazide_
@@ -99,25 +99,25 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 | Intermediate-acting insulins | Acts in 1 hours and lasts for 16 hours | Humulin I |
 | Long-acting insulins         | Acts in 1 hours and lasts for 24 hours | Levemir   |
 
-**_Combinations insulins_** contain a **_rapid-acting_** and **_intermediate-acting_** [[snippets/Insulin|Insulin]]. In brackets is the ratio of rapid-acting to intermediate-acting [[snippets/Insulin|Insulin]]:
+**_Combinations insulins_** contain a **_rapid-acting_** and **_intermediate-acting_** [[Pearls/Insulin|Insulin]]. In brackets is the ratio of rapid-acting to intermediate-acting [[Pearls/Insulin|Insulin]]:
 
 - **_Humalog 25_** (25:75)
 - **_Humalog 50_** (50:50)
 - **_Novomix 30_** (30:70)
 
 >[!tip]
->A common exam scenario involves discussing the possibility of starting [[snippets/Insulin|Insulin]] with an HGV driver. Patients treated with [[snippets/Insulin|Insulin]] must fulfil **very strict criteria to carry on driving**, so starting [[snippets/Insulin|Insulin]] has enormous implications for professional drivers. This can be a motivating factor for improving diet, exercise and taking medications to improve diabetes control and avoid [[snippets/Insulin|Insulin]].
+>A common exam scenario involves discussing the possibility of starting [[Pearls/Insulin|Insulin]] with an HGV driver. Patients treated with [[Pearls/Insulin|Insulin]] must fulfil **very strict criteria to carry on driving**, so starting [[Pearls/Insulin|Insulin]] has enormous implications for professional drivers. This can be a motivating factor for improving diet, exercise and taking medications to improve diabetes control and avoid [[Pearls/Insulin|Insulin]].
 
 
 ## Complications/red Flags
 
-**[[Hypoglycaemia]]** - due to too high [[snippets/Insulin|Insulin]] -> coma and brain damage, thrombosis, cardiac [[Arrhythmias]]
+**[[Full/Hypoglycaemia]]** - due to too high [[Pearls/Insulin|Insulin]] -> coma and brain damage, thrombosis, cardiac [[Full/Arrhythmias]]
 
 **Infections** - periodontitis, thrush and infected ulcers 
 
->[!tip] [[snippets/Insulin|Insulin]] [[snippets/Sick Day Rules|Sick Day Rules]]
+>[!tip] [[Pearls/Insulin|Insulin]] [[Pearls/Sick Day Rules|Sick Day Rules]]
 >**Type 1 diabetes**
->- if a patient is on [[snippets/Insulin|Insulin]], they must not stop it due to the risk of [[snippets/Diabetic Ketoacidosis|Diabetic Ketoacidosis]]
+>- if a patient is on [[Pearls/Insulin|Insulin]], they must not stop it due to the risk of [[Pearls/Diabetic Ketoacidosis|Diabetic Ketoacidosis]]
 >- check blood glucose more frequently, for example, every 1-2 hours including through the night
 >- consider checking blood or urine ketone levels regularly
 >- maintain normal meal pattern if possible
@@ -127,32 +127,32 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 >**Type 2 diabetes**
 >- advise the patient to temporarily stop some oral hypoglycaemics during an acute illness
 >- medication may be restarted once the person is feeling better and eating and drinking for 24-48 hours
-  >  - [[snippets/Metformin|Metformin]]: stop treatment if there is a risk of dehydration, to reduce the risk of lactic acidosis.
- >   - sulfonylureas: may increase the risk of [[Hypoglycaemia]]
+  >  - [[Pearls/Metformin|Metformin]]: stop treatment if there is a risk of dehydration, to reduce the risk of lactic acidosis.
+ >   - sulfonylureas: may increase the risk of [[Full/Hypoglycaemia]]
  >   - SGLT-2 inhibitors: check for ketones and stop treatment if acutely unwell and/or at risk of dehydration, due to the risk of euglycaemic DKA
   >  - GLP-1 receptor agonists: stop treatment if there is a risk of dehydration, to reduce the risk of AKI
->- if on [[snippets/Insulin|Insulin]] therapy, do not stop treatment, as above
+>- if on [[Pearls/Insulin|Insulin]] therapy, do not stop treatment, as above
 > - monitor blood glucose more frequently as necessary
 
-**[[Essential hypertension]] and [[Chronic Kidney Disease]]** - ACEi 
+**[[Full/Essential hypertension]] and [[Full/Chronic Kidney Disease]]** - ACEi 
 
 **Erectile dysfunction** - sildenafil or tadalafil
 
 **Microvascular**
 
-- [[Diabetic eye disease]] - regular eye test
-- Neuropathy - regular foot exam / nerve conduction. There are four options for **_neuropathic pain_** (e.g., [[snippets/Diabetic neuropathy|Diabetic neuropathy]]):
+- [[Full/Diabetic eye disease]] - regular eye test
+- Neuropathy - regular foot exam / nerve conduction. There are four options for **_neuropathic pain_** (e.g., [[Pearls/Diabetic neuropathy|Diabetic neuropathy]]):
 	- **_Amitriptyline_** – a tricyclic antidepressant
 	- **_Duloxetine_** – an SNRI antidepressant
 	- **_Gabapentin_** – an anticonvulsant
 	- **_Pregabalin_** – an anticonvulsant
-- Nephropathy - urine test for albumin - [[Chronic Kidney Disease]]
+- Nephropathy - urine test for albumin - [[Full/Chronic Kidney Disease]]
 
 **Macrovascular**
 
-- [[myocardial infarction]]
-- [[Stroke]]
-- [[peripheral vascular disease]]
+- [[Full/myocardial infarction]]
+- [[Full/Stroke]]
+- [[Full/peripheral vascular disease]]
 
 
 ### Hyperosmolar hyperglycaemic state 
@@ -160,7 +160,7 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 Rare but potentially fatal complication. 
 
 **Hyperosmolality** - water loss leading to very concentration blood
-**Hyperglycaemia** - with the absence of key tones - different from [[full/Diabetic ketoacidosis]]
+**Hyperglycaemia** - with the absence of key tones - different from [[Full/Diabetic ketoacidosis]]
 
 - Presentation: polyuria + polydipsia, weight loss, dehydration, tachycardia, hypotension, confusion
 - Medical emergency - escalate. **Treat with IV fluids**

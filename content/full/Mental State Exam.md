@@ -16,7 +16,7 @@ Observe the patient’s **general** **appearance**:
 - **Personal hygiene**: are there any signs of self-neglect?
 - **Clothing**: are they dressed appropriately for the weather/circumstances? Are clothes put on correctly?
 - **Physical signs of underlying difficulties**: any self-harm scars or signs of intravenous drug use?
-- **Stigmata of disease**: note any stigmata of disease (e.g. [[snippets/Jaundice|Jaundice]]).
+- **Stigmata of disease**: note any stigmata of disease (e.g. [[Pearls/Jaundice|Jaundice]]).
 - **Weight**: note if they appear significantly underweight or overweight.
 - **Objects**: look around to see if the patient has brought any objects with them and note what they are.
 
@@ -34,7 +34,7 @@ Note if the patient appears **engaged** in the consultation and if you can dev
 - Is it spontaneous?
 - Comprehensive answers?
 - Any tangential or circumstantial speech
-- Mania is generally loud and all over the place, [[Depression]] quiet and 
+- Mania is generally loud and all over the place, [[Full/Depression]] quiet and 
 
 ### Mood
 
@@ -102,7 +102,7 @@ One of the most complex areas of psychiatry
 ### Risk
 
 - "When things are difficult people can have thoughts about harming themselves and of suicide. Have you had these thoughts?"
-- Any risk of [[snippets/Self Harm|Self Harm]]/harm to others/suicidal ideas or plans
+- Any risk of [[Pearls/Self Harm|Self Harm]]/harm to others/suicidal ideas or plans
 - Protective factors - family, friends, pet
 - Domestic violence and abuse?
 - **SAFEGUARDING**

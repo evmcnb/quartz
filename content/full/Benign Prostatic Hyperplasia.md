@@ -12,7 +12,7 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 ## Causes/Factors
 
 - Old men
-- [[Obesity]]
+- [[Full/Obesity]]
 - Diabetes
 - FH
 - Testosterone levels
@@ -38,14 +38,14 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 
 - **Digital Rectal Exam (DRE):** Examination of the prostate through the rectum to assess its size and texture.
 - **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate BPH or other prostate conditions).
-- **Urinalysis:** To rule out [[snippets/Urinary Tract Infections|Urinary Tract Infections]], haematuria and other pathology
+- **Urinalysis:** To rule out [[Pearls/Urinary Tract Infections|Urinary Tract Infections]], haematuria and other pathology
 
 > [!info] Prostate-specific antigen
 > Known to be unreliable with a high rate of false positives (75%) and false negatives (15%). Common causes of raised PSA are:
 > - Prostate cancer
 > - BPH
 > - Prostatitis
-> - [[snippets/Urinary Tract Infections|Urinary Tract Infections]]
+> - [[Pearls/Urinary Tract Infections|Urinary Tract Infections]]
 > - Vigorous exercise (cycling especially)
 > - Recent ejaculation or prostate stimulation
 
@@ -64,4 +64,4 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 ## Complications/red Flags
 
 - **Urinary Retention:** Inability to urinate due to severe prostate enlargement.
-- **[[snippets/Urinary Tract Infections|Urinary Tract Infections]]:** Stagnant urine in the bladder can lead to infections.
+- **[[Pearls/Urinary Tract Infections|Urinary Tract Infections]]:** Stagnant urine in the bladder can lead to infections.

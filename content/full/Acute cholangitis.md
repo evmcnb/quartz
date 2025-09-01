@@ -24,7 +24,7 @@ As time progresses this infection ascends towards the liver
 
 - Fever
 - RUQ pain
-- [[snippets/Jaundice|Jaundice]]
+- [[Pearls/Jaundice|Jaundice]]
 - N&V
 
 ## Signs
@@ -32,24 +32,24 @@ As time progresses this infection ascends towards the liver
 > [!abstract] Charcot's triad
 >- Fever 
 >- RUQ pain
->- [[snippets/Jaundice|Jaundice]]
+>- [[Pearls/Jaundice|Jaundice]]
 
 **Reynold's pentad** - Charcot's triad + altered mental status + hypotension
 
 ## Investigations
 
 - FBC, CRP - elevated WCC and CRP
-- [[Sepsis]] screen - **thrombocytopenia**, **coagulopathies** and a **raised lactate**.
-- LFTs - obstructive [[snippets/Jaundice|Jaundice]] (raised ALP and bilirubin)
+- [[Full/Sepsis]] screen - **thrombocytopenia**, **coagulopathies** and a **raised lactate**.
+- LFTs - obstructive [[Pearls/Jaundice|Jaundice]] (raised ALP and bilirubin)
 - USS to looked for a dilated bile duct - if -ve CTA contrast should be requested
 
 ## Management
 
-[[Sepsis]] pathway if septic - broad-spec IV antibiotics and IV fluids
+[[Full/Sepsis]] pathway if septic - broad-spec IV antibiotics and IV fluids
 
 ERCP (Endoscopic retrograde cholangiopancreatography) - diagnostic and used to decompress the biliary tree urgently 
 
-Surgery may be necessary for patients with severe or complicated acute cholangitis, such as those with perforation, gangrenous [[Cholecystitis]], or biliary [[Sepsis]].
+Surgery may be necessary for patients with severe or complicated acute cholangitis, such as those with perforation, gangrenous [[Full/Cholecystitis]], or biliary [[Full/Sepsis]].
 
 Analgesia
 
@@ -57,6 +57,6 @@ Lifestyle advice to reduce gallstone recurrence
 
 ## Complications/red Flags
 
-- **[[full/pancreatitis]]**: Concomitant inflammation of the pancreas due to biliary obstruction or pancreatic duct involvement.
-- **Biliary Perforation**: Rupture of the bile ducts leading to bile peritonitis, abscess formation, or intra-abdominal [[Sepsis]].
+- **[[Full/pancreatitis]]**: Concomitant inflammation of the pancreas due to biliary obstruction or pancreatic duct involvement.
+- **Biliary Perforation**: Rupture of the bile ducts leading to bile peritonitis, abscess formation, or intra-abdominal [[Full/Sepsis]].
 - **Hepatic Abscess**: Secondary infection and abscess formation within the liver parenchyma due to bacterial seeding from the biliary system.

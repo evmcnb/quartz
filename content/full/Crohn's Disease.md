@@ -6,7 +6,7 @@ date modified: 2024-03-11
 date: 2023-09-18
 ---
 
-The inflammatory bowel diseases (IBD), [[Ulcerative Colitis]] and Crohn's disease are chronic autoimmune relapsing and remitting inflammation of the intestine.
+The inflammatory bowel diseases (IBD), [[Full/Ulcerative Colitis]] and Crohn's disease are chronic autoimmune relapsing and remitting inflammation of the intestine.
 
 Can effect any part of GI tract from mouth to anus
 More difficult to manage due to this
@@ -30,19 +30,19 @@ Smoking $\uparrow$ risk 3-4 times
 
 - bowel ulceration
 - abdominal tenderness
-- [[snippets/Perianal abscess|Perianal abscess]]/fistulae/skin tags
+- [[Pearls/Perianal abscess|Perianal abscess]]/fistulae/skin tags
 - anal strictures
 - patchy inflammation
 
 Extraintestinal signs:
 
-- [[clubbing]]
+- [[Full/clubbing]]
 - skin joint and eye problems
 
 ## Diagnostic Tests
 
 - Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
-- Blood tests for inflammatory markers/[[snippets/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
+- Blood tests for inflammatory markers/[[Pearls/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
 - Full colonoscopy or sigmoidoscopy -> biopsy
 - Crypt abcesses on histology
 - AXR - no feacal shadows, mucosal thickening/islands
@@ -60,6 +60,6 @@ Extraintestinal signs:
 
 ## Complications/red Flags
 
-- small [[snippets/Bowel Obstruction|Bowel Obstruction]]
+- small [[Pearls/Bowel Obstruction|Bowel Obstruction]]
 - toxic dilation
 - for rest see diagram

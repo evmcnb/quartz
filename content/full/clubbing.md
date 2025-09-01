@@ -12,6 +12,6 @@ Associated with several underlying disease processes
 
 Key respiratory causes - don't _MIS_
 
-**M**alignancy - [[full/Lung Tumours]], [[pleural mesothelioma]]
-**I**nterstitial lung disease - [[hypersensitivity pneumonitis]], [[interstitial lung disease]]
-**S**uppurative lung disease - [[full/bronchiectasis]],[[full/Lung Abscess]],[[Empyema]],[[full/Cystic Fibrosis]]
+**M**alignancy - [[Full/Lung Tumours]], [[pleural mesothelioma]]
+**I**nterstitial lung disease - [[Pearls/Hypersensitivity Pneumonitis]], [[Full/interstitial lung disease]]
+**S**uppurative lung disease - [[Full/bronchiectasis]],[[Full/Lung Abscess]],[[Empyema]],[[Full/Cystic Fibrosis]]

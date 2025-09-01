@@ -11,21 +11,21 @@ Interstitial Lung Disease (ILD) refers to a group of lung disorders characterize
 ## Classification
 
 #### Known cause:
-- [[Industrial dust diseases]] e.g. asbestosis, berylliosis, silicosis, cotton worker's lung
+- [[Full/Industrial dust diseases]] e.g. asbestosis, berylliosis, silicosis, cotton worker's lung
 - Drugs - nitrofurantoin, bleomycin, amiodarone, sulfasalazine, busulfan
 - Hypersensitivity reactions - hypersensitivity pneumonitis
-- Infections - [[Tuberculosis]], fungal, viral
+- Infections - [[Full/Tuberculosis]], fungal, viral
 - [[Gastro-oesophageal reflux]]
 
 #### Associated with systemic disorder:
-- [[full/Sarcoidosis]]
-- [[Inflammatory Arthritis#Rheumatoid Arthritis|Rheumatoid arthritis]]
-- [[full/Systemic Lupus Erythematosus]]
-- [[Sjogren's syndrome]]
-- [[Ulcerative Colitis]]
+- [[Full/Sarcoidosis]]
+- [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|Rheumatoid arthritis]]
+- [[Full/Systemic Lupus Erythematosus]]
+- [[Full/Sjogren's syndrome]]
+- [[Full/Ulcerative Colitis]]
 
 #### Idiopathic 
-- Idiopathic [[Pulmonary Fibrosis]]
+- Idiopathic [[Full/Pulmonary Fibrosis]]
 - Cryptogenic organising pneumonia
 - Non-specific interstitial pneumonitis 
 
@@ -65,6 +65,6 @@ Interstitial Lung Disease (ILD) refers to a group of lung disorders characterize
 Treatment of ILD depends on the specific type and severity:
 
 1. **Medications:** Corticosteroids and immunosuppressive drugs to reduce inflammation.
-2. **[[snippets/Oxygen|Oxygen]] Therapy:** To improve [[snippets/Oxygen|Oxygen]] levels in the blood.
+2. **[[Pearls/Oxygen|Oxygen]] Therapy:** To improve [[Pearls/Oxygen|Oxygen]] levels in the blood.
 3. **Pulmonary Rehabilitation:** Exercise and education programs to improve lung function.
 4. **Lung Transplant:** For severe cases when other treatments are ineffective.

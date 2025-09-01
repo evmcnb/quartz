@@ -10,9 +10,9 @@ Bowel cancer usually refers to cancer of the colon or rectum. Small bowel and an
 
 ## Causes/Factors
 
-- Familial adenomatous polyposis (**_FAP_**) - [[snippets/Familial cancer syndromes|Familial cancer syndromes]]
+- Familial adenomatous polyposis (**_FAP_**) - [[Pearls/Familial cancer syndromes|Familial cancer syndromes]]
 - Hereditary nonpolyposis colorectal cancer (HNPCC), also known as **_Lynch syndrome_**
-- [[inflammatory bowel disease]]
+- [[Full/inflammatory bowel disease]]
 - Age
 - Smoking/alcohol
 - Obesity
@@ -61,15 +61,15 @@ TNM staging - was previously Duke's but has been replaced.
 - Palliative care
 
 > [!tldr] Hartmann's Procedure
-> An emergency procedure that involves the removal of the rectosigmoid colon and creation of an colostomy. The rectal stump is sutured closed. The colostomy may be permanent or reversed at a later date. Common indications are acute obstruction by a tumour, or significant [[snippets/Diverticular disease|Diverticular disease]].
+> An emergency procedure that involves the removal of the rectosigmoid colon and creation of an colostomy. The rectal stump is sutured closed. The colostomy may be permanent or reversed at a later date. Common indications are acute obstruction by a tumour, or significant [[Pearls/Diverticular disease|Diverticular disease]].
 
 ## Complications/red Flags
 
 - Bleeding, infection and pain
-- Incisional [[Hernias]]
+- Incisional [[Full/Hernias]]
 - Intra-abdominal adhesions
 - Damage to nerves, bladder, ureter or bowel
-- Post-operative [[Ileus]]
+- Post-operative [[Full/Ileus]]
 - Anaesthetic risks
 - Leakage or failure of the anastomosis
 - Requirement for a stoma

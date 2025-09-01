@@ -20,14 +20,14 @@ date: 2024-02-07
 #### Clinical Signs
 
 - **<span style="color:#ff0000">Cyanosis</span>**
-- **<span style="font-weight:bold; color:#ff0000">Shortness of breath</span>** (congestive [[Heart Failure]], [[Pericarditis]] [[full/pneumonia]], [[pulmonary embolism]])
-- <span style="color:#ff0000">Pallor</span> - not very sensitive - paleness -> <span style="color:#00b0f0">anaemia</span> (haemorrhage, chronic disease) or <span style="color:#00b0f0">poor perfusion</span> (congestive [[Heart Failure]])
+- **<span style="font-weight:bold; color:#ff0000">Shortness of breath</span>** (congestive [[Full/Heart Failure]], [[Pearls/Pericarditis]] [[Full/pneumonia]], [[Full/pulmonary embolism]])
+- <span style="color:#ff0000">Pallor</span> - not very sensitive - paleness -> <span style="color:#00b0f0">anaemia</span> (haemorrhage, chronic disease) or <span style="color:#00b0f0">poor perfusion</span> (congestive [[Full/Heart Failure]])
 - **<span style="font-weight:bold; color:#ff0000">Malar flush</span>** - plum red discolouration of the cheeks associated with [[Mitral stenosis]]
-- <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen ([[snippets/Ascites|Ascites]]). Usually in context of CVS exam congestive [[Heart Failure]]
+- <span style="font-weight:bold; font-weight:bold; color:#ff0000">Oedema</span> - lots of causes, usually in limbs (pedal) or abdomen ([[Pearls/Ascites|Ascites]]). Usually in context of CVS exam congestive [[Full/Heart Failure]]
 
 #### Objects and Equipment
 
-- [[snippets/Oxygen|Oxygen]]
+- [[Pearls/Oxygen|Oxygen]]
 - Bedside equipment - ECG, ECHO machine
 - GTN spray/medication
 
@@ -39,13 +39,13 @@ date: 2024-02-07
 - <span style="color:#ff0000">Tar staining</span> -<span style="color:#00b0f0"> smoking, risk factor for CVD</span>
 - <span style="color:#ff0000">Xanthomata</span> - yellow cholesterol-rich deposits
 - <span style="color:#ff0000">Arachnodactyly</span> - fingers and toes abnormally long and slender, <span style="color:#00b0f0">feature of</span> [[Marfan's syndrome]] <span style="color:#00b0f0">mitral/aortic valve prolapse & aortic dissection</span>
-- [[Splinter haemorrhages]] - <span style="color:#00b0f0">local trauma, infective endocarditis, sepsis, vasculitis</span>
-- [[Janeway lesions and Osler's nodes]] - infective [[full/Endocarditis]]
+- [[Full/Splinter haemorrhages]] - <span style="color:#00b0f0">local trauma, infective endocarditis, sepsis, vasculitis</span>
+- [[Full/Janeway lesions and Osler's nodes]] - infective [[Full/Endocarditis]]
 - <span style="color:#ff0000"> Pale palmar creases</span> - <span style="color:#00b0f0">anaemia</span>
 
-##### Finger [[clubbing]]
+##### Finger [[Full/clubbing]]
 
-- <span style="color:#ff0000">Schamroth’s window test</span> -<span style="color:#00b0f0"> congenital cyanotic heart disease, infective</span> [[full/Endocarditis]], <span style="color:#00b0f0">and</span> [[atrial myxoma]]
+- <span style="color:#ff0000">Schamroth’s window test</span> -<span style="color:#00b0f0"> congenital cyanotic heart disease, infective</span> [[Full/Endocarditis]], <span style="color:#00b0f0">and</span> [[atrial myxoma]]
 
 #### Palpation
 
@@ -63,7 +63,7 @@ Place dorsal aspect of your hand onto patients to assess temperature
 
 -<span style="color:#ff0000"> Palpate for 30 seconds</span> - 60 if irregular
 
-- Irregular rhythm is most commonly caused by [[Atrial Fibrillation]]
+- Irregular rhythm is most commonly caused by [[Full/Atrial Fibrillation]]
 
 ##### Radio-radial Delay
 
@@ -79,10 +79,10 @@ A collapsing pulse is a forceful pulse that **rapidly increases** and subseq
 **_Ask patient if in any pain in shoulder as going to have to move it rapidly_**
 Causes of a collapsing pulse:
 
-- [[Aortic regurgitation]]
+- [[Full/Aortic regurgitation]]
 - <span style="color:#00b0f0">Thyrotoxicosis</span>
-- [[full/Anaemia]]
-- [[Pregnancy]]
+- [[Full/Anaemia]]
+- [[Full/Pregnancy]]
 - <span style="color:#00b0f0">AV fistula</span>
 
 ##### Blood Pressure
@@ -105,7 +105,7 @@ In a cardiovascular examination OSCE station, you are **unlikely** to have to 
 
 - <span style="color:#ff0000"> Blue lips</span> - peripheral cyanosis
 - <span style="color:#ff0000">Blue under the tongue </span>- central cyanosis - <span style="color:#00b0f0">hypoxaemia</span> - possible shunt?
-- <span style="color:#ff0000">General dental hygiene</span> - [[full/Endocarditis]]
+- <span style="color:#ff0000">General dental hygiene</span> - [[Full/Endocarditis]]
 - <span style="color:#ff0000"> Angular stomatitis</span> - <span style="color:#00b0f0">anaemia</span><span style="color:#00b0f0"> </span>
 - <span style="color:#ff0000">High-arched palate</span> - [[Marfan's syndrome]]
 
@@ -136,7 +136,7 @@ If no bruits were identified, proceed to **carotid pulse palpation**:
 
 ##### Jugular Venous Pressure
 
-Indirect measure of <span style="color:#ff0000">central venous pressure</span> (IJV connects to right atrium without any valves). <span style="color:#00b0f0">Causes include Right</span> [[Heart Failure]], [[Tricuspid regurgitation]]<span style="color:#00b0f0"> and constrictive</span> [[Pericarditis]]
+Indirect measure of <span style="color:#ff0000">central venous pressure</span> (IJV connects to right atrium without any valves). <span style="color:#00b0f0">Causes include Right</span> [[Full/Heart Failure]], [[Full/Tricuspid regurgitation]]<span style="color:#00b0f0"> and constrictive</span> [[Pearls/Pericarditis]]
 
 1. Position the patient in a semi-recumbent position (at 45°).
 2. Ask the patient to turn their head slightly to the left
@@ -150,7 +150,7 @@ The hepatojugular reflux test involves the application of pressure to the liver 
 - In healthy individuals, this rise should last **no longer than 1-2 cardiac cycles** (it should then fall).
 - If the rise in JVP is **sustained** and **equal to or greater than 4cm** this is deemed a **positive result**.
 
-A **positive hepatojugular reflux result** suggests the **right ventricle is unable to accommodate an increased venous return**, but it is **not diagnostic** of any specific condition. Constrictive [[pericarditis]], right and left ventricular failure and restrictive [[cardiomyopathy]] can cause a positive result
+A **positive hepatojugular reflux result** suggests the **right ventricle is unable to accommodate an increased venous return**, but it is **not diagnostic** of any specific condition. Constrictive [[Pearls/Pericarditis]], right and left ventricular failure and restrictive [[cardiomyopathy]] can cause a positive result
 
 ## Chest
 
@@ -195,11 +195,11 @@ You should assess for a thrill across **each of the heart valves** in turn
 
 ##### Accentuation Manoeuvres
 
-- **[[Aortic Stenosis]]** - auscultate the **carotid** **arteries** using the <span style="color:#ff0000">diaphragm</span> of the stethoscope whilst the patient holds their breath to listen for radiation of an **ejection systolic murmur**
+- **[[Full/Aortic Stenosis]]** - auscultate the **carotid** **arteries** using the <span style="color:#ff0000">diaphragm</span> of the stethoscope whilst the patient holds their breath to listen for radiation of an **ejection systolic murmur**
 
   ![[z_attachments/Aortic Stenosis normal speed.mp3]]
 
-- **[[Aortic regurgitation]]** - sit the patient forwards and auscultate over the **aortic** **area** with the <span style="color:#ff0000">diaphragm</span> of the stethoscope during **expiration** to listen for an **early diastolic murmur**
+- **[[Full/Aortic regurgitation]]** - sit the patient forwards and auscultate over the **aortic** **area** with the <span style="color:#ff0000">diaphragm</span> of the stethoscope during **expiration** to listen for an **early diastolic murmur**
 
   ![[z_attachments/Aortic Regurgitation normal speed.mp3|Aortic Regurgitation normal speed]]
 
@@ -224,7 +224,7 @@ You should assess for a thrill across **each of the heart valves** in turn
 Auscultate the lung fields posteriorly:
 
 - <span style="color:#ff0000">Coarse crackles </span>-> [[pulmonary oedema]]
-- <span style="color:#ff0000">Absent air entry and stony dullness on percussion</span> -> [[full/Pleural Effusion]]
+- <span style="color:#ff0000">Absent air entry and stony dullness on percussion</span> -> [[Full/Pleural Effusion]]
 
 ##### Sacral Oedema
 
@@ -262,7 +262,7 @@ Inspect and palpate the sacrum for evidence of pitting oedema.
 
 - Measure BP - lying and standing
 - Peripheral vascular examination
-- 12 lead ECG - look for evidence of [[Arrhythmias]]
-- Dipstick urine - proteinuria or haematuria associated with [[Essential hypertension]]
+- 12 lead ECG - look for evidence of [[Full/Arrhythmias]]
+- Dipstick urine - proteinuria or haematuria associated with [[Full/Essential hypertension]]
 - Capillary blood glucose - checking for DM
-- Fundoscopy - concerns about malignant [[Essential hypertension]]
+- Fundoscopy - concerns about malignant [[Full/Essential hypertension]]

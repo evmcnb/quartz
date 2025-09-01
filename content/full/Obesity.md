@@ -37,39 +37,39 @@ Obesity is a chronic condition characterized by the accumulation of excess body 
 
 #### **Cardiovascular Disease:**
 
-- Increased risk of [[Coronary Artery Disease|Ischemic Heart Disease]] and [[Stroke]]
+- Increased risk of [[Full/Coronary Artery Disease|Ischemic Heart Disease]] and [[Full/Stroke]]
 - Elevated blood pressure and atherosclerosis.
 - Strain on the cardiovascular system.
 
-#### **Type 2 [[Diabetes Mellitus]]:**
+#### **Type 2 [[Full/Diabetes Mellitus]]:**
 
-- Major risk factor for [[snippets/Insulin|Insulin]] resistance and diabetes.
+- Major risk factor for [[Pearls/Insulin|Insulin]] resistance and diabetes.
 - Elevated blood sugar levels.
 
 #### **Joint Problems:**
     
-- Excess weight contributes to [[Osteoarthritis]].
+- Excess weight contributes to [[Full/Osteoarthritis]].
 - Joint pain and decreased mobility.
 
 #### **Respiratory Issues:**
 
-- Increased risk of sleep apnea and [[full/asthma]].
+- Increased risk of sleep apnea and [[Full/asthma]].
 - Fat accumulation around the neck and throat narrows airways.
 
 #### **Liver Disease:**
     
-- [[Non-alcoholic Fatty Liver Disease]] (NAFLD) is common.
-- Fat accumulation leads to liver inflammation and potential [[Liver Cirrhosis]].
+- [[Full/Non-alcoholic Fatty Liver Disease]] (NAFLD) is common.
+- Fat accumulation leads to liver inflammation and potential [[Full/Liver Cirrhosis]].
 
 #### **Psychosocial Impact:**
 
 - Discrimination and social stigmatization.
-- Lower self-esteem, [[Depression]], and anxiety.
+- Lower self-esteem, [[Full/Depression]], and anxiety.
 
 #### **Reproductive Issues:**
 
 - Irregular menstrual cycles, fertility issues in women.
-- Increased risk of complications during [[Pregnancy]].
+- Increased risk of complications during [[Full/Pregnancy]].
 
 #### **Certain Cancers:**
 

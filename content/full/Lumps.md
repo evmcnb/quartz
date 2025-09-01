@@ -86,7 +86,7 @@ If a lump is intradermal you cannot draw the skin over it, while if the lump is 
 #### Solar (actinic) keratosis 
 - Sun-exposed skin sites
 - Crumbly, yellow-white crusts
-- Malignant change to [[Squamous cell carcinoma]] may occur after several years
+- Malignant change to [[Full/Squamous cell carcinoma]] may occur after several years
 - Cryotherapy, fluorouracil, imiquimod
 
 ![[z_attachments/Pasted image 20231110132625.png|350]]
@@ -95,7 +95,7 @@ If a lump is intradermal you cannot draw the skin over it, while if the lump is 
 
 - Looks scary but benign skin growth
 - Look waxy or scaly and slightly raised. They appear gradually, usually on the face, neck, chest or back.
-- Usually appear in numbers rather than a single lesion like in [[Melanoma]]
+- Usually appear in numbers rather than a single lesion like in [[Full/Melanoma]]
 
 ![[z_attachments/Pasted image 20231110132226.png|293]]
 
@@ -169,7 +169,7 @@ If a lump is intradermal you cannot draw the skin over it, while if the lump is 
 
 - Irregular hypertrophy of vascularised collagen forming rainsed edges at sites of previous scars that extend outside the scar
 - Common in dark skin 
-- Treatment can be difficult - intralesional steroid [[Injections]] 
+- Treatment can be difficult - intralesional steroid [[Full/Injections]] 
 
 ![[z_attachments/Pasted image 20231110131642.png|375]]
 
@@ -177,6 +177,6 @@ If a lump is intradermal you cannot draw the skin over it, while if the lump is 
 ## Keratoacanthomas
 
 - Fast-growing benign, self-limitting papule plugged with keratin
-- May be confused with [[Squamous cell carcinoma]]
+- May be confused with [[Full/Squamous cell carcinoma]]
 
 ![[z_attachments/Pasted image 20231110132935.png|475]]

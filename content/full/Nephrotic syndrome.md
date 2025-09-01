@@ -16,18 +16,18 @@ GBM has negative charge to repel proteins
 
 ## Causes/Factors
 
-- **[[Minimal change disease]]** - most common cause in children. Usually idiopathic and treated with steroids
+- **[[Full/Minimal change disease]]** - most common cause in children. Usually idiopathic and treated with steroids
 - Membranous nephropathy - most common cause in adults
 - Focal Segmental Glomerulosclerosis - most common cause in adults
-- [[Diabetes Mellitus]]
-- [[full/Systemic Lupus Erythematosus]]
+- [[Full/Diabetes Mellitus]]
+- [[Full/Systemic Lupus Erythematosus]]
 - Amyloid
 
-- [[HIV]], HEP B&C, malaria
+- [[Full/HIV]], HEP B&C, malaria
 - NSAIDs
 
 > [!tip]
-> [[Minimal change disease]] often comes up in exams. If there's a 2-5 year old child with oedema proteinuria and low albumin the diagnosis is likely nephrotic syndrome. 
+> [[Full/Minimal change disease]] often comes up in exams. If there's a 2-5 year old child with oedema proteinuria and low albumin the diagnosis is likely nephrotic syndrome. 
 
 ## Symptoms
 
@@ -58,7 +58,7 @@ Specific
 - Steroids
 - Cyclophosphamide, tacrolimus
 
-- Loop diuretics [[snippets/Furosemide|Furosemide]]
+- Loop diuretics [[Pearls/Furosemide|Furosemide]]
 - BP control - ACEi
 - Hypercholesterolaemia - statins
 - Thrombo-prophylaxis - herparin
@@ -69,6 +69,6 @@ Specific
 - High blood cholesterol and elevated blood triglycerides - live makes more albumin along with cholesterol and triglycerides
 - Poor nutrition - loss of blood protein
 - High BP
-- [[Acute Kidney Injury]]
-- [[Chronic Kidney Disease]]
+- [[Full/Acute Kidney Injury]]
+- [[Full/Chronic Kidney Disease]]
 - Infections

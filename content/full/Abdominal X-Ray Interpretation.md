@@ -119,4 +119,4 @@ Features on XR include:
 
 ![|400](https://geekymedics.com/wp-content/uploads/2016/05/AXR-Toxic-Megacolon.jpg)
 
-Toxic megacolon in a patient with [[Ulcerative Colitis]]. Note the lead-pipe colon with loss of the normal haustral folds due to chronic colitis
+Toxic megacolon in a patient with [[Full/Ulcerative Colitis]]. Note the lead-pipe colon with loss of the normal haustral folds due to chronic colitis

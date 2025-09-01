@@ -14,7 +14,7 @@ IT IS NOT [[acute tubular necrosis]] (ATN) - direct epithelial damage due to tox
 
 - **Medications:** Certain medications, such as nonsteroidal anti-inflammatory drugs (NSAIDs), antibiotics, and proton pump inhibitors (PPIs), can trigger an immune response leading to inflammation.
 - **Infections:** Bacterial, viral, and fungal infections can cause tubulointerstitial nephritis.
-- **Autoimmune Disorders:** Conditions like [[full/Systemic Lupus Erythematosus]] (SLE) and [[Sjogren's syndrome]] can lead to inflammation in the kidney.
+- **Autoimmune Disorders:** Conditions like [[Full/Systemic Lupus Erythematosus]] (SLE) and [[Full/Sjogren's syndrome]] can lead to inflammation in the kidney.
 - **Toxins:** Exposure to certain toxins and heavy metals can damage kidney tubules.
 - **Idiopathic:** In some cases, the exact cause may not be identified.
 
@@ -53,6 +53,6 @@ Treatment of tubulointerstitial nephritis depends on the underlying cause:
 
 ## Complications/Red Flags
 
-- **[[Chronic Kidney Disease]]:** Prolonged inflammation can lead to kidney damage and impaired function.
-- **[[Acute Kidney Injury]]:** Sudden and severe kidney dysfunction may occur.
+- **[[Full/Chronic Kidney Disease]]:** Prolonged inflammation can lead to kidney damage and impaired function.
+- **[[Full/Acute Kidney Injury]]:** Sudden and severe kidney dysfunction may occur.
 - **Recurrence:** Tubulointerstitial nephritis can recur if underlying causes are not adequately addressed.

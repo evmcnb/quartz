@@ -7,7 +7,7 @@ date modified: 2024-03-11
 date: 2024-01-14
 ---
 
-Contact dermatitis is a skin condition characterized by inflammation resulting from direct skin contact with an irritant or allergen. It presents as red, itchy [[snippets/Rashes|Rashes]] and can be classified into irritant contact dermatitis (ICD) and allergic contact dermatitis (ACD).
+Contact dermatitis is a skin condition characterized by inflammation resulting from direct skin contact with an irritant or allergen. It presents as red, itchy [[Pearls/Rashes|Rashes]] and can be classified into irritant contact dermatitis (ICD) and allergic contact dermatitis (ACD).
 
 ![[z_attachments/Pasted image 20240102153642.png|250]]
 

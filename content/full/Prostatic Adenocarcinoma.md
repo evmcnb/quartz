@@ -35,7 +35,7 @@ Risk of cancer $\approx$ age
 
 ##### Effects of Distant Metastases
 
-- [[snippets/Bone|Bone]] - check calcium
+- [[Pearls/Bone|Bone]] - check calcium
 
 ##### Paraneoplastic Syndromes
 
@@ -62,9 +62,9 @@ Rare
 - Loss of central sulcus
 - May be hard nodule
 
-- **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate prostate issues). See [[full/Benign Prostatic Hyperplasia#^a09e56|here]] for details
+- **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate prostate issues). See [[Full/Benign Prostatic Hyperplasia#^a09e56|here]] for details
 - **Biopsy:** Removal and examination of a tissue sample to confirm cancer.
-- **Imaging:** MRI, CT, or [[snippets/Bone|Bone]] scans to determine cancer spread (if applicable).
+- **Imaging:** MRI, CT, or [[Pearls/Bone|Bone]] scans to determine cancer spread (if applicable).
 
 ## Management
 

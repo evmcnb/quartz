@@ -6,7 +6,7 @@ date modified: 2024-03-11
 date: 2023-09-18
 ---
 
-Pinna [[Cellulitis]] is a bacterial skin infection affecting the external part of the ear, known as the pinna or auricle. Associated with trauma (ear piercing & acupuncture) surgery or burns
+Pinna [[Full/Cellulitis]] is a bacterial skin infection affecting the external part of the ear, known as the pinna or auricle. Associated with trauma (ear piercing & acupuncture) surgery or burns
 
 [[Perichondritis]] - complicated on high ear piercing
 
@@ -25,13 +25,13 @@ Pinna [[Cellulitis]] is a bacterial skin infection affecting the external part o
 
 ## Management
 
-1. **Antibiotics:** [[snippets/Ciprofloxacin|Ciprofloxacin]] + flucloxacillin (or vancomycin if penicillin allergy). Oral or topical.
+1. **Antibiotics:** [[Pearls/Ciprofloxacin|Ciprofloxacin]] + flucloxacillin (or vancomycin if penicillin allergy). Oral or topical.
 2. **Pain Relief:** Over-the-counter pain relievers to manage discomfort.
 3. **Warm Compress:** Applying a warm, moist cloth to the affected area can help reduce pain and promote healing.
 4. **Hygiene:** Keeping the area clean and dry to prevent further infection.
 
 ## Complications/red Flags
 
-- **Spread of Infection:** If left untreated, [[Cellulitis]] can spread to nearby tissues.
+- **Spread of Infection:** If left untreated, [[Full/Cellulitis]] can spread to nearby tissues.
 - **Abscess Formation:** Collection of pus may require drainage.
-- **Systemic Infection:** Rarely, severe infections can lead to bloodstream infection ([[Sepsis]]).
+- **Systemic Infection:** Rarely, severe infections can lead to bloodstream infection ([[Full/Sepsis]]).

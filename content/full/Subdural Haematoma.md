@@ -7,7 +7,7 @@ date created: Wednesday, October 4th 2023, 3:33:55 pm
 date modified: 2024-03-11
 date: 2023-10-05
 ---
-Very treatable condition in those whose conscious level fluctuates and in those having an "evolving [[Stroke]]"
+Very treatable condition in those whose conscious level fluctuates and in those having an "evolving [[Full/Stroke]]"
 
 Bleeding is from bridging veins between the cortex and venous sinuses that are burst usually due to injury
 
@@ -19,7 +19,7 @@ The primary cause of Subdural Hematoma is head trauma, but it can also occur spo
 - **Head Injury:** Falls, vehicle accidents, and blows to the head.
 - **Age:** Older adults are more prone to SDH due to brain atrophy and thinner blood vessels.
 - **Alcohol and Drug Use:** Substance abuse can increase the risk of trauma and falls.
-- **Blood-Thinning Medications:** Medications like [[snippets/Anticoagulants|Anticoagulants]] and antiplatelet drugs can increase the risk of bleeding.
+- **Blood-Thinning Medications:** Medications like [[Pearls/Anticoagulants|Anticoagulants]] and antiplatelet drugs can increase the risk of bleeding.
 
 ## Symptoms
 

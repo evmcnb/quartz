@@ -13,14 +13,14 @@ Typically sensory change that is a symmetrical glove and stocking loss to all mo
 In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the weakness may be proximal and thus stimulates myopathic disease
 
 **Axonal degeneration** - most common pathology
-- Systemic, metabolic, toxic and [[Nutritional disorders]]
+- Systemic, metabolic, toxic and [[Full/Nutritional disorders]]
 - Damaged axons degenerate distally 
 - Predilection for large diameter and long fibres
 - EMG records show fibrillation potentials
 - Within a week nerve becomes electrically inert
 
 **Segmental demyelination** - destruction of the myelin sheath leaving the axon intact 
-- Slowing of nerve conduction - inflammatory process [[full/Multiple Sclerosis]]
+- Slowing of nerve conduction - inflammatory process [[Full/Multiple Sclerosis]]
 - Electrophysiological studies helpful to differentiating 
 
 **Neuronopathies** - cell bodies of axons anterior horn cells or dorsal root ganglia are primarily affected 
@@ -34,7 +34,7 @@ In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the we
 - [[Diphtheria]]
 - Malignancy
 - Critical illness polyneuropathy
-- [[Diabetes Mellitus]], uraemia (rarely)  
+- [[Full/Diabetes Mellitus]], uraemia (rarely)  
   
 **Predominantly motor:**
 - Guillain-Barre syndrome
@@ -46,21 +46,21 @@ In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the we
 
 **Predominantly sensory:**
 - Leprosy Diabetes (distal sensory polyneuropathy)
-- Vitamin B12 or thiamine deficiency ([[Nutritional disorders]])
+- Vitamin B12 or thiamine deficiency ([[Full/Nutritional disorders]])
 - Malignancy
 - Hereditary sensory and autonomic neuropathy
-- Primary of familial [[Amyloidosis]]
+- Primary of familial [[Pearls/Amyloidosis]]
 - Uraemia
 - [[Lyme disease]]
-- [[Sjogren's syndrome]]
+- [[Full/Sjogren's syndrome]]
 
 **Radicular:**
 - Diabetic truncal neuropathy
 - Lyme disease
-- [[Sjogren's syndrome]]  
+- [[Full/Sjogren's syndrome]]  
 
 **Painful neuropathies:**
-- Alcohol, [[Nutritional disorders]]
+- Alcohol, [[Full/Nutritional disorders]]
 - Diabetes (acute painful neuropathy)
 - Hereditary sensory and autonomic neuropathy (HSAN type 1)
 - Arsenic

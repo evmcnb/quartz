@@ -16,16 +16,16 @@ Where a blood clot forms in a deep vein usually due to pooling of that blood due
   - Hypercoagulability
 
 - Age
-- Genetic ([[Factor V Leiden]])
-- [[Pregnancy]]
-- $\uparrow$ Oestrogen levels ([[snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]])
+- Genetic ([[Pearls/Factor V leiden]])
+- [[Full/Pregnancy]]
+- $\uparrow$ Oestrogen levels ([[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]])
 - Trauma/surgery
 - Cancer
 - past DVT
 - smoking
-- [[Essential hypertension|Hypertension]] (sheering force on vessels)
-- [[Diabetes Mellitus]]
-- [[Obesity]]
+- [[Full/Essential hypertension|Hypertension]] (sheering force on vessels)
+- [[Full/Diabetes Mellitus]]
+- [[Full/Obesity]]
 
 ## Symptoms
 
@@ -54,7 +54,7 @@ Physical exam generally unreliable as similar to dermatitis
 
 - Immediate: Treatment dose apixaban or rivaroxaban or LMWH
 
-Continue anti-coagulation (1st DOAC, [[snippets/Warfarin|Warfarin]] for those with [[Antiphospholipid syndrome]], LMWH in [[Pregnancy]]) for: 
+Continue anti-coagulation (1st DOAC, [[Pearls/Warfarin|Warfarin]] for those with [[Antiphospholipid syndrome]], LMWH in [[Full/Pregnancy]]) for: 
 - 3 months if the DVT was provoked 
 - 6 months if unprovoked or irreversible underlying cause
 
@@ -64,4 +64,4 @@ Continue anti-coagulation (1st DOAC, [[snippets/Warfarin|Warfarin]] for those wi
 
 ## Complications/red Flags
 
-- [[pulmonary embolism]]
+- [[Full/pulmonary embolism]]

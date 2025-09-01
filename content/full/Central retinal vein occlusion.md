@@ -11,7 +11,7 @@ date modified: 2024-04-21
 - Increasing age
 - HTN
 - hyperlipidaemia
-- [[Diabetes Mellitus]]
+- [[Full/Diabetes Mellitus]]
 - high IOP
 
 ## Symptoms

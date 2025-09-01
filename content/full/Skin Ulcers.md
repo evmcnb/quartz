@@ -20,7 +20,7 @@ Erosion - loss of area of epidermis
 |                       |                             | malleolus.                   |
 | Etiology               | Result from venous            | Caused by poor arterial      |
 |                       | insufficiency, often due to  | blood supply, often due to  |
-|                       | [[Varicose veins]] or deep vein   | atherosclerosis, embolism,  |
+|                       | [[Full/Varicose veins]] or deep vein   | atherosclerosis, embolism,  |
 |                       | thrombosis.                   | or thrombosis.              |
 | Wound Appearance       | Shallow, irregularly shaped   | Deep, well-defined borders   |
 |                       | with a weepy, exudative base. | and minimal exudate.        |
@@ -61,8 +61,8 @@ Other 10%
 
 Rarer causes
 
-- Neuropathic - [[peripheral neuropathy]] <- [[Diabetes Mellitus]]
-- Inflammatory - [[pyoderma gangrenosum]]
+- Neuropathic - [[Full/peripheral neuropathy]] <- [[Full/Diabetes Mellitus]]
+- Inflammatory - [[Full/pyoderma gangrenosum]]
 - Malignant - SCC, BCC, lymphoma
 - Vascular - [[vasculitis]]
 - Iatrogenic - pressure sores, drugs (warfarin necrosis)
@@ -77,14 +77,14 @@ Venous - impaired blood flow in the veins (typically of the legs)
 - middle aged elderly women
 - valvular incompetence
 - previous damage to venous system
-- [[Obesity]], immobility -> poor muscle contraction -> venous pooling
+- [[Full/Obesity]], immobility -> poor muscle contraction -> venous pooling
 
 - high BP
 - multiple pregnancies
 
 Arterial - poor arterial blood supply to affected area, usually very distal
 
-- associated with [[peripheral vascular disease]]
+- associated with [[Full/peripheral vascular disease]]
 - smoking
 - hyperlipidemia
 - hypercholesterolemia
@@ -95,7 +95,7 @@ Venous - smooth sloping border, superficial, ill defined border
 
 - Venous flare
 - Lipodermatosclerosis
-- [[Varicose veins]]
+- [[Full/Varicose veins]]
 - Varicose eczema
 - Atrophie blanche
 

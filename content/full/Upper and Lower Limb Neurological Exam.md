@@ -42,9 +42,9 @@ Tests to only do for <span style="color:#00b0f0">upper limb will appear blue</sp
 #### Clinical Signs
 
 **<span style="font-weight:bold; color:#00b050">Watch gait as they walk in/ask them to walk</span>**
-- <span style="color:#ff0000">Stance</span> - ataxic gait -> <span style="color:#00b0f0">midline cerebellar pathology</span>: [[full/Multiple Sclerosis|MS]], chronic alcohol exces
+- <span style="color:#ff0000">Stance</span> - ataxic gait -> <span style="color:#00b0f0">midline cerebellar pathology</span>: [[Full/Multiple Sclerosis|MS]], chronic alcohol exces
 - <span style="color:#ff0000">Stability</span> - staggering, slow, unsteady. Patients will lean towards the side of the <span style="color:#00b0f0">cerebellar lesion</span>
-- <span style="color:#ff0000">Arm swing</span> - often absent or reduced in [[Parkinson's disease]]
+- <span style="color:#ff0000">Arm swing</span> - often absent or reduced in [[Full/Parkinson's disease]]
 - <span style="color:#ff0000">Steps</span> - small, shuffling steps -> <span style="color:#00b0f0">Parkinsonian gait</span>
 - <span style="color:#ff0000">Turning</span> - patients with <span style="color:#00b0f0">cerebellar disease</span> will find this difficult
 
@@ -88,7 +88,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 3. Move all the muscle groups in all directions
 4. Feel for abnormalities of tone
 
-<span style="color:#00b0f0">Spasticity is associated with pyramidal tract lesions</span> ([[Stroke]]) and <span style="color:#00b0f0">rigidity extrapyramidal lesions</span>
+<span style="color:#00b0f0">Spasticity is associated with pyramidal tract lesions</span> ([[Full/Stroke]]) and <span style="color:#00b0f0">rigidity extrapyramidal lesions</span>
 
 > [!FAQ] Velocity in tone
 > Spasticity is velocity dependent - the fast the movement the worse it is
@@ -97,12 +97,12 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 
 <span style="color:#00b0f0">The two main type of rigidity are:</span>
 
-- <span style="color:#ff0000">Cogwheel rigidity</span> - intermittent increase in tone during movement of the limb.<span style="color:#00b0f0"> Due to a tremor + hypertonia</span>. Associated with [[Parkinson's disease]]
+- <span style="color:#ff0000">Cogwheel rigidity</span> - intermittent increase in tone during movement of the limb.<span style="color:#00b0f0"> Due to a tremor + hypertonia</span>. Associated with [[Full/Parkinson's disease]]
 - <span style="color:#ff0000">Lead pipe rigidity</span> -<span style="color:#00b0f0"> uniformly increased tone throughout the movement of the muscle</span>. Associated with <span style="color:#00b0f0">neuroleptic malignant syndrome </span>
 
 #### <span style="color:#00b050">Ankle clonus</span>
 
-<span style="color:#ff0000">Involuntary rhythmic muscular contractions associated with UMN lesions</span> of descending pathways ([[Stroke]], [[full/Multiple Sclerosis|MS]], [[cerebral palsy]]). Up to 5 "beats" could be considered normal.
+<span style="color:#ff0000">Involuntary rhythmic muscular contractions associated with UMN lesions</span> of descending pathways ([[Full/Stroke]], [[Full/Multiple Sclerosis|MS]], [[cerebral palsy]]). Up to 5 "beats" could be considered normal.
 
 1. Position the patient's leg so that the knee and ankle are slightly flexed, supporting the leg with your hand under their knee
 2. Rapidly dorsiflex and partially evert the foot to stretch the gastrocnemius muscle
@@ -110,7 +110,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 
 ## Power
 
-1. Assess the power by stabilising and isolating the relevant joint for each assessment. Find the list [[Myotomes and Dermatomes|here]] for each movement
+1. Assess the power by stabilising and isolating the relevant joint for each assessment. Find the list [[Full/Myotomes and Dermatomes|here]] for each movement
 2. You must compare **both** sides at the same time.
 3. As the patient to resist the force that you apply to the joint. **Always** ensure that the force you apply is proportional to the joint - eg to test finger extension use your fingers to resist.
 4. Communicate clear instructions for each stage of the assessment.
@@ -125,7 +125,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 | 4     | Active movement against gravity and resistance |
 | 5     | Normal power                                   |
 
-It's important to know the [[Myotomes and Dermatomes]] and the spinal level associated with each movement.
+It's important to know the [[Full/Myotomes and Dermatomes]] and the spinal level associated with each movement.
 
 > [!FAQ] Might be useful to know...
 >
@@ -255,12 +255,12 @@ Weakness from an UMN lesion can also produce apparent loss of coordination
 
 **Mononeuropathies** result in a localised sensory disturbance in the area supplied by the damaged nerve.
 
-**[[peripheral neuropathy]]** typically causes symmetrical sensory deficits in a ‘glove and stocking’ distribution in the peripheral limbs. The most common causes of [[peripheral neuropathy]] are [[Diabetes Mellitus]] and chronic alcohol excess ([[B12 deficiency]]).
+**[[Full/peripheral neuropathy]]** typically causes symmetrical sensory deficits in a ‘glove and stocking’ distribution in the peripheral limbs. The most common causes of [[Full/peripheral neuropathy]] are [[Full/Diabetes Mellitus]] and chronic alcohol excess ([[B12 deficiency]]).
 
 **Radiculopathy** occurs due to nerve root damage (e.g. compression by a herniated intervertebral disc), resulting in sensory disturbances in the associated dermatomes.
 
 **Spinal cord damage** results in sensory loss both at and below the level of involvement in a dermatomal pattern due to its impact on the sensory tracts running through the cord.
 
-**Thalamic lesions** (e.g. [[Stroke]]) result in contralateral sensory loss.
+**Thalamic lesions** (e.g. [[Full/Stroke]]) result in contralateral sensory loss.
 
 **Myopathies** often involve symmetrical proximal muscle weakness.

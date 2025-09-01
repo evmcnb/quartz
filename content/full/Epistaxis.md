@@ -17,10 +17,10 @@ Local
 - Topical drugs (corticosteroids)
 - Surgery
 - Vascular issues (hereditary haemorrhagic telangiectasia, [[Granulomatosis with polyangiitis]])
-- Tumours ([[Squamous cell carcinoma]])
+- Tumours ([[Full/Squamous cell carcinoma]])
 
 General
-- [[Essential hypertension|hypertension]]
+- [[Full/Essential hypertension|hypertension]]
 - Atherosclerosis
 - Increased venous pressure from mitral stenosis 
 - Haematological disorders 
@@ -37,7 +37,7 @@ General
 
 ## Investigations
 
-- FBC - if bleeding heavy or recurrent or [[snippets/Anaemia|Anaemia]] is supsected
+- FBC - if bleeding heavy or recurrent or [[Pearls/Anaemia|Anaemia]] is supsected
 - Coag - if clotting disorder is suspected
 
 
@@ -70,4 +70,4 @@ Recurrent epistaxis:
 
 ## Complications/red Flags
 - Hypovolaemia 
-- [[snippets/Anaemia|Anaemia]]
+- [[Pearls/Anaemia|Anaemia]]

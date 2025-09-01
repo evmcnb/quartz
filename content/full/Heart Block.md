@@ -22,19 +22,19 @@ Disrupted passage of electrical impulse through the AVN
 
 ## Causes/Factors
 
-- 1st and 2nd Mobitz I may be normal and asymptomatic in athletes or due to $\beta$ blockers or [[snippets/Digoxin|Digoxin]].
+- 1st and 2nd Mobitz I may be normal and asymptomatic in athletes or due to $\beta$ blockers or [[Pearls/Digoxin|Digoxin]].
 - May also be [[sick sinus syndrome]]
   3rd degree:
-- [[Coronary Artery Disease]]
+- [[Full/Coronary Artery Disease]]
 - [[Aortic Valve Calcification]]
 - [[Idiopathic Fibrosis]]
-- [[snippets/Digoxin|Digoxin]] toxicity
+- [[Pearls/Digoxin|Digoxin]] toxicity
 
 ## Symptoms
 
 - Light-headedness, pre-syncope/syncope
-- Chest pain (esp. with co-existent [[Coronary Artery Disease]])
-- Signs of [[Heart Failure]]
+- Chest pain (esp. with co-existent [[Full/Coronary Artery Disease]])
+- Signs of [[Full/Heart Failure]]
 
 ## Signs
 

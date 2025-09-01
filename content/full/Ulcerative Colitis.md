@@ -6,7 +6,7 @@ date modified: 2024-03-11
 date: 2023-09-18
 ---
 
-The inflammatory bowel diseases (IBD), ulcerative colitis and [[Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.
+The inflammatory bowel diseases (IBD), ulcerative colitis and [[Full/Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.
 
 Can only effect colon - "never" past ileocaecal value
 ![|650](z_attachments/650-1.png)
@@ -16,7 +16,7 @@ The severity of UC is usually classified as being mild, moderate or severe:
 
 - mild: < 4 stools/day, only a small amount of blood
 - moderate: 4-6 stools/day, varying amounts of blood, no systemic upset
-- severe: >6 bloody stools per day + features of systemic upset (pyrexia, tachycardia, [[snippets/Anaemia|Anaemia]], raised inflammatory markers)
+- severe: >6 bloody stools per day + features of systemic upset (pyrexia, tachycardia, [[Pearls/Anaemia|Anaemia]], raised inflammatory markers)
 
 ## Causes/Factors
 
@@ -38,10 +38,10 @@ Inappropriate immune response against (?abnormal) colonic flora in genetically s
 
 Extraintestinal signs:
 
-- [[clubbing]]
+- [[Full/clubbing]]
 - Aphthous oral ulcers
-- [[erythema nodosum]]
-- [[pyoderma gangrenosum]]
+- [[Full/erythema nodosum]]
+- [[Full/pyoderma gangrenosum]]
 - episcleritis
 - large joint arthritis
 - ankylosing spondylitis
@@ -50,7 +50,7 @@ Extraintestinal signs:
 ## Diagnostic Tests
 
 - Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
-- Blood tests for inflammatory markers/[[snippets/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
+- Blood tests for inflammatory markers/[[Pearls/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
 - Full colonoscopy or sigmoidoscopy -> biopsy
 - AXR - no feacal shadows, mucosal thickening/islands
 

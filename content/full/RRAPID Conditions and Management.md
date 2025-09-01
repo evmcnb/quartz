@@ -4,8 +4,10 @@ tags:
   - OSCE
 title: RRAPID Conditions and Management
 date: 2024-04-27
-date modified: 2024-04-27
+date modified: Saturday, August 30th 2025, 10:54:15 am
+date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
+
 >[!tldr] SAMPLE History Whilst Assessing Airway
 >- **S**igns and symptoms
 >- **A**llergies
@@ -16,14 +18,14 @@ date modified: 2024-04-27
 
 
 
-### [[Acute Coronary Syndrome]]
+### [[Full/Acute Coronary Syndrome]]
 - Don't forget troponin
 
 #### Chest Pain DDX
 
 **4-2-1 Rule for Emergent Conditions**: 
-- 4 chambers of the heart - [[Acute Coronary Syndrome]], [[Aortic Dissection]], [[Pericarditis]], [[Pericardial Effusion]]
-- 2 lungs - [[pulmonary embolism]], [[full/pneumothorax|Pneumothorax]]
+- 4 chambers of the heart - [[Full/Acute Coronary Syndrome]], [[Aortic Dissection]], [[Pearls/Pericarditis]], [[Pericardial Effusion]]
+- 2 lungs - [[Full/pulmonary embolism]], [[Full/pneumothorax|Pneumothorax]]
 - 1 oesophagus - [[Oesophageal Perforation]]
 
 #### STEMI
@@ -46,7 +48,7 @@ date modified: 2024-04-27
 2. Low Bleeding Risk: Ticagrelor + Aspirin  
 	Higher Bleeding Risk: Clopidogrel + Aspirin
 
-### Exacerbation of [[Heart Failure]]
+### Exacerbation of [[Full/Heart Failure]]
 
 Acute problems caused by [[pulmonary oedema]]
 - Troponin and BNP 
@@ -54,7 +56,7 @@ Acute problems caused by [[pulmonary oedema]]
 - **Do not offer**: nitrates or opiates 
 - Conside CPAP
 
-### Exacerbation of [[COPD]]
+### Exacerbation of [[Full/COPD]]
 
 *H. influenzae* most common organism. 
 
@@ -64,7 +66,7 @@ Acute problems caused by [[pulmonary oedema]]
 - 40mg oral pred or IV hydrocortosone 100mg. 
 - IV theophylline may be considered. 
 
-### [[Acute Kidney Injury]]
+### [[Full/Acute Kidney Injury]]
 
 **STOP AKI**
 - Sepsis - complete 6 if suspected cause of AKI
@@ -75,7 +77,7 @@ Acute problems caused by [[pulmonary oedema]]
 Monitor fluid balance
 
 
-### [[full/asthma|Asthma]]
+### [[Full/asthma|Asthma]]
 - <33% of predicted or best, < 92% ORA < 8kPa $PaO_2$ $\rightarrow$ life PEFR life-threatening. 
 - Confusion automatically means life threatening. 
 - Raised $PaCO_2$ is **near fatal**
@@ -117,7 +119,7 @@ IM adrenaline - 1:1000 repeat every 5 minutes
 | Children (6-12) | 300 micrograms |
 | Children (<6)   | 150 micrograms |
 
-### [[Arrhythmias]]
+### [[Full/Arrhythmias]]
 
 Only if things are "adverse"
 #### Bradycardias
@@ -163,8 +165,8 @@ Reversible causes of cardiac arrest:
 
 | The 'Hs'                                                                                                                                             | The 'Ts'                                                                                            |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| - Hypoxia<br>- Hypovolaemia<br>- [[snippets/Hyperkalaemia|Hyperkalaemia]], hypokalaemia, [[Hypoglycaemia]], [[snippets/Hypocalcaemia|Hypocalcaemia]], acidaemia and other metabolic disorders<br>- Hypothermia | - Thrombosis (coronary or pulmonary)<br>- Tension pneumothorax<br>- Tamponade - cardiac<br>- Toxins |
-### [[Delirium]]
+| - Hypoxia<br>- Hypovolaemia<br>- [[snippets/Hyperkalaemia|Hyperkalaemia]], hypokalaemia, [[Full/Hypoglycaemia]], [[snippets/Hypocalcaemia|Hypocalcaemia]], acidaemia and other metabolic disorders<br>- Hypothermia | - Thrombosis (coronary or pulmonary)<br>- Tension pneumothorax<br>- Tamponade - cardiac<br>- Toxins |
+### [[Full/Delirium]]
 
 Cause:
 - **P**ain
@@ -176,15 +178,15 @@ Cause:
 - **M**edication
 - **E**nvironment/electrolytes
 
-Consider [[Sepsis]] 6
+Consider [[Full/Sepsis]] 6
 
 If a danger to themselves or others:
-- Haloperidol 1st line - contraindicated in those with prolonged QTc, ventricular arrythmias or [[Parkinson's disease]]
+- Haloperidol 1st line - contraindicated in those with prolonged QTc, ventricular arrythmias or [[Full/Parkinson's disease]]
 - Lorazepam 2nd line
 
-### [[full/Diabetic ketoacidosis]]
+### [[Full/Diabetic ketoacidosis]]
 
-Metabolic acidosis with [[snippets/Anion gap|Anion gap]]
+Metabolic acidosis with [[Pearls/Anion gap|Anion gap]]
 - Raised blood glucose >11 mmol/L
 - Capillary ketones >3 mmol/L
 - Venous pH <7.3 or bicarb <15 mmol/L
@@ -213,7 +215,7 @@ Management:
 
 ### Head Trauma
 
-- worst and first/thunderclap $\rightarrow$ [[Subarachnoid haemorrhage]].
+- worst and first/thunderclap $\rightarrow$ [[Full/Subarachnoid haemorrhage]].
 - N&V - 2 or more episodes of vomiting urgent head CT
 - Panda eye - basal skull fracture
 - Cushing's triad of signs $\rightarrow$ brain herniation 
@@ -232,7 +234,7 @@ Management:
 - ACEi
 - NSAIDs
 - Rhabdomyolysis
-- [[full/Addison's Disease]]
+- [[Full/Addison's Disease]]
 - Metabolic acidosis
 
 - Mild - K+ 5.5 - 5.9 mmol/L
@@ -249,7 +251,7 @@ All patients with severe hyperkalaemia or with ECG changes should have emergency
 - Insulin/dextrose infusion - shift potassium into cells
 - Other - salbutamol nebs 
 
-### [[full/pneumonia]]
+### [[Full/pneumonia]]
 
 **CURB-65** - one point for each
 - Confusion - AMTS $\leq$ 8 
@@ -314,20 +316,20 @@ Give sodium bicarbonate - cardioprotective + lowers amount of active form of the
 
 ![](https://d32xxyeh8kfs8k.cloudfront.net/images_Passmedicine/pdd021.png)
 
-**8-24 hours:** Calculate weight and start N-acetylcysteine if ingestion is > 150 mg/kg (or if [[snippets/Paracetamol|Paracetamol]] concentration is not available).
+**8-24 hours:** Calculate weight and start N-acetylcysteine if ingestion is > 150 mg/kg (or if [[Pearls/Paracetamol|Paracetamol]] concentration is not available).
 
 **24 hours+:** Start N-acetylcystine or any time if they are clearly jaundiced or have hepatic tenderness, their ALT is above the upper limit of normal
 
 **Unsure or staggered overdose:** Always give N-acetylcystine if unsure of the timeline or if there was more than 1 hour between taking all of the tablets
 
-### [[pulmonary embolism]]
+### [[Full/pulmonary embolism]]
 
 Calculate risk with **Well's Score**
-- Fracture of [[snippets/Lower limb|Lower limb]]
+- Fracture of [[Pearls/Lower limb|Lower limb]]
 - HF/AF
 - Surgery/trauma
 - OCP
-- [[Pregnancy]]
+- [[Full/Pregnancy]]
 etc
 
 Non-specific signs:
@@ -342,10 +344,10 @@ Management
 - <4 perform a D-dimer and if positive get a CTPA
 
 - DOAC - apixaban or rivaroxaban first line
-- LMWH main alternative (e.g. in [[snippets/Kidney Failure|Kidney Failure]] patients)
+- LMWH main alternative (e.g. in [[Pearls/Kidney Failure|Kidney Failure]] patients)
 
 
-### [[full/pneumothorax|Pneumothorax]]
+### [[Full/pneumothorax|Pneumothorax]]
 
 - Iatrogenic
 - Trauma
@@ -357,7 +359,7 @@ Management:
 - Needle decompression (large bore cannula in 4th or 5th intercostal space anterior to mid axillary line just superior to following rib - **NOT INFERIOR**)
 
 
-### [[Sepsis]]
+### [[Full/Sepsis]]
 
 - **B**lood cultures
 - **U**rine output - monitor hourly, **U**&Es, **u**rine culture
@@ -369,7 +371,7 @@ Management:
 
 ### Status Epilepticus
 
-- [[Alcoholism]]
+- [[Full/Alcoholism]]
 - Drug use
 - Hypoxic episodes
 - Space occupying lesions
@@ -385,19 +387,19 @@ Different classifications:
 
 **Management**
 - IV lorazepam 0.1mg/kg - may be repeated once after 5-10 minutes
-- If status is ongoing can give second line agent - levetiracetam, [[snippets/Phenytoin|Phenytoin]] or sodium valporate
-- Consider IV thiamine and glucose for [[Alcoholism]]
+- If status is ongoing can give second line agent - levetiracetam, [[Pearls/Phenytoin|Phenytoin]] or sodium valporate
+- Consider IV thiamine and glucose for [[Full/Alcoholism]]
 - If refractory status (45 minutes from onset) RSI with anaesthesiologist 
 
-### Ischaemic [[Stroke]]
+### Ischaemic [[Full/Stroke]]
 
-- [[snippets/Aspirin|Aspirin]] 300mg - as soon as hemorrhagic been excluded 
+- [[Pearls/Aspirin|Aspirin]] 300mg - as soon as hemorrhagic been excluded 
 - Within 4.5hr = thrombectomy + thrombolysis (alteplase)
 - Within 6-24hrs = thrombectomy only
-- Wake up [[Stroke]] (unknown) = thrombectomy only
+- Wake up [[Full/Stroke]] (unknown) = thrombectomy only
 
 Discharge medications 
-- Dual antiplatelet - 2 weeks 300mg then [[snippets/Aspirin|Aspirin]] 75mg + [[snippets/Clopidogrel|Clopidogrel]] 180mg
+- Dual antiplatelet - 2 weeks 300mg then [[Pearls/Aspirin|Aspirin]] 75mg + [[Pearls/Clopidogrel|Clopidogrel]] 180mg
 - ACE inhibitor - reduce blood pressure 
 - Beta blocker - reduce blood pressure
 - Statin 80mg

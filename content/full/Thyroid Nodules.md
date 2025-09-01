@@ -5,7 +5,7 @@ date created: Saturday, January 13th 2024, 4:56:45 pm
 date modified: 2024-03-11
 date: 2024-01-14
 ---
-Thyroid nodules are abnormal growths or [[Lumps]] that develop within the thyroid gland, which is located in the neck. While most thyroid nodules are (benign), some may require further evaluation to rule out malignancy.
+Thyroid nodules are abnormal growths or [[Full/Lumps]] that develop within the thyroid gland, which is located in the neck. While most thyroid nodules are (benign), some may require further evaluation to rule out malignancy.
 
 ### Multinodular goitre
 

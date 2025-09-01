@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Saturday, August 30th 2025, 12:07:35 pm
 date: 2024-01-31
 ---
 
@@ -21,7 +21,7 @@ Defined as when cardiac output is inadequate for the body's normal requirements.
 - Concentric hypertrophy
 
 
-![[Drawing 2025-08-11 19.44.33.excalidraw]]
+![[Excalidraw/Drawing 2025-08-11 19.44.33.excalidraw.png|500]]
 
 
 **Acute heart failure** - new-onset acute or decompensation of chronic heart failure with pulmonary and peripheral oedema without peripheral hypoperfusion
@@ -31,7 +31,7 @@ Defined as when cardiac output is inadequate for the body's normal requirements.
 **Low-output heart failure** - $\downarrow$ CO which fails to increase on exercise. Causes
 - Excessive pre-load: mitral regurgitation or fluid overload
 - Pump failure: systolic/diastolic heart failure, $\downarrow$ HR (eg $\beta$ blockers)
-- Chronic excess afterload: [[Aortic Stenosis]], [[Essential hypertension|hypertension]]
+- Chronic excess afterload: [[Full/Aortic Stenosis]], [[Full/Essential hypertension|hypertension]]
 
 **High-output heart failure** - rare, normal or increase CO with demand
 
@@ -42,15 +42,15 @@ Systolic and diastolic failure pathology often coexist
 
 Systolic:
 
-- Need to identified if its an ischemic aetiology ([[Coronary Artery Disease]], [[myocardial infarction]]) or non-ischemic (drugs, viruses, drinking, pregnancy, genetic disorders, chemotherapy, L to R shunts, [[Takotsubo cardiomyopathy]])
+- Need to identified if its an ischemic aetiology ([[Full/Coronary Artery Disease]], [[Full/myocardial infarction]]) or non-ischemic (drugs, viruses, drinking, pregnancy, genetic disorders, chemotherapy, L to R shunts, [[Takotsubo cardiomyopathy]])
 	- Patients with ischemic HF have a much higher risk for arrhythmias $\rightarrow$ lower threshold for ICD implantation
 
 Diastolic:
 
-- Long standing uncontrolled [[Essential hypertension|hypertension]]
-- Infiltrative diseases - [[Amyloidosis]], [[full/Sarcoidosis|Sarcoidosis]], [[Scleroderma]]
+- Long standing uncontrolled [[Full/Essential hypertension|hypertension]]
+- Infiltrative diseases - [[Pearls/Amyloidosis]], [[Full/Sarcoidosis|Sarcoidosis]], [[Scleroderma]]
 - Restrictive cardiomyopathies
-- Contributing diseases ([[Obesity]], [[Diabetes Mellitus]], [[COPD]], [[Chronic Kidney Disease]], [[Obstructive Sleep Apnoea]])
+- Contributing diseases ([[Full/Obesity]], [[Full/Diabetes Mellitus]], [[Full/COPD]], [[Full/Chronic Kidney Disease]], [[Full/Obstructive Sleep Apnoea]])
 ## Symptoms
 
 - Fatigue
@@ -70,12 +70,12 @@ Diastolic:
 - Echo to assess ejection fraction, ventricle dilation and valves
 - ECG
 - Bloods: NT-proBNP (N-Terminal pro-Brain Natriuretic Peptide)
-- CXR - [[Chest X-Ray Interpretation#Heart Failure|ABCDE of heart failure on CXR]]
+- CXR - [[Full/Chest X-Ray Interpretation#Heart Failure|ABCDE of heart failure on CXR]]
 
 ## Management
 
 Initial:
-- Refer to cardiology and assessment with echo, [[snippets/BNP|BNP]] 400-2000 $\rightarrow$ 6 week wait, 2000+ 2WW
+- Refer to cardiology and assessment with echo, [[Pearls/BNP|BNP]] 400-2000 $\rightarrow$ 6 week wait, 2000+ 2WW
 - Drug treatment
 - Lifestyle advice - annual flu vaccine, stop smoking, 
 
@@ -90,7 +90,7 @@ Initial:
 >Newly added but also essential:
 >- SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin. eGFR >20 to give
 
-U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause [[snippets/Hyperkalaemia|Hyperkalaemia]]
+U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause [[Pearls/Hyperkalaemia|Hyperkalaemia]]
 
 **Other mortality benefits**:
 - Iron replacement -  FAIR-HF trial if ferritin <100 or ferritin <300 & transferrin sat <20%

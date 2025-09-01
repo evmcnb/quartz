@@ -25,7 +25,7 @@ Ischemia can lead to haemorrhagic (haemorrhagic transformation of ischemic strok
 ^095aff
 
 Small vessel occlusion/cerebral microangiopathy or thrombosis 
-- Cardiac emboli ([[Atrial Fibrillation]])
+- Cardiac emboli ([[Full/Atrial Fibrillation]])
 - Atherothromboembolism (from carotids)
 - Aneurism
 - CNS bleeds
@@ -38,10 +38,10 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 - **Migraine**
 
 ## Modifiable risk factors
-- [[Essential hypertension|Hypertension]]
+- [[Full/Essential hypertension|Hypertension]]
 - Smoking
-- [[Diabetes Mellitus]]
-- [[Atrial Fibrillation]]
+- [[Full/Diabetes Mellitus]]
+- [[Full/Atrial Fibrillation]]
 - $\uparrow$ PCV (packed cell volume)
 - Carotid bruit
 - Other substances that affect clotting
@@ -77,7 +77,7 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
   Looking for source of clot
   - Full neuro exam
 - ECG to look for AF
-- BP for [[Essential hypertension]]
+- BP for [[Full/Essential hypertension]]
 - Echo for atherothromboembolism in carotid and AF
 - Glucose to rule out hypo/hyperglycaemia
 - Any blood issues that cause $\uparrow$ coagulability, lipid profile, HbA1c, LFT, U&E, CRP, FBC
@@ -85,14 +85,14 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 
 ## Management
 
-Exclude [[Hypoglycaemia]]
+Exclude [[Full/Hypoglycaemia]]
 Immediate CT brain to exclude haemorrhage
-[[snippets/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
+[[Pearls/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
 Admission to a specialist stroke centre
 
 Once haemorrhagic **excluded**:
 
-[[snippets/Aspirin|Aspirin]] 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. [[snippets/Clopidogrel|Clopidogrel]])
+[[Pearls/Aspirin|Aspirin]] 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. [[Pearls/Clopidogrel|Clopidogrel]])
 
 - Within 4.5hrs = thromboctomy + alteplase (thrombolysis)
 - Within 6-24hrs = thromboctomy alone  
@@ -101,7 +101,7 @@ Once haemorrhagic **excluded**:
 Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement
 
 For haemorrhagic confirmed :
-- Reverse [[snippets/Anticoagulants|Anticoagulants]] if possible (vitamin K for [[snippets/Warfarin|Warfarin]], idarucizumab for dabigatran)
+- Reverse [[Pearls/Anticoagulants|Anticoagulants]] if possible (vitamin K for [[Pearls/Warfarin|Warfarin]], idarucizumab for dabigatran)
 - Neurosurgical discussion -  coiling (endovascular embolization) can be used to stop further bleeding. Surgery can also be done to remove excess blood and reduce intracranial pressure
 
 
@@ -114,4 +114,4 @@ For haemorrhagic confirmed :
 - Bladder and bowel care
 - **Physiotherapy** - monitor progress 
 - Monitor mood
-- Drugs - High dose statins: 80mg atorvastatin, anticoagulation in AF: DOAC, [[snippets/Anti-platelets|Anti-platelets]], anti-diabetics 
+- Drugs - High dose statins: 80mg atorvastatin, anticoagulation in AF: DOAC, [[Pearls/Anti-platelets|Anti-platelets]], anti-diabetics 

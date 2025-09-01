@@ -13,8 +13,8 @@ Very uncommon in children
 
 ## Causes/Factors
 
-- [[snippets/Viruses|Viruses]]
-- Similar bacteria as [[Otitis Externa]]
+- [[Pearls/Viruses|Viruses]]
+- Similar bacteria as [[Full/Otitis Externa]]
 - Strep. pneumoniae 
 
 ## Symptoms
@@ -42,7 +42,7 @@ Complicated
 ## Management
 
 - If not unwell watch and treat symptomatically
-- [[snippets/Amoxicillin|Amoxicillin]] 
+- [[Pearls/Amoxicillin|Amoxicillin]] 
 
 Recurrent acute otitis media defined as: 3 or more episodes in 6 months, 4+ episodes in 12 months 
 
@@ -52,6 +52,6 @@ For children a surgical option may be grommets and myringotomy
 
 ###### Mastoiditis
 
-- Most common complication - inflammation of the mastoid [[snippets/Bone|Bone]] and air cells
+- Most common complication - inflammation of the mastoid [[Pearls/Bone|Bone]] and air cells
 - CT scan always required
 - Analgesia, IV antibiotics +/- mastoidectomy

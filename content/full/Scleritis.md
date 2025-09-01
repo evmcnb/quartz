@@ -13,7 +13,7 @@ Anterior scleritis (90% of cases)
 - Nodular - erythematous tender fixed nodules in the sclera. **1 in 4 progress to necrotising scleritis**. Commonly reoccurs 
 - Necrotising - less frequent. extreme pain and marked scleral damage. **Usually associated with underlying systemic disease**
 	- with corneal inflammation - sclerokeratitis 
-	- without inflammation (scleromalacia perforans) - notable for lack of symptoms until the bare choroid is seen under the thin ater of the conjunctiva. Bilateral and only seen in advanced [[Inflammatory Arthritis#Rheumatoid Arthritis|RA]] usually in women 
+	- without inflammation (scleromalacia perforans) - notable for lack of symptoms until the bare choroid is seen under the thin ater of the conjunctiva. Bilateral and only seen in advanced [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|RA]] usually in women 
 
 Posterior scleritis
 
@@ -30,7 +30,7 @@ Posterior scleritis
 
 ## Causes/Factors
 
-- Autoimmune disorders - a/w RA is most common, [[full/Systemic Lupus Erythematosus]], [[Inflammatory Arthritis]], granulomatosis with polyangiitis
+- Autoimmune disorders - a/w RA is most common, [[Full/Systemic Lupus Erythematosus]], [[Full/Inflammatory Arthritis]], granulomatosis with polyangiitis
 - Infections
 - Trauma 
 - Idiopathic sometimes not known
@@ -59,7 +59,7 @@ Posterior scleritis
 
 **Diffuse anterior scleritis and nodular scleritis** 
 - Oral NSAIDs (ibuprofen 400m qds)
-- If not effective then oral [[snippets/Prednisolone|Prednisolone]] (80mg od) 
+- If not effective then oral [[Pearls/Prednisolone|Prednisolone]] (80mg od) 
 - If not effective could try subconjuctival or periorbital steroid injection but controversial 
 - If not effective immunosuppressive therapy - methotrexate, azathioprine mycophenolate, cyclophosphamide or ciclosporin may be helpful 
 

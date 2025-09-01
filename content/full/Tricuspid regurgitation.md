@@ -14,8 +14,8 @@ Incompetent tricuspid valve
 
 ## Causes
 
-- Pressure - left sided [[Heart Failure]] or pulmonary [[Essential hypertension]]
-- [[full/Endocarditis]]
+- Pressure - left sided [[Full/Heart Failure]] or pulmonary [[Full/Essential hypertension]]
+- [[Full/Endocarditis]]
 - Rheumatic heart disease
 - Connective tissue disorders - Marfan syndrome
 
@@ -25,4 +25,4 @@ Incompetent tricuspid valve
 - Raised JVP
 - Pulsatile liver
 - Peripheral oedema
-- [[snippets/Ascites|Ascites]]
+- [[Pearls/Ascites|Ascites]]

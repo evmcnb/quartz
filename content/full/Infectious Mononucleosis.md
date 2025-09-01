@@ -19,7 +19,7 @@ Spread through saliva caused almost exclusively from EBV
 ## Symptoms
 
 - Fever
-- [[snippets/Sore throat|Sore throat]]
+- [[Pearls/Sore throat|Sore throat]]
 - Fatigue
 - **_Lymphadenopathy_** (swollen lymph nodes)
 - Tonsillar enlargement
@@ -31,10 +31,10 @@ Spread through saliva caused almost exclusively from EBV
 
 ## Diagnostic Tests
 
-- **Physical Exam:** Evaluation of symptoms, particularly swollen lymph nodes, [[snippets/Sore throat|Sore throat]], and fever.
+- **Physical Exam:** Evaluation of symptoms, particularly swollen lymph nodes, [[Pearls/Sore throat|Sore throat]], and fever.
 - **Monospot Test:** this introduces the patient’s blood to **_red blood cells_** from **_horses_**. Heterophile antibodies (if present) will react to the horse red blood cells and give a positive result.
 - **Viral capsid antigen:** tests for specific EBV antibodies. IgM for acute infection, IgG for immunity. 
-- **[[snippets/Liver function tests|Liver function tests]]:** To assess liver function and detect any abnormalities.
+- **[[Pearls/Liver function tests|Liver function tests]]:** To assess liver function and detect any abnormalities.
 - **Throat swabs**
 
 ## Management
@@ -46,8 +46,8 @@ Spread through saliva caused almost exclusively from EBV
 ## Complications/red Flags
 
 - **Splenic Rupture:** Enlarged spleen can be vulnerable to injury.
-- **[[snippets/Glomerulonephritis|Glomerulonephritis]]**
-- **Haemolytic [[snippets/Anaemia|Anaemia]]**
+- **[[Pearls/Glomerulonephritis|Glomerulonephritis]]**
+- **Haemolytic [[Pearls/Anaemia|Anaemia]]**
 - **Chronic Fatigue:** Some individuals experience fatigue for several weeks or months.
 
 - Avoid ampicillin & amoxycillin with EBV as may cause rash

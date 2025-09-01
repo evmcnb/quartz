@@ -14,20 +14,20 @@ For all of these diseases patients can claim compensation through _Industrial In
 
 A common dust disease in countries that have/had sub-terrain coal mines
 - Inhalation of coal particles over 15-20 years. These are ingested by macophages which die releasing their enzymes causing fibrosis
-- Coexisting chronic [[bronchitis]] is common.
+- Coexisting chronic [[Full/bronchitis]] is common.
 - CXR - many round opacities (1-10mm) especially in upper zone 
-- Treat [[bronchitis]]
+- Treat [[Full/bronchitis]]
 ### Progressive massive fibrosis
 
 - Due to progression of CWP
-- Fibrosis, dyspnoea and eventually [[cor pulmonale]]
+- Fibrosis, dyspnoea and eventually [[Full/cor pulmonale]]
 - CXR - typically bilateral fibrotic masses (1-10cm) that develop from periphery towards hilum
 
 ### Silicosis 
 
 Inhalation of silica particles which are very fibrinogenic
 - Metal mining, stone quarrying, sandblasting, pottery and ceramic manufacture
-- Progressive dyspnoea, $\uparrow$ incidence of [[Tuberculosis|TB]] 
+- Progressive dyspnoea, $\uparrow$ incidence of [[Full/Tuberculosis|TB]] 
 - CXR diffuse miliary or nodular pattern in upper/mid-zones with _egg shell_ calcification of hilar nodes
 
 ### Asbestosis

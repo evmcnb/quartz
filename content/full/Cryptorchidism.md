@@ -21,7 +21,7 @@ Many babies can be born within the 25-35 week window without testis decent
 - Low birth weight
 - Small gestational age
 - Permaturity
-- Maternal smoking during [[Pregnancy]]
+- Maternal smoking during [[Full/Pregnancy]]
 
 ## Management
 
@@ -34,6 +34,6 @@ Many babies can be born within the 25-35 week window without testis decent
 ## Complications/red Flags
 
 - **Infertility:** Undescended testicles can impact sperm production and fertility.
-- [[full/Seminoma]] regardless of whether it was surgically corrected  
-- **Inguinal [[Hernias]]**
-- **[[snippets/Testicular Torsion|Testicular Torsion]]**
+- [[Full/Seminoma]] regardless of whether it was surgically corrected  
+- **Inguinal [[Full/Hernias]]**
+- **[[Pearls/Testicular Torsion|Testicular Torsion]]**

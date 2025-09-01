@@ -36,20 +36,20 @@ Causes blindness, very common in tropics. Conjunctivae become dry and develop ov
 | Vit $B_1$ (thiamine)   | Small intestine          | Beriberi, Wernicke's encephalopathy              |
 | Vit $B_2$ (riboflavin) | Proximal small intestine | Angular stomatis; [[cheilitis]]                  |
 | Vit $B_6$ (pyridoxine) | Small intestine          | Polyneuropathy                                   |
-| Vit $B_{12}$           | Terminal ileum           | [[Macrocytic anaemia]]                           |
+| Vit $B_{12}$           | Terminal ileum           | [[Full/Macrocytic anaemia]]                           |
 | Vit C                  | Proximal ileum           | Scurvy                                           |
 | Vit D\*                | Jejunum as free vit      | [[Rickets]]                                      |
 | Vit E\*                | Small intestine          | Haemolysis, neurological deficit                 |
 | Vit K\*                | Small intestine          | Bleeding disorders                               |
-| Folic acid             | Jejunum                  | [[full/Anaemia]]                           |
+| Folic acid             | Jejunum                  | [[Full/Anaemia]]                           |
 | Nicotinamide           | Jejunum                  | Pellagra                                         |
 | Calcium                | Duodenum + jejunum       | See hypo/hypercalcemia                           |
 | Copper                 | Stomach + jejunum        | Menkes' kinky hair syndrome                      |
 | Fluoride               | Stomach                  | Dental caries                                    |
 | Iodide                 | Small intestine          | Goitre; cretinism                                |
-| Iron                   | Duodenum + jejunum       | [[full/Anaemia]]                           |
+| Iron                   | Duodenum + jejunum       | [[Full/Anaemia]]                           |
 | Magnesium              | Small intestine          | See hypo/[[snippets/Hypermagnesemia|Hypermagnesemia]]                         |
-| Phosphate              | Small intestine          | [[full/osteoporosis]]                                 |
+| Phosphate              | Small intestine          | [[Full/osteoporosis]]                                 |
 | Selenium               | Small intestine          | Cardiomyopathy                                   |
 | Zinc                   | Jejunum                  | Acrodermatitis enteropathica, poor wound healing |
 

@@ -21,7 +21,7 @@ date: 2024-02-07
 
 - Body habitus - slim, obese, cachexic
 - Scars
-- [[snippets/Jaundice|Jaundice]]
+- [[Pearls/Jaundice|Jaundice]]
 - Abdominal distension
 - Masses
 - Pallor
@@ -32,7 +32,7 @@ date: 2024-02-07
 - Vomit bowl
 - Surgical drains - note location and type/volume of contents
 - Feeding tubes NG or NJ
-- Medical equipment - [[snippets/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
+- Medical equipment - [[Pearls/Oxygen|Oxygen]], ECG, medications, catheters (note volume and colour), IV access
 - Mobility aids
 - Vital sign charts
 - Fluid balance charts
@@ -42,13 +42,13 @@ date: 2024-02-07
 
 #### Inspection
 
-- [[Koilonychia]] - <span style="color:#00b0f0">iron-deficiency anaemia</span> (malabsorption, Crohn's) & [[leukonychia]] - <span style="color:#00b0f0">hypoalbuminaemia</span> (5+)
-- <span style="color:#ff0000">Palmar erythema (redness)</span> -<span style="color:#00b0f0"> chronic liver disease</span>, [[Pregnancy]]
+- [[Full/Koilonychia]] - <span style="color:#00b0f0">iron-deficiency anaemia</span> (malabsorption, Crohn's) & [[Full/leukonychia]] - <span style="color:#00b0f0">hypoalbuminaemia</span> (5+)
+- <span style="color:#ff0000">Palmar erythema (redness)</span> -<span style="color:#00b0f0"> chronic liver disease</span>, [[Full/Pregnancy]]
 - <span style="color:#ff0000">Dupuytren's contracture</span> - thickening of palmar fascia $\rightarrow$ <span style="color:#00b0f0">alcoholic liver disease</span>
 
-##### Finger [[clubbing]]
+##### Finger [[Full/clubbing]]
 
-Most likely causes to come up in abdo exam OSCE is [[inflammatory bowel disease]], [[full/Coeliac Disease]], [[Liver Cirrhosis]] and [[snippets/Lymphoma|Lymphoma]] of GI tract
+Most likely causes to come up in abdo exam OSCE is [[Full/inflammatory bowel disease]], [[Full/Coeliac Disease]], [[Full/Liver Cirrhosis]] and [[Pearls/Lymphoma|Lymphoma]] of GI tract
 
 - Schamroth’s window test
 
@@ -76,8 +76,8 @@ Place dorsal aspect of your hand onto patients to assess temperature
 
 - <span style="color:#ff0000">Bruising</span> - <span style="color:#00b0f0">clotting problem due to liver disease</span>
 - <span style="color:#ff0000">Excoriations</span> - <span style="color:#00b0f0">sign of pruritis indicated cholestasis</span>
-- <span style="color:#ff0000">Needle track marks</span> - IV drug user - [[Hepatitis]]
-- <span style="color:#ff0000">Acanthosis nigricans in axillae</span> - [[Diabetes Mellitus]]<span style="color:#00b0f0">, gastric cancer (or other GI malignancy)</span>
+- <span style="color:#ff0000">Needle track marks</span> - IV drug user - [[Full/Hepatitis]]
+- <span style="color:#ff0000">Acanthosis nigricans in axillae</span> - [[Full/Diabetes Mellitus]]<span style="color:#00b0f0">, gastric cancer (or other GI malignancy)</span>
 - <span style="color:#ff0000">Hair loss in axillae </span>- due to<span style="color:#00b0f0"> iron-deficiency anaemia and malnutrition</span>
 
 ## Face
@@ -91,7 +91,7 @@ Place dorsal aspect of your hand onto patients to assess temperature
 - <span style="color:#ff0000">Jaundice</span>: most evident in the superior portion of the sclera (ask the patient to look downwards as you lift their upper eyelid) -<span style="color:#00b0f0"> liver disease</span>.
 - <span style="color:#ff0000">Corneal arcus</span>: a hazy white, grey or blue opaque ring located in the peripheral cornea. In older patients, the condition is considered benign, however, <span style="color:#00b0f0">if patient &lt 50 - underlying hypercholesterolaemia</span>.
 - <span style="color:#ff0000">Xanthelasma</span>: yellow, raised cholesterol-rich deposits around the eyes associated with <span style="color:#00b0f0">hypercholesterolaemia</span>.
-- <span style="color:#ff0000"> Kayser-Fleischer rings</span>: dark rings that encircle the iris associated with [[Wilson’s disease]]. The disease involves<span style="color:#00b0f0"> abnormal copper processing by the liver</span>, resulting in accumulation and deposition in various tissues (causing [[Liver Cirrhosis]]).
+- <span style="color:#ff0000"> Kayser-Fleischer rings</span>: dark rings that encircle the iris associated with [[Wilson’s disease]]. The disease involves<span style="color:#00b0f0"> abnormal copper processing by the liver</span>, resulting in accumulation and deposition in various tissues (causing [[Full/Liver Cirrhosis]]).
 
 #### Lips & Tongue
 
@@ -119,8 +119,8 @@ The <span style="color:#ff0000">left supraclavicular lymph node (Virchow's node)
 
 #### Inspect
 
-- <span style="color:#ff0000">Spider naevi</span>: skin lesions caused by <span style="color:#00b0f0">increased levels of circulating oestrogen</span>. Can be a normal finding in [[Pregnancy]] or in women taking the [[snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill. If more than 5 are present it is more likely to be associated with pathology such as [[Liver Cirrhosis]].
-- <span style="color:#ff0000">Gynaecomastia</span>: enlargement of male breast tissue caused by increased levels of circulating oestrogen (e.g. liver [[snippets/Cirrhosis|Cirrhosis]]). Other causes include medications such as [[snippets/Digoxin|Digoxin]] and spironolactone.
+- <span style="color:#ff0000">Spider naevi</span>: skin lesions caused by <span style="color:#00b0f0">increased levels of circulating oestrogen</span>. Can be a normal finding in [[Full/Pregnancy]] or in women taking the [[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill. If more than 5 are present it is more likely to be associated with pathology such as [[Full/Liver Cirrhosis]].
+- <span style="color:#ff0000">Gynaecomastia</span>: enlargement of male breast tissue caused by increased levels of circulating oestrogen (e.g. liver [[Pearls/Cirrhosis|Cirrhosis]]). Other causes include medications such as [[Pearls/Digoxin|Digoxin]] and spironolactone.
 - <span style="color:#ff0000">Hair loss</span>: also caused by increased levels of circulating oestrogen. <span style="color:#00b0f0">General malnourishment</span> can also result in hair loss.
 
 ## Abdomen
@@ -132,7 +132,7 @@ Position the patient lying flat on the bed.
 - <span style="color:#ff0000">Scars</span> - past surgery
 - <span style="color:#ff0000">Abdominal distension</span> - **six f's**: <span style="color:#00b0f0">fat, fluid, flatus, faeces, foetus or funking large tumour</span>
 - <span style="color:#ff0000">Caput medusae</span> - engorged paraumbilical veins associated with <span style="color:#00b0f0">portal hypertension</span>
-- <span style="color:#ff0000">Striae</span> - stretch marks - [[Liver Cirrhosis|ascites]], <span style="color:#00b0f0">intrabdominal malignancy,</span> [[full/Cushing's Syndrome]], [[Obesity]], [[Pregnancy]]
+- <span style="color:#ff0000">Striae</span> - stretch marks - [[Full/Liver Cirrhosis|ascites]], <span style="color:#00b0f0">intrabdominal malignancy,</span> [[Full/Cushing's Syndrome]], [[Full/Obesity]], [[Full/Pregnancy]]
 - <span style="color:#ff0000">Hernias</span> - ask patient to cough
 - <span style="color:#ff0000">Cullen's Turners</span> - <span style="color:#00b0f0">pancreatitis</span>
 
@@ -159,7 +159,7 @@ If any **masses** are identified during deep palpation, assess the following c
 - **Size and shape:** assess the approximate size and shape of the mass.
 - **Consistency:** assess the consistency of the mass (e.g. smooth, soft, hard, irregular).
 - **Mobility:** assess if the mass appears to be attached to superficial or underlying structures.
-- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic [[snippets/Aneurysm|Aneurysm]]).
+- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic [[Pearls/Aneurysm|Aneurysm]]).
 
 ##### <span style="color:#ff0000"> Palpate Liver</span>
 
@@ -174,12 +174,12 @@ If any **masses** are identified during deep palpation, assess the following c
 
 ##### <span style="color:#ff0000">Palpate Gallbladder</span>
 
-In healthy individuals the gallbladder isn't usually palpable. If palpable suggests enlargement secondary to biliary flow obstruction and/or infection ([[Cholecystitis]])
+In healthy individuals the gallbladder isn't usually palpable. If palpable suggests enlargement secondary to biliary flow obstruction and/or infection ([[Full/Cholecystitis]])
 **Murphy's sign**
 
 1. Position fingers at the right costal margin in mid-clavicular line
 2. Ask patient to take a deep breath
-3. If patient suddenly stops mid-breath due to pain, suggests [[Cholecystitis]] - <span style="color:#00b0f0">Murphy's sign </span>positive
+3. If patient suddenly stops mid-breath due to pain, suggests [[Full/Cholecystitis]] - <span style="color:#00b0f0">Murphy's sign </span>positive
 
 ##### <span style="color:#ff0000">Palpate the Spleen</span>
 
@@ -195,7 +195,7 @@ In healthy individuals the gallbladder isn't usually palpable. If palpable sugge
 4. Repeat on other side
    In healthy individuals the kidneys are not usually ballotable but in low BMI patients might be possible
 
-- <span style="color:#ff0000">Bilaterally enlarged</span>, ballotable kidneys can occur in [[full/Polycystic Kidney Disease]] <span style="color:#00b0f0">or</span> [[amyloidosis]].
+- <span style="color:#ff0000">Bilaterally enlarged</span>, ballotable kidneys can occur in [[Full/Polycystic Kidney Disease]] <span style="color:#00b0f0">or</span> [[Pearls/Amyloidosis]].
 - <span style="color:#ff0000">A unilaterally enlarged</span>, ballotable kidney can be caused by a <span style="color:#00b0f0">renal tumour</span>.
 
 ##### <span style="color:#ff0000">Palpate the Aorta</span>
@@ -233,7 +233,7 @@ A distended bladder can be palpated in the **suprapubic area** arising from be
 1. Percuss from the umbilical region to patients left flank - if dullness noted - may suggest ascitic fluid
 2. Whilst keeping fingers over the area at which the note became dull, ask patient to roll onto their side
 3. Keep patient on their side for 30 seconds and then repeat percussion over the same area
-4. If [[snippets/Ascites|Ascites]] is present the area should now be resonant
+4. If [[Pearls/Ascites|Ascites]] is present the area should now be resonant
 
 ## Abdominal Auscultation
 
@@ -243,18 +243,18 @@ A distended bladder can be palpated in the **suprapubic area** arising from be
 
 - Normal bowel sounds: typically described as gurgling (listen to an example in our video demonstration)
 - <span style="color:#ff0000">Tinkling bowel sounds</span>: typically associated with <span style="color:#00b0f0">bowel obstruction</span>.
-- <span style="color:#ff0000">Absent bowel sounds</span>: suggests [[Ileus]] which is a disruption of the normal propulsive ability of the intestine due to a <span style="color:#00b0f0">malfunction of peristalsis</span>.
+- <span style="color:#ff0000">Absent bowel sounds</span>: suggests [[Full/Ileus]] which is a disruption of the normal propulsive ability of the intestine due to a <span style="color:#00b0f0">malfunction of peristalsis</span>.
 
 #### Listen for Bruits
 
 **Auscultate** over the **aorta** and **renal arteries** to identify **vascular** **bruits** suggestive of turbulent blood flow:
 
-- **Aortic bruits:** auscultate 1-2 cm superior to the umbilicus, a bruit here may be associated with an abdominal aortic [[snippets/Aneurysm|Aneurysm]].
+- **Aortic bruits:** auscultate 1-2 cm superior to the umbilicus, a bruit here may be associated with an abdominal aortic [[Pearls/Aneurysm|Aneurysm]].
 - **Renal bruits:** auscultate 1-2 cm superior to the umbilicus and slightly lateral to the midline on each side. A bruit in this location may be associated with renal artery stenosis.
 
 ## Legs
 
-Assess the patient’s **lower legs** for evidence of **pitting oedema** which may suggest **hypoalbuminemia** (e.g. [[Liver Cirrhosis]], protein-losing enteropathy).
+Assess the patient’s **lower legs** for evidence of **pitting oedema** which may suggest **hypoalbuminemia** (e.g. [[Full/Liver Cirrhosis]], protein-losing enteropathy).
 
 ## To Complete the Exam
 
@@ -266,7 +266,7 @@ Assess the patient’s **lower legs** for evidence of **pitting oedema** whi
 ## Further Assessments and Investigations
 
 - **S**tool sample - MC&S
-- **H**ernial examination - if there are signs of [[snippets/Bowel Obstruction|Bowel Obstruction]]
+- **H**ernial examination - if there are signs of [[Pearls/Bowel Obstruction|Bowel Obstruction]]
 - **R**ectal exam - if suspicious of PR bleed
-- **U**rine analysis/[[Pregnancy]] test
-- **G**enitalial examination - if suspecting [[snippets/Testicular Torsion|Testicular Torsion]]
+- **U**rine analysis/[[Full/Pregnancy]] test
+- **G**enitalial examination - if suspecting [[Pearls/Testicular Torsion|Testicular Torsion]]

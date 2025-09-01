@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Acute Kidney Injury
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, August 23rd 2025, 10:21:06 am
+date modified: Saturday, August 30th 2025, 10:52:13 am
 date: 2023-09-18
 ---
 
@@ -20,7 +20,7 @@ Usually doesn't occur in isolation
 
 ## Causes/Factors
 
-Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
+Lots of risk factors like age 75+, [[Full/Diabetes Mellitus]], [[Full/Heart Failure]], etc
 
 **Pre-renal** - something causes $\downarrow$ BP
 
@@ -33,9 +33,9 @@ Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
 
 **Intrinsic** - something within the kidney
 
-- NSAIDS
+- **NSAIDS**
 - Nephrotoxins
-- [[full/Glomerulonephritis]]
+- [[Full/Glomerulonephritis]]
 - Vascular
 
 **Post-renal**
@@ -43,6 +43,14 @@ Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
 - Kidney stones
 - Tumours
 - Retroperitoneal fibrosis
+
+
+| **Medications**                                                                                                                   | **Nephrotoxic effect** | **Mechanism**                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------- |
+| **ACE inhibitors**<br><br>**Angiotensin receptor blockers (ARBs)**<br><br>**Cyclosporin**<br><br>**NSAIDs**<br><br>**Tacrolimus** | GFR alteration         | Affect the vascular tone of the afferent and efferent arterioles, altering interglomerular blood flow |
+| **Aminoglycosides**<br><br>**Amphotericin B**<br><br>**Cisplatin**                                                                | Tubular cell toxicity  | Direct toxicity to the epithelial cells of the proximal convoluted tubules                            |
+| **NSAIDs**<br><br>**Rifampin**                                                                                                    | Interstitial nephritis | Inflammatory reaction within the interstitium of the kidney                                           |
+| **Acyclovir**<br><br>**Ampicillin**                                                                                               | Crystal nephropathy    | Can result in precipitates of insoluble crystals                                                      |
 
 ## Clinical Presentation
 
@@ -73,7 +81,7 @@ Lots of risk factors like age 75+, [[Diabetes Mellitus]], [[Heart Failure]], etc
 
 - Leads to tented T-wave
   ![|325](z_attachments/325-2.png)
-- Give calcium gluconate -> protects heart and buys time, glucose/dextrose + [[snippets/Insulin|Insulin]] and possible [[snippets/Salbutamol|Salbutamol]] nebuliser
+- Give calcium gluconate -> protects heart and buys time, glucose/dextrose + [[Pearls/Insulin|Insulin]] and possible [[Pearls/Salbutamol|Salbutamol]] nebuliser
 
 **Acidosis**
 

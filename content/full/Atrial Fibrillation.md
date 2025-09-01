@@ -8,7 +8,7 @@ date: 2024-01-31
 
 A rapid irregular atrial rhythm at 300-600 bpm. The AV node blocks most of these impulses and only responds intermittently (hence irregular QRS). Cardiac output is reduced by 10-20% as ventricles are not primed properly by atria
 
-Main risk is from clots forming from pooling blood in (left) atria (appendage) leading to ischaemic [[Stroke]]
+Main risk is from clots forming from pooling blood in (left) atria (appendage) leading to ischaemic [[Full/Stroke]]
 
 Abnormal electrical signals from the pulmonary veins cause the fibrillating waves into the left atria.
 
@@ -75,7 +75,7 @@ Atrial fibrillation in patients with the follow should be defibrillated using sy
 
 	IF IN AF FOR >48 HOURS A TTE MUST BE DONE TO RULE OUT CLOT FORMATION. 
 
-Flecainide **cannot be used** in those with any structural heart disease (eg [[full/myocardial infarction|myocardial infarction]])
+Flecainide **cannot be used** in those with any structural heart disease (eg [[Full/myocardial infarction|myocardial infarction]])
 ## Paroxysmal AF
 For intermittent short duration AF, "pill-in-the-pocket" strategy can be used. Patient can take a pharmacological cardioversion only when they feel symptoms of AF begin. 
 
@@ -84,7 +84,7 @@ For intermittent short duration AF, "pill-in-the-pocket" strategy can be used. P
 ![[z_attachments/Pasted image 20240131141504.png]]
 
 - $\beta$ blocker - bisoprolol, metaprolol (good in hyperthroid). Avoid in those with reactive airways
-- Calcium channel blockers (diltiazem, verapamil) - avoid in those with systolic [[Heart Failure]]. Verapamil interacts with digoxin
+- Calcium channel blockers (diltiazem, verapamil) - avoid in those with systolic [[Full/Heart Failure]]. Verapamil interacts with digoxin
 - Digoxin - good in hypotension and heart failure, but still digoxin
 
 > [!success] What is the definition of appropriate response to rate control?

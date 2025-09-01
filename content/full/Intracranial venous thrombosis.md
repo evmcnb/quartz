@@ -16,8 +16,8 @@ Most commonly sagittal sinus thrombosis (47%) or transverse sinus thrombosis (35
 ## Causes/Factors
 
 - Anything that promotes a hypercoagulable state
-- [[Pregnancy]]
-- [[snippets/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill
+- [[Full/Pregnancy]]
+- [[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill
 - Head injury
 - Dehydration
 - Tumours
@@ -30,17 +30,17 @@ Symptom onset is gradual - days to weeks. Features are dependant on what sinus i
 - **Transverse sinus** - headache $\pm$ mastoid pain, focal CNS signs, seizures, papilloedemaa
 - **Sigmoid sinus** - cerebellar signs, lower cranial nerve palsies
 - **Inferior petrosal sinus** - _V_ th and _VI_ th cranial nerve palsies with temporal and retro-orbital pain
-- **Cavernous sinus** - often due to spread from facial pustules or [[Folliculitis]] causing headache, chemosis (swelling of eye surface membrane), odematous eyelids, proptosis, painful ophthalmoplegia, fever
+- **Cavernous sinus** - often due to spread from facial pustules or [[Full/Folliculitis]] causing headache, chemosis (swelling of eye surface membrane), odematous eyelids, proptosis, painful ophthalmoplegia, fever
 
 ## Cortical vein thrombosis
 
-Usually occurs with a sinus thrombosis as it extends into the cortical veins causing infarction into venous territories. These cause **slow** onset, [[Stroke]]-like symptoms. 
+Usually occurs with a sinus thrombosis as it extends into the cortical veins causing infarction into venous territories. These cause **slow** onset, [[Full/Stroke]]-like symptoms. 
 
 There are often an associated seizures and a "Thunderclap" headache which may come on suddenly
 
 ## Diagnostic Tests
 
-Exclude [[Subarachnoid haemorrhage]] if there is a thunderclap headache
+Exclude [[Full/Subarachnoid haemorrhage]] if there is a thunderclap headache
 
 - Thrombophilla blood screen
 - CT/MRI venography 

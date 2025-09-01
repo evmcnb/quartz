@@ -106,7 +106,7 @@ Look for
 
 ##### MCP joint squeeze
 - Gently squeeze MCP joints and observe for signs of discomfort
-	- Tenderness is suggestive of [[Inflammatory Arthritis]]
+	- Tenderness is suggestive of [[Full/Inflammatory Arthritis]]
 
 ## Legs
 
@@ -124,7 +124,7 @@ Look for
 
 ## Spine 
 
-Flexion and shit from [[Thoracic and Lumbar Spine Exam]]
+Flexion and shit from [[Full/Thoracic and Lumbar Spine Exam]]
 
 **Ask patient to stand upright again**
 

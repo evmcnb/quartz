@@ -12,9 +12,9 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
 - 90% are carcinomas
 - Non-small cell carcinoma 85%
     - **adenocarcinoma** 30% - mucin production
-    - **[[Squamous cell carcinoma]]** 20% - presence of keratinization
+    - **[[Full/Squamous cell carcinoma]]** 20% - presence of keratinization
     - large cell carcinoma 10%
-- **Small cell** 15% - arise from endocrine cells -> excrete peptides -> [[snippets/Paraneoplastic Syndromes|Paraneoplastic Syndromes]]
+- **Small cell** 15% - arise from endocrine cells -> excrete peptides -> [[Pearls/Paraneoplastic Syndromes|Paraneoplastic Syndromes]]
 
 Main morphological difference between the two is nuclear characteristics and amount of cytoplasm. Small cell "always" smoking
 #### Secondary Lung Tumours
@@ -44,15 +44,15 @@ Main morphological difference between the two is nuclear characteristics and amo
 
 **Small cell**  
 - ADH
-- ACTH - not typical, [[Essential hypertension]], hyperglycaemia, hypokalaemia, alkalosis and muscle weakness are more common than buffalo hump etc
-- [[snippets/Lambert–Eaton Syndrome|Lambert–Eaton Syndrome]]
+- ACTH - not typical, [[Full/Essential hypertension]], hyperglycaemia, hypokalaemia, alkalosis and muscle weakness are more common than buffalo hump etc
+- [[Pearls/Lambert–Eaton Syndrome|Lambert–Eaton Syndrome]]
 
   
 **Squamous cell**  
-- parathyroid hormone-related protein (PTH-rp) secretion causing **[[snippets/Hypercalcaemia|Hypercalcaemia]]**
-- [[clubbing]]
+- parathyroid hormone-related protein (PTH-rp) secretion causing **[[Pearls/Hypercalcaemia|Hypercalcaemia]]**
+- [[Full/clubbing]]
 - hypertrophic pulmonary osteoarthropathy (HPOA)
-- [[snippets/Hyperthyroidism|Hyperthyroidism]] due to ectopic TSH
+- [[Pearls/Hyperthyroidism|Hyperthyroidism]] due to ectopic TSH
 
   
 **Adenocarcinoma**  
@@ -61,9 +61,9 @@ Main morphological difference between the two is nuclear characteristics and amo
 
 ## Signs
 
-- **[[clubbing]]** of fingers
-- [[snippets/Anaemia|Anaemia]]
-- [[full/Pleural Effusion]]
+- **[[Full/clubbing]]** of fingers
+- [[Pearls/Anaemia|Anaemia]]
+- [[Full/Pleural Effusion]]
 - hepatomegaly
 - metastasis - lymphadenopathy
 

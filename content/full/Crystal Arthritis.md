@@ -7,24 +7,24 @@ date modified: 2024-03-11
 aliases: []
 date: 2023-11-29
 ---
-Crystal arthropathies are a group of joint disorders caused by the formation and deposition of crystals within the joints. The two primary types are [[gout]] and pseudogout (calcium pyrophosphate deposition disease).
+Crystal arthropathies are a group of joint disorders caused by the formation and deposition of crystals within the joints. The two primary types are [[Full/gout]] and pseudogout (calcium pyrophosphate deposition disease).
 
 Approximately 90 percent of first attacks are monoarticular.
 
 ## Causes/Factors
 
-- **[[gout]]:**
+- **[[Full/gout]]:**
     - **Hyperuricemia:** Too much uric acid in blood - kidneys not excreting properly, crystallises out in joints
     - **Diet:** High intake of purine-rich foods.
-    - **Genetics:** Family history of [[gout]].
-    - **Certain Medical Conditions:** [[Essential hypertension]], diabetes, and kidney disease.
+    - **Genetics:** Family history of [[Full/gout]].
+    - **Certain Medical Conditions:** [[Full/Essential hypertension]], diabetes, and kidney disease.
 - **Pseudogout:**
     - **Age:** More common in older individuals.
     - **Calcium Pyrophosphate Deposition:** Formation of crystals in the joint fluid.
 
 ## Symptoms
 
-- **Sudden Onset of Joint Pain:** In more than one half of patients with acute [[gout]], the first metatarsophalangeal joint is the initial joint involved, a condition known as podagra
+- **Sudden Onset of Joint Pain:** In more than one half of patients with acute [[Full/gout]], the first metatarsophalangeal joint is the initial joint involved, a condition known as podagra
 - **Swelling and Inflammation:** Redness and warmth over the affected joint.
 - **Limited Range of Motion:** Difficulty moving the joint.
 - **Recurrent Attacks:** Periods of symptom-free intervals followed by flares.
@@ -37,7 +37,7 @@ Approximately 90 percent of first attacks are monoarticular.
 
 ## Signs
 
-**Tophi ([[gout]]):** Nodules under the skin containing uric acid crystals.
+**Tophi ([[Full/gout]]):** Nodules under the skin containing uric acid crystals.
 
 ![|275](z_attachments/275.png)
 
@@ -45,10 +45,10 @@ Approximately 90 percent of first attacks are monoarticular.
 ## Diagnostic Tests
 
 - **Joint Aspiration:** Removing fluid from the affected joint for crystal examination.
-- **Blood Tests:** To measure uric acid levels (for [[gout]]) and other markers.
+- **Blood Tests:** To measure uric acid levels (for [[Full/gout]]) and other markers.
 - **Imaging:** X-rays, CT scans, or MRI to visualize joint damage.
 
-[[gout]]
+[[Full/gout]]
 - White toothpaste like fluid removed from the joint with syringe
 
 ## Management
@@ -56,10 +56,10 @@ Approximately 90 percent of first attacks are monoarticular.
 1. **Medications:**
     - **Nonsteroidal Anti-Inflammatory Drugs (NSAIDs):** For pain and inflammation.
     - **Colchicine:** To reduce inflammation and prevent flares.
-    - **Corticosteroids:** Intra-articular [[Injections]] for severe flares.
-    - **Urate-Lowering Medications (for [[gout]]):** Allopurinol or febuxostat.
+    - **Corticosteroids:** Intra-articular [[Full/Injections]] for severe flares.
+    - **Urate-Lowering Medications (for [[Full/gout]]):** Allopurinol or febuxostat.
     - **Calcium Pyrophosphate Crystal Deposition Inhibitors (for pseudogout):** Colchicine or NSAIDs.
 2. **Joint Aspiration:** To relieve pain and remove crystals.
-3. **Lifestyle Modifications:** Dietary changes to reduce purine intake (for [[gout]]), and staying hydrated.
+3. **Lifestyle Modifications:** Dietary changes to reduce purine intake (for [[Full/gout]]), and staying hydrated.
 4. **Weight Management:** Maintaining a healthy weight.
-5. **Avoiding Trigger Foods:** Certain foods may exacerbate [[gout]] flares.
+5. **Avoiding Trigger Foods:** Certain foods may exacerbate [[Full/gout]] flares.

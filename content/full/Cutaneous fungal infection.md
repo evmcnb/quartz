@@ -35,7 +35,7 @@ Usually commensal in mouth, vagina and GI tract
 
 #### Causes 
 
-- [[snippets/Immunosuppression|Immunosuppression]] (steroid inhalers)
+- [[Pearls/Immunosuppression|Immunosuppression]] (steroid inhalers)
 - Antibiotic treatment (opportunistic)
 
 #### Clinical Presentation
@@ -54,11 +54,11 @@ Commensals of greasy skin
 ![[z_attachments/Pasted image 20231221172622.png|400]]
 
 - **Seborrheic dermatitis:** scaling of face, scalp, anterior chest
-- **Malassezia [[Folliculitis]]:** follicular rash on back and shoulders ($\Delta \Delta$) [[Acne vulgaris]]
+- **Malassezia [[Full/Folliculitis]]:** follicular rash on back and shoulders ($\Delta \Delta$) [[Full/Acne vulgaris]]
 
 ![[z_attachments/Pasted image 20231221172653.png]]
 
-Sometimes difficult to differentiate with [[Acne vulgaris]]
+Sometimes difficult to differentiate with [[Full/Acne vulgaris]]
 
 ![[z_attachments/Pasted image 20231221172713.png|275]]
 
@@ -66,7 +66,7 @@ Sometimes difficult to differentiate with [[Acne vulgaris]]
 # Management
 
 1. **Topical Antifungals:** (e.g., Clotrimazole, Miconazole) for localized infections.
-2. **Oral Antifungals:** (e.g., Terbinafine, [[snippets/Fluconazole|Fluconazole]]) for extensive or severe infections.
+2. **Oral Antifungals:** (e.g., Terbinafine, [[Pearls/Fluconazole|Fluconazole]]) for extensive or severe infections.
 3. **Proper Hygiene:** Keep affected areas clean and dry; avoid shared items.
 4. **Address Contributing Factors:** Control moisture, especially in sweating-prone areas.
 

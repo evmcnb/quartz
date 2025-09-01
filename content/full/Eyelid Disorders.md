@@ -7,7 +7,7 @@ date modified: 2024-03-11
 date: 2024-02-07
 ---
 
-## [[Blepharitis]]
+## [[Full/Blepharitis]]
 
 - Inflammation of the eyelid margins
 - Itchy, gritty, dry sensation
@@ -25,7 +25,7 @@ Hordeolum internum
 - Deeper and more painful
 - May point towards the eyeball underneath the eyelid
 
-Management with hot compress and analgesia. Topical antibiotics (chloramphenicol) may be considered if its associated with [[Conjunctivitis]] or if symptoms persist. 
+Management with hot compress and analgesia. Topical antibiotics (chloramphenicol) may be considered if its associated with [[Full/Conjunctivitis]] or if symptoms persist. 
 
 
 ## Chalazion
@@ -58,13 +58,13 @@ Management with hot compress and analgesia. Topical antibiotics (chloramphenicol
 - Recurrent cases may required electrolysis, cryotherapy or laster treatment
 - SDF if risk of eyesight
 
-## [[Periorbital cellulitis]]
+## [[Full/Periorbital cellulitis]]
 
 - Eyelid and skin infection in front of the eye. It presents with a swollen, red, hot skin around the eye lid and eye
-- Must be differentiated from [[Orbital cellulitis]] a sight and life-threatening emergency
+- Must be differentiated from [[Full/Orbital cellulitis]] a sight and life-threatening emergency
 - Patients are referred urgently to ophthalmology for assessment. CT can help distinguish
 
-## [[Orbital cellulitis]]
+## [[Full/Orbital cellulitis]]
 
 - Infection around the eyeball involving the tissues behind the orbital septum
 - Pain with eye movement, reduced eye movements, vision changes, abnormal pupil reactions and proptosis

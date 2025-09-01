@@ -10,7 +10,7 @@ date: 2024-01-14
 ---
 
 
-Hyperthyroidism is a medical condition characterized by excessive production of thyroid hormones by the thyroid gland. There are various underlying causes of hyperthyroidism, with the most common being [[Grave's disease]].
+Hyperthyroidism is a medical condition characterized by excessive production of thyroid hormones by the thyroid gland. There are various underlying causes of hyperthyroidism, with the most common being [[Full/Grave's disease]].
 
 Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from the thyroid gland. Thyrotoxicosis is the clinical syndrome of excess circulating thyroid hormones **irrespective of source**. Hyperthyroidism is a subset of thyrotoxicosis 
 ## Causes/Factors
@@ -38,50 +38,50 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 ## Signs
 
 - **Enlarged Thyroid Gland (Goiter):** The thyroid gland may be visibly larger than normal, causing swelling in the front of the neck.
-	- Smooth = [[Grave's disease]]
+	- Smooth = [[Full/Grave's disease]]
 	- Nodular = toxic nodules
 	- Tender = thyroid inflammation
 - **Tachycardia:** Abnormally fast heart rate.
-- **Exophthalmos:** In [[Grave's disease]], patients may have protruding or bulging eyes due to immune system attack on the eye tissues.
-- **_Pretibial myxoedema_** discoloured waxy appearance over this area - specific to [[Grave's disease]]
+- **Exophthalmos:** In [[Full/Grave's disease]], patients may have protruding or bulging eyes due to immune system attack on the eye tissues.
+- **_Pretibial myxoedema_** discoloured waxy appearance over this area - specific to [[Full/Grave's disease]]
 
 ## Diagnostic Tests
 
 - **Thyroid Function Tests:** Blood tests to measure levels of thyroid hormones (T3 and T4) and thyroid-stimulating hormone (TSH).
 - **Radioactive Iodine Uptake (RAIU):** Measures how much iodine the thyroid gland absorbs to determine its activity.
 - **Thyroid Ultrasound:** Imaging test using sound waves to visualize the size and structure of the thyroid gland.
-- **Antibody Tests:** To detect antibodies associated with [[Grave's disease]].
+- **Antibody Tests:** To detect antibodies associated with [[Full/Grave's disease]].
 
 ### Radioactive iodine 
 
-- Increased homogenous uptake - **[[Grave's disease]]**
+- Increased homogenous uptake - **[[Full/Grave's disease]]**
 - Area of intense uptake interspersed with reduce activity - **toxic nodular goitre** 
-- Faint diffuse uptake - [[De Quervain's Thyroiditis]]
+- Faint diffuse uptake - [[Full/De Quervain's Thyroiditis]]
 - No uptake at all - **inflammatory conditions**
 - Single hot node with the rest of the gland suppressed - **toxic adenoma**
 
 
 ## Management
 
-- **[[snippets/Carbimazole|Carbimazole]]** is the first line anti-thyroid drug. Two treatment options:
-	1. The [[snippets/Carbimazole|Carbimazole]] dose is titrated to maintain normal levels
-	2. A higher dose blocks all production and [[snippets/Levothyroxine|Levothyroxine]] is added and titrated to effect
-	3. Risk of agranulocytosis and **acute [[full/pancreatitis]]**
+- **[[Pearls/Carbimazole|Carbimazole]]** is the first line anti-thyroid drug. Two treatment options:
+	1. The [[Pearls/Carbimazole|Carbimazole]] dose is titrated to maintain normal levels
+	2. A higher dose blocks all production and [[Pearls/Levothyroxine|Levothyroxine]] is added and titrated to effect
+	3. Risk of agranulocytosis and **acute [[Full/pancreatitis]]**
 
 >[!warning]
 >
->The MHRA issued a warning in 2019 about the risk of acute [[full/pancreatitis]] in patients taking [[snippets/Carbimazole|Carbimazole]]. In exams, look out for a patient on [[snippets/Carbimazole|Carbimazole]] presenting with symptoms of [[full/pancreatitis]] (e.g., severe epigastric pain radiating to the back).
+>The MHRA issued a warning in 2019 about the risk of acute [[Full/pancreatitis]] in patients taking [[Pearls/Carbimazole|Carbimazole]]. In exams, look out for a patient on [[Pearls/Carbimazole|Carbimazole]] presenting with symptoms of [[Full/pancreatitis]] (e.g., severe epigastric pain radiating to the back).
 
 - **Propylthiouracil** is second line and works in the same way. Small risk of severe liver reaction. 
 
-**Both can cause agranulocytosis** - this makes people vulnerable to infection. A **[[snippets/Sore throat|Sore throat]]** is a key presenting feature. Need an urgent FBC and aggressive treatment. 
+**Both can cause agranulocytosis** - this makes people vulnerable to infection. A **[[Pearls/Sore throat|Sore throat]]** is a key presenting feature. Need an urgent FBC and aggressive treatment. 
 
 - **Beta blockers** - propanolol is usual as its non-selectively blocks adrenergic activity.
 
-**Surgery is definitive option** - removing the whole thyroid gland and starting life-long [[snippets/Levothyroxine|Levothyroxine]] 
+**Surgery is definitive option** - removing the whole thyroid gland and starting life-long [[Pearls/Levothyroxine|Levothyroxine]] 
 ## Complications/Red Flags
 
 - **Thyroid Storm:** It is a rare and more severe presentation of hyperthyroidism with **_fever_**, **_tachycardia_** and **_delirium_**. It can be life-threatening and requires admission for monitoring.
-- **[[full/osteoporosis]]:** Long-term hyperthyroidism can lead to [[snippets/Bone|Bone]] loss and an increased risk of fractures.
-- **Heart Problems:** Untreated hyperthyroidism can strain the heart, leading to heart rhythm abnormalities and potential [[Heart Failure]].
-- **[[Pregnancy]] Complications:** Hyperthyroidism during [[Pregnancy]] requires careful management to prevent harm to both the mother and the baby.
+- **[[Full/osteoporosis]]:** Long-term hyperthyroidism can lead to [[Pearls/Bone|Bone]] loss and an increased risk of fractures.
+- **Heart Problems:** Untreated hyperthyroidism can strain the heart, leading to heart rhythm abnormalities and potential [[Full/Heart Failure]].
+- **[[Full/Pregnancy]] Complications:** Hyperthyroidism during [[Full/Pregnancy]] requires careful management to prevent harm to both the mother and the baby.

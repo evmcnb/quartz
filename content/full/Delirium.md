@@ -9,7 +9,7 @@ date modified: 2024-03-11
 
 Acute and fluctuating disturbance in attention and awareness
 
-Need to differentiate from [[Dementias]]
+Need to differentiate from [[Full/Dementias]]
 
 |                     | Delirium               | Dementia                     |
 | ------------------- | ---------------------- | ---------------------------- |
@@ -33,8 +33,8 @@ Assessment of capacity is important
 ## Causes/Factors
 
 **P**ain
-**I**nfection - [[Urinary Tract Infection]], [[full/pneumonia]], [[Cellulitis]], [[Skin Ulcers]]
-**N**utrition - B12, folate, glucose, [[Nutritional disorders]]
+**I**nfection - [[Full/Urinary Tract Infection]], [[Full/pneumonia]], [[Full/Cellulitis]], [[Full/Skin Ulcers]]
+**N**utrition - B12, folate, glucose, [[Full/Nutritional disorders]]
 **C**onstipation - +/- urinary retention, codiene
 **H**ydration - intake, diruetics, diarrhoea
 
@@ -65,13 +65,13 @@ Assessment of capacity is important
 ## Investigations
 
 - **Observations**: full set of obs, ECG, urine dip, glucose
-- **[[Cognitive Assessment]]**:
+- **[[Full/Cognitive Assessment]]**:
 	- 4AT - Alertness, Cognition, Attention, Acute changes or fluctuating course
 	- MoCA - 
 
 
-- **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, [[snippets/Bone|Bone]] profile, Folate & B12, vitamin D
-- **Imaging**: CXR for [[full/pneumonia]], CT head to rule out bleeds, bladder USS 
+- **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, [[Pearls/Bone|Bone]] profile, Folate & B12, vitamin D
+- **Imaging**: CXR for [[Full/pneumonia]], CT head to rule out bleeds, bladder USS 
 
 ## Management
 

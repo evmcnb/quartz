@@ -11,8 +11,8 @@ Disorganised chaotic electrical activity and contraction. The heart quivers (fib
 ## Causes/Factors
 
 - Little warning of this condition before
-- [[myocardial infarction]]
-- [[Heart Failure]]
+- [[Full/myocardial infarction]]
+- [[Full/Heart Failure]]
 
 ## Symptoms
 

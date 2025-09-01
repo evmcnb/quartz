@@ -23,7 +23,7 @@ Episodes of partial or complete airway occlusion during sleep. The obstruction c
 - **Loud Snoring:** Often the primary symptom.
 - **Witnessed Pauses in Breathing:** Reported by a bed partner.
 - **Excessive Daytime Sleepiness:** Feeling tired or sleepy during the day.
-- **Morning [[snippets/Headaches|Headaches]]:** Due to disrupted sleep.
+- **Morning [[Pearls/Headaches|Headaches]]:** Due to disrupted sleep.
 - **Difficulty Concentrating:** Impaired cognitive function.
 - **Irritability:** Mood changes due to poor sleep quality.
 

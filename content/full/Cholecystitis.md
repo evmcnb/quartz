@@ -21,9 +21,9 @@ Gallstone blockage
 
 |                     | **RUQ Pain** | **Fever/$\uparrow$WCC** | **Jaundice** |
 | ------------------- | ------------ | ----------------------- | ------------ |
-| [[Biliary colic]]       | $\checkmark$ | X                       | X            |
+| [[Full/Biliary colic]]       | $\checkmark$ | X                       | X            |
 | Acute cholecystitis | $\checkmark$ | $\checkmark$            | X            |
-| [[Acute cholangitis]]         | $\checkmark$ | $\checkmark$            | $\checkmark$ |
+| [[Full/Acute cholangitis]]         | $\checkmark$ | $\checkmark$            | $\checkmark$ |
 
 - Worsening of pain/symptoms after eating fatty food
 - nausea, vomiting
@@ -51,7 +51,7 @@ Patients are usually systemically unwell and require hospital admission for oral
 
 If in the gallbladder/cystic duct:
 
-- [[Biliary colic]]
+- [[Full/Biliary colic]]
 - Acute and chronic cholecystitis
 - Mucocele
 - [[Empyema]]
@@ -60,6 +60,6 @@ If in the gallbladder/cystic duct:
 
 In the bile ducts
 
-- Obstructive [[Jaundice]]
-- [[Acute cholangitis]]
-- [[full/pancreatitis]]
+- Obstructive [[Pearls/Jaundice]]
+- [[Full/Acute cholangitis]]
+- [[Full/pancreatitis]]

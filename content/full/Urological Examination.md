@@ -26,7 +26,7 @@ date modified: 2024-05-04
 - Shortness of breath
 - Hydration status - obvious oedema/dry skin
 - Stoma bags
-- Uraemic complexion - yellow colour to the skin caused by uraemia in [[Chronic Kidney Disease]]
+- Uraemic complexion - yellow colour to the skin caused by uraemia in [[Full/Chronic Kidney Disease]]
 - Cachexia - end stage renal failure
 - Cushingoid appearance - high dose steroids for renal transplant or immunosuppression 
 
@@ -34,7 +34,7 @@ date modified: 2024-05-04
 
 - Medical equipment - catheters, IV fluids, fistulae
 - Mobility aids
-- Pillows - congestive [[Heart Failure]] patients typically suffer from orthopnoea
+- Pillows - congestive [[Full/Heart Failure]] patients typically suffer from orthopnoea
 - Vital sign charts
 - Fluid balance charts
 - Prescription
@@ -82,7 +82,7 @@ Inspect the arms for signs of:
 
 **Tell the examiner that you would like to take one**
 
-Causes include [[Chronic Kidney Disease]], renal ransplant rejection, cortiosteroid use, tacrolimus or ciclosporin. Rarely pulsus paradoxus (change of >10mmHg during breathing)
+Causes include [[Full/Chronic Kidney Disease]], renal ransplant rejection, cortiosteroid use, tacrolimus or ciclosporin. Rarely pulsus paradoxus (change of >10mmHg during breathing)
 
 >[!danger]
 >Blood pressure should not be performed on the side of an AV fistula!!
@@ -99,17 +99,17 @@ Whilst still palpating the radial pulse assess the patient's respiratory rate. N
 
 ### General
 
-- Skin colour and lesions - uraemic frost, [[Squamous cell carcinoma]], [[Basal Cell Carcinoma]]
+- Skin colour and lesions - uraemic frost, [[Full/Squamous cell carcinoma]], [[Full/Basal Cell Carcinoma]]
 - Cushingoid appearance
 - Hypertrichosis - excessive hair growth. A side effect of ciclosporin
-- Hearing aid - consider [[snippets/Alport syndrome|Alport syndrome]]
+- Hearing aid - consider [[Pearls/Alport syndrome|Alport syndrome]]
 
 
 #### Eyes
 
 - Conjunctival pallor - anaemia
 - Band keratopathy - deposition of calcium to the central cornea. Chronic hypercalcaemia
-- Periorbital oedema - clinical feature of [[Nephrotic syndrome]]
+- Periorbital oedema - clinical feature of [[Full/Nephrotic syndrome]]
 
 ## Neck
 
@@ -137,7 +137,7 @@ An elevated JVP indicates **increased central venous pressure** secondary to flu
 
 - Scars - previous surgeries
 - Peritoneal dialysis catheter
-- Abdominal distension - [[full/Polycystic Kidney Disease]], [[Nephrotic syndrome]] ([[snippets/Ascites|Ascites]])
+- Abdominal distension - [[Full/Polycystic Kidney Disease]], [[Full/Nephrotic syndrome]] ([[Pearls/Ascites|Ascites]])
 - Nephrostomy tube
 - Striae
 - Distension
@@ -165,7 +165,7 @@ If any **masses** are identified during deep palpation, assess the following c
 - **Size and shape:** assess the approximate size and shape of the mass.
 - **Consistency:** assess the consistency of the mass (e.g. smooth, soft, hard, irregular).
 - **Mobility:** assess if the mass appears to be attached to superficial or underlying structures.
-- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic [[snippets/Aneurysm|Aneurysm]]).
+- **Pulsatility:** note if the mass feels pulsatile, suggestive of vascular aetiology (e.g. abdominal aortic [[Pearls/Aneurysm|Aneurysm]]).
 
 Pay particular attention to the supra-pubic region. A distended bladder will be **dull** on percussion 
 
@@ -179,8 +179,8 @@ Pay particular attention to the supra-pubic region. A distended bladder will be 
 4. Repeat on other side
    In healthy individuals the kidneys are not usually ballotable but in low BMI patients might be possible
 
-- <span style="color:#ff0000">Bilaterally enlarged</span> - [[full/Polycystic Kidney Disease]] <span style="color:#00b0f0">or</span> [[amyloidosis]], hydronephrosis
-- <span style="color:#ff0000">A unilaterally enlarged</span> - [[full/Renal Cell Carcinoma]] <span style="color:#00b0f0">renal tumour</span>.
+- <span style="color:#ff0000">Bilaterally enlarged</span> - [[Full/Polycystic Kidney Disease]] <span style="color:#00b0f0">or</span> [[Pearls/Amyloidosis]], hydronephrosis
+- <span style="color:#ff0000">A unilaterally enlarged</span> - [[Full/Renal Cell Carcinoma]] <span style="color:#00b0f0">renal tumour</span>.
 
 >[!tip] How to distinguish enlarged spleens from enlarged kidneys
 > - Unable to get above the spleen
@@ -197,11 +197,11 @@ Pay particular attention to the supra-pubic region. A distended bladder will be 
 >[!example] Causes of a distended bladder
 >Outlet obstruction:
 >- Faulty valves (children)
->- [[full/Benign Prostatic Hyperplasia]] or [[full/Prostatic Adenocarcinoma]]
+>- [[Full/Benign Prostatic Hyperplasia]] or [[Full/Prostatic Adenocarcinoma]]
 >- Urethral stricture
 >
 >Decreased bladder tone
-> - [[full/Neurogenic Bladder]] (spinal cord injury)
+> - [[Full/Neurogenic Bladder]] (spinal cord injury)
 > - Detrusor failure (chronic retention)
 
 
@@ -215,7 +215,7 @@ Pay particular attention to the supra-pubic region. A distended bladder will be 
 - Tenderness of the ribs or para-spinal muscles is not renal in origin
 
 Renal angle tenderness suggests:
-- [[Urinary Tract Infection|Pyelonephritis]]
+- [[Full/Urinary Tract Infection|Pyelonephritis]]
 - Renal or perirenal abscess
 - Acute hydronephrosis
 

@@ -12,7 +12,7 @@ Temperature, pulse, respiratory rate, blood pressure and SpO2.
 #### Gather equipment
 - Ear thermometer
 - Disposable tip
-- [[snippets/Oxygen|Oxygen]] sats probe
+- [[Pearls/Oxygen|Oxygen]] sats probe
 - Sphygmomanometer
 - Stethoscope - cleaned with alcohol wipes
 
@@ -38,8 +38,8 @@ Patient should be rested for 3-5 minutes before blood pressure is measured
 2. Sit the patient in a neutral position
 3. Palpate brachial pulse and apply cuff over brachial artery
 4. Place the stethoscope over brachial artery and palpate radial pulse
-5. Inflate cuff to get a ball-[[park]] reading and then deflate
-6. Reinflate the cuff to 20-30mm above the ball-[[park]] and slowly release.
+5. Inflate cuff to get a ball-[[Full/park]] reading and then deflate
+6. Reinflate the cuff to 20-30mm above the ball-[[Full/park]] and slowly release.
 7. Listen for when two consecutive heart beats can be heard (systolic)
 8. Continue to delate the cuff until no sounds can be heard (diastolic)
 

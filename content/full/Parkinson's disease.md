@@ -21,7 +21,7 @@ date: 2024-01-23
 - Head injury
 - Pesticide exposure (maybe)
 
-- Drug induced (anti-psychotic drugs) - reduce dopamine e.g. risperidone, haloperidol, [[snippets/Metoclopramide|Metoclopramide]] promethazine, prochlorperazine
+- Drug induced (anti-psychotic drugs) - reduce dopamine e.g. risperidone, haloperidol, [[Pearls/Metoclopramide|Metoclopramide]] promethazine, prochlorperazine
 
 **Decrease risk**
 - Smoking
@@ -31,7 +31,7 @@ date: 2024-01-23
 
 ## Symptoms
 
-- [[Depression]]
+- [[Full/Depression]]
 - Parkinson's Dementia (Lewy Body)
 - Micrographia
 - Sleep disorders - REM sleep disturbance, presents up to 30 years before Parkinson's 

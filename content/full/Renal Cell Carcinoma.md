@@ -23,7 +23,7 @@ Two most common:
 
 - Age (60+)
 - Male
-- [[Obesity]]
+- [[Full/Obesity]]
 - Smoking
 - NSAID use
 - ESRF and on dialysis
@@ -40,12 +40,12 @@ Two most common:
 ###### Effects of Distant Metastases
 
 - Lung mets -> SOB
-- [[snippets/Bone|Bone]] mets -> [[snippets/Bone|Bone]] pain
+- [[Pearls/Bone|Bone]] mets -> [[Pearls/Bone|Bone]] pain
 
 ###### Paraneoplastic Syndromes
 
 - Weight loss "cancer cachexia"
-- [[Essential hypertension|Hypertension]]
+- [[Full/Essential hypertension|Hypertension]]
 - Polycythaemia
 
 ## Diagnostic Tests

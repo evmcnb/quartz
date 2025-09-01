@@ -17,9 +17,9 @@ Blood from superficial veins of the leg pass into deep veins via perforation vei
 
 - **Heredity:** A family history of varicose veins can increase the risk.
 - **Age:** Risk increases with age as veins lose elasticity.
-- **Gender:** Women are more prone to varicose veins due to hormonal changes, including [[Pregnancy]].
-- **[[Pregnancy]]:** Increased pressure on the veins in the pelvis and legs.
-- **[[Obesity]]:** Excess weight can put more pressure on the leg veins.
+- **Gender:** Women are more prone to varicose veins due to hormonal changes, including [[Full/Pregnancy]].
+- **[[Full/Pregnancy]]:** Increased pressure on the veins in the pelvis and legs.
+- **[[Full/Obesity]]:** Excess weight can put more pressure on the leg veins.
 - **Prolonged Standing or Sitting:** Occupations or activities that involve long periods of sitting or standing.
 
 ## Symptoms
@@ -35,7 +35,7 @@ Blood from superficial veins of the leg pass into deep veins via perforation vei
 - **Visible Veins:** Twisted and bulging veins that can be seen through the skin.
 - **Oedema:** If blood cannot return fluid may accumulate in legs
 - **Eczema:** Skin may become discoloured, dry, and itchy around the veins.
-- **[[Skin Ulcers]]:** In severe cases, [[Skin Ulcers]] can develop near the ankles.
+- **[[Full/Skin Ulcers]]:** In severe cases, [[Full/Skin Ulcers]] can develop near the ankles.
 
 ## Diagnostic Tests
 

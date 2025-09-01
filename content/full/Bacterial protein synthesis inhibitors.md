@@ -10,7 +10,7 @@ date: 2023-11-04
 ## Aminoglycosides
 _Gentamicin, Tobramycin, Amikacin_
 - For Gram -ve infections ($\downarrow$ activity against most Gram +ve and anaerobes)
-- Gentamicin used for eye infections, [[Otitis Externa]] along with other combination uses
+- Gentamicin used for eye infections, [[Full/Otitis Externa]] along with other combination uses
 - Poor GI absorption
 - **Tobramycin** has $\uparrow$ activity against Pseudomonas
 - Amikacin has least resistance
@@ -39,5 +39,5 @@ _Tigecycline_
 | --------------- | ---------------------------------------------------------------- | ---------------------------------------- |
 | [[snippets/Clindamycin|Clindamycin]]     | Gram +ve cocci (not enterococci), MRSA, anaerobes                | $\uparrow$ risk C. diff                  |
 | Linezolid       | Gram +ve cocci, MRSA, VRE, anaerobes, mycobacteria               | MAOI check interactions                  |
-| Chloramphenicol | Gram +ve & -ve, anaerobes, mycoplasma, chlamydia, [[Conjunctivitis]] | Systemic use limited by myelosuppression |
+| Chloramphenicol | Gram +ve & -ve, anaerobes, mycoplasma, chlamydia, [[Full/Conjunctivitis]] | Systemic use limited by myelosuppression |
 | Fusidic acid    | Staphylococci                                                    | $\uparrow$ LFTs                                         |

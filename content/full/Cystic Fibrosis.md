@@ -15,10 +15,10 @@ Purely genetic condition, mutation leads to defect in chloride ion channel causi
 ### Clinical Features
 
 - Neonates: failure to thrive, rectal prolapse
-- Children: cough, wheeze, recurrent infections, [[full/bronchiectasis]], [[full/pneumothorax]], haemoptysis
-- Adult: male infertility, [[full/osteoporosis]], [[Osteoarthritis]], [[vasculitis]], abnormal bowel movements
-- Loss of Islets of Langerhans cells ([[snippets/Insulin|Insulin]]) -> CF related diabetes
-- **[[clubbing]] of fingers**
+- Children: cough, wheeze, recurrent infections, [[Full/bronchiectasis]], [[Full/pneumothorax]], haemoptysis
+- Adult: male infertility, [[Full/osteoporosis]], [[Full/Osteoarthritis]], [[vasculitis]], abnormal bowel movements
+- Loss of Islets of Langerhans cells ([[Pearls/Insulin|Insulin]]) -> CF related diabetes
+- **[[Full/clubbing]] of fingers**
 - Cyanosis
 
 ## Diagnostic Tests

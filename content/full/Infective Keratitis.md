@@ -8,7 +8,7 @@ date: 2024-02-07
 aliases:
   - Corneal ulcer
 ---
-[[Corneal abrasion]] + bacteria/infective element $\rightarrow$ corneal abrasion (infective keratitis)
+[[Full/Corneal abrasion]] + bacteria/infective element $\rightarrow$ corneal abrasion (infective keratitis)
 
 > [!danger] Sight threatening infection
 >
@@ -33,8 +33,8 @@ aliases:
 ##### **Risk factors**:
 - Contact lens wear - most common factor esp in prolonged used and poor hygiene
 - Corneal trauma
-- Ocular surface disease - dry eye, lid malposition, [[Blepharitis]]
-- [[snippets/Immunosuppression|Immunosuppression]] 
+- Ocular surface disease - dry eye, lid malposition, [[Full/Blepharitis]]
+- [[Pearls/Immunosuppression|Immunosuppression]] 
 
 ##### **Features** - usually causes unilateral symptoms: 
 - Ocular pain
@@ -55,7 +55,7 @@ aliases:
 
 ##### **Management**
 - Stop contact lens use immediately
-- Topical antibiotics - initially broad spectrum (fluoroquinolone or cefuroxime and [[snippets/Gentamicin|Gentamicin]]) until culture returns
+- Topical antibiotics - initially broad spectrum (fluoroquinolone or cefuroxime and [[Pearls/Gentamicin|Gentamicin]]) until culture returns
 - Oral antibiotics in severe cases
 
 ##### **Complications**:
@@ -75,7 +75,7 @@ The overall visual outcome is **very variable** and dependent on a number of f
 
 ##### **Risk factors**
 - Direct contact with infected secretions or lesions
-- Reactivation via trauma to trigeminal nerve, stress, [[snippets/Immunosuppression|Immunosuppression]], previous reactivation
+- Reactivation via trauma to trigeminal nerve, stress, [[Pearls/Immunosuppression|Immunosuppression]], previous reactivation
 
 Each attack is associated with a greater is of recurrence
 
@@ -93,7 +93,7 @@ Each attack is associated with a greater is of recurrence
 
 ##### **Management**
 - Stop contact lens use
-- Topical [[snippets/Antivirals|Antivirals]] (aciclovir 3% ointment 5 time a day for up to 2 weeks)
+- Topical [[Pearls/Antivirals|Antivirals]] (aciclovir 3% ointment 5 time a day for up to 2 weeks)
 - Epithelial debridement - to reduce viral load and promote healing
 - May need long term oral anti-viral prophylaxis
 
@@ -138,7 +138,7 @@ Each attack is associated with a greater is of recurrence
 > Visual prognosis is generally poor due to high rate of complications. Recurrence is common after tapering treatment off
 >
 > Other complications include:
-> - Severe inflammatory response leading to [[Scleritis]] 
+> - Severe inflammatory response leading to [[Full/Scleritis]] 
 > - Corneal perforation
 
 

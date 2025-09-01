@@ -36,7 +36,7 @@ Prolonged diarrhoea - acute-onset diarrhoea that has persisted for over 14 days.
 
 - Dehydration
 - Hypotension
-- [[snippets/Electrolyte imbalance|Electrolyte imbalance]]
+- [[Pearls/Electrolyte imbalance|Electrolyte imbalance]]
 - Malaise and fatigue
 
 ## Investigations
@@ -44,7 +44,7 @@ Prolonged diarrhoea - acute-onset diarrhoea that has persisted for over 14 days.
 - Abdo exam - ask about bowels blood etc
 - **Stool culture**
 - Blood tests if admitted 
-- Imaging if suspecting a [[snippets/Bowel Obstruction|Bowel Obstruction]]
+- Imaging if suspecting a [[Pearls/Bowel Obstruction|Bowel Obstruction]]
 
 ## Management
 
@@ -64,6 +64,6 @@ Rarely fatal especially in extremes of age or with pre-existing conditions. Usua
 
 - Lactose intolerance
 - Irritable bowel syndrome
-- [[snippets/Reactive Arthritis|Reactive Arthritis]]
+- [[Pearls/Reactive Arthritis|Reactive Arthritis]]
 - Guillain–Barré syndrome
 - Haemolytic uraemic syndrome

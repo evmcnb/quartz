@@ -16,15 +16,15 @@ date: 2023-11-12
 
 ## Causes/Factors
 
-- [[Diabetes Mellitus]]
-- [[Essential hypertension|Hypertension]]
+- [[Full/Diabetes Mellitus]]
+- [[Full/Essential hypertension|Hypertension]]
 - Age 75+
-- [[full/Glomerulonephritis]]
+- [[Full/Glomerulonephritis]]
 - Obstruction of kidney (without acute effect)
-- [[full/Polycystic Kidney Disease]]
-- [[Alport Syndrome]]
+- [[Full/Polycystic Kidney Disease]]
+- [[Pearls/Alport syndrome]]
 - APOL 1 Gene
-- [[Acute Kidney Injury]]
+- [[Full/Acute Kidney Injury]]
 - [[Reflux Nephropathy]]
 - Chronic nephrotoxin use
 
@@ -47,7 +47,7 @@ date: 2023-11-12
 
 Distinguish between AKI and CKD: baseline creatinine value. Favouring CKD:
 
-- [[snippets/Anaemia|Anaemia]]
+- [[Pearls/Anaemia|Anaemia]]
 - low calcium
 - high phosphate
 - elevated parathroid hormone
@@ -56,7 +56,7 @@ Distinguish between AKI and CKD: baseline creatinine value. Favouring CKD:
 ## Management
 
 - Change life style to reduce risk
-- Tolvaptan (for [[full/Polycystic Kidney Disease]])
+- Tolvaptan (for [[Full/Polycystic Kidney Disease]])
 
 Kidney Replacement Therapy
 
@@ -75,8 +75,8 @@ Palliative Care sometimes as its a lot of effort to continue with dialysis
 ## Complications/red Flags
 
 - Increased risk of other outcomes
-  - [[Coronary Artery Disease]]
-  - [[Acute Kidney Injury]]
+  - [[Full/Coronary Artery Disease]]
+  - [[Full/Acute Kidney Injury]]
   - Hyperparathyroidism (low Ca, low activated vit D, high phosphate causes increased PTH )
-  - [[snippets/Anaemia|Anaemia]]
-  - [[Essential hypertension]]
+  - [[Pearls/Anaemia|Anaemia]]
+  - [[Full/Essential hypertension]]

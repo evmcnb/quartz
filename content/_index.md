@@ -1,9 +1,9 @@
 ---
 tags: 
-title: Nosos Notes - Home
+title: _index
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
-date modified: 2025-01-27
+date modified: Monday, September 1st 2025, 12:52:49 pm
 date: 2024-02-17
 ---
 
