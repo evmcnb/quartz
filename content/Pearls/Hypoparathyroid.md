@@ -21,5 +21,5 @@ Causes
 Symptoms of hypocalcemia and [[Pearls/Hyperphosphatemia|Hyperphosphatemia]] ([[Pearls/Electrolyte imbalance|table]])
 ## Secondary
 
-[[Full/Depression]] due to chronic [[Pearls/Hypocalcaemia|Hypocalcaemia]], would likely accompanied by signs of [[Pearls/Hypocalcaemia|Hypocalcaemia]]
+[[MLA/Depression]] due to chronic [[Pearls/Hypocalcaemia|Hypocalcaemia]], would likely accompanied by signs of [[Pearls/Hypocalcaemia|Hypocalcaemia]]
 

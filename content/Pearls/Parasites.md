@@ -52,7 +52,7 @@ P. knowlesi, P. falciparum, P. ovale, P. vivax, P. malariae
 
 * Distribution - sub-Saharan Africa/mosquito living
 * Life cycle - indirect via female Anopheles
-* Clinical - [[Pearls/Anaemia|Anaemia]], bleeding, DIC, confusion, [[Full/Hypoglycaemia]], fevers
+* Clinical - [[Pearls/Anaemia|Anaemia]], bleeding, DIC, confusion, [[MLA/Hypoglycaemia]], fevers
 * Diagnosis - blood film microsopy, PCR and serolgoy
 * Treatment - Quinones,
 

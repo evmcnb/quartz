@@ -11,7 +11,7 @@ tags: ['Antibiotic', 'Drug']
 | --- | --- |
 | **Mechanism** | Broad spec bacteriostatic abx - inhibits bacterial protein synthesis |
 | **Typical Dose** | 250-500mg QDS |
-| **Indications** | * Alternative to penicillin * Gram +ve (and some gram -ve) infections * Mycoplasma pneumoniae, legionella. chlamydia, [[Full/Acne vulgaris]], rosacea |
+| **Indications** | * Alternative to penicillin * Gram +ve (and some gram -ve) infections * Mycoplasma pneumoniae, legionella. chlamydia, [[MLA/Acne vulgaris]], rosacea |
 | **Contra-indications** | Liver disease  Caution: in electrolyte disturbances (pre-disposition to QT interval prolongation) |
 | **Side-effects** | Common: N&V, diarrhoea, rash phlebitis  Rarely: reversible hearing loss, QT prolongation |
 | **Interactions** | Inhibits hepatic drug-metabolising enzymes - so increases exposure to:   * Antihistamines * Cyclosporin * [[snippets/Digoxin|Digoxin]] * Theophylline * [[snippets/Warfarin|Warfarin]] |

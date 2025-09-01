@@ -7,5 +7,5 @@ tags: ['Acute', 'Psychiatry']
 
 
 
-* Hypotension, bradycardia, respiratory [[Full/Depression]] and coma
+* Hypotension, bradycardia, respiratory [[MLA/Depression]] and coma
 * Flumazernil used to reverse

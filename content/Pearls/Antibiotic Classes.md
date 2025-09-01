@@ -10,9 +10,9 @@ tags: ['Antibiotic', 'Drug']
 
 **Beta lactams**
 
-* [[Full/Penicillins]] - relatively narrow spectrum
-* [[Full/Cephalosporins]]
-* [[Full/Carbapenems]]
+* [[MLA/Penicillins]] - relatively narrow spectrum
+* [[MLA/Cephalosporins]]
+* [[MLA/Carbapenems]]
 * Monobactams
 
 **Glycopeptides** - gram +ve only

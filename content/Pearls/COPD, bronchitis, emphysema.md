@@ -22,8 +22,8 @@ tags: ['Respiratory']
 
 ## [COPD](https://notes.nosos.co.uk/COPD)
 
-Combination of **chronic [[Full/bronchitis]]** and **[[Full/emphysema]]**
+Combination of **chronic [[MLA/bronchitis]]** and **[[MLA/emphysema]]**
 
-* Chemicals and heat trigger inflammation in bronchi and lung parenchyma $\rightarrow$ scarring, mucus hyperplasia, alveolar wall loss ([[Full/emphysema]])
+* Chemicals and heat trigger inflammation in bronchi and lung parenchyma $\rightarrow$ scarring, mucus hyperplasia, alveolar wall loss ([[MLA/emphysema]])
 * Mainly in smokers
-* NOT A CAUSE OF [[Full/clubbing]]
+* NOT A CAUSE OF [[MLA/clubbing]]

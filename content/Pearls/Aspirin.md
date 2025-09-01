@@ -11,8 +11,8 @@ tags: ['Cardiovascular', 'Drug']
 | --- | --- |
 | **Mechanism** | Irreversible COXI and COXII inhibitor |
 | **Typical Dose** | 75g OD - 300mg loading in MI |
-| **Indications** | * Secondary prevention for CVD * ACS * Ischemic [[Full/Stroke]]/TIA * OTC pain relief |
-| **Contra-indications** | * Active bleeding * Peptic ulcer * Haemophilia * Breast feeding * [[Full/Pregnancy]] during the third trimester |
+| **Indications** | * Secondary prevention for CVD * ACS * Ischemic [[MLA/Stroke]]/TIA * OTC pain relief |
+| **Contra-indications** | * Active bleeding * Peptic ulcer * Haemophilia * Breast feeding * [[MLA/Pregnancy]] during the third trimester |
 | **Side-effects** | * Bronchospasm * GI haemorrhage |
 | **Interactions** |  |
 | **Elimination** |  |

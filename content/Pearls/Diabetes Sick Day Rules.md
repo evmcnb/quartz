@@ -21,7 +21,7 @@ tags: ['Drug', 'Endocrinology']
 * advise the patient to temporarily stop some oral hypoglycaemics during an acute illness
 * medication may be restarted once the person is feeling better and eating and drinking for 24-48 hours
   + [[Pearls/Metformin|Metformin]]: stop treatment if there is a risk of dehydration, to reduce the risk of lactic acidosis.
-  + sulfonylureas: may increase the risk of [[Full/Hypoglycaemia]]
+  + sulfonylureas: may increase the risk of [[MLA/Hypoglycaemia]]
   + SGLT-2 inhibitors: check for ketones and stop treatment if acutely unwell and/or at risk of dehydration, due to the risk of euglycaemic DKA
   + GLP-1 receptor agonists: stop treatment if there is a risk of dehydration, to reduce the risk of AKI
 * if on [[Pearls/Insulin|Insulin]] therapy, do not stop treatment, as above

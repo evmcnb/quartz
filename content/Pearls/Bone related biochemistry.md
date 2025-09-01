@@ -11,7 +11,7 @@ tags: ['Endocrinology']
 | --- | --- | --- | --- | --- |
 | HyperPTH | $\uparrow$ | $\uparrow$ | $\downarrow$ | $\uparrow$ |
 | [[snippets/Osteomalacia|Osteomalacia]] | $\uparrow$ | $\downarrow$ | $\downarrow$ | $\uparrow$ |
-| [[Full/osteoporosis]] | N | N | N | N |
+| [[MLA/osteoporosis]] | N | N | N | N |
 | Paget's | $\uparrow$ | N | N | N |
 | [[snippets/Bone|Bone]] mets | $\uparrow$ | $\uparrow$ | N | $\downarrow$ |
 

@@ -12,8 +12,8 @@ tags: ['Drug']
 | **Mechanism** | Mimics endogenous opioids, acting on opioid receptors |
 | **Typical Dose** | 10mg every 4 hours - adjusted according to response |
 | **Indications** | * Severe pain * Acute pulmonary oedema due to HF * Intractable cough |
-| **Contra-indications** | * Severe respiratory disease (depressant) * ↑ ICP and head injury (changes pupil response for neuro obs) * Undiagnosed [[Full/Acute Abdomen]] * Acute alcohol intoxication (depressant) * Hepatic failure |
-| **Side-effects** | N&V, drowsiness, constipation, dry mouth, respiratory [[Full/Depression]]  Dependance |
+| **Contra-indications** | * Severe respiratory disease (depressant) * ↑ ICP and head injury (changes pupil response for neuro obs) * Undiagnosed [[MLA/Acute Abdomen]] * Acute alcohol intoxication (depressant) * Hepatic failure |
+| **Side-effects** | N&V, drowsiness, constipation, dry mouth, respiratory [[MLA/Depression]]  Dependance |
 | **Interactions** | Hypnotics: enhances sedative effect |
 | **Elimination** |  |
 | **Additional Notes** | Effects can be reversed with naloxone.  Tolerance begins after 2 weeks of continuous use - after which dose should be increased |

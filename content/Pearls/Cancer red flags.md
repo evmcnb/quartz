@@ -11,7 +11,7 @@ tags: ['Oncology']
 * Symptomatic of SVC obstruction, stridor
 * Haemoptysis
 * Persistent/recurrent chest infection
-* Finger [[Full/clubbing]]
+* Finger [[MLA/clubbing]]
 * Supraclavicular/cervical lymphadenopathy
 * Thrombocytosis
 * Two of: cough, fatigue, SOB, chest pain, weight loss, ↓appetite, smoker, asbestos

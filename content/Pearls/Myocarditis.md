@@ -9,8 +9,8 @@ tags: ['Cardiovascular']
 
 Inflammation of myocardium
 
-Electrical dysfunctions - [[Full/Arrhythmias]]/sudden death
+Electrical dysfunctions - [[MLA/Arrhythmias]]/sudden death
 
-Mechanical dysfunction - [[Full/Heart Failure]]
+Mechanical dysfunction - [[MLA/Heart Failure]]
 
 * [[Pearls/Viruses|Viruses]], Post Group A Strep, SLE/autoimmune, drugs, heart rejection, [[Pearls/Sarcoidosis|Sarcoidosis]]

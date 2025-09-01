@@ -12,7 +12,7 @@ tags: ['Drug', 'Cardiovascular']
 | **Mechanism** | Inhibits angiotensin converting enzyme - ↓ angiotensin II synthesis and ↑ bradykinin accumulation |
 | **Typical Dose** | 2.5mg  - **max 10mg daily** |
 | **Indications** | * HTN * HF * Post-MI * [[snippets/Diabetic Nephropathy|Diabetic Nephropathy]] |
-| **Contra-indications** | * Renal vascular disease (renal artery stenosis) * [[Full/Aortic Stenosis]] * [[Full/Pregnancy]] (unless essential) |
+| **Contra-indications** | * Renal vascular disease (renal artery stenosis) * [[MLA/Aortic Stenosis]] * [[MLA/Pregnancy]] (unless essential) |
 | **Side-effects** | Common: postural hypotension, **dry cough** (switch to ARB), rash  Rarely: [[snippets/Hyperkalaemia|Hyperkalaemia]], decreased renal function |
 | **Interactions** | * Diuretics - pronounced hypotension * [[snippets/Lithium|Lithium]] - increased concentration * NSAIDs - risk of renal impairment * K-sparing diuretics - risk of [[snippets/Hyperkalaemia|Hyperkalaemia]] |
 | **Elimination** |  |

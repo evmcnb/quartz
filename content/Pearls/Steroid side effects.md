@@ -11,7 +11,7 @@ tags: ['Symptom', 'Drug']
 * Weight gain - increased appetite
 * High BP
 * Increased risk of infection - suppressed immune system
-* Glaucoma/[[Full/Cataracts]]
+* Glaucoma/[[MLA/Cataracts]]
 * Skin thinning
 * Higher blood glucose
 * Change in menstrual cycle

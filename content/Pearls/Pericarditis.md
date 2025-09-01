@@ -16,7 +16,7 @@ Infections - Coxackie B, bacteria, TB, fungi etc Autoimmune - [[Pearls/Rheumatic
 
 **Signs:**
 
-* Saddle shaped ST segment with PR [[Full/Depression]]
+* Saddle shaped ST segment with PR [[MLA/Depression]]
 * Worse on inspiration lying down - betting leaning forwards
 * Low-grade fever
 * Friction rub on auscultation

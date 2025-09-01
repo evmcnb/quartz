@@ -11,8 +11,8 @@ tags: ['Drug']
 | --- | --- |
 | **Mechanism** | Interfere with the inward movement of calcium ions into cells   * relaxation of vascular smooth muscle * ↓ myocardial contractility * ↓ conduction at AV node, ↑ refractory period * ↓ afterload and HR - ↓ [[snippets/Oxygen|Oxygen]] consumption |
 | **Typical Dose** | 5mg to up 10mg |
-| **Indications** | * [[Full/Angina]] * HTN |
-| **Contra-indications** | * Cardiogenic shock * Significant [[Full/Aortic Stenosis]] * Unstable [[Full/Angina]] |
+| **Indications** | * [[MLA/Angina]] * HTN |
+| **Contra-indications** | * Cardiogenic shock * Significant [[MLA/Aortic Stenosis]] * Unstable [[MLA/Angina]] |
 | **Side-effects** | **Ankle oedema,**abdominal pain, nausea |
 | **Interactions** | * P450 stuff |
 | **Elimination** |  |

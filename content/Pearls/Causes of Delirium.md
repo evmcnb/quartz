@@ -11,7 +11,7 @@ tags: ['Geriatrics']
 
 **I**nfection  
 
-**N**utrition - [[Full/Hypoglycaemia]], B12, folate, low Na+, high Ca++  
+**N**utrition - [[MLA/Hypoglycaemia]], B12, folate, low Na+, high Ca++  
 
 **C**onstipation  
 

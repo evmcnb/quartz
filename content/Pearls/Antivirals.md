@@ -13,7 +13,7 @@ tags: ['Drug']
 
 **Neuraminidase inhibitors** - [[Pearls/Influenza|Influenza]]
 
-**AZT (zidovudine), tenofovir,** - [[Full/HIV]], *protease inhibitors, NRTIs, integrase inhibitors*
+**AZT (zidovudine), tenofovir,** - [[MLA/HIV]], *protease inhibitors, NRTIs, integrase inhibitors*
 
 **Entecavir, tenofovir DF and tenofovir alafenamide** - HBV
 

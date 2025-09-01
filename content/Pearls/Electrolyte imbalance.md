@@ -13,7 +13,7 @@ tags: ['Nephrology', 'Symptom', 'Endocrinology']
 |  | **Symptoms**: Confusion, seizures, nausea | Agitatied, tachycardic/tachypneaic |
 |  | **Management**: Correct underlying cause, hypertonic saline slowly (to prevent central pontine myelinolysis) | Fluid restrict, with hypotonic saline slowly (to prevent cerebral edema) |
 | Potassium | **Range**: <3.5mmol/L | >5.5mmol/L |
-|  | **Symptoms**: Weakness, [[Full/Arrhythmias]] - T wave inversion, QTc prolongation, muscle cramps | Muscle weakness, cardiac [[Full/Arrhythmias]] - tented [[snippets/T waves|T waves]], QTc shortening, abdo pain |
+|  | **Symptoms**: Weakness, [[MLA/Arrhythmias]] - T wave inversion, QTc prolongation, muscle cramps | Muscle weakness, cardiac [[MLA/Arrhythmias]] - tented [[snippets/T waves|T waves]], QTc shortening, abdo pain |
 |  | **Management**: Oral or IV potassium supplements | Calcium gluconate, [[snippets/Insulin|Insulin]] and dextrose, kayexalate |
 | Calcium | **Range**: <2.1mmol/L | >2.6mmol/L |
 |  | **Symptoms**: Weakness, nausea, muscle cramps, **Trousseau and Chvostek sign** | Weakness, nausea, cramping, constipation |

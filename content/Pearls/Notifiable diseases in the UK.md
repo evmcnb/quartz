@@ -8,7 +8,7 @@ tags: ['InfectiousDisease']
 
 
 * Acute [[Pearls/Encephalitis|Encephalitis]]
-* Acute infectious [[Full/Hepatitis]]
+* Acute infectious [[MLA/Hepatitis]]
 * Acute [[Pearls/Meningitis|Meningitis]]
 * Acute poliomyelitis
 * Anthrax
@@ -36,7 +36,7 @@ tags: ['InfectiousDisease']
 * Scarlet fever
 * Smallpox
 * Tetanus
-* [[Full/Tuberculosis]]
+* [[MLA/Tuberculosis]]
 * Typhus
 * Viral haemorrhagic fever (VHF)
 * Whooping cough

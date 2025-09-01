@@ -12,8 +12,8 @@ tags: ['Drug', 'Cardiovascular']
 | **Mechanism** | * Inhibits Na/Cl reabsorption in distal tubules * Stimulate K excretion further down distal tubule |
 | **Typical Dose** | 2.5-10mg PO OD in the morning |
 | **Indications** | * Oedema * HTN * Prophylaxis of Ca2+ containing renal stones |
-| **Contra-indications** | * Refractory hypokalaemia/hyponatremia/[[snippets/Hypercalcaemia|Hypercalcaemia]] * Addision's disease * Caution: [[Full/gout]], diabetes, SLE |
-| **Side-effects** | ↓ K+ ↑ Ca2+ ↓ Mg2+, ↑ urate (± [[Full/gout]]).   * Postural hypotension * Altered plasma lipid concentrations |
+| **Contra-indications** | * Refractory hypokalaemia/hyponatremia/[[snippets/Hypercalcaemia|Hypercalcaemia]] * Addision's disease * Caution: [[MLA/gout]], diabetes, SLE |
+| **Side-effects** | ↓ K+ ↑ Ca2+ ↓ Mg2+, ↑ urate (± [[MLA/gout]]).   * Postural hypotension * Altered plasma lipid concentrations |
 | **Interactions** | * [[snippets/Digoxin|Digoxin]] - hypokalaemia * [[snippets/Lithium|Lithium]] - decreased excretion |
 | **Elimination** |  |
 | **Additional Notes** | Initial decrease in fluid volume and CO but long term the decrease in BP is due to lower peripheral vascular resistance |

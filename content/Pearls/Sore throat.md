@@ -7,7 +7,7 @@ tags: ['Symptom']
 
 
 
-**[[Full/Tonsillitis & Pharyngitis]]** - virus, Group A Strep (S. pyogenes)
+**[[MLA/Tonsillitis & Pharyngitis]]** - virus, Group A Strep (S. pyogenes)
 
 Centor criteria (if bacterial):
 
@@ -18,5 +18,5 @@ Centor criteria (if bacterial):
 
 **Mononucleosis** - EBV, with cervical lymphadenopathy
 
-**[[Full/Epiglottitis]]** - LIFE THREATENING - muffled voice, stridor - NO THROAT EXAM. Secure airway Hib was commonest cause now S. pneumoiae and pyogenes
+**[[MLA/Epiglottitis]]** - LIFE THREATENING - muffled voice, stridor - NO THROAT EXAM. Secure airway Hib was commonest cause now S. pneumoiae and pyogenes
 

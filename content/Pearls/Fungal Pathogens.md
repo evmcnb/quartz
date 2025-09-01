@@ -24,7 +24,7 @@ tags: ['InfectiousDisease']
 * Cause thrush - disease of oral and vaginal mucosa ([[Pearls/Fluconazole|Fluconazole]])
 * Candidaemia can lead to occular candidosis and candida [[Pearls/Endocarditis|Endocarditis]]
 * Avoid azole therapy for vaginal thrush in pregnant women
-* Opportunistic - $\uparrow$ [[Full/HIV]] patients
+* Opportunistic - $\uparrow$ [[MLA/HIV]] patients
 
 ## Aspergillus
 

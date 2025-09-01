@@ -7,7 +7,7 @@ tags: ['Dermatology', 'InfectiousDisease']
 
 
 
-**[[Full/Impetigo]]** - classically ruptured honey-coloured vesicles. S aureus or Strep. pyogenes
+**[[MLA/Impetigo]]** - classically ruptured honey-coloured vesicles. S aureus or Strep. pyogenes
 
 **Scarlet fever** - flushed face with circumoral pallor, "sandpaper skin", Strep pyogenes
 

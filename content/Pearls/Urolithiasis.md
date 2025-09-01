@@ -10,7 +10,7 @@ tags: ['Nephrology', 'Urology']
 Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\rightarrow$ bladder. Types:
 
 * Calcium oxalate 70% - raised calcium
-* Urate 5% - raised urate, [[Full/gout]] etc
+* Urate 5% - raised urate, [[MLA/gout]] etc
 * Cystine 1% - raised cystine eg congenital cystinuria
 * Struvite 15% - raised pH of urine so magnesium ammonium phosphate salts precipitate out
 

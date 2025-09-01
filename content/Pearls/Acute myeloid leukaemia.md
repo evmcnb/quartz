@@ -17,7 +17,7 @@ Accumulation and proliferation of immature myeloid cells
 Complications include:
 
 * Bleeding
-* Neutropenic [[Full/Sepsis]] - from chemo, broad spec antibiotics
+* Neutropenic [[MLA/Sepsis]] - from chemo, broad spec antibiotics
 
 Poor overall prognosis and worsens with age. Most common type in adults
 

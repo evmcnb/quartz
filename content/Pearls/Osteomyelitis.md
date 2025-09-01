@@ -9,7 +9,7 @@ tags: ['Orthopaedics']
 
 Infection of [[Pearls/Bone|Bone]] - acute pain swelling, pathological fracture
 
-Acute a/w inflammatory reaction, fulminant, [[Full/Sepsis]]
+Acute a/w inflammatory reaction, fulminant, [[MLA/Sepsis]]
 
 Chronic - present for >1 month, smouldering acute flares
 

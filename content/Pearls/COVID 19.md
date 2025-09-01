@@ -19,8 +19,8 @@ Complications:
 
 * ARDS - leading cause of death
 * VTE
-* Cardiovascular - [[Full/Heart Failure]], MI
+* Cardiovascular - [[MLA/Heart Failure]], MI
 * AKI
 * Acute liver injury
-* [[Full/Sepsis]]
+* [[MLA/Sepsis]]
 * more etc

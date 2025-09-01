@@ -16,8 +16,8 @@ tags: ['Gastroenterology', 'Surgery']
 
 | **Common** | **Rare** |
 | --- | --- |
-| [[Full/Hernias]] (small bowel) | Strictures ([[Full/Crohn's Disease]]) |
+| [[MLA/Hernias]] (small bowel) | Strictures ([[MLA/Crohn's Disease]]) |
 | Adhesions (small bowel) | Intussusception (in young children) |
 | Malignancy (large bowel) | Volvulus (large bowel) |
-| Constipation | Gallstone [[Full/Ileus]] |
+| Constipation | Gallstone [[MLA/Ileus]] |
 

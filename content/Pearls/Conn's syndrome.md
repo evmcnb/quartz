@@ -9,11 +9,11 @@ tags: ['Endocrinology']
 
 * Hyperaldosteronism - primary and secondary
 * **Primary**: adrenal cortex hyperplasia, adenoma (intrinsic)
-* **Secondary** - renal artery stenosis, [[Full/Heart Failure]], liver [[Pearls/Cirrhosis|Cirrhosis]] (elsewhere in the body)
+* **Secondary** - renal artery stenosis, [[MLA/Heart Failure]], liver [[Pearls/Cirrhosis|Cirrhosis]] (elsewhere in the body)
 
-Via the RAAS - renal retion of H2O and Na+ so high blood pressure, headache and electrolyte disturbance symptoms - muscle spasms, cardiac [[Full/Arrhythmias]]
+Via the RAAS - renal retion of H2O and Na+ so high blood pressure, headache and electrolyte disturbance symptoms - muscle spasms, cardiac [[MLA/Arrhythmias]]
 
-**Hypokalaemia** coupled with **[[Full/Essential hypertension]]** is suggestive of **primary** **hyperaldosteronism**
+**Hypokalaemia** coupled with **[[MLA/Essential hypertension]]** is suggestive of **primary** **hyperaldosteronism**
 
 The first line investigation for this is a plasma aldosterone/renin ratio, which should show **high aldosterone** levels alongside **low renin** levels.
 

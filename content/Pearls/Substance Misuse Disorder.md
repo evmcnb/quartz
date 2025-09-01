@@ -14,7 +14,7 @@ tags: ['Acute', 'Psychiatry']
 
 Basal ganglia, amygdala and prefrontal cortex are the regions most involved with addition - balance between glutamate, GABA and dopamine
 
-Outpatient [[Full/Counselling]] (addiction clinic), long-term therapeutic communities, etc
+Outpatient [[MLA/Counselling]] (addiction clinic), long-term therapeutic communities, etc
 
 ## Alcohol
 
@@ -22,20 +22,20 @@ Anything up to 14 units a week spread over 3 days or more is okay. Need to diffe
 
 * A common screening tool for alcohol misuse is the **AUDIT-C** questionnaire
 
-1. Main intervention is an alcohol detox. But this method can cause serious withdrawal symptoms - tremors, seizures, [[Full/Delirium]] tremens. Can be deadly - needs to be carefully planned. **Clordiazepoxide**is often prescribed to help with symptoms
+1. Main intervention is an alcohol detox. But this method can cause serious withdrawal symptoms - tremors, seizures, [[MLA/Delirium]] tremens. Can be deadly - needs to be carefully planned. **Clordiazepoxide**is often prescribed to help with symptoms
 2. **Naltrexone** is an opiate blocker that makes alcohol less enjoyable
 3. **Acamprosate** increases GABA and decreases excitatory glutamine thus reduces cravings - good side effect profile and well tolerated
-4. **Disfiram** causes unpleasant symptoms when drinking alcohol, nausea, vomiting, [[Full/Arrhythmias]]. Contraindicated in patients with heart disease, psychosis and risk of suicide
+4. **Disfiram** causes unpleasant symptoms when drinking alcohol, nausea, vomiting, [[MLA/Arrhythmias]]. Contraindicated in patients with heart disease, psychosis and risk of suicide
 
 Prophylactic oral thiamine should be given if they are malnourished or have liver disease
 
 ## Opioid misuse
 
-CNS depressants - overdoses can cause [[Full/Respiratory Failure]] and death
+CNS depressants - overdoses can cause [[MLA/Respiratory Failure]] and death
 
 * Main intervention if opioid detox with methadone reduction
 * Alternative to this is buprenorphine reduction
-* [[Full/Counselling]] and rehab
+* [[MLA/Counselling]] and rehab
 
 ## Benzodiazepines
 
@@ -45,7 +45,7 @@ Assisted withdrawal and supportive treatments
 
 ## CNS stimulants
 
-CNS stimulants activate the **sympathetic nervous system** which causes symptoms such as tachycardia, [[Full/Essential hypertension]], and mydriasis.
+CNS stimulants activate the **sympathetic nervous system** which causes symptoms such as tachycardia, [[MLA/Essential hypertension]], and mydriasis.
 
 Patients using cocaine may develop tactile hallucinations and chest pain.
 

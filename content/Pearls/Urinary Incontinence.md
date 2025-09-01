@@ -46,7 +46,7 @@ Two types - **urge and stress**. Establishing the type is essential for managem
 
 * Bladder retraining - gradually increasing time between going to the toilet for at least 6 weeks
 * Anticholinergic medication - oxybutynin, tolterodine and solifenacin
-* Mirabegron alternative to anticholinergic medications. Contraindicated in uncontrolled [[Full/Essential hypertension]]
+* Mirabegron alternative to anticholinergic medications. Contraindicated in uncontrolled [[MLA/Essential hypertension]]
 * **Invasive options** for those who have failed to respond to medical management:
   + Botulinum toxin - injection into the bladder wall
   + Percutaneous sacral nerve stimulation

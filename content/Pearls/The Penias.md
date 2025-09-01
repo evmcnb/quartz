@@ -16,7 +16,7 @@ date modified: 2025-04-23
 Need to think what can kill cells or prevent new cells
 
 **4S rule**
-- Systemic ([[Full/Systemic Lupus Erythematosus]], tickborne illness)
+- Systemic ([[MLA/Systemic Lupus Erythematosus]], tickborne illness)
 - Substances (chemo, heavy metals, antibiotics (linezolid), alcohol, LACK of substances folate, B12 etc)
-- Space occupying disease - in the bone (granulomatous diseases, fungal infections, [[Full/Tuberculosis]], [[Pearls/Lymphoma]])
+- Space occupying disease - in the bone (granulomatous diseases, fungal infections, [[MLA/Tuberculosis]], [[Pearls/Lymphoma]])
 - Stem cell disorders ([[Pearls/Differentiating features of leukaemia|leukaemia]], [[Pearls/Myelodysplastic syndromes]], aplastic anaemia)

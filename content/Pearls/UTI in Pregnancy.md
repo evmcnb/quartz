@@ -7,7 +7,7 @@ tags: ['Antibiotic', 'Drug']
 
 
 
-UTI in [[Full/Pregnancy]] should always be treated even if asymptomatic
+UTI in [[MLA/Pregnancy]] should always be treated even if asymptomatic
 
 ## First Trimester
 

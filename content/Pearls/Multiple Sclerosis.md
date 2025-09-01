@@ -17,9 +17,9 @@ Episodes of neurological dysfunction including sensory disturbances, and coordin
 * Epstein–Barr virus (EBV)
 * Low vitamin D
 * Smoking
-* [[Full/Obesity]]
+* [[MLA/Obesity]]
 
-[[Full/Optic neuritis]] is the most common presentation of multiple sclerosis. Other eye issues/movements may be present
+[[MLA/Optic neuritis]] is the most common presentation of multiple sclerosis. Other eye issues/movements may be present
 
 Based on clinical symptoms supported by MRI and CSF
 

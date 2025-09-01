@@ -13,7 +13,7 @@ tags: ['Neurology', 'Drug']
 | **Typical Dose** | 600mg daily in 1-2 divided doses |
 | **Indications** | All forms of [[snippets/Epilepsy|Epilepsy]] |
 | **Contra-indications** | * Hepatic dysfunction * Porphyria |
-| **Side-effects** | Common: N&V, weight gain  Rarely: hepatic failure, [[Full/pancreatitis]], blood dyscrasia, sedation, transient hair loss |
+| **Side-effects** | Common: N&V, weight gain  Rarely: hepatic failure, [[MLA/pancreatitis]], blood dyscrasia, sedation, transient hair loss |
 | **Interactions** | Neuroleptics: decreased effects of Na valproate  TCA: ↓ anticonvulsant effects of Na valproate |
 | **Elimination** |  |
 | **Additional Notes** |

@@ -41,7 +41,7 @@ Can occur along side other infections - candidiasis, chlamydia and gonorrhoea
 
 ## Complications
 
-Bacterial vaginosis can increase the risk of catching ***sexually transmitted infections***, including ***chlamydia***,***gonorrhoea***and ***[[Full/HIV]]***.
+Bacterial vaginosis can increase the risk of catching ***sexually transmitted infections***, including ***chlamydia***,***gonorrhoea***and ***[[MLA/HIV]]***.
 
 It is also associated with several complications in pregnant women:
 

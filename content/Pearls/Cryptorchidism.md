@@ -10,4 +10,4 @@ tags: ['Urology']
 Undescended testis - more common in premature babies
 
 * May resolve spontaneously
-* Risk of infertility, [[Full/Hernias]], testicular cancer and torsion
+* Risk of infertility, [[MLA/Hernias]], testicular cancer and torsion

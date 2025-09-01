@@ -17,4 +17,4 @@ Some non-specific changes but in combination PE should be considered
 * **Right atrial enlargement** – peaked P wave in lead II > 2.5 mm in height (9%)
 * **SI QIII TIII  pattern** – deep S wave in lead I, Q wave in III, inverted T wave in III (20%). This “classic” finding is neither sensitive nor specific for PE
 * **New atrial tachyarrhythmias** – AF, flutter and atrial tachycarida (8%)
-* Non-specific ST segment and T wave changes, including ST elevation and [[Full/Depression]] (50%)
+* Non-specific ST segment and T wave changes, including ST elevation and [[MLA/Depression]] (50%)

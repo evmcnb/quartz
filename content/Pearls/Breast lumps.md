@@ -8,7 +8,7 @@ date created: Tuesday, February 20th 2024, 3:59:54 pm
 date modified: 2024-03-11
 date: 2024-03-11
 ---
-Benign breast [[Full/Lumps]] - see [[Full/Breast carcinoma]] for malignant
+Benign breast [[MLA/Lumps]] - see [[MLA/Breast carcinoma]] for malignant
 
 ## Fibroadenoma
 
@@ -40,7 +40,7 @@ Can vary in severity and affect QoL if severe. Management include:
 
 ## Breast Cysts
 
-Benign individual fluid filled [[Full/Lumps]]. Most common cause of breast [[Full/Lumps]] between 30-50 y/o. 
+Benign individual fluid filled [[MLA/Lumps]]. Most common cause of breast [[MLA/Lumps]] between 30-50 y/o. 
 
 Can be painful and may fluctuate in size over cycle
 - Smooth

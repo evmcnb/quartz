@@ -15,8 +15,8 @@ Opportunistic when antibiotics remove other bacterial competition and can get ou
 
 * [[Pearls/Clindamycin|Clindamycin]]
 * [[Pearls/Ciprofloxacin|Ciprofloxacin]] (and other fluoroquinolones)
-* [[Full/Cephalosporins]]
-* [[Full/Carbapenems]] (e.g., meropenem)
+* [[MLA/Cephalosporins]]
+* [[MLA/Carbapenems]] (e.g., meropenem)
 
 **PPIs are also a risk factor for *C. difficile* infection**
 

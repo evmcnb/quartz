@@ -11,10 +11,10 @@ tags: ['Cardiovascular', 'Drug']
 | --- | --- |
 | **Mechanism** | * Inhibits Na/K pump - ↑ intracellular Na conc inhibiting Na/Ca pump * ↓ Ca pumped out of cell - ↑ **force of contraction** * ↑ vagal activity, ↓ HR/AV node conduction |
 | **Typical Dose** | 125-250 micrograms |
-| **Indications** | * HF * Supraventricular [[Full/Arrhythmias]] (esp fast AF aim for HR <100) |
-| **Contra-indications** | * Complete [[Full/Heart Block]] * HOCM * WPW syndrome |
+| **Indications** | * HF * Supraventricular [[MLA/Arrhythmias]] (esp fast AF aim for HR <100) |
+| **Contra-indications** | * Complete [[MLA/Heart Block]] * HOCM * WPW syndrome |
 | **Side-effects** | Common: nausea, vomiting, anorexia, visual disturbances  Rarely: confusion, hallucinations |
 | **Interactions** | * [[snippets/Amiodarone|Amiodarone]]/propafenone/quinidine: antiarrhythmics ↑ risk of digoxin toxicity * CCBs: ↑ risk of digoxin toxicity * Diuretics: hypokalaemia can ↑ risk of toxicity |
 | **Elimination** | Excreted via the kidneys |
-| **Additional Notes** | * Can cause ST [[Full/Depression]] - digoxin effect * Weak +ve inotrope, half life of 36 hours |
+| **Additional Notes** | * Can cause ST [[MLA/Depression]] - digoxin effect * Weak +ve inotrope, half life of 36 hours |
 

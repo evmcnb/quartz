@@ -17,7 +17,7 @@ B12 deficiency causes ***macrocytic [[Pearls/Anaemia|Anaemia]]*** - DNA synthesi
 
 ### Neuropathy
 
-* **[[Full/peripheral neuropathy]]**
+* **[[MLA/peripheral neuropathy]]**
 * Loss of vibration
 * Loss of proprioception
 * Visual changes

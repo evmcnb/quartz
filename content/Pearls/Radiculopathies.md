@@ -24,5 +24,5 @@ Symptoms radiate from the spine to the limbs in a specific pattern corresponding
 
 Diagnose through exam, MRI/CT and EMG
 
-Treatment may include pain management, physical therapy, epidural steroid [[Full/Injections]], and in some cases, surgical intervention to relieve nerve compression.
+Treatment may include pain management, physical therapy, epidural steroid [[MLA/Injections]], and in some cases, surgical intervention to relieve nerve compression.
 

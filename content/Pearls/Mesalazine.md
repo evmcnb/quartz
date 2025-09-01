@@ -11,7 +11,7 @@ tags: ['Drug', 'Gastroenterology']
 | --- | --- |
 | **Mechanism** | Release 5-aminosalicyclate acid in the bowel |
 | **Typical Dose** | 2.4-4.8g OD |
-| **Indications** | * Mild-moderate [[Full/Ulcerative Colitis]]/Crohn's * Maintenance of remission * RA |
+| **Indications** | * Mild-moderate [[MLA/Ulcerative Colitis]]/Crohn's * Maintenance of remission * RA |
 | **Contra-indications** | * Salicylate hypersensitivity * Renal impairment |
 | **Side-effects** | * GI disturbances * Headache * Arthralgia * Leucopenia |
 | **Interactions** | No severe |

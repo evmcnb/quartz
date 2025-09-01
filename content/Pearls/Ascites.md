@@ -16,7 +16,7 @@ tags: ['Gastroenterology', 'Hepatology']
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Straw-coloured | - Malignancy (most common) <br>- Cirrhosis  <br>- Infective (TB, perforation) <br>- Hepatic vein obstruction <br>- Chronic pancreatitis <br>- CCF <br>- Hypoproteinaemia (nephrotic syndrome) |
 | Chylous        | * Obstruction of main lympatic duct (eg by carcinoma) - chylomicrons are present * [[Pearls/Cirrhosis\|Cirrhosis]]                                                                          |
-| Haemorrhagic   | * Malignany * Ruptured ectopic [[Full/Pregnancy]] * Abdo trauma * Acute [[Full/pancreatitis]]                                                                                                      |
+| Haemorrhagic   | * Malignany * Ruptured ectopic [[MLA/Pregnancy]] * Abdo trauma * Acute [[MLA/pancreatitis]]                                                                                                      |
 
 Urine sodium rarely exceeds 5mmol/24hr and extrarenal sites account for ≈ 30mmol/24hr. Under these circumstances a normal sodium intake of 120-200mmol results in a positive sodium balance of 90-170mmol (600-1300mL of fluid retained)
 

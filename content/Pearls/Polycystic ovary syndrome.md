@@ -15,5 +15,5 @@ Endocrine disorder characterised by hyperandrogenism + [[Pearls/Insulin|Insulin]
 Diganosis 2/3 of:
 
 * infrequent/no ovulation
-* clinical/biochemical signs of hypoaldosterism (hirutism, [[Full/Acne vulgaris]])
+* clinical/biochemical signs of hypoaldosterism (hirutism, [[MLA/Acne vulgaris]])
 * polycystic ovaries on USS

@@ -24,5 +24,5 @@ tags: ['Symptom']
 **E**ndocrine  
 
 
-Go through everything looking for [[Full/Red Flag Symptoms]] to ask
+Go through everything looking for [[MLA/Red Flag Symptoms]] to ask
 
