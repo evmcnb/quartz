@@ -17,7 +17,7 @@ Most common moderately well differentiated adenocarcinoma (mucious in 10-20%) in
 
 Protective - fibre/folate, [[Pearls/Aspirin|Aspirin]] (NSAIDs), oral contraceptives
 
-Bad - fat/red meat, [[MLA/Obesity]], alcohol, either IBD
+Bad - fat/red meat, [[Full/Obesity]], alcohol, either IBD
 
 **Red flags**
 

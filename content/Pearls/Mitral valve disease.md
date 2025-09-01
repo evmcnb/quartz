@@ -16,7 +16,7 @@ Other signs:
 
 * ***Tapping apex beat***, which is a palpable, prominent S1
 * ***Malar flush***
-* ***[[MLA/Atrial Fibrillation]]*** (irregularly irregular pulse)
+* ***[[Full/Atrial Fibrillation]]*** (irregularly irregular pulse)
 
 Causes of mitral stenosis:
 
@@ -32,8 +32,8 @@ Leaking valve causes a reduced ejection fraction - CHF. Second most common indic
 Other signs of mitral regurgitation:
 
 * ***Thrill*** in the mitral area on palpation
-* Signs of ***[[MLA/Heart Failure]]*** and ***pulmonary oedema***
-* ***[[MLA/Atrial Fibrillation]]*** (irregularly irregular pulse)
+* Signs of ***[[Full/Heart Failure]]*** and ***pulmonary oedema***
+* ***[[Full/Atrial Fibrillation]]*** (irregularly irregular pulse)
 
 Causes of mitral regurgitation:
 

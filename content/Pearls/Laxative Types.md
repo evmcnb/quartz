@@ -18,7 +18,7 @@ tags: ['Geriatrics', 'Surgery', 'Drug']
 
 ***Movicol***is first line for idiopathic constipation
 
-Do not prescribe laxatives if there is suspected: obstruction or perforation, paralytic [[MLA/Ileus]], colonic atony or faecal impaction, [[MLA/Crohn's Disease]] or [[MLA/Ulcerative Colitis]], toxic megacolin, severe dehydration (bisacodyl), galactosaemia (lactulose), history of peanut sensitivity (arachis oil enema).
+Do not prescribe laxatives if there is suspected: obstruction or perforation, paralytic [[Full/Ileus]], colonic atony or faecal impaction, [[Full/Crohn's Disease]] or [[Full/Ulcerative Colitis]], toxic megacolin, severe dehydration (bisacodyl), galactosaemia (lactulose), history of peanut sensitivity (arachis oil enema).
 
 Movicol has high sodium content, so consider in [[Pearls/Electrolyte imbalance|Electrolyte imbalance]].
 

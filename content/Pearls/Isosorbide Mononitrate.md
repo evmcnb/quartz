@@ -11,7 +11,7 @@ tags: ['Cardiovascular', 'Drug']
 | --- | --- |
 | **Mechanism** | Metabolised to NO in smooth muscle cells  Causes vascular smooth muscle relaxation  Coronary artery/systemic vein vasodilation |
 | **Typical Dose** | 20-50mg OD |
-| **Indications** | * [[MLA/Angina]] prophylaxis * HF |
+| **Indications** | * [[Full/Angina]] prophylaxis * HF |
 | **Contra-indications** | * Hypotension * Aortic/mitral stenosis * Contrictive [[snippets/Pericarditis|Pericarditis]] * Hypertrophic obstructive cardiomyopathy * Head trauma/cerebral haemorrhage |
 | **Side-effects** | Headache, dizziness, postural hypotension, flushing, tachycardia |
 | **Interactions** | Sildenafil - ↑ hypotensive effects |

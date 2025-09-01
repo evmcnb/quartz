@@ -9,7 +9,7 @@ tags: ['Gastroenterology']
 
 Abnormal swellings of the vascular mucosal anal cushions around the anus.
 
-Women are predisposed to developing haemorrhoids during [[MLA/Pregnancy]] - bulk forming laxatives are not absorbed and are therefore safe for [[MLA/Pregnancy]]. **No other preparations are licensed for use during [[MLA/Pregnancy]]**
+Women are predisposed to developing haemorrhoids during [[Full/Pregnancy]] - bulk forming laxatives are not absorbed and are therefore safe for [[Full/Pregnancy]]. **No other preparations are licensed for use during [[Full/Pregnancy]]**
 
 Classification:
 

@@ -12,7 +12,7 @@ tags: ['Cardiovascular', 'Drug']
 | **Mechanism** | Displace angiotensin II from the angiotensin I receptor |
 | **Typical Dose** | 12.5-100mg |
 | **Indications** | * HTN * [[snippets/Diabetic Nephropathy|Diabetic Nephropathy]] |
-| **Contra-indications** | * **[[MLA/Pregnancy]]/breast feeding** * Caution in hepatic/renal impairment |
+| **Contra-indications** | * **[[Full/Pregnancy]]/breast feeding** * Caution in hepatic/renal impairment |
 | **Side-effects** | * Hypotension * Abdo pain * [[snippets/Hyperkalaemia|Hyperkalaemia]] |
 | **Interactions** |  |
 | **Elimination** |  |

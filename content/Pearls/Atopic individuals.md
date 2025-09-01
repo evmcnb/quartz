@@ -11,6 +11,6 @@ People with a genetic predisposition to develop allergic conditions.
 
 Triad of:
 
-* [[MLA/asthma]]
+* [[Full/asthma]]
 * Eczema
 * Food allergies

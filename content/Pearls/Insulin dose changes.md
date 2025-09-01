@@ -11,5 +11,5 @@ DKA: long-acting [[Pearls/Insulin|Insulin]] should be continued, short-acting [[
 
   
 
-[[MLA/Pregnancy]]: continue short-acting, stop long-acting [[Pearls/Insulin|Insulin]]
+[[Full/Pregnancy]]: continue short-acting, stop long-acting [[Pearls/Insulin|Insulin]]
 

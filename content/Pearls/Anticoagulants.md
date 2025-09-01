@@ -12,7 +12,7 @@ Increases the ability of antithrombin molecule to irreversibly inhibit **thrombi
 
 **LMWH** - mainly inhibits FXa only, less monitoring needed. Sub-cut inj. **Unfractionated** - continuous infusion, monitor aPTT ratio, uncommon can cause HIT (heparin induced thrombocytopenia)
 
-* Chronic use $\rightarrow$ [[MLA/osteoporosis]]
+* Chronic use $\rightarrow$ [[Full/osteoporosis]]
 * Reverse effects with protamine sulphate
 
 ### Warfarin

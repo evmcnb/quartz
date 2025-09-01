@@ -7,5 +7,5 @@ tags: ['Drug']
 
 
 
-* Commonly used in management of [[MLA/Essential hypertension]] and [[MLA/Heart Failure]]
-* Exacerbate [[MLA/gout]] by increasing serum uric acid levels
+* Commonly used in management of [[Full/Essential hypertension]] and [[Full/Heart Failure]]
+* Exacerbate [[Full/gout]] by increasing serum uric acid levels

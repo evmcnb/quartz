@@ -7,7 +7,7 @@ tags: ['Symptom']
 
 
 
-Low intake - [[Pearls/Malnutrition|Malnutrition]], malabsorption, [[MLA/Alcoholism]]
+Low intake - [[Pearls/Malnutrition|Malnutrition]], malabsorption, [[Full/Alcoholism]]
 
 Excess loss - hyperparathyroidism, renal tubular damage (Fanconi syndrome), diarrhoea
 

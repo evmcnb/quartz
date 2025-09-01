@@ -7,7 +7,7 @@ tags: ['ENT', 'Gastroenterology', 'Oncology']
 
 
 
-[[MLA/Squamous cell carcinoma]] - other carcinogens - HPV, alcohol, burns...
+[[Full/Squamous cell carcinoma]] - other carcinogens - HPV, alcohol, burns...
 
 Adenocarcinoma - caused by [[Pearls/Barrett's oesophagus|Barrett's oesophagus]] - mainly caucasians
 

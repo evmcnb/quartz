@@ -10,9 +10,9 @@ tags: ['Nephrology']
 * Damaged basement membrane = extracellular matrix production **Kimmelstiel-Wilson nodules**
 * Small vessel damage = ischaemia and tubular damage
 
-Often asymptomatic CKD / [[MLA/Nephrotic syndrome]]
+Often asymptomatic CKD / [[Full/Nephrotic syndrome]]
 
 ## Syndromes
 
 * Nephrotic - ***proteinuria***, hypoalbuminaemia, oedema
-* Nephritic - ***haematuria***, [[MLA/Essential hypertension]], oedema
+* Nephritic - ***haematuria***, [[Full/Essential hypertension]], oedema

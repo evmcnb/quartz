@@ -11,7 +11,7 @@ Usualy bacterial infection of joint.
 
 * Haematogenous - blood stream infection
 * Local spread - soft tissue, [[Pearls/Bone|Bone]], bursitis
-* Penetrating - joint [[MLA/Injections]], surgery, trauma
+* Penetrating - joint [[Full/Injections]], surgery, trauma
 
 *S. aureus, Streps, Haemphilus, N. gonorrhoeae, E coli*
 

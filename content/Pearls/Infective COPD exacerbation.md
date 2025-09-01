@@ -7,5 +7,5 @@ tags: ['Respiratory']
 
 
 
-Infective exacerbation of [[MLA/COPD]] - the most common organism causing this is *Haemophilus influenzae*.
+Infective exacerbation of [[Full/COPD]] - the most common organism causing this is *Haemophilus influenzae*.
 

@@ -13,8 +13,8 @@ tags: ['Drug', 'Endocrinology']
 | **Typical Dose** | (According to requirements) |
 | **Indications** | * Diabetes type I (and 4th line for TII) * Ketoacidosis * Hyperglycaemic hyperosmotic non-ketotic coma * Emergency treatment of [[snippets/Hyperkalaemia|Hyperkalaemia]] |
 | **Contra-indications** | Caution in renal impairment |
-| **Side-effects** | * [[MLA/Hypoglycaemia]] * Weight gain * Oedema |
-| **Interactions** | B-blockers - mask warning signs of [[MLA/Hypoglycaemia]] |
+| **Side-effects** | * [[Full/Hypoglycaemia]] * Weight gain * Oedema |
+| **Interactions** | B-blockers - mask warning signs of [[Full/Hypoglycaemia]] |
 | **Elimination** |  |
 | **Additional Notes** | See [Diabetes management](https://notes.nosos.co.uk/Diabetes-Mellitus#management) for the different types of insulin dose and how to prescribe |
 

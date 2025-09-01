@@ -12,6 +12,6 @@ Caused by adenovirus
 * Fever
 * Pharyngitis
 * Periauricular lymphadenopathy
-* Bilateral [[MLA/Conjunctivitis]]
+* Bilateral [[Full/Conjunctivitis]]
 * Corneal involvement
 

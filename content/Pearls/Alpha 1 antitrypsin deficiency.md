@@ -10,4 +10,4 @@ tags: ['Gastroenterology', 'Respiratory']
 Inherited abnormal anti-protease which cannot be exported from hepatocyte
 
 * Accumulates in liver cells and damages them - [[Pearls/Cirrhosis|Cirrhosis]]
-* Insufficient in blood, failure to inactivate neutrophil digestive enzymes $\rightarrow$ [[MLA/emphysema]]
+* Insufficient in blood, failure to inactivate neutrophil digestive enzymes $\rightarrow$ [[Full/emphysema]]

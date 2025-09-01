@@ -17,5 +17,5 @@ tags: ['Acute', 'Cardiovascular']
 * Widening QRS, tall tented [[Pearls/T waves|T waves]], prolonged PR, flattened P waves
 
 * [[Pearls/Insulin|Insulin]] - drives potassium from extracellular space in
-* Dextrose to prevent [[MLA/Hypoglycaemia]] when [[Pearls/Insulin|Insulin]] is given
+* Dextrose to prevent [[Full/Hypoglycaemia]] when [[Pearls/Insulin|Insulin]] is given
 * Calcium gluconate - stabilised the cardiac membrane

@@ -13,7 +13,7 @@ tags: ['Neurology', 'Drug']
 | **Typical Dose** | Too complex |
 | **Indications** | Idiopathic PD  Parkinsonism |
 | **Contra-indications** | Closed angle glaucoma  Drug induced Parkinsonism |
-| **Side-effects** | Common: anorexia, nausea, vomiting, abdo pain, insomnia, agitation, postural hypotension, discolouration of urine/body fluids  Rarely: psychiatric symptoms - confusion hallucinations, [[MLA/Depression]] |
+| **Side-effects** | Common: anorexia, nausea, vomiting, abdo pain, insomnia, agitation, postural hypotension, discolouration of urine/body fluids  Rarely: psychiatric symptoms - confusion hallucinations, [[Full/Depression]] |
 | **Interactions** | **Anaesthetics:**↑ risk of dysrhythmias  MAOIs: risk of HTN crisis (withdraw L-dopa 2 weeks prior to starting MAOIs)  Neuroleptics: block dopamine |
 | **Elimination** |  |
 | **Additional Notes** | Dopamine itself is not used as it cannot cross the BBB |

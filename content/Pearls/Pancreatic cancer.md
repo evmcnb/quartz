@@ -9,7 +9,7 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 ## Ductal adenocarcinoma
 
 * Most common pancreatic cancer - usually in head of pancreas
-* ↑ risk with chronic [[MLA/pancreatitis]], DM, alcohol
+* ↑ risk with chronic [[Full/pancreatitis]], DM, alcohol
 * Hereditary with Lynch syndrome, FAMMM (p16), Her-2, BRCA1/2, Von Hippel-Lindau, SPINK1, Peutz-Jeghers
 
 ## Carcinoma

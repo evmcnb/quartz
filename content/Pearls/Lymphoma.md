@@ -25,4 +25,4 @@ B or T cell usually solid malignancy in a lymph node
 **Non-Hodkin's lymphoma**
 
 * Everything else - follicular lymphoma most common, t(14;18)
-* Risk factors of [[MLA/HIV]], EBV, H. pylori, Hep B&C, pesticides and other carcinogens
+* Risk factors of [[Full/HIV]], EBV, H. pylori, Hep B&C, pesticides and other carcinogens

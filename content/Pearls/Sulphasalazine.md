@@ -8,5 +8,5 @@ tags: ['Gastroenterology', 'Drug']
 
 
 * Aminosalicylate - to reduce inflammation.
-* Used in the treatment of [[MLA/Ulcerative Colitis]] and [[Pearls/Rheumatoid Arthritis|Rheumatoid Arthritis]]
+* Used in the treatment of [[Full/Ulcerative Colitis]] and [[Pearls/Rheumatoid Arthritis|Rheumatoid Arthritis]]
 * Can cause haemolytic [[Pearls/Anaemia|Anaemia]] with **Heinz bodies**.

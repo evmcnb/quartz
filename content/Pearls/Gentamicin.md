@@ -11,8 +11,8 @@ tags: ['Antibiotic', 'Drug']
 | --- | --- |
 | **Mechanism** | Bactericidal |
 | **Typical Dose** | IV or drops only - 3-7mg/kg in 3 divided doses |
-| **Indications** | Serious aerobic gram -ve infections  [[MLA/Otitis Externa]] (drops) |
-| **Contra-indications** | Myasthenia gravis  [[MLA/Pregnancy]] (can cross placenta and damage foetal CNVIII) |
+| **Indications** | Serious aerobic gram -ve infections  [[Full/Otitis Externa]] (drops) |
+| **Contra-indications** | Myasthenia gravis  [[Full/Pregnancy]] (can cross placenta and damage foetal CNVIII) |
 | **Side-effects** | Nephrotic and ototoxic (CNVIII) |
 | **Interactions** | Cyclosporin: potentiates nephrotoxic effects  Loop diuretics: potentiate nephrotoxic/ototoxic effects |
 | **Elimination** |  |

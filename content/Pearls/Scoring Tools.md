@@ -7,17 +7,17 @@ tags: ['Symptom', 'OSCE']
 
 
 
-**PESI score** - The PESI score ([[MLA/pulmonary embolism]] Severity Index) is recommended by the British Thoracic Society to identify PE patients who can be managed as outpatients.  
+**PESI score** - The PESI score ([[Full/pulmonary embolism]] Severity Index) is recommended by the British Thoracic Society to identify PE patients who can be managed as outpatients.  
 
   
 
-**ORBIT tool** (Outcomes Registry for Better Informed Treatment of [[MLA/Atrial Fibrillation]]) is a tool used to predict bleeding risk in patients on anticoagulation for [[MLA/Atrial Fibrillation]].
+**ORBIT tool** (Outcomes Registry for Better Informed Treatment of [[Full/Atrial Fibrillation]]) is a tool used to predict bleeding risk in patients on anticoagulation for [[Full/Atrial Fibrillation]].
 
-**CHA₂DS₂-VASc** score is a tool used to assess the risk of [[MLA/Stroke]] in people with [[MLA/Atrial Fibrillation]]. It is calculated by assigning points to different risk factors, such as age, history of [[MLA/Stroke]], and vascular disease. A higher score indicates a higher risk of [[MLA/Stroke]].  
+**CHA₂DS₂-VASc** score is a tool used to assess the risk of [[Full/Stroke]] in people with [[Full/Atrial Fibrillation]]. It is calculated by assigning points to different risk factors, such as age, history of [[Full/Stroke]], and vascular disease. A higher score indicates a higher risk of [[Full/Stroke]].  
 
   
 
-**PERC criteria** ([[MLA/pulmonary embolism]] Rule Out Criteria) only rules out a PE if the patient scores 0 (tachycardia, age>49, previous DVTs, and haemoptysis would all score 1).  
+**PERC criteria** ([[Full/pulmonary embolism]] Rule Out Criteria) only rules out a PE if the patient scores 0 (tachycardia, age>49, previous DVTs, and haemoptysis would all score 1).  
 
   
 

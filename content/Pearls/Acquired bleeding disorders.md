@@ -10,7 +10,7 @@ tags: ['Haematology']
 
 Excess clotting uses up all clotting factors which leads to excessive bleeding. Microvascular thrombosis $\rightarrow$ tissue ischaemia
 
-Many causes: trauma, fat necrosis, blood incompatability, liver disease, infection, [[MLA/Sepsis]], cancer
+Many causes: trauma, fat necrosis, blood incompatability, liver disease, infection, [[Full/Sepsis]], cancer
 
 Treat underlying cause and give platelet transfusions
 
@@ -26,7 +26,7 @@ Limited treatment options - platelet tx, FFP/prothrombin complex, cryoprecipitat
 
 ### Renal disease
 
-Drugs accumulating in renal failure ([[MLA/Penicillins]]) can bind to platelets and block their receptors.
+Drugs accumulating in renal failure ([[Full/Penicillins]]) can bind to platelets and block their receptors.
 
 [[Pearls/Anaemia|Anaemia]] can lead to decreased platelet interaction which then causes more platelet function
 

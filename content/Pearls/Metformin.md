@@ -14,7 +14,7 @@ tags: ['Drug', 'Endocrinology']
 | **Indications** | * Type II DM |
 | **Contra-indications** | * Conditions predisposing to lactic acidosis (hepatic/ impairment, severe HF, infection, dehydration) * EGFR <36 |
 | **Side-effects** | Anorexia, nausea, vomiting, diarrhoea, lactic acidosis  GI symptom side effects (can switch to modified release) |
-| **Interactions** | Alcohol: ↑ risk of lactic acidosis  Corticosteroids: antagonise [[MLA/Hypoglycaemia]] effect |
+| **Interactions** | Alcohol: ↑ risk of lactic acidosis  Corticosteroids: antagonise [[Full/Hypoglycaemia]] effect |
 | **Elimination** | Renal - tubular secretion |
-| **Additional Notes** | Does not cause [[MLA/Hypoglycaemia]] |
+| **Additional Notes** | Does not cause [[Full/Hypoglycaemia]] |
 

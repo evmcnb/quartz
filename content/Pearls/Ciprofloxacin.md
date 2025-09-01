@@ -11,8 +11,8 @@ tags: ['Antibiotic', 'Drug']
 | --- | --- |
 | **Mechanism** | Broad spec bactericidal abx - inhibits DNA gyrase (needed to coil and replicate bacterial DNA) |
 | **Typical Dose** | 500mg BD |
-| **Indications** | * Gram -ve infections (Salmonella, pseudomonas, campylobacter, neisseria, e coli, h. influenzae * Some gram +ve * Fistulating [[MLA/Crohn's Disease]] * Acute [[MLA/Otitis Externa]] * Superficial bacterial eye infection (severe) * [[MLA/Infective Keratitis]] * RTIs * Acute prostatitis   + Surgical prophylaxis |
-| **Contra-indications** | **[[MLA/Pregnancy]]**  Children  Caution: [[snippets/Epilepsy|Epilepsy]] (lowers seizure threshold) |
+| **Indications** | * Gram -ve infections (Salmonella, pseudomonas, campylobacter, neisseria, e coli, h. influenzae * Some gram +ve * Fistulating [[Full/Crohn's Disease]] * Acute [[Full/Otitis Externa]] * Superficial bacterial eye infection (severe) * [[Full/Infective Keratitis]] * RTIs * Acute prostatitis   + Surgical prophylaxis |
+| **Contra-indications** | **[[Full/Pregnancy]]**  Children  Caution: [[snippets/Epilepsy|Epilepsy]] (lowers seizure threshold) |
 | **Side-effects** | Common: common ones  Corneal deposits (reversible after completion of treatment)  Arthropathy in children |
 | **Interactions** | * Cyclosporin: ↑ risk of nephrotoxicity * Theophylline: ↑ risk of convulsion * NSAIDs: ↑ risk of convulsion * [[snippets/Warfarin|Warfarin]]: ↑ antocoagulant effects |
 | **Elimination** |  |

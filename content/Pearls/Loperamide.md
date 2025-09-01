@@ -12,7 +12,7 @@ tags: ['Drug', 'Gastroenterology']
 | **Mechanism** | Acts on opioid receptors in myenteric plexus to inhibit peristalsis (inhibits ACh release) |
 | **Typical Dose** | 2-4mg OD up to 16mg in 2 doses |
 | **Indications** | * Acute & chronic diarrhoea * Faecal incontinence |
-| **Contra-indications** | * Active [[MLA/Ulcerative Colitis]] * Abx-associated colitis * Dysentery |
+| **Contra-indications** | * Active [[Full/Ulcerative Colitis]] * Abx-associated colitis * Dysentery |
 | **Side-effects** | * GI disorders (abdo cramps) * Headache * Nausea |
 | **Interactions** | Desmopressin |
 | **Elimination** |  |

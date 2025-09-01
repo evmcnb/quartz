@@ -12,16 +12,16 @@ Vitamin K antagonist - vitamin K dependent clotting factors: II, VII, IX, X and 
 **Indications**:
 
 * Mechanical heart valves
-* Valvular [[MLA/Atrial Fibrillation]]
+* Valvular [[Full/Atrial Fibrillation]]
 * End-stage renal failure needing anticoagulation
 
 **Contraindications**
 
 * Malignancy
 * Bleeding
-* [[MLA/Pregnancy]]
+* [[Full/Pregnancy]]
 * 72 hours before major surgery, 48 hours postpartum
-* Severe [[MLA/Essential hypertension]]
+* Severe [[Full/Essential hypertension]]
 
 ## INR Targets
 

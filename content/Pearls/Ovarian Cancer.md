@@ -29,4 +29,4 @@ FIGO staging -
 
 * [[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]]
 * Breastfeeding
-* [[MLA/Pregnancy]]
+* [[Full/Pregnancy]]

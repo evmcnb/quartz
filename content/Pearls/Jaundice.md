@@ -17,7 +17,7 @@ Or by the type of circulating bilirubin - conjugated or unconjugated
 
 * Water insoluble - does not enter urine
 * Overproduction: haemolysis (malaria/DIC)
-* Impaired hepatic uptake - drugs ([[Pearls/Paracetamol|Paracetamol]], rifampicin), ischaemic [[MLA/Hepatitis]]
+* Impaired hepatic uptake - drugs ([[Pearls/Paracetamol|Paracetamol]], rifampicin), ischaemic [[Full/Hepatitis]]
 
 ## Conjugated
 

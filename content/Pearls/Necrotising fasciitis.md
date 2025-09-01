@@ -9,5 +9,5 @@ tags: ['Orthopaedics', 'InfectiousDisease']
 
 Rapidly progressive, live threatening, tracking along fascia cutting off blood supply $\rightarrow$ necrosis
 
-* Type 1: Synergistic/poly-microbial, Streps, anaerobes. Risk factors DM, [[MLA/Obesity]], [[Pearls/Immunosuppression|Immunosuppression]], elderly
+* Type 1: Synergistic/poly-microbial, Streps, anaerobes. Risk factors DM, [[Full/Obesity]], [[Pearls/Immunosuppression|Immunosuppression]], elderly
 * Type 2: Group A strep (S. pyogenes), younger age, associated with cut/injury. "Dish water" exudate. Treatment: surgical emergency

@@ -7,4 +7,4 @@ tags: ['OBGYN', 'Endocrinology']
 
 
 
-* **Increase** [[Pearls/Levothyroxine|Levothyroxine]] in [[MLA/Pregnancy]] (+25-50mg)
+* **Increase** [[Pearls/Levothyroxine|Levothyroxine]] in [[Full/Pregnancy]] (+25-50mg)

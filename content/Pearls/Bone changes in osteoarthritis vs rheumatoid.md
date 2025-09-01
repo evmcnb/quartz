@@ -7,7 +7,7 @@ tags: ['Rheumatology', 'Orthopaedics']
 
 
 
-[[MLA/Osteoarthritis]] **LOSS -**irregular [[Pearls/Bone|Bone]] remodelling:
+[[Full/Osteoarthritis]] **LOSS -**irregular [[Pearls/Bone|Bone]] remodelling:
 
 1. **L**oss of joint space
 2. **O**steophyte formation (bony spurs protrude out)

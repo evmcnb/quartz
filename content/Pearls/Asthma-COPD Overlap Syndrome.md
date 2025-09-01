@@ -7,17 +7,17 @@ tags: ['Respiratory']
 
 
 
-[[MLA/asthma]]-[[MLA/COPD]] overlap syndrome (ACOS) is diagnosed when you have symptoms of both [[MLA/asthma]] and [[MLA/COPD]]. The sum of both components if often worse than expected.
+[[Full/asthma]]-[[Full/COPD]] overlap syndrome (ACOS) is diagnosed when you have symptoms of both [[Full/asthma]] and [[Full/COPD]]. The sum of both components if often worse than expected.
 
-ACOS is persistent airflow limitation with several features usually associated with [[MLA/asthma]] and other with [[MLA/COPD]]
+ACOS is persistent airflow limitation with several features usually associated with [[Full/asthma]] and other with [[Full/COPD]]
 
-Treatment recommendation is to treat the [[MLA/asthma]] until further investigations are done.- inhaled corticosteroid and add-on LABA and LAMAs.
+Treatment recommendation is to treat the [[Full/asthma]] until further investigations are done.- inhaled corticosteroid and add-on LABA and LAMAs.
 
-[[MLA/COPD]] - still breathless despite using SABA/SAMA and **[[MLA/asthma]]/steroid responsive features** → add a LABA + ICS
+[[Full/COPD]] - still breathless despite using SABA/SAMA and **[[Full/asthma]]/steroid responsive features** → add a LABA + ICS
 
 **Diagnosis**
 
-* Previous diagnosis of [[MLA/asthma]] in context of [[MLA/COPD]]
+* Previous diagnosis of [[Full/asthma]] in context of [[Full/COPD]]
 * Variation if FEV1 of more than 400ml
 * Diurnal variability in peak flow more than 20%
 * Raised blood eosinophil count

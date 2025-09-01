@@ -9,7 +9,7 @@ tags: ['InfectiousDisease']
 
 | Area of travel | Common | Occasional | Rare but don't miss |
 | --- | --- | --- | --- |
-| Sub-Saharan Africa | * Malaria * [[MLA/HIV]] * Rickettsiae | * Schistosomiasis * Amoebiasis * Brucellosis * Dengue * Enteric fever * Meningococcus | * Other arbovirus * Trypanosomiasis * VHF * Visceral leishmaniasis |
+| Sub-Saharan Africa | * Malaria * [[Full/HIV]] * Rickettsiae | * Schistosomiasis * Amoebiasis * Brucellosis * Dengue * Enteric fever * Meningococcus | * Other arbovirus * Trypanosomiasis * VHF * Visceral leishmaniasis |
 | South-East Asia | * Malaria * Chikungunya * Dengue * Enteric fever | * Leptospirosis * Melioidosis | * Hanta virus * Japanese [[snippets/Encephalitis|Encephalitis]] * Rickettsiae * Scrub typhus |
 | South and Central Asia | * Malaria * Dengue * Enteric fever | * Chikungunya * Visceral leishmaniasis | * VHF * Rickettsiae * Japanese [[snippets/Encephalitis|Encephalitis]] |
 | Middle East, Mediterranean, North Africa |  | * Brucellosis * Q-fever * Zika | * Visceral leishmaniasis |

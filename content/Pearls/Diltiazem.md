@@ -11,10 +11,10 @@ tags: ['Drug', 'Cardiovascular']
 | --- | --- |
 | **Mechanism** | Interfere with the inward movement of calcium ions into cells   * relaxation of vascular smooth muscle * ↓ myocardial contractility * ↓ conduction at AV node, ↑ refractory period * ↓ afterload and HR - ↓ [[snippets/Oxygen|Oxygen]] consumption |
 | **Typical Dose** | 60,90,120,240,300mg |
-| **Indications** | * [[MLA/Angina]] * HTN * Dysrhythmias * (SVT resolution instead of adenosine?) |
-| **Contra-indications** | * Severe bradycardia * HF * 2nd/3rd degree [[MLA/Heart Block]] * **[[MLA/Pregnancy]]/breast feeding** |
+| **Indications** | * [[Full/Angina]] * HTN * Dysrhythmias * (SVT resolution instead of adenosine?) |
+| **Contra-indications** | * Severe bradycardia * HF * 2nd/3rd degree [[Full/Heart Block]] * **[[Full/Pregnancy]]/breast feeding** |
 | **Side-effects** | Headache, nausea, dizziness, hypotension, bradycardia |
-| **Interactions** | * Anti-arrhythmics: ↑ myocardia [[MLA/Depression]] * Beta blockers: ↑ risk of AV block/bradycardia * Cyclosporin: ↑ plasma concentration * [[snippets/Digoxin|Digoxin]]: ↑ plasma concentration * Theophylline: ↑ effects |
+| **Interactions** | * Anti-arrhythmics: ↑ myocardia [[Full/Depression]] * Beta blockers: ↑ risk of AV block/bradycardia * Cyclosporin: ↑ plasma concentration * [[snippets/Digoxin|Digoxin]]: ↑ plasma concentration * Theophylline: ↑ effects |
 | **Elimination** |  |
-| **Additional Notes** | Can be used in Prinzmetal's [[MLA/Angina]]. Extensive 1st pass metabolism |
+| **Additional Notes** | Can be used in Prinzmetal's [[Full/Angina]]. Extensive 1st pass metabolism |
 

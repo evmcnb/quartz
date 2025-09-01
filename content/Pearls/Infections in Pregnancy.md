@@ -9,7 +9,7 @@ tags: ['OBGYN', 'InfectiousDisease']
 
 **T**oxoplasmosis
 
-**O**ther (syphilis, [[MLA/HIV]], Coxsackie, HBV, VZV)
+**O**ther (syphilis, [[Full/HIV]], Coxsackie, HBV, VZV)
 
 **R**ubella
 

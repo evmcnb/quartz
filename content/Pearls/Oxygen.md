@@ -13,7 +13,7 @@ tags: ['Respiratory', 'Drug']
 | **Typical Dose**       | [[Pearls/Oxygen requirements\|Oxygen requirements]]                                                                                    |
 | **Indications**        | * Resuscitation - up to 100% * High concentration in acute hypoxic events up to 60% * Low concentration in respiratory disease up to 28% |
 | **Contra-indications** | None                                                                                                                                     |
-| **Side-effects**       | Respiratory arrest in [[MLA/COPD]] (CO2 retention disturbance), pulmonary oedema, neonatal retinopathy  Dry mouth                            |
+| **Side-effects**       | Respiratory arrest in [[Full/COPD]] (CO2 retention disturbance), pulmonary oedema, neonatal retinopathy  Dry mouth                            |
 | **Interactions**       |                                                                                                                                          |
 | **Elimination**        |                                                                                                                                          |
 | **Additional Notes**   | Can be a throat irritant in high concentrations.                                                                                         |

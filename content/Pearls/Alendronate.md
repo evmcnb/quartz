@@ -11,7 +11,7 @@ tags: ['Geriatrics', 'Drug', 'Endocrinology']
 | --- | --- |
 | **Mechanism** | * Inhibits osteoclast [[snippets/Bone|Bone]] reabsorption * For optimal activity, enough vitamin D and calcium are needed |
 | **Typical Dose** | 10mg OD or 70mg once weekly |
-| **Indications** | * [[MLA/osteoporosis]] * Paget’s disease |
+| **Indications** | * [[Full/osteoporosis]] * Paget’s disease |
 | **Contra-indications** | * Abnormalities of the oesophagus (eg structure) * [[snippets/Hypocalcaemia|Hypocalcaemia]] * Other factors which delay emptying |
 | **Side-effects** | * GI disorders * Joint swelling * Vertigo * **Osteonecrosis of the** (risk factors, malignancy and dental disease) |
 | **Interactions** | Antacids: decrease absorption of alendronate |

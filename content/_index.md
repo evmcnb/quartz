@@ -1,9 +1,9 @@
 ---
-tags: 
-title: _index
+tags:
+title: Home
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
-date modified: Monday, September 1st 2025, 12:52:49 pm
+date modified: Monday, September 1st 2025, 1:27:34 pm
 date: 2024-02-17
 ---
 

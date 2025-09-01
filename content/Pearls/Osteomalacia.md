@@ -14,7 +14,7 @@ Vitamin D is created from cholesterol by the skin (UV light dependant). Diet has
 Risks for low vitamin D
 
 * Malabsorption disorders - IBS
-* [[MLA/Chronic Kidney Disease]] - kidneys add the second hydroxy group
+* [[Full/Chronic Kidney Disease]] - kidneys add the second hydroxy group
 
 ![](https://nosos-static.s3.amazonaws.com/media/uploads/2024/03/04/image.png)
 

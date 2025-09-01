@@ -9,7 +9,7 @@ tags: ['Antibiotic']
 
 Before starting baseline **ECG** and **LFTs** are required
 
-Azithromycin has been known to cause prolongation of the QT interval on ECGs in some patients, which can potentially lead to dangerous [[MLA/Arrhythmias]]. It can also sometimes cause elevations in liver enzymes. Doing baseline tests allows doctors to identify any pre-existing issues and monitor for any changes while on the drug.
+Azithromycin has been known to cause prolongation of the QT interval on ECGs in some patients, which can potentially lead to dangerous [[Full/Arrhythmias]]. It can also sometimes cause elevations in liver enzymes. Doing baseline tests allows doctors to identify any pre-existing issues and monitor for any changes while on the drug.
 
-Can be given as prophylaxis to [[MLA/COPD]] patients with >3 exacerbations requiring steroid therapy and at least one exacerbation requiring hospital admission in the previous year. Prophylaxis with azithromycin should be considered for a minimum of 6-12 months to assess efficacy of reducing exacerbations
+Can be given as prophylaxis to [[Full/COPD]] patients with >3 exacerbations requiring steroid therapy and at least one exacerbation requiring hospital admission in the previous year. Prophylaxis with azithromycin should be considered for a minimum of 6-12 months to assess efficacy of reducing exacerbations
 

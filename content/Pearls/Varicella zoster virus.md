@@ -20,6 +20,6 @@ The virus can lie dormant in the sensory dorsal root ganglion cells and cranial 
 
 Those who are known to be immune are not at risk.
 
-* Chicken pox in [[MLA/Pregnancy]] before 28 weeks gestation can cause development problems in the foetus - congential varicella syndrome.
+* Chicken pox in [[Full/Pregnancy]] before 28 weeks gestation can cause development problems in the foetus - congential varicella syndrome.
 * Varicella zoster immunoglobulins can be given to protect against the virus after exposure.
 * Aciclorvir can also be considered within 24 hours of exposure

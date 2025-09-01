@@ -10,8 +10,8 @@ tags: ['Gastroenterology', 'Surgery']
 Four mechanisms that lead to perforation:
 
 1. Ischemia ([[Pearls/Bowel Obstruction|Bowel Obstruction]], necrosis)
-2. Infection ([[MLA/Appendicitis]], diverticulitis)
-3. Erosion (malignancy, [[MLA/Ulcerative Colitis]])
+2. Infection ([[Full/Appendicitis]], diverticulitis)
+3. Erosion (malignancy, [[Full/Ulcerative Colitis]])
 4. Physical disruption (trauma, iatrogenic)
 
 **Fluid resus and surgery**

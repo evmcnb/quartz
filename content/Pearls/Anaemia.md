@@ -13,7 +13,7 @@ tags: ['Haematology']
 | Anaemia of chronic disease | $\downarrow$ | $\downarrow$ | $\uparrow$ |
 | Chronic haemolysis | $\uparrow$ | $\downarrow$ | $\uparrow$ |
 | [[snippets/Haemochromatosis|Haemochromatosis]] | $\uparrow$ | $\downarrow$ or $\leftrightarrow$ | $\uparrow$ |
-| [[MLA/Pregnancy]] | $\uparrow$ | $\uparrow$ | $\leftrightarrow$ |
+| [[Full/Pregnancy]] | $\uparrow$ | $\uparrow$ | $\leftrightarrow$ |
 | Sideroblastic anaemia | $\uparrow$ | $\leftrightarrow$ | $\uparrow$ |
 
 Haemolytic - macrocytic $\uparrow$ reticulocytes $\uparrow$ bilirubin

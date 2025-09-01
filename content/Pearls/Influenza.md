@@ -16,7 +16,7 @@ tags: ['InfectiousDisease']
 * Aged 65 or older
 * Young children
 * Pregnant women
-* Chronic health conditions - [[MLA/asthma]], [[MLA/COPD]], CCF, diabetes
+* Chronic health conditions - [[Full/asthma]], [[Full/COPD]], CCF, diabetes
 * Healthcare workers and carers
 
 **Presentation** - lots of overlap between common cold and flu but flu tends to have a more abrupt onset. Fever is rare with a common cold. Flu if people feel completely wiped out
@@ -28,9 +28,9 @@ tags: ['InfectiousDisease']
 
 **Complications**
 
-* [[MLA/Otitis media]], [[MLA/Rhinosinusitis]] and [[MLA/bronchitis]]
-* Viral [[MLA/pneumonia]]
-* Secondary bacteria [[MLA/pneumonia]]
-* Worsening chronic health conditions, such as [[MLA/COPD]] and [[MLA/Heart Failure]]
+* [[Full/Otitis media]], [[Full/Rhinosinusitis]] and [[Full/bronchitis]]
+* Viral [[Full/pneumonia]]
+* Secondary bacteria [[Full/pneumonia]]
+* Worsening chronic health conditions, such as [[Full/COPD]] and [[Full/Heart Failure]]
 * Febrile convulsions (young children)
 * [[Pearls/Encephalitis|Encephalitis]]

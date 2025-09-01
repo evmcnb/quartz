@@ -11,7 +11,7 @@ tags: ['Cardiovascular', 'Drug']
 | --- | --- |
 | **Mechanism** | Activation of antithrombin causing **i**nactivation of coagulation enzymes thrombin (factor IIA), factor Xa and factor IXA |
 | **Typical Dose** | 40mg |
-| **Indications** | * VTE in [[MLA/Pregnancy]] * DVT prophylaxis * DVT & PE treatment in low risk of recurrence patients * Unstable [[MLA/Angina]] |
+| **Indications** | * VTE in [[Full/Pregnancy]] * DVT prophylaxis * DVT & PE treatment in low risk of recurrence patients * Unstable [[Full/Angina]] |
 | **Contra-indications** | * Haemophilia/haemorrhagic disorders * Thrombocytopenia * Recent cerebral bleed * Severe liver disease * Peptic ulcer disese |
 | **Side-effects** | * Haemorrhage * Thrombocytopenia |
 | **Interactions** | [[snippets/Aspirin|Aspirin]] - increased bleeding risk |
