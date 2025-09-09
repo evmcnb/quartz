@@ -1,7 +1,7 @@
 ---
-title: "Acute angle-closure vs Primary open-angle"
-date created: 2024-04-11 17:55:07.260791+01
-date modified: 2024-04-11 17:55:07.293475+01
+title: Acute angle-closure vs Primary open-angle
+date created: Friday, February 28th 2025, 4:35:22 pm
+date modified: Tuesday, September 9th 2025, 11:01:42 am
 tags: ['Ophthalmology']
 ---
 

@@ -94,23 +94,43 @@ Using opioids to control pain in palliative patients is a specific scenario wher
 If the patient requires regular rescue doses for breakthrough pain, the dose of the background opioid can be increased. The rescue doses must also increase to 1/6 of the background 24-hour dose.
 
 **Common first line agents:**
-- **Morphine sulphate** 1 – 2.5mg SC. Do not repeat within 1-hour, maximum 4 doses in 24 hours
+- If no comorbidities use 20-30mg of modified release morphine a day with 5mg morphine for breakthrough pain. For example, 15mg modified-release morphine tablets twice a day with 5mg of oral morphine solution as required
+	- laxatives should be prescribed for all patients initiating strong opioids
 - If reduced renal function (eGFR <50): **Oxycodone** 1 – 2 mg SC. Do not repeat within 1-hour, maximum 4 doses in 24 hours
+- If severely reduced renal function (eGFR <10) alfentanil, buprenorphine and fentanyl are preferred 
 
 *Opioid conversion table*
 
-| Opioid  | Route    | Equivalent Dose |
-| ----------- | ------------ | ------------------- |
-| Morphine    | Oral         | 10mg                |
-| Codeine     | Oral         | 100mg               |
-| Tramadol    | Oral         | 100mg               |
-| Oxycodone   | Oral         | 6.6mg               |
-| Morphine    | IV / IM / SC | 5mg                 |
-| Diamorphine | IV / IM / SC | 3mg                 |
+| Opioid      | Route        | Equivalent Dose |
+| ----------- | ------------ | --------------- |
+| Morphine    | Oral         | 10mg            |
+| Codeine     | Oral         | 100mg           |
+| Tramadol    | Oral         | 100mg           |
+| Oxycodone   | Oral         | 5mg             |
+| Morphine    | IV / IM / SC | 5mg             |
+| Diamorphine | IV / IM / SC | 3mg             |
 
 It is also possible to use opioid patches for background analgesia:
 - **_Buprenorphine patches_** (5 mcg/hour patches are roughly equivalent to 12 mg/24 hours of oral morphine)
 - **_Fentanyl patches_** (12 mcg/hour patches are roughly equivalent to 30mg/24 hours of oral morphine)
+
+When increasing the dose of opioids the next dose should be increased by 30-50%.
+
+#### Non-opioid analgesics
+
+
+| Drug                    | Starting Dose         | Maximum daily dose and titration                              |
+| ----------------------- | --------------------- | ------------------------------------------------------------- |
+| **Neuropathic agents**  |                       |                                                               |
+| Amitriptyline           | 10mg ON               | 75mg, by 10mg every 3-5 days                                  |
+| Gabapentin              | 100mb TDS or 300mg OD | 3600mg, by 100mg/day                                          |
+| Pregabalin              | 25-75mg BD            | 600mg, by 25mg/day                                            |
+| **Anti-inflammatories** |                       |                                                               |
+| Ibuprofen               | 400mg TDS             | 400mg TDS                                                     |
+| Naproxen                | 250-500mg BD          | 500mg BD                                                      |
+| Celecoxib               | 100mg BD              | 200mg BD                                                      |
+| Dexaethasone            | 2-16mg                | Depends on indication. Start at highest dose<br>and wean down |
+
 
 ### Nausea
 
@@ -123,10 +143,31 @@ Mechanism-based prescribing:
 | Stimulus         | Area stimulated            | Receptors             | Anti-emetic choices                                  | Disqualifying features                                                                                                                                       |
 | ---------------- | -------------------------- | --------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Drugs, metabolic | Chemoreceptor trigger zone | Dopamine              | Metoclopramide (10mg), haloperidol (0.5-1mg BID/TID) | Avoid metoclopramide in b/o and both in [[Full/Parkinson's disease\|Parkinson's disease]]. Haloperidol good for b/o, avoid in those with arrythmias (++ QTc) |
-| Chemotherapy     |                            | Serotonin             | Ondansetron                                          | Avoid in those with arrythmias                                                                                                                               |
+| Chemotherapy     |                            | Serotonin             | Ondansetron                                          | Avoid in those with arrythmias (QTc) or constipation                                                                                                         |
 | Motion           | Vestibular                 | Muscarinic, histamine | Cyclizine, Promethazine, Diphenhydramine             |                                                                                                                                                              |
 | Viceral          | Organs                     | Dopamine<br>Serotonin | Metoclopramide, haloperidol,<br>Ondansetron          |                                                                                                                                                              |
 | Raised ICP       | Cerebral cortex            | Histamine             | Dexamethasone, Cyclizine                             |                                                                                                                                                              |
+If anticipatory nausea is the clear cause, a short acting benzo can be useful. If benzos contra-indcicated, go for cyclizine. 
+
+### Laxatives
+
+People receiving palliative care have multiple causes of constipation, such as:
+- Drugs, such as opioid analgesics, antimuscarinic drugs, antacids.
+- Secondary effects of disease, such as dehydration, inadequate dietary fibre, inactivity, delirium, spinal cord compression, lack of privacy.
+- Direct effects of malignant tumours, causing bowel obstruction, hypercalcaemia, nerve damage.
+
+| Drug                  | Prepartion               | Starting dose  |
+| --------------------- | ------------------------ | -------------- |
+| **Stool softener**    |                          |                |
+| Docusate sodium       | Capsules/OS              | 100mg BD       |
+| **Osmotic softeners** |                          |                |
+| Lactulose             | OS                       | 15ml OD        |
+| Movicol               | Oral powder              | 1 sachet OD    |
+| **Stimulants**        |                          |                |
+| Senna                 | Tablets<br>OS 7.5mg/5mls | 7.5-15mg nocte |
+| Bisacodyl             | Tablet                   | 5mg nocte      |
+| Sodium picosulphate   | OS                       | 6mg nocte      |
+
 
 ### Dyspnea
 
@@ -149,7 +190,7 @@ Most common causes:
 
 Causes of agitation include pain, medications (side effects and withdrawal), constipation and urinary retention. As with pain, detecting agitation in a patient will rely on **observing the patient**.
 
-**Midazolam** 2.5 – 5mg SC. Do not repeat within 1 hour, maximum 4 doses in 24 hours.
+**Midazolam** 2.5 – 5mg SC. Do not repeat within 1 hour, maximum 30mg in 24 hours.
 
 
 ### Secretions
