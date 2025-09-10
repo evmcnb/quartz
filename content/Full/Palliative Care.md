@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: []
 title: Palliative Care
 date: 
 date modified: Saturday, August 23rd 2025, 11:47:13 am
@@ -91,13 +91,13 @@ Using opioids to control pain in palliative patients is a specific scenario wher
 - **_Background_** opioids (e.g., 12-hourly modified-release oral morphine)
 - **_Rescue doses_** for breakthrough pain (e.g., immediate-release oral morphine solution)
 
-If the patient requires regular rescue doses for breakthrough pain, the dose of the background opioid can be increased. The rescue doses must also increase to 1/6 of the background 24-hour dose.
+If the patient requires regular rescue doses for breakthrough pain, the dose of the background opioid can be increased. The **rescue doses must also increase** to 1/6 of the background 24-hour dose.
 
 **Common first line agents:**
 - If no comorbidities use 20-30mg of modified release morphine a day with 5mg morphine for breakthrough pain. For example, 15mg modified-release morphine tablets twice a day with 5mg of oral morphine solution as required
 	- laxatives should be prescribed for all patients initiating strong opioids
 - If reduced renal function (eGFR <50): **Oxycodone** 1 – 2 mg SC. Do not repeat within 1-hour, maximum 4 doses in 24 hours
-- If severely reduced renal function (eGFR <10) alfentanil, buprenorphine and fentanyl are preferred 
+- If severely reduced renal function (eGFR <30) alfentanil, buprenorphine and fentanyl are preferred 
 
 *Opioid conversion table*
 

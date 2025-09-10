@@ -20,10 +20,24 @@ Main morphological difference between the two is nuclear characteristics and amo
 ### Squamous cell
 
 * Presence of keratinization +/- intercellular bridges
+* hypertrophic pulmonary osteoarthropathy (HPOA)
+- For squamous think of Cs 
+	- Cigarettes  
+	- Central  
+	- Cavitating  
+	- Clubbing  
+	- hyperCalcemia (from parathyroid hormone-related protein secretion)
 
 ### Adenocarcinoma
 
 * Mucin production +/- gland formation
+* Typically peripheral
+* Most common type of lung cancer in non-smokers
+
+### Large cell carcinoma
+- Typically peripheral
+- Anaplastic - poorly differenatiated  tumours with poor prognosis 
+- May secrete $\beta-hCG$ 
 
 ### Small cell
 
