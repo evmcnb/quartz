@@ -1,7 +1,5 @@
 ---
-tags:
-  - Neurology
-  - Cardiovascular
+tags: [Neurology, Cardiovascular]
 title: Transient Ischemic Attack
 date created: Wednesday, October 4th 2023, 12:34:39 pm
 date modified: 2024-03-11
@@ -24,7 +22,7 @@ Specific to the arterial territory involved
 
 ## Diagnostic Tests
 
-- CT/MRI
+- CT/MRI - within 24 hours of assessment 
 - Echo
 - FBC, ESR, U&Es, glucose, lipids,
 - ECG

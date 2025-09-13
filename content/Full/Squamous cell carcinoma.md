@@ -1,8 +1,5 @@
 ---
-tags:
-  - Dermatology
-  - Oncology
-  - Surgery
+tags: [Dermatology, Oncology, Surgery]
 title: Squamous cell carcinoma
 date created: Friday, November 10th 2023, 1:20:36 pm
 date modified: 2024-03-11
@@ -22,7 +19,7 @@ The primary cause of Squamous Cell Carcinoma is prolonged exposure to ultraviole
 - **Chronic Sun Exposure:** Especially without adequate sun protection.
 - **Previous Skin Injuries:** Such as burns, scars, or chronic ulcers.
 - **Weakened Immune System:** Due to conditions or medications.
-- **Human Papillomavirus (HPV) Infection:** In some cases, SCC may be associated with certain strains of HPV. 
+- **[[Pearls/Human Papilloma virus Infection]]:** In some cases, SCC may be associated with certain strains of HPV. 
 
 ## Symptoms
 

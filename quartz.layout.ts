@@ -37,7 +37,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.RecentNotes({ limit: 5, showTags: false }),
   ],
   right: [
     Component.ConditionalRender({
@@ -64,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.RecentNotes({ limit: 5, showTags: false }),
   ],
   right: [],
 }

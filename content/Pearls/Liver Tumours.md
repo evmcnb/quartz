@@ -1,5 +1,5 @@
 ---
-title: "Liver Tumours"
+title: Liver Tumours
 date created: Sunday, January 21th 2024, 03:48:30 PM
 date modified: 2024-01-21 15:48:30.965328+00
 tags: ['Gastroenterology', 'Oncology']
@@ -18,11 +18,11 @@ tags: ['Gastroenterology', 'Oncology']
 
 ## Malignant Liver tumours
 
-**Hepatocellular carcinoma** - usually in [[Pearls/Cirrhosis|Cirrhosis]] (Hep C/B), alpha fetoprotein (AFP) as tumour marker
+**Hepatocellular carcinoma** - usually in [[Pearls/Cirrhosis|Cirrhosis]] (Hep C/B), alpha fetoprotein (AFP) as tumour marker ^f95b66
 
 **Cholangiocarcinoma** - bile duct cell malignancy due to chronic inflammation, aggressive difficult to resect
 
-**Angiosarcoma** - aggressive tumour of blood vessels, a/w toxins *vinyl chloride*, *thorotrast*
+**Angiosarcoma** - aggressive tumour of blood vessels, a/w toxins *vinyl chloride*, *thorotrast* ^1c698a
 
 ## Secondary Liver tumours
 
