@@ -116,6 +116,22 @@ It is also possible to use opioid patches for background analgesia:
 
 When increasing the dose of opioids the next dose should be increased by 30-50%.
 
+##### Opioid Toxicity 
+
+**RR > 8, rousable and not cyanosed:**
+- Omit or reduce next regular dose and reduce PRN dose
+- Monitor patient closely - maintain hydration (IV/SC fluids if required)
+- Review analgesia - consider reduction (by 1/3 if pain controlled), adjunct, switch or non-opioid measures
+- Prescribe haloperidol is confusion/hallucinations/agitation present 
+- Look for any underlying cause
+
+**A low RR and patient is comatosed/unconcious/cyanosed:**
+- All opioids should be discontinued 
+- Emergency treatment with naloxone - 400mcg to 10ml 0.9% saline for injection
+- Administer 0.5ml (20 mcg) IV every 2 minutes until respiratory status has improved. 
+- Further boluses may be required/infusion can be started
+- New management plan needed
+
 #### Non-opioid analgesics
 
 

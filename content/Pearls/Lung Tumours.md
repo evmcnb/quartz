@@ -17,6 +17,31 @@ tags: ['Respiratory']
 
 Main morphological difference between the two is nuclear characteristics and amount of cytoplasm. Small cell "always" smoking
 
+#### Non-small cell management
+- only 20% suitable for surgery
+    - mediastinoscopy performed prior to surgery as CT does not always show mediastinal lymph node involvement
+- curative or palliative radiotherapy
+- poor response to chemotherapy
+
+NSCLC (Stage I-II)  
+- Surgery is mainstay if fit  
+- Adjuvant chemo if high risk  
+- Radiotherapy if unfit for surgery  
+  
+NSCLC (stage III-IV)  
+- Chemoradiotherapy is mainstay  
+- Targeted therapy according to tumour characteristics (eg. ALK, EGFR, ROS1)  
+- Palliative care
+
+Surgery contraindications  
+- assess general health
+- stage IIIb or IV (i.e. metastases present)
+- FEV1 < 1.5 litres is considered a general cut-off point*
+- malignant [[Pearls/Pleural Effusion|Pleural Effusion]]
+- tumour near hilum
+- vocal cord paralysis
+- [[Pearls/SVC Obstruction|SVC Obstruction]]
+
 ### Squamous cell
 
 * Presence of keratinization +/- intercellular bridges
@@ -42,6 +67,16 @@ Main morphological difference between the two is nuclear characteristics and amo
 ### Small cell
 
 * Don't produce keratin or mucin
+	
+**Management**:
+SCLC (stage I-III)  
+- Chemoradiotherapy is mainstay  
+- Prophylactic intracranial irradiation (to prevent brain mets)  
+  
+SCLC (stage V)  
+- Chemotherapy is mainstay  
+- Targeted therapy according to tumour characteristics (eg. PDL-1, CTLA4)  
+- Palliative care
 
 ---
 

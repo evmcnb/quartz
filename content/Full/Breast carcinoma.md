@@ -1,8 +1,5 @@
 ---
-tags:
-  - Oncology
-  - Surgery
-  - OBGYN
+tags: [Oncology, Surgery, OBGYN]
 title: Breast carcinoma
 date created: Tuesday, February 20th 2024, 3:09:44 pm
 date modified: 2024-03-11
@@ -127,8 +124,6 @@ There are different recommendations for screening patients with a higher risk.
 
 ## Management
 
-TNM staging: 
-![[z_attachments/Pasted image 20240220153923.png|550]]
 
 All patients are discussed with the **_multidisciplinary team_** (**_MDT_**) for treatment planning
 
@@ -136,6 +131,35 @@ All patients are discussed with the **_multidisciplinary team_** (**_MDT_**) f
 - Tumour removal
 - Axillary clearance 
 - Reconstructive - immediate or delayed. Can be partial or reduce and reshape both breasts to match
+
+Typically either wide local excision or mastectomy
+
+|**Mastectomy**|**Wide Local Excision**|
+|---|---|
+|Multifocal tumour|Solitary lesion|
+|_Central tumour_|Peripheral tumour|
+|Large lesion in small breast|Small lesion in large breast|
+|DCIS >4cm|DCIS <4cm|
+|Patient Choice|Patient choice|
+
+> [!info] Nottingham Prognostic Index
+> The Nottingham Prognostic Index can be used to give an indication of survival. In this system the tumour size is weighted less heavily than other major prognostic parameters.
+> Calculation of **NPI**: $\text{Tumour Size} \times 0.2 + \text{Lymph node score} + \text{Grade score}$
+> 
+> |**Score**|**Lymph nodes involved**|**Grade**|
+> |---|---|---|
+> |1|0|1|
+>|2|1-3|2|
+> |3|>3|3|
+> 
+> **Prognosis**
+> 
+> |**Score**|**Percentage 5 year survival**|
+>|---|---|
+>|2.0 to 2.4|93%|
+>|2.5 to 3.4|85%|
+>|3.5 to 5.4|70%|
+> |>5.4|50%|
 
 **Radiotherapy**
 
