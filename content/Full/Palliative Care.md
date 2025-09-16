@@ -110,9 +110,18 @@ If the patient requires regular rescue doses for breakthrough pain, the dose of 
 | Morphine    | IV / IM / SC | 5mg             |
 | Diamorphine | IV / IM / SC | 3mg             |
 
-It is also possible to use opioid patches for background analgesia:
+It is also possible to use opioid patches for stable background analgesia. Don't round up - always go a bit lower. Do not cut the patches to make up the number:
 - **_Buprenorphine patches_** (5 mcg/hour patches are roughly equivalent to 12 mg/24 hours of oral morphine)
-- **_Fentanyl patches_** (12 mcg/hour patches are roughly equivalent to 30mg/24 hours of oral morphine)
+- **_Fentanyl patches_** (see table below). These are not cut in half 
+
+| Morphine (in 24 hours) | Fentanyl patch |
+| ---------------------- | -------------- |
+| 30mg                   | 12mcg/hour     |
+| 60mg                   | 25mcg/hour     |
+| 120mg                  | 50mcg/hour     |
+| 180mg                  | 75mcg/hour     |
+| 240mg                  | 100mcg/hour    |
+
 
 When increasing the dose of opioids the next dose should be increased by 30-50%.
 

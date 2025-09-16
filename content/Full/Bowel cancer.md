@@ -1,7 +1,5 @@
 ---
-tags:
-  - Gastroenterology
-  - Oncology
+tags: [Gastroenterology, Oncology]
 title: Bowel cancer
 date: 2024-04-21
 date modified: 2024-04-21
