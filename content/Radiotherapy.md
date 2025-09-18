@@ -28,26 +28,58 @@ Measured in "Gray" (Gy) units.  RT is commonly delivered as a series of small do
 
 ## Process 
 
-Consent
+**Consent**
 - Communication very important - give risk/benefit analysis
 
-Immobilisation
+**Immobilisation**
 - Need to make sure the same area is being targeted each session 
 - Masks used for head and neck cancer 
 - Vacuum bags may be used for other body parts
 
-CT simulation
+**CT simulation**
 - Normal CT scan but hard bed with marks for alignment
 - Scan used to design the strategy for radio therapy 
 
-Tattoo
+**Tattoo**
 - Used for laser alignment from the CT strategy
 
-Volume definition
+**Volume definition**
 - Need a margin around the visible tumour.
 - The estimated size of the tumours actual true size is the clinical target volume
 - The area targeted for therapy is the planning target volume
 ![[z_attachments/Pasted image 20250915152819.png|500]]
 
-### Design
 
+**Design**
+
+- In curative treatment a lot of time is spent trying to minimise radiation to areas which don't need it
+- In palliative treatment more radiation is allowed to the other organs to reduce symptoms more quickly
+
+### Toxicity 
+Dependant on the part of the body receiving treatment. Fatigue and skin reactions are common with most treatments. 
+- Short term '-itis'. 
+- Long term '-osis'
+
+**Head and Neck Cancer**
+- Skin reaction
+- Mucositis - aspirin gargles, mucaine 
+- Thick oral secretions
+- Loss of taste
+- Fatigue
+- Dry mouth - mugard, gelclair
+
+**Prostate cancer**
+- Cystitis - dysuria, frequency, urgency. Exclude concurrent UTI
+- Diarrhoea - proctitis
+- Poor urine flow - prostatitis, tamulosin
+- Haematuria
+- Abdominal pain
+- Nausea
+
+**Lung Cancer**
+- Ordynophagia/oesophagitis due to mucositis in the oesophagus
+- Cough - exclude infection
+- SoB - optimise inhalers + nebs
+- Chest pain
+- Rarely nausea (low lung cancer near gastro stuff)
+- Pneumonitis - steroids + oxygen

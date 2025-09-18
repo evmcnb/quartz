@@ -1,7 +1,5 @@
 ---
-tags:
-  - Drug
-  - Antibiotic
+tags: [Drug, Antibiotic]
 title: Cephalosporins
 date created: Thursday, September 28th 2023, 12:56:34 pm
 date modified: 2024-03-11
@@ -15,12 +13,12 @@ date: 2023-09-28
 - Decreased first line use due to risk of C. diff
 - False +ve urinary glucose and Coomb's test
 
-| Antibiotic | Indications |  
-| ------- | -------| 
-| Cefalexin (1st gen) | Gram +ve infection |
-| Cefuroxime (2nd gen) | Gram +ve & -ve |
-| Ceftriaxone (3rd gen) | Meningococcus, broad spectrum (**not** Pseudomonas, Enterococcus, Bacteroides) |
-| Ceftazidime (3rd gen) | Broad spectrum including Pseudomonas, but $\downarrow$ activity against Gram +ve, empirical treatment against neutropenic [[Full/Sepsis]]
+| Antibiotic | Indications                                                                                                                                                     |  
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Cefalexin (1st gen) | Gram +ve infection                                                                                                                                              |
+| Cefuroxime (2nd gen) | Gram +ve & -ve                                                                                                                                                  |
+| Ceftriaxone (3rd gen) | Meningococcus, broad spectrum (**not** Pseudomonas, Enterococcus, Bacteroides)                                                                                  |
+| Ceftazidime (3rd gen) | Broad spectrum including Pseudomonas, but $\downarrow$ activity against Gram +ve, empirical treatment against [[Full/Neutropenic sepsis\|Neutropenic sepsis]] 
 
 
 

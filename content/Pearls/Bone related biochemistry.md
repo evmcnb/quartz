@@ -1,5 +1,5 @@
 ---
-title: "Bone related biochemistry"
+title: Bone related biochemistry
 date created: Sunday, January 21th 2024, 01:42:24 PM
 date modified: 2024-02-19 12:23:45.265458+00
 tags: ['Endocrinology']
@@ -7,13 +7,13 @@ tags: ['Endocrinology']
 
 
 
-| Disease | ALP | Ca | Phos | PTH |
-| --- | --- | --- | --- | --- |
-| HyperPTH | $\uparrow$ | $\uparrow$ | $\downarrow$ | $\uparrow$ |
-| [[snippets/Osteomalacia|Osteomalacia]] | $\uparrow$ | $\downarrow$ | $\downarrow$ | $\uparrow$ |
-| [[Full/osteoporosis]] | N | N | N | N |
-| Paget's | $\uparrow$ | N | N | N |
-| [[snippets/Bone|Bone]] mets | $\uparrow$ | $\uparrow$ | N | $\downarrow$ |
+| Disease                               | ALP        | Ca           | Phos         | PTH          |
+| ------------------------------------- | ---------- | ------------ | ------------ | ------------ |
+| HyperPTH                              | $\uparrow$ | $\uparrow$   | $\downarrow$ | $\uparrow$   |
+| [[Pearls/Osteomalacia\|Osteomalacia]] | $\uparrow$ | $\downarrow$ | $\downarrow$ | $\uparrow$   |
+| [[Full/osteoporosis]]                 | N          | N            | N            | N            |
+| Paget's                               | $\uparrow$ | N            | N            | N            |
+| Bone mets                             | $\uparrow$ | $\uparrow$   | N            | $\downarrow$ |
 
 ## Calcium biochemistry
 
@@ -41,7 +41,7 @@ Net effect:
 
 PTH causes osetoclasts to breakdown [[Pearls/Bone|Bone]] releasing Ca and PO4  
 
-\(\hookrightarrow\) kidneys increase reabsorption of Ca but increase PO4 excretion
+$\hookrightarrow$ kidneys increase reabsorption of Ca but increase PO4 excretion
 
 Kidneys also increase active form of vitamin D to absorb more from gut
 

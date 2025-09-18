@@ -16,6 +16,7 @@ TNM staging, Gleason scoring:
 > - The two added together give the Gleason score. Where 2 is best prognosis and 10 the worst.
 >   Grade 1 represents well-differentiated cells that closely resemble normal prostate tissue, while grade 5 indicates poorly differentiated, highly abnormal cells.
 
+
 ## Causes/Factors
 
 - Male%
@@ -42,7 +43,7 @@ Early prostate cancers have very few symptoms.
 
 ##### Effects of Distant Metastases
 
-- [[Pearls/Bone|Bone]] - check calcium
+ Same compression symptoms as BPH but possible metastases to [[Pearls/Bone|Bone]] $\rightarrow$ [[Pearls/Bone|Bone]] pain
 
 ##### Paraneoplastic Syndromes
 
