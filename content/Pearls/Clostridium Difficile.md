@@ -27,6 +27,14 @@ Diagnosis is based on stool samples. Stools can be tested for:
 * C. diff antigien - only shows presence of C. diff not active infection. Screening test
 * A and B toxins (PCR) - shows active infection
 
+### Assessing Severity
+
+White cell count is used to assess severity as it reflects the degree of the immune response. 
+
+- Mild = normal white cell count
+- Moderate = raised white cell count (but <15x10^9/L)
+- Severe = raised white cell count >15x10^9/L
+
 ## Management
 
 * Oral vancomycin 1st
@@ -44,7 +52,7 @@ Source isolated for 48 hrs after the last episode of diarrhoea. High recurrence 
 
 ### Pseudomembranous colitis
 
-Inflammation in the large intestine with yellow/white plaques that form pseudomembranes on the innser surface of the bowel wall. Seen during a colonoscopy and confirmed with biopsies
+Inflammation in the large intestine with yellow/white plaques that form pseudomembranes on the inner surface of the bowel wall. Seen during a colonoscopy and confirmed with biopsies
 
 ### Toxic megacolon
 

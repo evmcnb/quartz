@@ -172,6 +172,7 @@ Mechanism-based prescribing:
 | Motion           | Vestibular                 | Muscarinic, histamine | Cyclizine, Promethazine, Diphenhydramine             |                                                                                                                                                              |
 | Viceral          | Organs                     | Dopamine<br>Serotonin | Metoclopramide, haloperidol,<br>Ondansetron          |                                                                                                                                                              |
 | Raised ICP       | Cerebral cortex            | Histamine             | Dexamethasone, Cyclizine                             |                                                                                                                                                              |
+| All else fails   | Multiple                   | Multiple              | Levomethpromazine                                    | Parkinson's, very sedating                                                                                                                                   |
 If anticipatory nausea is the clear cause, a short acting benzo can be useful. If benzos contra-indcicated, go for cyclizine. 
 
 ### Laxatives

@@ -61,10 +61,10 @@ All
 
 When the hypercalcaemia is due to a malignancy. Range of factors produced by tumours which increase bone reportion and potentially increase renal tubular calcium reabsorption:
 - **Transforming growth factor alpha** – polypeptide stimulator of growth and replication that is produced by many tumour cells. It is powerful stimulator of bone resorption
-- **Parathyroid hormone related peptides** – tumour associated protein that mimics PTH, stimulating bone reabsorption and increasing plasma calcium. Most commonly with [[Pearls/Lung Tumours#Non-small cell management|NSCLC]]
+- **Parathyroid hormone related peptides** – tumour associated protein that mimics PTH, stimulating bone reabsorption and increasing plasma calcium. Most commonly with [[Full/Lung Tumours#Non-small cell management|NSCLC]]
 
 Common culprits:
-- Lung ([[Pearls/Lung Tumours#Non-small cell management|NSCLC]])
+- Lung ([[Full/Lung Tumours#Non-small cell management|NSCLC]])
 - [[Osteosarcoma]]
 - [[Full/Breast carcinoma|Breast carcinoma]]
 - [[Full/Prostatic Adenocarcinoma|Prostatic Adenocarcinoma]]
