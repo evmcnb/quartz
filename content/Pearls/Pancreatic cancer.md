@@ -1,7 +1,7 @@
 ---
-title: "Pancreatic cancer"
+title: Pancreatic cancer
 date created: Sunday, January 21th 2024, 04:05:50 PM
-date modified: 2024-03-09 17:44:07.844438+00
+date modified: Tuesday, September 23rd 2025, 8:43:52 pm
 tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 ---
 
@@ -22,7 +22,30 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 
 * Painless obstructive [[Pearls/Jaundice|Jaundice]] - tumour compresses on bile duct
 * Steatorrhea
-* New onset diabetes or worsening of gllycaemic control
+* New onset diabetes or worsening of glycaemic control
+
+
+The other presenting features for pancreatic cancer can be vague:
+- Non-specific upper abdominal or back pain
+- Unintentional weight loss
+- Palpable mass in the epigastric region
+- Change in bowel habit
+- Nausea or vomiting
+- New-onset diabetes or worsening of type 2 diabetes
+
+> [!info] Referral guide
+> 1. Aged >40 with jaundice
+> 2.  Aged >60 with weight loss plus an additional symptom from the follow:
+> 	  - Diarrhoea
+>	- Back pain
+>	- Abdominal pain
+>	- Nausea
+>	- Vomiting
+>	- Constipation
+>	- New-onset diabetes
+>	  
+>Suspected pancreatic cancer is the only scenario where GPs can refer directly for a CT scan
+
 
 ## Investigations
 
@@ -32,3 +55,4 @@ CA19-9 - tumour marker, also raised in cholangiocarcinoma
 
 MCRP & ECRP - assess the biliary system and put a stent in and biopsy respectively
 
+Biopsy

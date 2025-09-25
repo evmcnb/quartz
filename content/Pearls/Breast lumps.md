@@ -1,11 +1,8 @@
 ---
-tags:
-  - Surgery
-  - Oncology
-  - OBGYN
+tags: [Surgery, Oncology, OBGYN]
 title: Breast lumps
 date created: Tuesday, February 20th 2024, 3:59:54 pm
-date modified: 2024-03-11
+date modified: Tuesday, September 23rd 2025, 8:43:59 pm
 date: 2024-03-11
 ---
 Benign breast [[Full/Lumps]] - see [[Full/Breast carcinoma]] for malignant

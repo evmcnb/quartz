@@ -2,7 +2,7 @@
 tags: [Oncology, Acute]
 title: Tumour lysis syndrome
 date: 
-date modified: Monday, September 22nd 2025, 10:16:25 pm
+date modified: Tuesday, September 23rd 2025, 8:27:37 pm
 date created: Monday, September 22nd 2025, 10:02:37 pm
 ---
 Oncological emergency due to turnover of high cell mass malignancies resulting in severe metabolic derangement.
