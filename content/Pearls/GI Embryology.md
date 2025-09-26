@@ -1,7 +1,7 @@
 ---
-title: "GI Embryology"
+title: GI Embryology
 date created: Friday, March 15th 2024, 11:56:31 AM
-date modified: 2024-03-15 11:56:31.559128+00
+date modified: Friday, September 26th 2025, 4:44:42 pm
 tags: ['Gastroenterology']
 ---
 

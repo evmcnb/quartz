@@ -65,7 +65,7 @@ When the hypercalcaemia is due to a malignancy. Range of factors produced by tum
 
 Common culprits:
 - Lung ([[Full/Lung Tumours#Non-small cell management|NSCLC]])
-- [[Osteosarcoma]]
+- [[Pearls/Osteosarcoma]]
 - [[Full/Breast carcinoma|Breast carcinoma]]
 - [[Full/Prostatic Adenocarcinoma|Prostatic Adenocarcinoma]]
 - [[Full/Renal Cell Carcinoma|Renal Cell Carcinoma]]

@@ -2,7 +2,8 @@
 tags: [Orthopaedics, Oncology, Geriatrics]
 title: Spinal metastases
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Friday, September 26th 2025, 4:39:02 pm
+date created: Monday, September 8th 2025, 2:05:10 pm
 ---
 
 Patients may present with spinal metastases before developing metastatic spinal cord compression. It is, therefore, important to detect these patients early before any neurological compromise develops.  

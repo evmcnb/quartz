@@ -1,11 +1,9 @@
 ---
-tags:
-  - Cardiovascular
+tags: [Cardiovascular]
 title: Cardiovascular drugs
 date created: Thursday, October 26th 2023, 11:57:16 am
-date modified: 2024-03-11
-aliases:
-  - Cardio drugs
+date modified: Friday, September 26th 2025, 4:27:24 pm
+aliases: [Cardio drugs]
 date: 2024-01-19
 ---
 
@@ -87,8 +85,9 @@ date: 2024-01-19
 - CI in acute [[Full/myocardial infarction]], long QT, bradycardia.
 - Many drug interactions including with calcium antagonists
 
-## Statins
+## [[Pearls/Statins]]
 
 - Inhibit HMG-CoA reductase preventing de novo synthesis of cholesterol in the liver. This increases LDL receptor expression on hepatocytes leading to $\downarrow$ LDL cholesterol.
 - More effective if given at night
 - Generally v well tolerated
+- 

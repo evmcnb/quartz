@@ -1,7 +1,7 @@
 ---
 title: Multiple myeloma
 date created: Sunday, January 21th 2024, 12:57:54 PM
-date modified: 2024-03-03 11:16:57.794425+00
+date modified: Friday, September 26th 2025, 4:44:27 pm
 tags: ['Oncology', 'Haematology']
 ---
 
@@ -11,7 +11,7 @@ Plasma cell proliferation usually in older people - incurable but very treatable
 
 ---
 
-### **CRAB** diagnostic criteria:
+### **CRAB** features:
 
 **C**alcium ↑ - increased osteoclast activity causes calcium reabsorption from the bone into the blood → hypercalcaemia
 
@@ -23,6 +23,21 @@ Plasma cell proliferation usually in older people - incurable but very treatable
 
 ---
 
+
+> [!info] Diagnostic Criteria
+> Requires 1 major **and** 1 minor **or** 3 minor
+> **Major:**
+> - Plasmacytoma (as demonstrated on biopsy)
+> - 30% plasma cells in bone marrow sample
+> - Elevated levels of M protein in blood or urine
+>
+> **Minor**:
+> - 10-30% in bone marrow sample
+> - Minor elevations in M protein
+> - Osteolytic lesions
+> - Low levels of antibodies (not produced by the cancer cells) in the blood
+
+
 * Proceeded by asymptomatic MGUS (monoclonal gammopathy of undetermined significance) in all patients
 * Treatment with **steroids**, and **chemotherapy**
 
@@ -30,7 +45,14 @@ Complications:
 
 * Hyperviscosity (especially with IgA + IgM as they are larger molecules)
 * [[Full/Sepsis]]
-* Spinal cord compression
+- [[Pearls/Spinal metastases|spinal cord compression]]
 
 **Investigations:**
+- FBC, U&E, bone profile
+- Blood film - rouleaux formation
+- Serum protein electrophoresis - increased IgA and IgG 
+- Serum free light chain assay
+- Urine protein electrophoresis
+- Bone marrow aspiration 
+
 - Full body MRI 
