@@ -38,7 +38,7 @@ Inappropriate immune response against (?abnormal) colonic flora in genetically s
 
 Extraintestinal signs:
 
-- [[Full/clubbing]]
+- [[Pearls/clubbing]]
 - Aphthous oral ulcers
 - [[Full/erythema nodosum]]
 - [[Full/pyoderma gangrenosum]]

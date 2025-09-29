@@ -2,7 +2,7 @@
 tags: [Acute]
 title: Sepsis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Monday, September 29th 2025, 11:14:35 am
 date: 2024-01-11
 ---
 
@@ -68,17 +68,18 @@ Septic shock is a subset of sepsis. Profound circulatory, cellular and metabolic
 
 #### BUFALO
 
-- **B**lood cultures and septic screen
-- **U**rine output - monitor hourly
-  - U&Es urine culture
-- **F**luid resuscitation
-  - as clinically indicated
-- **A**ntibiotics IV - LTHT guidelines (tazocin? 4.5 g every 8 hours; increased if necessary to 4.5 g every 6 hours)
+- **B**lood cultures (paired, and line and peripheral) and septic screen (FBC, U&E, CRP, LFTs)
+- **U**rine output - monitor hourly,  U&Es urine culture
+- **F**luid resuscitation - as clinically indicated
+- **A**ntibiotics IV within 1 hour - LTHT guidelines (tazocin? 4.5 g every 8 hours; increased if necessary to 4.5 g every 6 hours)
 - **L**actate measurement - from arterial or venous blood gas
 - **O**xygen to correct hypoxia
 
-Hypovolaemia can be
+Escalate with senior
 
+
+
+Hypovolaemia can be
 - True hypovolaemia - when the rate of fluid loss exceeds net intake
   - Haemorrhage
   - Vomiting

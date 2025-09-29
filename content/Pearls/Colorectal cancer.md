@@ -1,13 +1,15 @@
 ---
-title: "Colorectal cancer"
+title: Colorectal cancer
 date created: Sunday, January 21th 2024, 03:52:24 PM
-date modified: 2024-03-20 09:59:12.696665+00
+date modified: Monday, September 29th 2025, 11:00:31 am
 tags: ['Gastroenterology', 'Oncology']
 ---
 
 
-
 3rd most common cancer (behind lung, breast/prostate) - TNM (was previously Dukes')
+
+
+![[z_attachments/F1.large 1.jpg]]
 
 Most common moderately well differentiated adenocarcinoma (mucious in 10-20%) in rectum. Mets to lymph, lung, liver, peritoneal
 

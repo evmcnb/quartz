@@ -37,7 +37,7 @@ Symptoms of pulmonary fibrosis can develop gradually and worsen over time:
 ## Signs
 
 - **Crackling Sounds:** Velcro-like crackling sounds (called "velcro rales") heard during lung auscultation.
-- **[[Full/clubbing]]:** Thickening and rounding of the fingertips due to reduced [[Pearls/Oxygen|Oxygen]] levels.
+- **[[Pearls/clubbing]]:** Thickening and rounding of the fingertips due to reduced [[Pearls/Oxygen|Oxygen]] levels.
 
 ## Diagnostic Tests
 

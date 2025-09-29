@@ -46,7 +46,7 @@ date: 2024-02-07
 - <span style="color:#ff0000">Palmar erythema (redness)</span> -<span style="color:#00b0f0"> chronic liver disease</span>, [[Full/Pregnancy]]
 - <span style="color:#ff0000">Dupuytren's contracture</span> - thickening of palmar fascia $\rightarrow$ <span style="color:#00b0f0">alcoholic liver disease</span>
 
-##### Finger [[Full/clubbing]]
+##### Finger [[Pearls/clubbing]]
 
 Most likely causes to come up in abdo exam OSCE is [[Full/inflammatory bowel disease]], [[Full/Coeliac Disease]], [[Full/Liver Cirrhosis]] and [[Pearls/Lymphoma|Lymphoma]] of GI tract
 

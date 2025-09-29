@@ -1,9 +1,8 @@
 ---
-tags:
-  - Neurology
+tags: [Neurology]
 title: "Horner's Syndrome"
 date created: Wednesday, August 16th 2023, 1:45:57 pm
-date modified: 2024-04-21
+date modified: Monday, September 29th 2025, 9:47:07 am
 date: 2023-09-18
 ---
 
@@ -29,7 +28,7 @@ Central lesions:
 
 Pre-ganglionic lesions:
 
-- **T** – **T**umour (Pancoast tumour)
+- **T** – **T**umour ([[Pearls/Pancoast tumour]])
 - **T** – **T**rauma
 - **T** – **T**hyroidectomy
 - **T** – **T**op rib (a cervical rib growing above the first rib and clavicle)

@@ -2,54 +2,70 @@
 tags: [Cardiovascular]
 title: Coronary Artery Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, September 26th 2025, 4:27:09 pm
+date modified: Saturday, September 27th 2025, 5:35:58 pm
 aliases: [Ischemic Heart Disease]
 date: 2023-11-12
 ---
 aka Ischemic Heart Disease
 
-Coronary artery disease is a narrowing or blockage of your coronary arteries usually caused by the buildup of fatty material called plaque under the endothelium. Coronary artery disease is also called coronary heart disease, ischemic heart disease and heart disease
+Coronary artery disease is a narrowing or blockage of your coronary arteries usually caused by the buildup of fatty material called plaque under the endothelium. 
+
+Coronary artery disease is also called coronary heart disease, ischemic heart disease and heart disease
 
 ## Causes/Factors
 
-**_Atherosclerosis_**
+**Non-modifiable risk factors:**
+- Older age
+- [[Pearls/Familial hypercholesterolaemia]]
+- Male
 
-- [[Full/Essential hypertension|Hypertension]]
-- hypercholesterolemia
-- high LDL-A
-- poor exercise
-- smoking
-- high BMI
-- have diabetes
-- family history
-
+**Modifiable risk factors:**
+- Raised cholesterol
+- [[Full/Essential hypertension|hypertension]]
+- Smoking
+- Alcohol consumption
+- Poor diet
+- Lack of exercise
+- Obesity
+- Poor sleep
+- Stress
 ## Symptoms
 
+A typically symptomless disease until an event. Prevention should be used  
 - [[Full/Angina]]
 - Tiredness
 - SoB
 - Syncope/pre-syncope - on exercise
 
-## Diagnostic Tests
 
-- ECG - can show ischemia and abnormal rhythms due to it
-- Exercise stress test
-- Echo - look at heart function
-- Angiography
-- Blood tests - look at LDL and total cholesterol
+> [!warning] History taking
+> Carefully consider what questions to ask when getting a history. Ask about:
+> - Diet
+> - Exercise
+> - PMH
+> - FH 
+> - Occupation
+> - Smoking
+> - Alcohol intake
+> - Medications
 
-## Management
+## Primary Prevention
 
 - Stop smoking
 - Improve diet
 - Increase exercise
 - Limit alcohol use
-- Statins
-- $\beta$ blockers
-- Nitro-glycerine spray (for [[Full/Angina]] symptomatic relief)
+- [[Pearls/Statins|Statins]] as per Q risk score > 10% 
+- Optimise treatment of co-morbidities 
 
-- Angioplasty
-- Coronary artery bypass grafting
+## Secondary Prevention
+
+Depends on the specific condition. Usually the **4 As** pneumonic:
+- Antiplatelet - aspirin, clopidogrel and ticagrelor 
+- Atorvastatin 80mg
+- [[Pearls/Atenolol|Atenolol]] (or other $\beta$ blocker e.g. bisoprolol) tritrated to max dose
+- ACEi usually [[Pearls/Ramipril|Ramipril]] titrating up 2.5mg -> 5mg -> 10mg OD 
+
 
 ## Complications/red Flags
 

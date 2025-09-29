@@ -26,7 +26,7 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 
 ## Signs
 
-- **Finger [[Full/clubbing]]**
+- **Finger [[Pearls/clubbing]]**
 - Coarse inspiratory crepitations heard
 - Hypoxaemia
 - Hypercapnia (high $CO_2$)

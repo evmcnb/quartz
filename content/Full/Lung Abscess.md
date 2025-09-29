@@ -25,7 +25,7 @@ A cavitating area of localised suppurative infection within the lung
 - Haemoptysis
 - Malaise
 - Weight loss
-- Finger [[Full/clubbing]]
+- Finger [[Pearls/clubbing]]
 
 ## Diagnostic Tests
 

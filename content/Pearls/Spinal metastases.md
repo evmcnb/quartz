@@ -2,7 +2,7 @@
 tags: [Orthopaedics, Oncology, Geriatrics]
 title: Spinal metastases
 date: 2023-09-27
-date modified: Friday, September 26th 2025, 4:39:02 pm
+date modified: Monday, September 29th 2025, 12:20:39 pm
 date created: Monday, September 8th 2025, 2:05:10 pm
 ---
 
@@ -11,8 +11,9 @@ Patients may present with spinal metastases before developing metastatic spinal 
 **Symptoms and findings**  
 - Unrelenting lumbar back pain
 - Any thoracic or cervical back pain
+- Incontinence
 - Worse with sneezing, coughing or straining
-- Nocturnal
+- Constant pain at night and at rest
 - Associated with tenderness
 - It is more common in patients with lung, breast and prostate cancer
 
@@ -30,9 +31,10 @@ Spinal cord compression is an oncological emergency and affects up to 5% of canc
 	- Tendon reflexes tend to be increased below the level of the lesion and absent at the level.
 
 
-Urgent MRI - whole MRI spine within 24 hours of presentation 
+Urgent MRI - **whole MRI spine** within 24 hours of presentation 
 
 Management: 
 - high-dose oral dexamethasone (16mg) + PPI
 - urgent oncological assessment for consideration of radiotherapy or surgery
 
+If patients are treated within 24 hours, 57% will be able to walk again

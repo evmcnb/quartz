@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Lung Tumours
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Monday, September 29th 2025, 9:56:16 am
 date: 2024-02-23
 ---
 
@@ -40,6 +40,7 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
 * Mucin production +/- gland formation
 * Typically peripheral
 * Most common type of lung cancer in non-smokers
+* But still comprised of majority smokers
 
 ###### Large cell carcinoma
 - Typically peripheral
@@ -52,8 +53,8 @@ SCLC may be responsible for various [[Pearls/Paraneoplastic Syndromes|Paraneopla
 
 **Management**:
 SCLC (stage I-III)  
-- Chemoradiotherapy is mainstay  
-- Prophylactic intracranial irradiation (to prevent brain mets)  
+- Chemoradiotherapy is mainstay  & they respond well
+- **Prophylactic** intracranial irradiation (to prevent brain mets). However this can severely impair brain function (short & long term memory)
   
 SCLC (stage V)  
 - Chemotherapy is mainstay  
@@ -76,6 +77,7 @@ SCLC (stage V)
 - arsenic
 - iron oxides
 - radon gas
+- Associated with deprivation 
 ## Symptoms
 
 - cough
@@ -83,6 +85,8 @@ SCLC (stage V)
 - dyspnoea
 - chest pain
 - weight loss
+- Bone/RUQ pain/headaches
+- Neuro signs
 
 **Small cell**  
 - ADH
@@ -92,7 +96,7 @@ SCLC (stage V)
   
 **Squamous cell**  
 - parathyroid hormone-related protein (PTH-rp) secretion causing **[[Pearls/Hypercalcaemia|Hypercalcaemia]]**
-- [[Full/clubbing]]
+- [[Pearls/clubbing]]
 - hypertrophic pulmonary osteoarthropathy (HPOA)
 - [[Pearls/Hyperthyroidism|Hyperthyroidism]] due to ectopic TSH
 
@@ -103,14 +107,13 @@ SCLC (stage V)
 
 ## Signs
 
-- **[[Full/clubbing]]** of fingers
+- **[[Pearls/clubbing]]** of fingers
 - [[Pearls/Anaemia|Anaemia]]
 - [[Full/Pleural Effusion]]
 - hepatomegaly
 - metastasis - lymphadenopathy
 
 ## Diagnostic Tests
-
 
 > [!info] Referral Criteria
 > Offer a CXR within 2 week for patients over 40 with:

@@ -11,7 +11,7 @@ Irreversible liver damage - loss of normal hepatic architecture
 
 * Most commonly caused by alcohol abuse or HBV/HCV
 * Leuconychia from the hypoalbuminaemia
-* [[Full/clubbing]]
+* [[Pearls/clubbing]]
 * Palmar erythema
 * Duputrens contracture
 * Spider naevi

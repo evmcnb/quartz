@@ -2,13 +2,20 @@
 tags: [Urology, Oncology]
 title: Prostatic Adenocarcinoma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, September 23rd 2025, 8:33:28 pm
+date modified: Monday, September 29th 2025, 10:24:14 am
 date: 2024-03-11
 ---
 
 Cancer of the glandular epithelium in the prostate. **Most common prostate cancer**
 
 TNM staging, Gleason scoring:
+
+T1: no palpable or visible cancer (biopsy only)
+T2: cancer within prostate
+T3: cancer breaching prostate capsule
+T4: cancer growing into rectum or bladder
+N0: no nodes, N1: nodes
+M0: no mets, M1: mets
 
 > [!info] Gleason Scoring 
 > Used to grade the aggressiveness of prostate cancer based on the microscopic appearance of a tissue sample obtained from a biopsy.
@@ -24,7 +31,7 @@ TNM staging, Gleason scoring:
 - FH - BRCA1/2
 - Pesticide exposure
 - Increasing age
-- Family history
+- First degree relative with the condition
 - Black African or Caribbean origin
 - Tall stature
 - Anabolic steroids
@@ -72,7 +79,8 @@ Rare
 
 - **Prostate-Specific Antigen (PSA) Test:** Blood test to measure PSA levels (elevated levels may indicate prostate issues). See [[Full/Benign Prostatic Hyperplasia#^a09e56|here]] for details. Normal upper limit 4ng/ml.
 	- The percentage of free: total PSA may help to distinguish benign disease from cancer. Values of <20% are suggestive of cancer and biopsy is advised.
-- **Biopsy:** Removal and examination of a tissue sample to confirm cancer.
+	- Not used as a screening test - no benefit on analysis
+- **TRUS Biopsy:** (trans rectal ultrasound biopsy). Done as an OP procedure. S/E of urine infection with 3% risk of sepsis 
 - **Imaging:** MRI, CT, or [[Pearls/Bone|Bone]] scans to determine cancer spread (if applicable).
 
 ## Management

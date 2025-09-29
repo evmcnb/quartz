@@ -26,4 +26,4 @@ Combination of **chronic [[Full/bronchitis]]** and **[[Full/emphysema]]**
 
 * Chemicals and heat trigger inflammation in bronchi and lung parenchyma $\rightarrow$ scarring, mucus hyperplasia, alveolar wall loss ([[Full/emphysema]])
 * Mainly in smokers
-* NOT A CAUSE OF [[Full/clubbing]]
+* NOT A CAUSE OF [[Pearls/clubbing]]

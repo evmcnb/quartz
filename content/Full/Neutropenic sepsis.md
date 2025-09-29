@@ -1,7 +1,7 @@
 ---
 title: Neutropenic sepsis
-date created: 2024-04-09 12:23:05.879213+01
-date modified: ""
+date created: Friday, February 28th 2025, 4:35:22 pm
+date modified: Monday, September 29th 2025, 11:50:52 am
 tags: [Haematology, InfectiousDisease, Acute, Oncology]
 date:
 ---
@@ -16,8 +16,6 @@ should be treated as a case of neutropenic sepsis until proven otherwise
 > Overall mortality is around 5% and patients can quickly decompensate
 > - Typically occurs 7-14 days post chemotherapy (timing is key to ask on a history)
 > - Ask for local trust policy for neutropenic sepsis 
-
-
 
 ## Causes/Factors
 
@@ -62,10 +60,34 @@ Medications that may cause neutropenia include
 
 ## Investigations
 
+**History**: 
+- Chemo drugs & timing, line & access, stents etc
+- Previous episodes
+- Localising symptoms
+- Allergies
+
+**Exam**:
+- ABCDE
+- NEWS
+- Full systematic exam
+- Focus on sources of infection
+
 ## Management
 
 ![[Full/Sepsis#BUFALO]]
 
 
+### MASCC Score
 
-## Complications/red Flags
+**M**ultinational **A**ssociation for **S**upportive **C**are in **C**ancer patients
+
+Some patients don't want to spent time in hospital if their palliative - trying to get people home on oral anti-biotics. This score assesses the risk of complications during a febrile neutropenic episode.
+
+Looks at burden of infection, co-morbidities, BP, COPD, tumour type, age, etc
+
+
+### GCSF
+
+Injection to stimulate the bone marrow to produce more white cells - shorten the duration of the neutropenia. 
+
+Not routinely prescribed, consider if neuts <0.1 or other severe comorbidities/historic episodes

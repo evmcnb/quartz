@@ -2,20 +2,33 @@
 tags: [Gastroenterology]
 title: Coeliac Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Saturday, September 27th 2025, 5:08:22 pm
 date: 2023-09-18
 ---
 
-Coeliac disease is a condition where your immune system attacks your own tissues when you eat gluten. This damages your gut (small intestine) so reduced surface area to uptake nutrients
+
+Immune mediated enteropathy when ingestion of wheat, rye or barley - anything containing **gliadin**
+* Increased CD8+ intraepithelial lymphocytes
+* Villous atrophy, crypt elongation
+
+Non-invasive serologic tests usually performed before biopsy - IgA to TTG or IgA/G to gliadin. Tissue biopsy gold standard. Anti-bodies tested for:
+- **_Anti-tissue transglutaminase antibodies_** (**_anti-TTG_**) 
+- **_Anti-endomysial antibodies_** (**_anti-EMA_**)
+- **_Anti-deamidated gliadin peptide antibodies_** (**_anti-DGP_**)
+
+Treatment with gluten free diet
 
 ## Causes/Factors
 
-- Family history/genetics
+- Family history/genetics - HLA-DQ2/DQ8
 - Other autoimmune conditions
 - Environmental factors
 
 ### Presentation
 
+
+Often asymptomatic and under-diagnosed. Low threshold for testing
+- Failure to thrive in young children
 - Stinking stools (steatorrhea)
 - Diarrhoea
 - Abdominal pain
@@ -23,21 +36,42 @@ Coeliac disease is a condition where your immune system attacks your own tissues
 - Nausea + vomiting,
 - Weight loss
 - Fatigue
-- Failure to thrive
+- [[Pearls/Dermatitis Herpetiformis|Dermatitis Herpetiformis]]
+- Anaemia - due to malabsorption and deficiency of iron, B12 or folate
+
+Rarely can present with neurological symptoms:
+- Peripheral neuropathy
+- Cerebellar ataxia
+- Epilepsy 
+
 
 ## Diagnostic Tests
+
+
+***The patient must continue eating gluten while being investigated***. Tests may be false negative if the patient is gluten free.
+
+First line blood tests:
+- **_Total immunoglobulin A levels_** (to exclude **_IgA deficiency_**)
+- **_Anti-tissue transglutaminase antibodies_** (**_anti-TTG_**)
+
+- Second line when inconclusive: **_Anti-endomysial antibodies_** (**_anti-EMA_**)
+
+Positive antibody tests indicate a referral to GI for endoscopy and jejunal biopsy:
 
 Dude is Just Feeling Ill Bro
 **D**uodenum: **I**ron
 **J**ejunum: **F**olate
 **I**leum: **B**12
 
+Inflammation effects the jejunum particularly. Atrophy of the intestinal villi resulting in malabsorption
+
+  ![|625](z_attachments/625.png)
+
+Other blood test results:
 - $\downarrow$ Hb
 - $\uparrow$ RCDW
 - $\downarrow$ B12
 - $\downarrow$ ferritin
-- Anti-transglutaminase antibodies (ATA) where positive go to duodenal biopsy while on gluten containing diet
-  ![|625](z_attachments/625.png)
 
 ## Management
 

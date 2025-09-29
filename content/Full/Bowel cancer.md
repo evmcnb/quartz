@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Oncology]
 title: Bowel cancer
 date: 2024-04-21
-date modified: Tuesday, September 23rd 2025, 8:37:13 pm
+date modified: Monday, September 29th 2025, 11:03:40 am
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Bowel cancer usually refers to cancer of the colon or rectum. Small bowel and anal cancers are less common.
@@ -117,6 +117,12 @@ Obstruction
 - Bevacizumab (anti-VEGF) and Cetuximab (anti-EGFR), particularly for metastatic disease
 
 ## Complications/red Flags
+
+### Recurrence/follow up
+- 6 monthly CEAs
+- Complete colonoscopy at 12 and 36 months 
+- Further CT investigation 
+
 
 - Bleeding, infection and pain
 - Incisional [[Full/Hernias]]

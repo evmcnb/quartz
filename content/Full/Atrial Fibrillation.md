@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Atrial Fibrillation
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Saturday, September 27th 2025, 1:15:13 pm
 date: 2024-01-31
 ---
 
@@ -62,7 +62,6 @@ Atrial flutter is a right atrial process caused by a re-enterant loop around the
 Don't forget to check electrolytes! If potassium/magnesium very low, rate control agents won't do anything
 
 
-
 ### Adverse features
 Atrial fibrillation in patients with the follow should be defibrillated using synchronised DC cardioversion:
 - Hemodynamically unstable
@@ -77,6 +76,7 @@ Atrial fibrillation in patients with the follow should be defibrillated using sy
 
 Flecainide **cannot be used** in those with any structural heart disease (eg [[Full/myocardial infarction|myocardial infarction]])
 ## Paroxysmal AF
+
 For intermittent short duration AF, "pill-in-the-pocket" strategy can be used. Patient can take a pharmacological cardioversion only when they feel symptoms of AF begin. 
 
 **Rate control** - slows down the heart rate to prevent symptom of palpitations and improve heart beat efficiency. Target heart rate is < 110 asymptomatic, < 85 if symptomatic

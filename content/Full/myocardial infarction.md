@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Saturday, September 27th 2025, 5:19:38 pm
 date: 2023-11-12
 ---
 
@@ -23,7 +23,7 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 - Family history of [[Full/Coronary Artery Disease]]
 - Smoking
 - [[Full/Essential hypertension|Hypertension]]
-- [[Familial hypercholesterolaemia]]
+- [[Pearls/Familial hypercholesterolaemia]]
 - Hyperlipidaemia
 - Obesity
 - Sedentary lifestyle

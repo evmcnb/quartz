@@ -4,7 +4,7 @@ title: SVC Obstruction
 date: 2023-09-27
 date modified: 2025-04-23
 ---
-Superior vena cava (SVC) obstruction is an oncological emergency caused by compression of the SVC. It is most commonly associated with [[Full/Lung Tumours|Lung Tumours]].
+Superior vena cava (SVC) obstruction is an (oncological) emergency caused by compression of the SVC. It is most commonly associated with [[Full/Lung Tumours|Lung Tumours]].
 
 Features  
 - dyspnoea is the **most common** symptom
@@ -22,8 +22,11 @@ Anything that compresses stuff
 - mediastinal fibrosis
 - goitre
 - SVC thrombosis
+- TB
 
-Management is dependant on the individual patient and malignancy and advice should be taken from the oncology team. Options include:  
+**16mg dexamethasone + PPI cover**
+
+Definitive management is dependant on the individual patient and malignancy and advice should be taken from the oncology team. Options include:  
 - endovascular stenting is often the treatment of choice to provide symptom relief
 - certain malignancies such as lymphoma, small cell lung cancer may benefit from radical chemotherapy or chemo-radiotherapy rather than stenting
 - the evidence base supporting the use of glucocorticoids is weak but they are often given

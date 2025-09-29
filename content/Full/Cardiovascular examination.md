@@ -43,7 +43,7 @@ date: 2024-02-07
 - [[Full/Janeway lesions and Osler's nodes]] - infective [[Full/Endocarditis]]
 - <span style="color:#ff0000"> Pale palmar creases</span> - <span style="color:#00b0f0">anaemia</span>
 
-##### Finger [[Full/clubbing]]
+##### Finger [[Pearls/clubbing]]
 
 - <span style="color:#ff0000">Schamroth’s window test</span> -<span style="color:#00b0f0"> congenital cyanotic heart disease, infective</span> [[Full/Endocarditis]], <span style="color:#00b0f0">and</span> [[atrial myxoma]]
 

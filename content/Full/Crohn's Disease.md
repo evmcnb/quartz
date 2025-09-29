@@ -36,7 +36,7 @@ Smoking $\uparrow$ risk 3-4 times
 
 Extraintestinal signs:
 
-- [[Full/clubbing]]
+- [[Pearls/clubbing]]
 - skin joint and eye problems
 
 ## Diagnostic Tests

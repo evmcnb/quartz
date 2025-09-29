@@ -46,7 +46,7 @@ date: 2024-02-07
 - **<span style="color:#ff0000">Skin changes:</span>** bruising and thinning of the skin can be associated with <span style="color:#00b0f0">long-term steroid use (e.g. asthma, COPD, interstitial lung disease)</span>.
 - <span style="color:#ff0000">Joint swelling or deformity:</span> may be associated with <span style="color:#00b0f0">rheumatoid arthritis</span> which has several extra-articular manifestations that affect the respiratory system (e.g. <span style="color:#00b0f0">pleural effusions/pulmonary fibrosis</span>).
 
-##### Finger [[Full/clubbing]]
+##### Finger [[Pearls/clubbing]]
 
 Most likely causes to come up in resp exam OSCE is [[Full/Lung Tumours]], [[Full/interstitial lung disease]], [[Full/Cystic Fibrosis]], [[Full/bronchiectasis]]
 

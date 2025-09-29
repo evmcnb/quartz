@@ -1,11 +1,9 @@
 ---
-tags:
-  - Respiratory
+tags: [Respiratory]
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, August 30th 2025, 11:50:08 am
-aliases:
-  - Asthma
+date modified: Saturday, September 27th 2025, 1:11:02 pm
+aliases: [Asthma]
 date: 2024-01-14
 ---
 
@@ -13,6 +11,10 @@ date: 2024-01-14
 - Characterised by _episodes_ of dyspnoea, cough, wheeze
 - Reversible airway obstruction and bronchospasm
 - Inflammatory disorder reduces air flow rate
+
+New 2024 asthma algorithm:
+
+![[z_attachments/pdd602b.png]]
 
 ## Causes/Factors
 
@@ -71,6 +73,40 @@ Children aged 5-16:
 
 ## Management
 
+### Long-Term Management
+
+##### Step 1
+- A low dose ICS/formoterol combination inhaler taken **PRN** for symptomatic relief (AIR) therapy
+- If the patient is highly symptomatic (regular nocturnal waking) or with a severe exacerbation start treatment with low dose **MART** (maintenance and reliever)
+- Treat acute symptoms as appropriate (e.g. course of oral corticosteroids)
+
+##### Step 2
+- A low dose MART 
+
+##### Step 3
+- A moderate dose MART 
+
+##### Step 4
+- Check fractional exhaled nitric oxide level if possible and eosinophil count
+	- If Either is raised refer to a specialist in asthma care
+	- if neither is raised, consider a trial of either a leukotriene receptor antagonist (LTRA) or long-acting muscarinic receptor antagonist (LAMA) used in addition to moderate-dose MART
+	- If control has not improved, stop the LTRA or LAMA and start a trial of the other one
+
+##### Step 5
+- Refer to a specialist in asthma care when asthma is not controlled 
+
+
+
+Additional management includes:
+- Individual written asthma self-management plan
+- Yearly flu jab
+- Yearly asthma review when stable
+- Regular exercise 
+- Avoid smoking (including passive smoke)
+- Avoiding triggers where appropriate
+
+
+
 #### Pharmacology
 
 - **_Short-acting beta-2 agonists_** (**_SABA_**) e.g. **_salbutamol_** used as a reliver or rescue medication
@@ -84,24 +120,6 @@ Children aged 5-16:
 
 **_Maintenance and reliever therapy_** (**_MART_**) involves a **_dry powder inhaler_** containing an **_inhaled corticosteroid_** (e.g., **_budesonide_**) plus a **_fast and long-acting beta-agonist_** (e.g., **_formoterol_**). The patient uses this single inhaler regularly as a **_preventer_** and **_reliever_** when they have symptoms. They get a regular ICS and beta-agonist dose, with additional doses for uncontrolled symptoms.
 
-### Long-Term Management
-
-
-1. _**AIR therapy**_
-2. _**Low-dose MART**_
-3. _**Moderate-dose MART**_
-4. _**Specialist referral**_ if _**FeNO**_ or _**eosinophils**_ are _**raised**_ at this stage
-5. Add **_leukotriene receptor antagonist_** or **_LAMA_** (8-12 week trial and switch if not helping)
-6. _**Specialist referral**_
-
-
-Additional management includes:
-- Individual written asthma self-management plan
-- Yearly flu jab
-- Yearly asthma review when stable
-- Regular exercise 
-- Avoid smoking (including passive smoke)
-- Avoiding triggers where appropriate
 
 ### Acute Management
 See [[Full/RRAPID Conditions and Management#asthma Asthma|here]]:
