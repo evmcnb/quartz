@@ -2,11 +2,23 @@
 tags: [Gastroenterology]
 title: Ulcerative Colitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, September 30th 2025, 3:13:57 pm
 date: 2023-09-18
 ---
 
 The inflammatory bowel diseases (IBD), ulcerative colitis and [[Full/Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.
+
+
+
+> [!success] Differentiating features of UC (**CLOSEUP**)
+> - **C**ontinuous inflammation
+> - **L**imited to the colon and rectum
+> - **O**nly superficial mucosa affected
+> - **S**moking may be protective
+> - **E**xcrete blood and mucus
+> - **U**se aminosalicylates
+> - **P**[[Pearls/Primary sclerosing cholangitis vs biliary cholangitis|rimary sclerosing cholangitis]]
+
 
 Can only effect colon - "never" past ileocaecal value
 ![|650](z_attachments/650-1.png)
@@ -21,6 +33,11 @@ The severity of UC is usually classified as being mild, moderate or severe:
 ## Causes/Factors
 
 Inappropriate immune response against (?abnormal) colonic flora in genetically susceptible individuals - failure to maintain tolerance
+
+- FH - greatest risk in first degree relatives
+- SurgH of appendectomy 
+- NSAIDs
+- Not smoking
 
 ## Symptoms
 
@@ -47,23 +64,32 @@ Extraintestinal signs:
 - ankylosing spondylitis
 - nutritional deficits
 
-## Diagnostic Tests
 
-- Calprotectin - protein released from neutrophils into stool -> inflammatory marker, highly sensitive
-- Blood tests for inflammatory markers/[[Pearls/Anaemia|Anaemia]] (FBC, ESR, CRP, U&E, LFT)
-- Full colonoscopy or sigmoidoscopy -> biopsy
-- AXR - no feacal shadows, mucosal thickening/islands
-
+![[Full/Crohn's Disease#Diagnostic Tests]]
 ## Management
 
-Goals are to induce and maintain disease remission
 ![|650](z_attachments/650.png)
 
-**Immunomodulation** if patients flare on steroid or require 2+ courses of steroid per year. Monitor LFTs. Slow acting drug compared to steroids
+**_Ulcerative colitis_** typically only affects the large bowel and rectum. Therefore, removing the entire large bowel and rectum (**_panproctocolectomy_**) will remove the disease. The patient has either a permanent **_ileostomy_** or an **_ileo-anal anastomosis_** (**_J-pouch_**).
 
-**Biologic therapy** for patients intolerant of immunomodulation or developing symptoms despite an immunomodulator
 
-**Surgery** - needed at some stage in 20% of cases to remove effected part of colon
+##### Mild to moderate acute
+
+- Aminosalicylate (mesalazine) - 1st line
+- Corticosteroids (prednisolone) - 2nd line
+
+##### Severe acute
+
+- IV steroids (hydrocortisone) - 1st line
+- IV ciclosporin
+- Infliximab
+- Surgery
+
+#### Maintaining Remission
+
+- Aminosalicylate (oral mesalazine) - 1st line
+- Azathioprine
+- Mercaptopurine 
 
 ## Complications/red Flags
 

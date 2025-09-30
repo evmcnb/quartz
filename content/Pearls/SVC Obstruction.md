@@ -2,7 +2,8 @@
 tags: [Acute, Oncology, Palliative]
 title: SVC Obstruction
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Tuesday, September 30th 2025, 2:39:28 pm
+date created: Monday, September 8th 2025, 11:28:39 am
 ---
 Superior vena cava (SVC) obstruction is an (oncological) emergency caused by compression of the SVC. It is most commonly associated with [[Full/Lung Tumours|Lung Tumours]].
 
