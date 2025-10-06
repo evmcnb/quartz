@@ -1,11 +1,11 @@
 ---
-tags:
-  - Endocrinology
+tags: [Endocrinology]
 title: Hypothyroidism
 date created: Sunday, September 24th 2023, 5:31:12 pm
-date modified: 2024-03-11
+date modified: Thursday, October 2nd 2025, 5:11:11 pm
 date: 2023-09-27
 ---
+
 - Underactive thyroid
 - Hy**po** so low mood, slow, lethargic gain weight etc
 - Most common in women and older people
@@ -51,10 +51,22 @@ Diagnosing hypothyroidism involves blood tests, including:
 
 Treatment of hypothyroidism typically involves lifelong hormone replacement therapy with synthetic thyroid hormones, such as **[[Pearls/Levothyroxine|Levothyroxine]]**. The goal is to restore thyroid hormone levels to normal and alleviate symptoms.
 
+- Most patients started on a dose of 50-100mcg OD 
+- Severe hypothyroidism or patients over 50 years the initial starting dose should be 25mcg OD with dose slowly titrated.
+
+***Following a change in thyroxine dose thyroid function tests should be checked after 8-12 weeks***
+
 >[!tldr] Sub-clinical hypothyroidism
 >Where TSH level is elevated but less than 10 mU/L on **two** separate occasions **three months** apart and **symptoms of hypothyroidism** are present
 >-  6-month trial of [[Pearls/Levothyroxine|Levothyroxine]] and rechecking TFTs after. 
 >- This is because patients with subclinical hypothyroidism have an increased risk of cardiovascular disease and progression to overt hypothyroidism, and treatment generally resolves symptoms.
+
+
+##### Pregnancy
+
+For women in established hypothyroidism who become pregnant: 
+- Dose increased by 25-50mcg (due to demands of pregnancy)
+- TSH monitored carefully, aiming for a low-normal value
 
 ## Complications/Red Flags
 
@@ -62,4 +74,13 @@ Untreated or inadequately managed hypothyroidism can lead to complications, incl
 
 - **Cardiovascular Issues:** Elevated cholesterol levels and an increased risk of heart disease.
 - **Mental Health Problems:** Increased risk of [[Full/Depression]] and cognitive impairment.
-- **[[Myxedema]]:** A rare but life-threatening condition characterized by extreme hypothyroidism.
+- **[[Myxedema]]:** A rare but life-threatening condition characterized by extreme hypothyroidism. 
+
+
+### Side Effects
+
+- Hyperthyroid due to overtreatment
+- [[Full/osteoporosis|osteoporosis]]
+- Worsening of [[Full/Angina|Angina]]
+- [[Full/Atrial Fibrillation|Atrial Fibrillation]]
+- Absorption of levothyroxine reduced with iron and calcium supplementation 

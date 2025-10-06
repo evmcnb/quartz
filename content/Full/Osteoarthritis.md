@@ -1,10 +1,8 @@
 ---
-tags:
-  - Rheumatology
-  - MSK
+tags: [Rheumatology, MSK]
 title: Osteoarthritis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Thursday, October 2nd 2025, 5:41:24 pm
 date: 2023-11-29
 ---
 
@@ -32,7 +30,7 @@ Affects weight bearing joints
 
 ## Symptoms
 
-- Increasing pain over months/yeras
+- Increasing pain over months/years
 - Siffness and reduced range of movement 
 - Referred pain to the joint below
 - Reduced power due to muscle wastage from reduced use) 
@@ -42,6 +40,8 @@ No systemic features or early morning stiffness. This is seen in [[Full/Inflamma
 
 - Clinical examination
 - XR AP + lateral of affected joint
+
+***LOSS Pneumonic***
 1. **L**oss of joint space
 2. **O**steophyte formation (bony spurs protrude out)
 3. **S**clerosis (underlying [[Pearls/Bone|Bone]] becomes hard)
@@ -53,15 +53,19 @@ No systemic features or early morning stiffness. This is seen in [[Full/Inflamma
 
 ## Management
 
-Conservative:
-- analgesia - [[Pearls/Paracetamol|Paracetamol]] (+ [[Pearls/Codeine|Codeine]] if bad). NSAIDs for a short period of time
-- intraarticular steroids give short term improvement when there is a painful joint effusion 
+Life-style:
+- Exercise
+- Weight loss if indicated
+- Occupational therapy
 
-Systemic steroids are not used
+**Medications**
+1. Topical NSAIDs
+2. Oral NSAIDs + PPI cover (contraindicated in patients taking aspirin)
+3. Only paracetamol or weak opioids in cases of: infrequent use/short term relief or above medications are contraindicated
 
-Surgical: 
-- total joint replacement
-- this lasts about 20 years
+Intra-articular steroid injections may be tried if standard pharmacological treatment is ineffective. Patients should be aware that they only provide short-term relief (2-10 weeks)
+
+If conservative methods fail then refer for consideration of joint replacement
 
 ## Complications/red Flags
 

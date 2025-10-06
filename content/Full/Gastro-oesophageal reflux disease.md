@@ -1,11 +1,13 @@
 ---
-tags:
-  - Gastroenterology
+tags: [Gastroenterology]
 title: Gastro-oesophageal reflux disease
 date created: Tuesday, February 13th 2024, 1:02:56 pm
-date modified: 2024-03-11
+date modified: Thursday, October 2nd 2025, 4:32:31 pm
 date: 2024-02-16
+aliases: [GORD, Dyspepsia]
 ---
+
+GORD is the most common cause of dyspepsia
 
 Chronic reflux of gastric contents back into the oesophagus resulting [[Pearls/Gastritis|Gastritis]]
 
@@ -39,20 +41,48 @@ Chronic reflux of gastric contents back into the oesophagus resulting [[Pearls/G
 
 ## Investigations
 
-- Endoscopy
-- Oesophageal pH monitoring
-- Oesophageal manometry - measurement of motility and lower oesophageal sphincter pressure 
-- Barium swallow - strictures or hiatal [[Full/Hernias]]
+Poor correlation between symptoms and endoscopy appearance
+
+Indications for upper GI endoscopy (to rule out red flags):  
+- age > 55 years
+- symptoms > 4 weeks or persistent symptoms despite treatment
+- dysphagia
+- relapsing symptoms
+- weight loss
+
+- 24hr oesophageal pH monitoring - gold standard test
+
 
 ## Management
 
 - Lifestyle measures - sleeping with head raised
-- Stop exacerbating drgs
-- Full-dose PPI for 4 weeks for proven GORD - 8 weeks for severe [[Pearls/Oesophagitis|Oesophagitis]]
-	- Consider a further 4 weeks if unresolved
-	- H2 receptor antagonist reduce gastric acid secretion
+- Stop exacerbating drugs
 
-- Dysplasia on biopsy requires endoscopic resection
+Endoscopically proven GORD  
+- full dose proton pump inhibitor (PPI) for 1-2 months
+- if response then low dose treatment as required
+- if no response then double-dose PPI for 1 month
+
+Endoscopically negative reflux disease  
+- full dose PPI for 1 month
+- if response then offer low dose treatment, possibly on an as-required basis, with a limited number of repeat prescriptions
+- if no response then H2RA or prokinetic for one month
+
+| PPI          | Full/standard dose | Low dose (PRN) | Double dose |
+| ------------ | ------------------ | -------------- | ----------- |
+| Lansoprazole | 30mg OD            | 15 OD          | 30mg BD     |
+| Esomeprazole | 20mg OD            | Not available  | 40mg OD     |
+| Omeprazole   | 20mg OD            | 10mg OD        | 40mg OD     |
+| Pantoprazole | 40mg OD            | 20mg OD        | 40mg BD     |
+
+| H2RA       | Usual Treatment Dose | Nocturnal Dose |
+| ---------- | -------------------- | -------------- |
+| Ranitidine | 150mg BD             | 300mg OD       |
+| Famotidine | 20-40mg BD           | ----           |
+| Nizatidine | 150-300mg BD         | ----           |
+
 ## Complications/red Flags
 
 - Ruling out other diagnosis are important - cardiac or hepatobilliary disease can contribute to symptoms 
+- [[Pearls/Barrett's oesophagus|Barrett's oesophagus]]
+- [[Full/Hernias|Hernias]]

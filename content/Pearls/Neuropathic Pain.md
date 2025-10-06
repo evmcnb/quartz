@@ -2,7 +2,8 @@
 tags: [Endocrinology, Neurology, Palliative]
 title: Neuropathic Pain
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Thursday, October 2nd 2025, 3:05:26 pm
+date created: Monday, September 8th 2025, 11:35:25 am
 ---
 Neuropathic pain may be defined as pain which arises following damage or disruption of the nervous system. It is often difficult to treat and responds poorly to standard analgesia.
 

@@ -1,10 +1,8 @@
 ---
-tags:
-  - Neurology
-  - Cardiovascular
+tags: [Neurology, Cardiovascular]
 title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Thursday, October 2nd 2025, 5:42:00 pm
 date: 2024-01-23
 ---
 
@@ -86,9 +84,10 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 ## Management
 
 Exclude [[Full/Hypoglycaemia]]
-Immediate CT brain to exclude haemorrhage
-[[Pearls/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
-Admission to a specialist stroke centre
+
+1. Immediate CT brain to exclude haemorrhage
+2. [[Pearls/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
+3. Admission to a specialist stroke centre
 
 Once haemorrhagic **excluded**:
 

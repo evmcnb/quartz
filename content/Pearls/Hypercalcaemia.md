@@ -1,7 +1,7 @@
 ---
 title: Hypercalcaemia
 date created: Sunday, January 21th 2024, 01:34:13 PM
-date modified: Monday, September 29th 2025, 11:56:56 am
+date modified: Thursday, October 2nd 2025, 3:05:24 pm
 tags: [Endocrinology, Oncology, Acute]
 ---
 
@@ -74,8 +74,8 @@ Common culprits:
 
 ## Management
 
-| Calcium           | Management                                                                                                                                                                                                                                                                                                                                  |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <3                | Rehydration with IV fluids                                                                                                                                                                                                                                                                                                                  |
-| >3 or symptomatic | 3L of saline in 24 hours, stop [[Pearls/Thiazide diuretics\|Thiazide diuretics]], consider [[Pearls/Furosemide\|Furosemide]]<br><br>Rehydrate first before bisphosphonate treatment:<br>- Zometa 4mg IV<br>- Pamidronate 60-90g<br>Monitor renal function <br><br>Consider calcitonin if very high calcium and concerns about tachyphylaxis |
+| Calcium           | Management                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <3                | Rehydration with IV fluids                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| >3 or symptomatic | 3L of saline in 24 hours, stop [[Pearls/Thiazide diuretics\|Thiazide diuretics]], consider [[Pearls/Furosemide\|Furosemide]]<br><br>Rehydrate first before bisphosphonate treatment:<br>- Zometa 4mg IV<br>- Pamidronate 60-90g<br>Need good renal function for this - one of the points of rehydrations<br>- Osteonecrosis of the jaw if given regularly - need a dental check<br><br>Consider calcitonin if very high calcium and concerns about tachyphylaxis |
 

@@ -2,16 +2,15 @@
 tags: [Neurology, Cardiovascular]
 title: Transient Ischemic Attack
 date created: Wednesday, October 4th 2023, 12:34:39 pm
-date modified: 2024-03-11
+date modified: Thursday, October 2nd 2025, 5:42:43 pm
 date: 2023-10-05
 ---
 Ischaemic usually embolic neurological event with symptoms that resolve within 24hr
 
 **Without intervention 1 in 12 patients subsequently have a [[Full/Stroke]] within a week**
 
-## Causes/Factors
 
-- [[Full/Stroke#Causes/Factors|Same as stroke]]
+![[Full/Stroke#Causes/Factors]]
 
 ## Signs
 

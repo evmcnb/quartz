@@ -1,11 +1,9 @@
 ---
-tags:
-  - Endocrinology
+tags: [Endocrinology]
 title: Hyperthyroidism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
-aliases:
-  - Thyrotoxicosis
+date modified: Thursday, October 2nd 2025, 4:57:09 pm
+aliases: [Thyrotoxicosis]
 date: 2024-01-14
 ---
 
@@ -64,7 +62,7 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 ## Management
 
 - **[[Pearls/Carbimazole|Carbimazole]]** is the first line anti-thyroid drug. Two treatment options:
-	1. The [[Pearls/Carbimazole|Carbimazole]] dose is titrated to maintain normal levels
+	1. The [[Pearls/Carbimazole|Carbimazole]] started at 40mg OD and titrated down to maintain euthyroid
 	2. A higher dose blocks all production and [[Pearls/Levothyroxine|Levothyroxine]] is added and titrated to effect
 	3. Risk of agranulocytosis and **acute [[Full/pancreatitis]]**
 
@@ -72,11 +70,11 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 >
 >The MHRA issued a warning in 2019 about the risk of acute [[Full/pancreatitis]] in patients taking [[Pearls/Carbimazole|Carbimazole]]. In exams, look out for a patient on [[Pearls/Carbimazole|Carbimazole]] presenting with symptoms of [[Full/pancreatitis]] (e.g., severe epigastric pain radiating to the back).
 
-- **Propylthiouracil** is second line and works in the same way. Small risk of severe liver reaction. 
+- **Propylthiouracil** 200-400mg is second line and works in the same way. Small risk of severe liver reaction. 
 
 **Both can cause agranulocytosis** - this makes people vulnerable to infection. A **[[Pearls/Sore throat|Sore throat]]** is a key presenting feature. Need an urgent FBC and aggressive treatment. 
 
-- **Beta blockers** - propanolol is usual as its non-selectively blocks adrenergic activity.
+- **Beta blockers** - propanolol is usual as its non-selectively blocks adrenergic activity to help with symptoms
 
 **Surgery is definitive option** - removing the whole thyroid gland and starting life-long [[Pearls/Levothyroxine|Levothyroxine]] 
 ## Complications/Red Flags

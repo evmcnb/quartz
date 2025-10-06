@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, August 30th 2025, 12:07:35 pm
+date modified: Thursday, October 2nd 2025, 4:51:07 pm
 date: 2024-01-31
 ---
 

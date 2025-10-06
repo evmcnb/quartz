@@ -1,10 +1,8 @@
 ---
-tags:
-  - Examination
-  - OSCE
+tags: [Examination, OSCE]
 title: Thyroid Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-04-21
+date modified: Thursday, October 2nd 2025, 4:59:46 pm
 date: 2024-02-07
 ---
 

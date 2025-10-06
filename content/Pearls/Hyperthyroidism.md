@@ -1,10 +1,9 @@
 ---
-title: "Hyperthyroidism"
+title: Hyperthyroidism
 date created: Monday, February 05th 2024, 02:31:57 PM
-date modified: 2024-02-05 14:31:57.695631+00
+date modified: Thursday, October 2nd 2025, 4:56:22 pm
 tags: ['Endocrinology']
 ---
-
 
 
 | S | Sweating |

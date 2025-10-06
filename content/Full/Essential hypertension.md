@@ -48,9 +48,12 @@ _Secondary_ hypertension can be due to **ROPED**:
 
 Treat all >160/100. For those at 140/90 treatment depends on other comorbidities and risks but is usually done so. 
 
-> [!tip] Treatment goals
-> - <140/90 in general population
-> - <150/90 if ages over 80
+**Treatment targets**
+
+| <br>               | Clinic BP** | ABPM/HBPM   |
+| ------------------ | ----------- | ----------- |
+| **Age < 80 years** | 140/90 mmHg | 135/85 mmHg |
+| **Age > 80 years** | 150/90 mmHg | 145/85 mmHg |
 
 - **Life style changes** - Stop smoking, low-fat diet, reduce alcohol and salt intake, increase exercise and try to lose weight
 

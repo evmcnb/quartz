@@ -1,17 +1,8 @@
 ---
-tags:
-  - Cardiovascular
-  - Endocrinology
-  - Gastroenterology
-  - MSK
-  - Nephrology
-  - Psychiatry
-  - Ophthalmology
-  - Oncology
-  - OBGYN
+tags: [Cardiovascular, Endocrinology, Gastroenterology, MSK, Nephrology, Psychiatry, Ophthalmology, Oncology, OBGYN]
 title: Obesity
 date created: Saturday, January 13th 2024, 5:34:03 pm
-date modified: 2024-03-11
+date modified: Thursday, October 2nd 2025, 5:34:22 pm
 date: 2024-01-14
 ---
 A BMI >$30 kg/m^3$ 

@@ -1,9 +1,8 @@
 ---
-tags:
-  - Endocrinology
+tags: [Endocrinology]
 title: "Grave's disease"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-04-21
+date modified: Thursday, October 2nd 2025, 4:56:14 pm
 date: 2023-09-27
 ---
 ## Brief Overview

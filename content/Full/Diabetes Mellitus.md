@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Thursday, October 2nd 2025, 5:46:25 pm
 date: 2024-01-14
 ---
 
@@ -64,11 +64,11 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
 
 ![[z_attachments/UgXjHX4.png|600]]
 
-![[z_attachments/Screenshot 2023-11-12 at 12.45.39.png|500]]
-
-Hypoglycaemic agents:
-
 ##### First line
+
+![[z_attachments/Pasted image 20251002174414.png]]
+
+
  -  **Metformin**: A biguanide - $\uparrow$ insulin sensitivity + decreases liver glucose production (may help weight). 
 	 - Avoid if eGFR is <36. 
 	 - GI symptom side effects (can switch to modified release) + *risk of lactic acidosis when in AKI*. 
@@ -81,6 +81,10 @@ Hypoglycaemic agents:
 	- Increases frequency of urinary tract infections and genital thrush and rarely **risk of DKA** (even with a moderately increased glucose). Rare risk of necrotising fasciitis of the genitalia or perineums
 
 ##### Second line 
+
+![[z_attachments/Pasted image 20251002174443.png]]
+
+Add one of the following:
 - **DPP4 inhibitors/gliptins** - block enzyme which destroys the hormone incretin (stimulates a decrease in blood glucose levels) _eg sitagliptin_ - few side effects (headaches, rarely pancreatitis)
 - **Glitazone** - $\uparrow$ insulin sensitivity, LFTs needed every 8 weeks - **do not use in patient with [[Full/Heart Failure]]** _eg pioglitazone_
 	- Decreases the liver production of glucose
@@ -88,7 +92,17 @@ Hypoglycaemic agents:
 - **Sulfonyurea** - $\uparrow$ insulin secretion but increased cardiovascular morbidity and mortality - promote weight gain _eg Gliclazide_
 - **GLP-1 Mimetics**: incretin analogues - suppress appetite. Weight loss effect 
 
-##### Insulin
+
+##### Third Line Therapy
+
+If a patient does not achieve control on dual therapy then the following options are possible:  
+- metformin + DPP-4 inhibitor + sulfonylurea
+- metformin + pioglitazone + sulfonylurea
+- metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met
+- insulin-based treatment
+
+
+###### Insulin
 
 Insulin is usually initiated and managed by diabetic specialist nurses
 
