@@ -15,7 +15,7 @@ Two types - ischemia or haemorrhagic
 ![[z_attachments/Pasted image 20231005084356.png|342]] 
 
 
-Ischemia can lead to haemorrhagic (haemorrhagic transformation of ischemic stroke )
+Ischemia can lead to haemorrhagic (haemorrhagic transformation of ischemic stroke)
 
 ## Causes/Factors
 
