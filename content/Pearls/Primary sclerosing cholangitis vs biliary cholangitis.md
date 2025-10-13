@@ -1,7 +1,7 @@
 ---
-title: "Primary sclerosing cholangitis vs biliary cholangitis"
-date created: 2024-05-10 12:08:52.328679+01
-date modified: 2024-05-10 12:08:52.333965+01
+title: Primary sclerosing cholangitis vs biliary cholangitis
+date created: Friday, February 28th 2025, 4:35:22 pm
+date modified: Tuesday, October 7th 2025, 12:33:37 pm
 tags: ['Hepatology', 'Rheumatology']
 ---
 
@@ -18,11 +18,15 @@ Both are autoimmune disease where the the bile ducts are affected.
 * Autoantibodies are **not** useful in diagnosis or assessment. None are sensitive or specific
 * Stent on ERCP for treatment
 
-### 
 
 ### Primary Biliary Cholangitis
 
 * Intrahepatic bile ducts only
 * Inflammation to epithelial cells of bile ducts can cause **obstruction** - cholestasis
-* **Anti-mitochondrial antibodies (AMA)**are most specific and are part of diagnostic criteria
-* Treatment with u***rsodeoxycholic acid***- its a bile acid that makes the bile less harmful to the epithelial cells
+
+Rule of **M**:
+- Ig**M**
+- anti-**M**itochondrial antibodies, **M**2 subtype - most specific
+- **M**iddle aged females
+
+Treatment with ***ursodeoxycholic acid***- its a bile acid that makes the bile less harmful to the epithelial cells

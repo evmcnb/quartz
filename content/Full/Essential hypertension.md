@@ -1,12 +1,9 @@
 ---
-tags:
-  - Cardiovascular
+tags: [Cardiovascular]
 title: Essential hypertension
 date created: Tuesday, October 17th 2023, 4:07:47 pm
-date modified: 2024-03-11
-aliases:
-  - hypertension
-  - Hypertension
+date modified: Monday, October 6th 2025, 2:01:56 pm
+aliases: [hypertension, Hypertension]
 date: 2024-01-14
 ---
 95% of all hypertension without a clear underlying medical cause. It is the most important risk factor for pre-mature death and CVD. 
@@ -46,7 +43,13 @@ _Secondary_ hypertension can be due to **ROPED**:
 
 ## Management
 
-Treat all >160/100. For those at 140/90 treatment depends on other comorbidities and risks but is usually done so. 
+Treat all >160/100. For those at 140/90 treatment treat if < 80 years of age AND any of the following apply; 
+- target organ damage
+- established cardiovascular disease
+- renal disease
+- diabetes
+- 10-year cardiovascular risk equivalent to 10% or greater
+
 
 **Treatment targets**
 
@@ -58,6 +61,24 @@ Treat all >160/100. For those at 140/90 treatment depends on other comorbidities
 - **Life style changes** - Stop smoking, low-fat diet, reduce alcohol and salt intake, increase exercise and try to lose weight
 
 ![[z_attachments/Pasted image 20231027164342.png]]
+
+
+### Medication Counselling 
+
+##### ACEi
+
+- Dry cough
+- If massive drop in BP when started consider renal artery stenosis 
+
+##### ARBs
+
+- 
+
+##### CCBs
+
+- Amplidipine, ankle oedema 
+
+##### Thiazide-like
 
 
 ## Complications/red Flags

@@ -1,9 +1,8 @@
 ---
-tags:
-  - Respiratory
+tags: [Respiratory]
 title: COPD
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-04-21
+date modified: Monday, October 6th 2025, 10:17:54 am
 date: 2023-11-16
 ---
 
@@ -53,9 +52,11 @@ Smoking, pollution
 
 ## Management
 
+Stop smoking + pulmonary rehabilitation 
+
 - **Initial treatment**: short acting $\beta_2$ agonist (SABA) ([[Pearls/Salbutamol|Salbutamol]]) and short acting muscarinic antagonist (SAMA) ([[Pearls/Ipratropium Bromide|Ipratropium Bromide]]) - as necessary 
 
-Step up if **no** [[Full/asthma]] features: LABA + LAMA
+Step up if **no** [[Full/asthma]] features: LABA (salmetrol) + LAMA (tiatropium)
 
 Step up treatment when symptoms and exacerbations are still a problem with **[[Full/asthma]]/steroid responsive features**:
 - Inhaled corticosteroids
@@ -66,6 +67,8 @@ Step up treatment when symptoms and exacerbations are still a problem with **[[F
 During exacerbations, to keep them out of hospital prescribe short course of steroids ± antibiotics - [[Pearls/Azithromycin|Azithromycin]] to Avoid infections (250mg TDS)
 
 ![[z_attachments/Pasted image 20240516153348.png]]
+
+If the ICS has no benefit, should be stopped as increases the risk of [[Pearls/Pneumonia|Pneumonia]] and hospitalisations
 
 Non-invasive ventilation should be considered in all patients with an acute exacerbation of COPD in whom a respiratory acidosis
 

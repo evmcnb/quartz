@@ -1,7 +1,7 @@
 ---
-title: "Clostridium Difficile"
+title: Clostridium Difficile
 date created: Friday, March 15th 2024, 12:51:47 PM
-date modified: 2024-05-11 14:27:38.934618+01
+date modified: Tuesday, October 7th 2025, 12:27:23 pm
 tags: ['Gastroenterology']
 ---
 
@@ -42,6 +42,8 @@ White cell count is used to assess severity as it reflects the degree of the imm
 * Oral vancomycin + IV metronidazole 3rd
 
 Source isolated for 48 hrs after the last episode of diarrhoea. High recurrence rate. Foaecal microbiota transplant is an option for recurrent cases after 2 or more episodes
+
+In **life-threatening** _C. difficile_ infection treatment is with ORAL vancomycin and IV metronidazole
 
 #### Further episodes
 

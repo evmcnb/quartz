@@ -1,7 +1,7 @@
 ---
-title: "Anticoagulants"
+title: Anticoagulants
 date created: Sunday, January 21th 2024, 01:17:02 PM
-date modified: 2024-01-21 13:17:02.859972+00
+date modified: Monday, October 6th 2025, 1:36:00 pm
 tags: ['Cardiovascular', 'Haematology', 'Drug']
 ---
 
@@ -10,7 +10,8 @@ tags: ['Cardiovascular', 'Haematology', 'Drug']
 
 Increases the ability of antithrombin molecule to irreversibly inhibit **thrombin, IXa, Xa, XIa**.
 
-**LMWH** - mainly inhibits FXa only, less monitoring needed. Sub-cut inj. **Unfractionated** - continuous infusion, monitor aPTT ratio, uncommon can cause HIT (heparin induced thrombocytopenia)
+**LMWH** - mainly inhibits FXa only, less monitoring needed. Sub-cut inj. 
+**Unfractionated** - continuous infusion, monitor aPTT ratio, uncommon can cause HIT (heparin induced thrombocytopenia)
 
 * Chronic use $\rightarrow$ [[Full/osteoporosis]]
 * Reverse effects with protamine sulphate

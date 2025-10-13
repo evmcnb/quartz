@@ -2,7 +2,7 @@
 tags: [Neurology]
 title: "Horner's Syndrome"
 date created: Wednesday, August 16th 2023, 1:45:57 pm
-date modified: Monday, September 29th 2025, 9:47:07 am
+date modified: Thursday, October 9th 2025, 6:08:23 pm
 date: 2023-09-18
 ---
 

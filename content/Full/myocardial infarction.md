@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, September 27th 2025, 5:19:38 pm
+date modified: Monday, October 6th 2025, 1:01:59 pm
 date: 2023-11-12
 ---
 
@@ -49,12 +49,15 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 
 ## Diagnostic Tests
 
-| **Artery**               | **Heart Area** | **ECG Leads** |
-| ------------------------ | -------------- | ------------- |
-| Left coronary artery     | Anterolateral  | I, aVL, V3-6  |
-| Left anterior descending | Anterior       | V1-4          |
-| Circumflex               | Lateral        | I, aVL, V5-6  |
-| Right coronary artery    | Inferior       | II, III, aVF  |
+|                   | ** ECG changes**                                                                                                                                                                                                                                                                             | **Coronary artery**                          |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| **Anteroseptal**  | V1-V4                                                                                                                                                                                                                                                                                        | Left anterior descending                     |
+| **Inferior**      | II, III, aVF                                                                                                                                                                                                                                                                                 | Right coronary                               |
+| **Anterolateral** | V1-6, I, aVL                                                                                                                                                                                                                                                                                 | Proximal left anterior descending            |
+| **Lateral**       | I, aVL +/- V5-6                                                                                                                                                                                                                                                                              | Left circumflex                              |
+| **Posterior**     | Changes in V1-3  <br>  <br>Reciprocal changes of STEMI are typically seen:  <br><br>- horizontal ST depression<br>- tall, broad R waves<br>- upright T waves<br>- dominant R wave in V2<br><br>  <br>Posterior infarction is confirmed by ST elevation and Q waves in posterior leads (V7-9) | Usually left circumflex, also right coronary |
+
+
 
 - ECG - ST elevation (STEMI), T-wave inversion, ST [[Full/Depression]] (NSTEMI) - [[Full/ECG Lead Placement & Interpretation]]
 - Bloods - raised troponin, cardiac enzymes, creatine kinase for NSTEMI
@@ -71,7 +74,7 @@ Acute:
 - Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. [[Pearls/Clopidogrel|Clopidogrel]] if high bleeding risk, or prasugrel if having angiography.
 - Nitrates - GNT spray
 
-- *PCI* must be within 2 hours otherwise *thrombolysis*
+*PCI* must be within 2 hours otherwise *thrombolysis*
 
 Antithrombin therapy in **NSTEMI** with fondaparinux
 

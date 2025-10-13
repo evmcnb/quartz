@@ -2,9 +2,8 @@
 tags: [Neurology, Cardiovascular]
 title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 2nd 2025, 5:42:00 pm
-date: 2024-01-23
----
+date modified: Tuesday, October 7th 2025, 12:30:16 pm
+date: Thursday, October 2nd 2025, 5:42:00 pm
 
 Two types - ischemia or haemorrhagic
 
@@ -85,9 +84,10 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 
 Exclude [[Full/Hypoglycaemia]]
 
+1. 
 1. Immediate CT brain to exclude haemorrhage
-2. [[Pearls/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
-3. Admission to a specialist stroke centre
+2. 2. [[Pearls/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
+3. 3. Admission to a specialist stroke centre
 
 Once haemorrhagic **excluded**:
 
@@ -114,3 +114,18 @@ For haemorrhagic confirmed :
 - **Physiotherapy** - monitor progress 
 - Monitor mood
 - Drugs - High dose statins: 80mg atorvastatin, anticoagulation in AF: DOAC, [[Pearls/Anti-platelets|Anti-platelets]], anti-diabetics 
+
+
+## Specific Strokes
+
+
+### Weber's syndrome
+
+Weber's syndrome is a midbrain stroke syndrome that involves the fascicles of the oculomotor nerve resulting in an ipsilateral CN III palsy and contralateral hemiplegia or hemiparesis.  
+
+
+### Wallenberg's syndrome
+
+Posterior inferior cerebellar artery
+- ipsilateral: ataxia, nystagmus, dysphagia, facial numbness, cranial nerve palsy e.g. Horner's
+- contralateral: limb sensory loss

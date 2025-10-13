@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Neurology]
 title: Irritable bowel syndrome
 date: 
-date modified: Thursday, October 2nd 2025, 5:24:36 pm
+date modified: Monday, October 6th 2025, 11:42:29 am
 date created: Thursday, October 2nd 2025, 5:11:29 pm
 ---
 Functional disorder - abnormal functioning of an otherwise normal bowel.
@@ -70,7 +70,7 @@ Thorough history and exam needed to exclude the red flag symptoms.
 **Lifestyle advice:**
 - Drinking enough fluids
 - Regular small meals
-- Adjusting fibre intake according to symptoms (more fibre if predominantly constipated, less with diarrhoea/bloating)
+- Adjusting fibre intake according to symptoms (more fibre if predominantly constipated, less with diarrhoea/bloating) 
 - Limit caffeine, alcohol and fatty foods
 - Low **_FODMAP_** diet, guided by a dietician
 - **_Probiotic_** supplements may be considered over-the-counter (discontinuing after 12 weeks if there is no benefit)
