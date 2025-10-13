@@ -4,6 +4,7 @@ title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Tuesday, October 7th 2025, 12:30:16 pm
 date: Thursday, October 2nd 2025, 5:42:00 pm
+---
 
 Two types - ischemia or haemorrhagic
 
