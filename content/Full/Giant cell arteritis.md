@@ -1,12 +1,10 @@
 ---
-tags:
-  - Rheumatology
-  - Ophthalmology
+tags: [Rheumatology, Ophthalmology]
 title: Giant cell arteritis
 date: 2024-02-09
-date modified: 2024-04-21
-aliases:
-  - Temporal arteritis
+date modified: Tuesday, October 14th 2025, 5:15:04 pm
+aliases: [Temporal arteritis]
+date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Inflammation of blood vessels in the temple
 ## Causes/Factors
@@ -14,7 +12,7 @@ Inflammation of blood vessels in the temple
 - Older age
 - Caucasian
 - Smoking
-- Polymyalgia rheumatica 
+- [[Full/Polymyalgia rheumatica]] 
 ## Presentation
 
 - Severe headache

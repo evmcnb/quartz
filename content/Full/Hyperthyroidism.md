@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Hyperthyroidism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 2nd 2025, 4:57:09 pm
+date modified: Thursday, October 16th 2025, 5:59:58 pm
 aliases: [Thyrotoxicosis]
 date: 2024-01-14
 ---
@@ -64,7 +64,7 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 - **[[Pearls/Carbimazole|Carbimazole]]** is the first line anti-thyroid drug. Two treatment options:
 	1. The [[Pearls/Carbimazole|Carbimazole]] started at 40mg OD and titrated down to maintain euthyroid
 	2. A higher dose blocks all production and [[Pearls/Levothyroxine|Levothyroxine]] is added and titrated to effect
-	3. Risk of agranulocytosis and **acute [[Full/pancreatitis]]**
+	3. Risk of agranulocytosis (urgent FBC required if signs of infection) and **acute [[Full/pancreatitis]]**
 
 >[!warning]
 >

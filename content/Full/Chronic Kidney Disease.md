@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Chronic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, September 27th 2025, 4:48:36 pm
+date modified: Monday, October 20th 2025, 4:37:18 pm
 date: 2023-11-12
 ---
 
@@ -83,8 +83,8 @@ Treat the underlying causes:
 
 
 **Medications** to help slow disease progression/complications
-- ACEi - offered to all with suspicious ACR 
-- SGLT-2i - specifically dapagliflozin esp in those with diabetes 
+- ACEi/ARB - offered to all with an ACR > 30
+- SGLT-2i - specifically dapagliflozin esp in those with diabetes with ACR > 22.6
 - [[Pearls/Statins|Statin]] - primary prevention
 
 

@@ -1,20 +1,19 @@
 ---
-title: "Laxative Types"
+title: Laxative Types
 date created: Friday, January 26th 2024, 09:50:55 AM
-date modified: 2024-03-18 20:26:00.31526+00
+date modified: Wednesday, October 22nd 2025, 4:33:56 pm
 tags: ['Geriatrics', 'Surgery', 'Drug']
 ---
 
 
-
-| Laxative Type | When to Use | When to avoid | Examples |
-| --- | --- | --- | --- |
-| Bulk-forming laxatives | Diverticulitis, dietary fibre insufficiency |  | Ispaghula husk (Fybogel), Methylcellulose (Celevac) |
-| Osmotic laxatives | Opioid induced constipation |  | Lactulose (Duphalac), Macrogol (Movicol) |
-| Stimulant laxatives |  | Diverticulitis | [[snippets/Senna|Senna]] (Senokot), Bisacodyl (Dulcolax) |
-| Surface-wetting | When people can't increase fluid intake |  | Docusate sodium (DulcoEase) |
-| Lubricant laxatives | [[snippets/Haemorrhoids|Haemorrhoids]] |  | Liquid Paraffin (Paraffinum perliquidum) |
-| Prokinetic agents | Chronic constipation, bowel disorders |  | Prucalopride (Resolor) |
+| Laxative Type                         | When to Use                                                                                                         | When to avoid                                                                                                                                   | Examples                                                                          |
+| :------------------------------------ | :------------------------------------------------------------------------------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- |
+| **Bulk-forming laxatives**            | Dietary fibre insufficiency, diverticulosis, managing constipation in IBS. First-line for most simple constipation. | Intestinal obstruction, faecal impaction, swallowing difficulties, dehydration or restricted fluid intake.                                      | Ispaghula husk (Fybogel), Methylcellulose (Celevac), Sterculia (Normacol).        |
+| **Osmotic laxatives**                 | Chronic constipation, opioid-induced constipation, faecal impaction, hepatic encephalopathy (lactulose).            | Intestinal obstruction, undiagnosed abdominal pain, electrolyte imbalances, severe renal impairment (for magnesium/phosphate salts).            | Lactulose (Duphalac), Macrogol (Movicol), Magnesium hydroxide (Milk of Magnesia). |
+| **Stimulant laxatives**               | Short-term relief of severe constipation, bowel cleansing before procedures, when other laxatives fail.             | Intestinal obstruction, acute inflammatory bowel disease (e.g., Crohn's, ulcerative colitis), chronic use (can cause lazy bowel).               | Senna (Senokot), Bisacodyl (Dulcolax), Sodium picosulfate (Dulcolax Pico).        |
+| **Surface-wetting** (Stool softeners) | When straining must be avoided (e.g., after surgery, with haemorrhoids or anal fissures), hard/dry stools.          | Intestinal obstruction, nausea, vomiting. Avoid use with mineral oil (liquid paraffin).                                                         | Docusate sodium (DulcoEase).                                                      |
+| **Lubricant laxatives**               | Faecal impaction, conditions where straining should be avoided like haemorrhoids.                                   | Risk of aspiration (e.g., young children, bedridden or elderly patients), swallowing difficulties. Long-term use can impair vitamin absorption. | Liquid Paraffin.                                                                  |
+| **Prokinetic agents**                 | Chronic idiopathic constipation in adults when other laxatives have not provided adequate relief.                   | Renal impairment requiring dialysis, intestinal obstruction or perforation, severe inflammatory bowel disease.                                  | Prucalopride (Resolor), Linaclotide (Constella).                                  |
 
 ***Movicol***is first line for idiopathic constipation
 

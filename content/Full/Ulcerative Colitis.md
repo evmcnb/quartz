@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Ulcerative Colitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, September 30th 2025, 3:13:57 pm
+date modified: Sunday, October 19th 2025, 3:49:43 pm
 date: 2023-09-18
 ---
 
@@ -22,6 +22,9 @@ The inflammatory bowel diseases (IBD), ulcerative colitis and [[Full/Crohn's Dis
 
 Can only effect colon - "never" past ileocaecal value
 ![|650](z_attachments/650-1.png)
+
+Crypt abscesses on histology
+
 Extra intestinal manifestations
 
 The severity of UC is usually classified as being mild, moderate or severe:  

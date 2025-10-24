@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, September 27th 2025, 1:11:02 pm
+date modified: Thursday, October 16th 2025, 6:27:54 pm
 aliases: [Asthma]
 date: 2024-01-14
 ---
@@ -62,7 +62,6 @@ Children aged 5-16:
 - Then **_skin prick testing to house dust mite_** or **_bloods for total IgE and eosinophil count_**
 
 
-
 - ABG: $\downarrow PaO_2$ but also $\downarrow PaCO_2$ (hyperventilation)- \*\*if $\uparrow PaCO_2$ failing respiratory
 - Spirometry: decreased $FEV_1/FVC$ ratio
 
@@ -104,7 +103,6 @@ Additional management includes:
 - Regular exercise 
 - Avoid smoking (including passive smoke)
 - Avoiding triggers where appropriate
-
 
 
 #### Pharmacology

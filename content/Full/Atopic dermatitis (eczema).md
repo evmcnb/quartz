@@ -2,7 +2,7 @@
 tags: [Dermatology, Incomplete]
 title: Atopic dermatitis (eczema)
 date created: Wednesday, November 29th 2023, 1:00:52 pm
-date modified: Tuesday, September 30th 2025, 3:34:24 pm
+date modified: Thursday, October 16th 2025, 5:34:50 pm
 date: 2024-03-11
 ---
 
@@ -12,10 +12,12 @@ Acute - red weeping +/- small vesicles
 Subacute - red less exudate crusting 
 Chronic - thick leathery skin due to itching
 
-* Flexor surfaces
+* Flexor surfaces 
 * Atopic, allergic, contact nickel, dyes, rubber, seborrheic, nummular
 
 Atopy - triad of dermatitis/eczema, [[Full/asthma]] and allergic rhinitis (hay fever)
+
+**Babies** - distribution in face, scalp and extensor surfaces
 
 ## Causes/Factors
 
@@ -44,7 +46,7 @@ Skin begins red & itchy $\rightarrow$ blister & peel $\rightarrow$ lichenified (
 ## Management
 
 Topical:
-1. **Emollients:** Regular use of moisturizers to keep the skin hydrated.
+1. **Emollients:** Regular use of moisturizers to keep the skin hydrated (fire risk)
 2. **Topical Steroids:** Anti-inflammatory creams or ointments for flare-ups. 
 3. **Itching Prevention:** Keep nails short and wear soft fabric
 

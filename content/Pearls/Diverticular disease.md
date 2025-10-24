@@ -1,11 +1,11 @@
 ---
 title: Diverticular disease
 date created: Sunday, January 21th 2024, 03:51:11 PM
-date modified: Tuesday, September 30th 2025, 3:19:46 pm
+date modified: Tuesday, October 14th 2025, 4:45:36 pm
 tags: ['Gastroenterology', 'Surgery']
 ---
 
-High intra-lumen pressure (due to lack of fibre) cause protrusions of mucosa and submucosa through the bowel wall - commonly sigmoid colon (areas that are not covered by teniae coli). Common in developed world
+High intra-lumen pressure (due to lack of fibre) cause protrusions of mucosa and submucosa through the bowel wall - commonly sigmoid colon (areas that are not covered by teniae coli) - **left illiac fossa tenderness**. 
 
 **_Diverticulosis_** refers to the presence of diverticula, without inflammation or infection. Diverticulosis may be referred to as **_diverticular disease_** when patients experience symptoms. 
 

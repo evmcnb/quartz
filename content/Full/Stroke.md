@@ -2,17 +2,15 @@
 tags: [Neurology, Cardiovascular]
 title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, October 7th 2025, 12:30:16 pm
+date modified: Wednesday, October 22nd 2025, 5:13:10 pm
 date: Thursday, October 2nd 2025, 5:42:00 pm
 ---
 
-Two types - ischemia or haemorrhagic
-
-**Ischemic** - clot blocks supply to distal parts of brain to where that clot got lodged
+**Ischemic** (85%) - clot blocks supply to distal parts of brain to where that clot got lodged
 ![[z_attachments/Pasted image 20231005084306.png|299]]
 
 
-**Haemorrhagic** - bleeding in the brain causing lack of perfusion (plus irritation to that part of brain)
+**Haemorrhagic** (15%) - bleeding in the brain causing lack of perfusion (plus irritation to that part of brain)
 ![[z_attachments/Pasted image 20231005084356.png|342]] 
 
 
@@ -53,10 +51,31 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
   - face - weakening/drooping
   - arms - weakness
 - Slurred speech
-- 5 syndromes: ataxic hemiparesis, pure motor, pure sensory, sensorimotor and dysarthria/clumsy head
 
-![[z_attachments/Screenshot 2024-01-23 at 11.19.30 1.png]]
-##### ROSIER - recognition of stroke in the emergencey room
+> [!success] Bamford Classification
+> 
+> **Total Anterior Circulation Syndrome (TACS)** - all 3 of:
+> - Unilateral weakness and/or sensory deficit of the face/arm/leg
+> - Higher cortical dysfunction (memory/language/attention)
+> - Homonymous hemianopia
+>   
+> **Partial anterior circulation syndrome (PACS)**
+> - Isolated higher cortical dysfunction
+> - Or 2 of higher cortical dysfunction, hemianopia, hemiparesis
+>   
+> **Posterior circulation syndrome (POCS)**
+> - Isolated hemianopia
+> - Brainstem or cerebellar symptoms
+> 
+> **Lacunar syndrome**
+> - Pure motor stroke
+> - Pure sensory
+> - Sensorimotor
+> - Ataxic hemiparesis
+
+For more on stroke localisation: [[Pearls/Stroke symptoms per artery|Stroke symptoms per artery]]
+
+##### ROSIER - recognition of stroke in the emergency room
 
 | Symptom | Score |
 | ---- | ---- |
@@ -67,7 +86,6 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 | Speech Disturbance | +1 |
 | Visual field defect | +1 |
 \>1 stroke possible 
-
 
 ## Diagnostic Tests
 
@@ -83,39 +101,61 @@ Small vessel occlusion/cerebral microangiopathy or thrombosis
 
 ## Management
 
-Exclude [[Full/Hypoglycaemia]]
+1. Exclude [[Full/Hypoglycaemia]]
+2. Optimise hydration, O2 and temperature
+3. BP should not be lowered in the acute phase of the stroke unless for complications OR **if they are being considered for thrombolysis.** 
+	- Blood pressure should be lowered to **185/110 mmHg** before thrombolysis
+4. **CT to exclude haemorrhagic**
+5. [[Pearls/Aspirin|Aspirin]] 300mg Stat NG/PO/PR
 
-1. 
-1. Immediate CT brain to exclude haemorrhage
-2. 2. [[Pearls/Aspirin|Aspirin]] 300mg daily for two weeks (started after haemorrhage is excluded with a CT)
-3. 3. Admission to a specialist stroke centre
+### Ischaemic
 
-Once haemorrhagic **excluded**:
+#### Definitive treatment 
 
-[[Pearls/Aspirin|Aspirin]] 300mg Stat NG/PO/PR and also PO for 2 weeks then switch to long term antithrombic treatment (e.g. [[Pearls/Clopidogrel|Clopidogrel]])
+Proximal anterior circulation, proximal posterior circulation (PCA, Basilar). (ie. Large vessel occlusion):
+- Within 4.5hrs = thrombectomy + thrombolysis (alteplase or tenecteplase)
+- Within 6-24hrs AND potential to salvage brain tissue = thrombectomy alone  
+- Wake up stroke (unknown onset) = thrombectomy alone  
 
-- Within 4.5hrs = thromboctomy + alteplase (thrombolysis)
-- Within 6-24hrs = thromboctomy alone  
-- Wake up stroke (unknown onset) = thromboctomy alone  
+Perfusion imaging (CT/MRI) needed if considering treatment beyond 6 hours.
 
-Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement
+
+##### Contraindications to Thrombolysis
+
+|Absolute|Relative|
+|---|---|
+|- Previous intracranial haemorrhage  <br>- Seizure at onset of stroke  <br>- Intracranial neoplasm  <br>- Suspected subarachnoid haemorrhage  <br>- Stroke or traumatic brain injury in preceding 3 months  <br>- Lumbar puncture in preceding 7 days  <br>- Gastrointestinal haemorrhage in preceding 3 weeks  <br>- Active bleeding  <br>- Oesophageal varices  <br>- Uncontrolled hypertension >200/120mmHg|- Pregnancy  <br>- Concurrent anticoagulation (INR >1.7)  <br>- Haemorrhagic diathesis  <br>- Active diabetic haemorrhagic retinopathy  <br>- Suspected intracardiac thrombus  <br>- Major surgery / trauma in the preceding 2 weeks|
+
+
+
+#### Secondary prevention 
+
+- Clopidogrel 75mg OD, Aspirin 75mg OD second-line if clopidogrel is contraindicated
+- Anticoagulation (AF) Start after 14 days (Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement)
+- 80mg atorvastatin, if cholesterol >3.5 mmol/L (delay 48h if needed)
+
+Carotid endarterectomy is recommend if the patient has suffered a stroke or TIA in the carotid territory and is not severely disabled  
+- should only be considered if the stenosis > 50% according to North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria (& symptomatic?)
+- performed ASAP within 7 days
+
+
+### Haemorrhagic 
 
 For haemorrhagic confirmed :
 - Reverse [[Pearls/Anticoagulants|Anticoagulants]] if possible (vitamin K for [[Pearls/Warfarin|Warfarin]], idarucizumab for dabigatran)
 - Neurosurgical discussion -  coiling (endovascular embolization) can be used to stop further bleeding. Surgery can also be done to remove excess blood and reduce intracranial pressure
 
 
-**Screen swallow** - nil by mouth until this is done (keep hydrated)
 
 ## Rehabilitation 
 
-- Swallow test - check for signs of aspiration or voice change
+- Swallow test - nil by mouth until this is done (keep hydrated)
 - Falls risk assessment
 - Bladder and bowel care
 - **Physiotherapy** - monitor progress 
 - Monitor mood
-- Drugs - High dose statins: 80mg atorvastatin, anticoagulation in AF: DOAC, [[Pearls/Anti-platelets|Anti-platelets]], anti-diabetics 
-
+- Drugs - High dose statins: , anticoagulation in AF: DOAC, [[Pearls/Anti-platelets|Anti-platelets]], anti-diabetics 
+- Do not drive for 1 month
 
 ## Specific Strokes
 

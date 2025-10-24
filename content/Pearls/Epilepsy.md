@@ -1,7 +1,7 @@
 ---
 title: Epilepsy
 date created: Friday, February 23th 2024, 03:01:43 PM
-date modified: Tuesday, September 30th 2025, 4:10:10 pm
+date modified: Tuesday, October 14th 2025, 5:12:51 pm
 tags: ['Neurology']
 ---
 
@@ -38,6 +38,14 @@ Urgently refer all people with suspected first seizure for assessment
 - Mind of safety at home
 - Lifestyle factors that may reduce seizure threshold - e.g. sleep deprivation, alcohol and recreational drug use
 
+#### Contraception
+
+Women using enzyme inducing anti-epileptic drugs **should not** use:
+- oral contraceptives
+- contraceptive patches or rings
+- the contraceptive implant 
+The enzyme inducing drugs can reduce the effectiveness of these methods. The contraceptive injection and intra-uterine devices are fine.
+
 ## Acute Management
 
 PC setting
@@ -61,7 +69,7 @@ Status epilepticus is defined as:
 - blood glucose
 
 **First-line termination of seizure**
-- Pre-hospital/community - PR diazepam or buccal midazolam 10-20mg for an adult 
+- Pre-hospital/community - PR diazepam or buccal diazepam/midazolam 10-20mg for an adult 
 - Hospital, IV lorazepam 4mg with repeat dose after 5-10 minutes as required. 
 
 **Continuous/established status epilepticus**
@@ -82,3 +90,5 @@ After benzodiazepines fail to terminate seizures within 5-20 minutes, second-lin
 
 **Refractory Status**
 If no reponse within 45 minutes from onset - induction of general anaesthesia or phenobarbital is needed 
+
+

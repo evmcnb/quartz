@@ -1,20 +1,19 @@
 ---
-title: "Omeprazole"
-date created: 2024-04-08 12:32:37.414764+01
-date modified: 2024-04-08 18:18:47.284019+01
+title: Omeprazole
+date created: Friday, February 28th 2025, 4:35:22 pm
+date modified: Tuesday, October 14th 2025, 3:21:08 pm
 tags: ['Drug', 'Gastroenterology']
 ---
 
-
-
-| **Drug Class** | Proton pump inhibitor |
-| --- | --- |
-| **Mechanism** | Inhibits gastric acid secretion by dose-dependent inhibition of proton pump of gastric parietal cells (blocks H+/K+ pump ATPase enzyme in parietal cells) |
-| **Typical Dose** | 20-40mg OD |
-| **Indications** | * GORD * dyspepsia * [[snippets/Oesophagitis|Oesophagitis]] * GI ulcers * [[snippets/H. pylori eradication|H. pylori eradication]] * Zollinger-Ellison syndrome (gastrin-secreting tumour or hyperplasia of the islet cells in the pancreas) |
-| **Contra-indications** | Caution in:   * Liver disease * Breast feeding/[[Full/Pregnancy]] |
-| **Side-effects** | * GI disturbances * Headache * Long term use associated with [[snippets/Hypomagnesemia|Hypomagnesemia]] |
-| **Interactions** | Inhibits cytochrome P450 ↑ plasma concentration of [[snippets/Phenytoin|Phenytoin]], [[snippets/Warfarin|Warfarin]] |
-| **Elimination** | 80% renal, 20% faecal |
-| **Additional Notes** | May mask symptoms of [[snippets/Gastric Cancer|Gastric Cancer]] |
+| Property               | Description                                                                                                                                               |
+| :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Drug Class**         | Proton Pump Inhibitor                                                                                                                                     |
+| **Mechanism**          | Inhibits gastric acid secretion by dose-dependent inhibition of the H⁺/K⁺ ATPase enzyme (the proton pump) in gastric parietal cells.                      |
+| **Typical Dose**       | 20-40mg once daily (OD).                                                                                                                                  |
+| **Indications**        | GORD, dyspepsia, [[Oesophagitis]], GI ulcers, [[H. pylori eradication]], Zollinger-Ellison syndrome.                                                      |
+| **Contra-indications** | Caution in: liver disease, breastfeeding, or [[Pregnancy]].                                                                                               |
+| **Side-effects**       | [[Pearls/Causes of hyponatremia\|Hyponatremia]], [[Pearls/Hypomagnesemia\|Hypomagnesemia]], osteoporosis, microscopic colitis, increased risk of C diff.  |
+| **Interactions**       | Inhibits cytochrome P450, which can increase the plasma concentration of [[Phenytoin]] and [[Warfarin]].                                                  |
+| **Elimination**        | 80% renal, 20% faecal.                                                                                                                                    |
+| **Additional Notes**   | May mask the symptoms of [[Gastric Cancer]].                                                                                                              |
 

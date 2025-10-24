@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Cardiovascular drugs
 date created: Thursday, October 26th 2023, 11:57:16 am
-date modified: Saturday, September 27th 2025, 1:15:18 pm
+date modified: Tuesday, October 14th 2025, 3:26:56 pm
 aliases: [Cardio drugs]
 date: 2024-01-19
 ---
@@ -90,4 +90,3 @@ date: 2024-01-19
 - Inhibit HMG-CoA reductase preventing de novo synthesis of cholesterol in the liver. This increases LDL receptor expression on hepatocytes leading to $\downarrow$ LDL cholesterol.
 - More effective if given at night
 - Generally v well tolerated
-- 

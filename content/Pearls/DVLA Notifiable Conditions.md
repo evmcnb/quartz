@@ -1,9 +1,9 @@
 ---
 title: DVLA Notifiable Conditions
 date created: Monday, October 6th 2025, 9:47:04 am
-date modified: Monday, October 6th 2025, 10:04:33 am
+date modified: Monday, October 13th 2025, 7:15:26 pm
+tags: [Neurology, Endocrinology, Cardiovascular, Psychiatry]
 ---
-#Neurology #Endocrinology #Cardiovascular #Psychiatry 
 
 Patients need to notify the DVLA themselves, but if they refuse to do so doctors can break confidentiality
 

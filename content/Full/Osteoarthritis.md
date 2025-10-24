@@ -2,7 +2,7 @@
 tags: [Rheumatology, MSK]
 title: Osteoarthritis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 2nd 2025, 5:41:24 pm
+date modified: Thursday, October 16th 2025, 5:18:45 pm
 date: 2023-11-29
 ---
 
@@ -20,6 +20,10 @@ Affects weight bearing joints
 - Age
 - Occupation
 - Athlete (doing something to accelerate wear)
+- FH
+- Other inflammatory arthropathies
+- Osteoporosis
+- Joint malalignment 
 
 ## Signs 
 
@@ -33,7 +37,7 @@ Affects weight bearing joints
 - Increasing pain over months/years
 - Siffness and reduced range of movement 
 - Referred pain to the joint below
-- Reduced power due to muscle wastage from reduced use) 
+- Reduced power due to muscle wastage from reduced use
 
 No systemic features or early morning stiffness. This is seen in [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|RA]]
 ## Diagnostic Tests
@@ -61,12 +65,13 @@ Life-style:
 **Medications**
 1. Topical NSAIDs
 2. Oral NSAIDs + PPI cover (contraindicated in patients taking aspirin)
-3. Only paracetamol or weak opioids in cases of: infrequent use/short term relief or above medications are contraindicated
+3. Only paracetamol or weak opioids in cases of: infrequent use/short term relief or above medications are contraindicated (e.g. with increased bleeding risk)
 
 Intra-articular steroid injections may be tried if standard pharmacological treatment is ineffective. Patients should be aware that they only provide short-term relief (2-10 weeks)
 
 If conservative methods fail then refer for consideration of joint replacement
 
+(don't recommend glucosamine supplements - no benefit) 
 ## Complications/red Flags
 
 - Total hip replacement dislocation 

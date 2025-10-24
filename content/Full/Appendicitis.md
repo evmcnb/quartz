@@ -22,9 +22,14 @@ Classical presentation of:
 2. Peritonism with guarding and rebound
 3. Anorexia is important - vomiting rarely before pain
 
+Other:
+- N&V - vomit once or twice but **persistent vomiting is unusual**
+- General malaise
+- Worsened by movements
+
 ## Signs
 
-- Tachycardia, fever
+- Tachycardia, fever - mild. Higher temperatures are more typical of [[Mesenteric adenitis]]
 - Mcburney's point - between umbilicus and right iliac fossa
 - Rovsing's sign - push on left iliac fossa and pain exhibits itself on right
 
@@ -32,15 +37,19 @@ Classical presentation of:
 
 - FBC, U&Es, WCC, CRP
 - US/CT if unclear
-
+- **Pregnancy test** - to rule out ectopic pregnancy 
+- Groin and scrotal exam check for incarcerated hernia or testicular torsion
 ## Management
 
-- Appendectomy
+Low threshold for admission for pregnant women, infants, young people and elderly people
 
-Conservative treatment with just antibiotics can be indicated in some cases
+##### 1st line:
+- Laproscopic appendectomy for uncomplicated cases. Open surgery in complicated
+- Prophylactic IV antibiotics 
 
 ## Complications/red Flags
 
 - Perforation - big problem
 - Appendix mass may result when inflamed appendix becomes covered with omentum
-- Appendix abscess`
+- Appendix abscess
+- SBO 

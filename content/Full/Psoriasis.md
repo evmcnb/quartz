@@ -2,7 +2,7 @@
 tags: [Dermatology, Rheumatology]
 title: Psoriasis
 date created: Tuesday, January 2nd 2024, 3:56:27 pm
-date modified: Monday, October 6th 2025, 12:41:58 pm
+date modified: Thursday, October 16th 2025, 5:55:28 pm
 date: 2024-01-14
 ---
 Psoriasis is a chronic autoimmune skin disorder characterized by the  buildup of skin cells, resulting in thick, scaly patches. It often involves redness, itching, and discomfort.
@@ -17,7 +17,11 @@ Thickened erythematous plaques with silver scales commonly seen on extensor surf
 
 #### Guttate psoriasis
 
-Commonly occurs in children. Many small raised papules across the trunk and limbs. Mildly erythematous and can be slightly scaly. These can turn into full plaques. Often triggered by a strep. throat infection, stress or medications.  Often resolves spontaneously within 3-4 months.
+Commonly occurs in children. Many small raised papules across the trunk and limbs. Mildly erythematous and can be slightly scaly. These can turn into full plaques. 
+
+Often triggered by a **strep. throat infection**, stress or medications.  
+
+Often resolves spontaneously within 3-4 months.
 
 #### Pustular psoriasis
 

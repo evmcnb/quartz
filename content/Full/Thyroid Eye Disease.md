@@ -1,13 +1,9 @@
 ---
-tags:
-  - Endocrinology
-  - Ophthalmology
+tags: [Endocrinology, Ophthalmology]
 title: Thyroid Eye Disease
 date created: Saturday, January 13th 2024, 3:36:24 pm
-date modified: 2024-03-11
-aliases:
-  - Graves' orbitopathy
-  - Graves' ophthalmopathy
+date modified: Thursday, October 16th 2025, 6:03:02 pm
+aliases: [Graves' orbitopathy, Graves' ophthalmopathy]
 date: 2024-01-14
 ---
 Autoimmune condition associated with [[Full/Grave's disease]] seen in 25-50% of people with Graves'.

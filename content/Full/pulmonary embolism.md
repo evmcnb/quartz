@@ -2,7 +2,7 @@
 tags: [Respiratory, Cardiovascular]
 title: pulmonary embolism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, October 14th 2025, 2:53:31 pm
 date: 2023-09-18
 ---
 

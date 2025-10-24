@@ -1,8 +1,8 @@
 ---
 tags: [MSK, Neurology, Rheumatology, Symptom]
-title: Lower Back Pain
+title: Lower Back Pain 1
 date: 
-date modified: Thursday, October 2nd 2025, 5:34:03 pm
+date modified: Monday, October 13th 2025, 7:15:38 pm
 date created: Thursday, October 2nd 2025, 5:24:35 pm
 aliases: [Lumbago]
 ---
@@ -29,7 +29,7 @@ There are several challenges with managing patients with lower back pain:
 - Spinal fracture - trauma
 - [[Pearls/Cauda equina syndrome|Cauda equina syndrome]]
 - Spinal stenosis (intermittent neurogenic claudication)
-- [[Ankylosing spondylitis]]
+- [[Full/Ankylosing Spondylitis]]
 - Spinal infection (fever or history of drug use)
 - [[Pearls/Spinal metastases|Spinal metastases]]
 

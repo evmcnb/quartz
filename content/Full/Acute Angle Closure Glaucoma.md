@@ -1,10 +1,8 @@
 ---
-tags:
-  - Ophthalmology
-  - Acute
+tags: [Ophthalmology, Acute]
 title: Acute Angle Closure Glaucoma
 date created: Thursday, January 25th 2024, 1:36:50 pm
-date modified: 2024-03-11
+date modified: Tuesday, October 14th 2025, 4:58:08 pm
 date: 2024-01-25
 ---
 ![[z_attachments/Pasted image 20240125141057.png]]

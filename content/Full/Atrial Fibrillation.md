@@ -83,7 +83,7 @@ For intermittent short duration AF, "pill-in-the-pocket" strategy can be used. P
 
 ![[z_attachments/Pasted image 20240131141504.png]]
 
-- $\beta$ blocker - bisoprolol, metaprolol (good in hyperthroid). Avoid in those with reactive airways
+- $\beta$ blocker - atenolol, bisoprolol, metaprolol (good in hyperthroid). Avoid in those with reactive airways
 - Calcium channel blockers (diltiazem, verapamil) - avoid in those with systolic [[Full/Heart Failure]]. Verapamil interacts with digoxin
 - Digoxin - good in hypotension and heart failure, but still digoxin
 

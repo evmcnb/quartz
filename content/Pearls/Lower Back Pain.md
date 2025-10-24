@@ -29,7 +29,7 @@ There are several challenges with managing patients with lower back pain:
 - Spinal fracture - trauma
 - [[Pearls/Cauda equina syndrome|Cauda equina syndrome]]
 - Spinal stenosis (intermittent neurogenic claudication)
-- [[Ankylosing spondylitis]]
+- [[Full/Ankylosing Spondylitis]]
 - Spinal infection (fever or history of drug use)
 - [[Pearls/Spinal metastases|Spinal metastases]]
 

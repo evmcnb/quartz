@@ -2,7 +2,7 @@
 tags: []
 title: Palliative Care
 date: 
-date modified: Saturday, August 23rd 2025, 11:47:13 am
+date modified: Monday, October 20th 2025, 4:38:29 pm
 date created: Saturday, August 23rd 2025, 10:18:03 am
 ---
 
@@ -39,7 +39,7 @@ date created: Saturday, August 23rd 2025, 10:18:03 am
 - Give any positive aspects first
 - Give facts accurately about treatment options, prognosis. Prognosis should be given in a days-weeks, weeks-months or months-years timeframes 
 
-#### **E**xplore emotions and sympathize#
+#### **E**xplore emotions and sympathise
 1. Identify emotion expressed by the patient (sadness, silence, shock etc.)
 2. Identify cause/source of emotion
 3. Give the patient time express his or her feelings, then respond in a way that demonstrates you have recognized connection between 1 and 2
@@ -165,14 +165,14 @@ When increasing the dose of opioids the next dose should be increased by 30-50%
 
 Mechanism-based prescribing:
 
-| Stimulus         | Area stimulated            | Receptors             | Anti-emetic choices                                  | Disqualifying features                                                                                                                                       |
-| ---------------- | -------------------------- | --------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Drugs, metabolic | Chemoreceptor trigger zone | Dopamine              | Metoclopramide (10mg), haloperidol (0.5-1mg BID/TID) | Avoid metoclopramide in b/o and both in [[Full/Parkinson's disease\|Parkinson's disease]]. Haloperidol good for b/o, avoid in those with arrythmias (++ QTc) |
-| Chemotherapy     |                            | Serotonin             | Ondansetron                                          | Avoid in those with arrythmias (QTc) or constipation                                                                                                         |
-| Motion           | Vestibular                 | Muscarinic, histamine | Cyclizine, Promethazine, Diphenhydramine             |                                                                                                                                                              |
-| Viceral          | Organs                     | Dopamine<br>Serotonin | Metoclopramide, haloperidol,<br>Ondansetron          |                                                                                                                                                              |
-| Raised ICP       | Cerebral cortex            | Histamine             | Dexamethasone, Cyclizine                             |                                                                                                                                                              |
-| All else fails   | Multiple                   | Multiple              | Levomethpromazine                                    | Parkinson's, very sedating                                                                                                                                   |
+| Stimulus         | Area stimulated            | Receptors             | Anti-emetic choices                                  | Disqualifying features                                                                                                                                                            |
+| ---------------- | -------------------------- | --------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Drugs, metabolic | Chemoreceptor trigger zone | Dopamine              | Metoclopramide (10mg), haloperidol (0.5-1mg BID/TID) | Avoid metoclopramide in b/o and both in [[Full/Parkinson's disease\|Parkinson's disease]]. Haloperidol good for b/o and renal impairment, avoid in those with arrythmias (++ QTc) |
+| Chemotherapy     |                            | Serotonin             | Ondansetron                                          | Avoid in those with arrythmias (QTc) or constipation                                                                                                                              |
+| Motion           | Vestibular                 | Muscarinic, histamine | Cyclizine, Promethazine, Diphenhydramine             |                                                                                                                                                                                   |
+| Viceral          | Organs                     | Dopamine<br>Serotonin | Metoclopramide, haloperidol,<br>Ondansetron          |                                                                                                                                                                                   |
+| Raised ICP       | Cerebral cortex            | Histamine             | Dexamethasone, Cyclizine                             |                                                                                                                                                                                   |
+| All else fails   | Multiple                   | Multiple              | Levomethpromazine                                    | Parkinson's, very sedating                                                                                                                                                        |
 If anticipatory nausea is the clear cause, a short acting benzo can be useful. If benzos contra-indcicated, go for cyclizine. 
 
 ### Laxatives

@@ -1,11 +1,8 @@
 ---
 title: Sarcoidosis
-tags:
-  - Respiratory
-  - Rheumatology
-  - Dermatology
+tags: [Respiratory, Rheumatology, Dermatology]
 date created: Wednesday, August 16th 2023, 2:04:33 pm
-date modified: 2024-04-21
+date modified: Monday, October 20th 2025, 9:06:21 am
 date: 2024-02-09
 ---
 - Chronic granulomatous disorder.
@@ -22,6 +19,15 @@ date: 2024-02-09
 
 >[!tip]
 >The typical MCQ exam patient is a 20-40 year old black female presenting with a dry cough and shortness of breath. They may have nodules on their shins, suggesting [[Full/erythema nodosum]].
+
+Factors associated with poor prognosis  
+- insidious onset, symptoms > 6 months
+- **absence** of [[Full/erythema nodosum|erythema nodosum]]
+- extrapulmonary manifestations: e.g. lupus pernio, splenomegaly
+- CXR: stage III-IV features
+- black African or African-Caribbean ethnicity
+
+
 ## Issues per organ
 
 ### Lungs
@@ -89,7 +95,9 @@ The blood test findings to remember are:
 - **_PET scan_** can show active inflammation in affected areas
 ## Management
 
-**_Conservative management_** is considered in patients with no or mild symptoms.
+
+Very patient dependent, but 50% do not require any treatment and most only require symptomatic treatment in the form of NSAIDs
+
 
 **_Oral steroids_** (for 6-24 months) are usually first-line where treatment is required. **_Bisphosphonates_** protect against [[Full/osteoporosis]] whilst on long-term steroids.
 

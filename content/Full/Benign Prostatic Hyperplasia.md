@@ -2,7 +2,7 @@
 tags: [Urology]
 title: Benign Prostatic Hyperplasia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, September 27th 2025, 3:57:42 pm
+date modified: Thursday, October 16th 2025, 5:27:43 pm
 date: 2024-03-11
 ---
 
@@ -58,7 +58,7 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 
 1. **Watchful Waiting:** For mild symptoms, regular monitoring without immediate treatment.
 2. **Medications**:
-	- alpha blockers - tamsulosin. Relax smooth muscle with rapid symptom improvement. Notable side effect of **postural hypotension**
+	- alpha blockers - tamsulosin. Relax smooth muscle with rapid symptom improvement. Notable side effect of **postural hypotension**. Review men taking alpha-blockers at 4 to 6 weeks and then every 6 to 12 months
 	- 5-alpha reductase inhibitors - finasteride. Prevent the conversion of testosterone to DHT which is more potent. 6 months of treatment for effects to result in symptoms.
 3. **Surgery**
 	- Transurethral resection of prostate most common surgical treatment

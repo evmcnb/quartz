@@ -2,7 +2,7 @@
 tags: [Endocrinology, Cardiovascular]
 title: Erectile Dysfunction
 date: 
-date modified: Tuesday, September 30th 2025, 4:28:53 pm
+date modified: Thursday, October 16th 2025, 5:20:03 pm
 date created: Tuesday, September 30th 2025, 4:10:32 pm
 ---
 
@@ -44,11 +44,11 @@ Where applicable, patients should be encouraged to adopt healthy lifestyle behav
 - Avoid alcohol + fatty meals as it reduces drug absorption 
 
 Contraindicated in: 
-- Degernative retinal disorders
-- Optic neuropathy
-- Recent history of MI 
+- Unstable angina
+- Recent history of MI/stroke 
 - Systolic BP under 90
 - Taking nitrates 
+- Degenerative retinal disorders
 
 S/Es
 - Headache

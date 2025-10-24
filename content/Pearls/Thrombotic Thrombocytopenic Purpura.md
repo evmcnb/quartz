@@ -1,7 +1,7 @@
 ---
-title: "Thrombotic Thrombocytopenic Purpura"
+title: Thrombotic Thrombocytopenic Purpura
 date created: Sunday, January 21th 2024, 01:17:58 PM
-date modified: 2024-01-21 13:17:58.526327+00
+date modified: Tuesday, October 14th 2025, 2:59:23 pm
 tags: ['Acute', 'Haematology']
 ---
 

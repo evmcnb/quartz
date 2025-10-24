@@ -26,7 +26,7 @@ date: 2024-02-09
 ## Causes/Factors
 
 - Usually idiopathic
-- Autoimmune - [[Pearls/Reactive Arthritis|Reactive Arthritis]], psoriatic arthritis, [[Ankylosing spondylitis]] and [[Full/inflammatory bowel disease]] - HLA-B27
+- Autoimmune - [[Pearls/Reactive Arthritis|Reactive Arthritis]], psoriatic arthritis, [[Full/Ankylosing Spondylitis]] and [[Full/inflammatory bowel disease]] - HLA-B27
 - Infections
 - Trauma
 

@@ -1,14 +1,8 @@
 ---
-tags:
-  - Cardiovascular
-  - Gastroenterology
-  - Respiratory
-  - Haematology
-  - Nephrology
-  - OBGYN
+tags: [Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology, OBGYN]
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Monday, October 20th 2025, 3:39:14 pm
 date: 2023-09-18
 ---
 
@@ -40,14 +34,15 @@ Ultrasound and MRI are generally preferred when imaging abdomen
 
 Should always be a balance of risk - drugs different again in lactation
 
-| Considered safe                                                                       | Contraindicated                     |
-| ------------------------------------------------------------------------------------- | ----------------------------------- |
-| [[Full/Penicillins]]                                                                           | Tetracycline/[[snippets/Doxycycline|Doxycycline]]            |
-| Macrolides                                                                            | [[snippets/Ciprofloxacin|Ciprofloxacin]]                       |
-| Low molecular weight heparin                                                          | [[snippets/Trimethoprim|Trimethoprim]] (1st trimester)        |
-| [[snippets/Aspirin|Aspirin]]                                                                               | NSADs (3rd trimester)               |
-| Labetalol                                                                             | ACEi                                |
-| Nifedipine                                                                            | ARA                                 |
-| Adenosine                                                                             | Mycophenolate                       |
-| [[snippets/Prednisolone|Prednisolone]]                                                                          | [[snippets/Warfarin|Warfarin]]                            |
-| Treatment for [[Full/asthma]]: [[snippets/Salbutamol|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella) |  
+| Considered Safe                                                                                                       | Contraindicated                                                                                   |
+| :-------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------ |
+| [[Full/Penicillins]]                                                                                                  | Tetracycline/[[Pearls/Doxycycline\|Doxycycline]]                                                  |
+| Macrolides                                                                                                            | [[Pearls/Ciprofloxacin\|Ciprofloxacin]]                                                           |
+| Low molecular weight heparin                                                                                          | [[Pearls/Trimethoprim\|Trimethoprim]] (in 1st trimester)<br>[[Pearls/Nitrofurantoin]] (in 3rd trimester) |
+| [[Pearls/Aspirin\|Aspirin]]                                                                                           | NSAIDs (3rd trimester)                                                                            |
+| Labetalol                                                                                                             | ACEi                                                                                              |
+| Nifedipine                                                                                                            | ARA                                                                                               |
+| Adenosine                                                                                                             | Mycophenolate                                                                                     |
+| [[Pearls/Prednisolone\|Prednisolone]]                                                                                 | [[Pearls/Warfarin\|Warfarin]]                                                                     |
+| Treatment for [[Full/asthma]]: [[Pearls/Salbutamol\|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella)                                                               |
+|                                                                                                                       | Thiazide-like diuretics                                                                           |

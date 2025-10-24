@@ -69,3 +69,7 @@ Relapses may be treated with steroids
 - 1g IV daily for 3-5 days where oral treatments fail or relapses are severe 
 
 ## Complications/red Flags
+
+Spasticity of movements: Sometimes the stiffness caused by spasticity is slight and can actually be helpful by giving individuals more support to stand or turn. Mild spasticity is not painful. However, when spasticity is more severe, it can become painful.
+
+Gabapentin first line - in higher doses can be effective against muscle spasms.
