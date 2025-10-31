@@ -1,9 +1,8 @@
 ---
-tags:
-  - Acute
+tags: [Acute]
 title: RRAPID
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Monday, October 27th 2025, 6:07:49 pm
 date: 2023-10-05
 ---
 ## Recognising and Responding to Acute Patient Illness and Deterioration

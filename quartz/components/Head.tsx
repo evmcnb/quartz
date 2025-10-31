@@ -83,6 +83,10 @@ export default (() => {
         )}
 
         <link rel="icon" href={iconPath} />
+
+        {/* <link rel="icon" href={iconPathLight} media="prefers-color-scheme: dark" />
+        <link rel="icon" href={iconPathDark} media="prefers-color-scheme: light" /> */}
+
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
 

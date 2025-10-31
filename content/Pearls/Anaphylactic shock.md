@@ -1,13 +1,13 @@
 ---
 title: Anaphylactic shock
 date created: Monday, February 26th 2024, 05:06:49 PM
-date modified: Saturday, August 30th 2025, 11:06:18 am
+date modified: Sunday, October 26th 2025, 11:15:18 am
 tags: ['Acute']
 ---
 
 
 
-Type I IgE mediated hypersensitivity reaction. Release of histamine and other cytokines
+Type I IgE mediated hypersensitivity reaction. Release of histamine and other cytokines. Investigate with mast cell tryptase (not in acute situation)
 
 More common in [[Pearls/Atopic individuals|Atopic individuals]]
 

@@ -1,10 +1,8 @@
 ---
-tags:
-  - Surgery
-  - Gastroenterology
+tags: [Surgery, Gastroenterology]
 title: Appendicitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Sunday, October 26th 2025, 11:11:02 am
 date: 2024-02-16
 ---
 

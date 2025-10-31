@@ -1,10 +1,8 @@
 ---
-tags:
-  - Surgery
-  - Acute
+tags: [Surgery, Acute]
 title: Bowel obstruction
 date created: Friday, February 16th 2024, 3:42:32 pm
-date modified: 2024-03-11
+date modified: Sunday, October 26th 2025, 11:14:29 am
 date: 2024-02-16
 ---
 Small bowel obstruction is more common
@@ -15,12 +13,12 @@ Rest of GI tract secretes fluid that is later absorbed in colon. When there is a
 
 ## Causes/Factors
 
-| **Common** | **Rare** |
-| ---- | ---- |
-| *[[Full/Hernias]]* *(small bowel) | Strictures ([[Full/Crohn's Disease]]) |
-| *Adhesions* *(small bowel - past surgery) | Intussusception (in young children) |
-| *Malignancy* *(large bowel) | Volvulus (large bowel) |
-| Constipation | Gallstone [[Full/Ileus]]  |
+| **Common**                                | **Rare**                              |
+| ----------------------------------------- | ------------------------------------- |
+| *[[Full/Hernias]]* *(small bowel)         | Strictures ([[Full/Crohn's Disease]]) |
+| *Adhesions* *(small bowel - past surgery) | Intussusception (in young children)   |
+| *Malignancy* *(large bowel)               | Volvulus (large bowel)                |
+| Constipation                              | Gallstone [[Full/Ileus]]              |
 _*big three_
 
 

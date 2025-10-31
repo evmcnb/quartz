@@ -2,14 +2,20 @@
 tags: [Surgery]
 title: Aortic aneurysm
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-date modified: Wednesday, October 22nd 2025, 7:22:10 pm
+date modified: Sunday, October 26th 2025, 11:10:41 am
 date: 2024-02-17
 ---
 
 Aortic [[Pearls/Aneurysm|Aneurysm]] is a localized, abnormal dilation of the aortic wall.
 Approx. 90% mortality if ruptures while not in surgery. 
 Two main types: Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA) and Thoracic Aortic [[Pearls/Aneurysm|Aneurysm]] (TAA).
-  
+
+> [!danger] Rupture Triad
+> Classic triad for AA rupture
+> - Hypotension
+> - Sharp and severe flank
+> - Back or abdominal pain
+
 ## Causes/Factors
 - **Atherosclerosis**: Common cause, leading to weakening of the arterial wall.
 - **Genetic Factors**: Family history of aortic aneurysms.
@@ -27,6 +33,15 @@ Two main types: Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA) and Thoracic
   - Chest or back pain.
   - Shortness of breath.
   - Hoarseness or difficulty swallowing.
+
+
+**Rupture**:
+- Collapse
+- Tachycardic
+- clammy skin
+- light-headedness
+- lower limb ischaemia
+- fistulation into other organs
 
 ## Signs
 - **AAA**:
@@ -59,7 +74,7 @@ Large AAA - >5.5cm – surgery recommended
 
 
 #### Medical
-- Resus with IV fluids, systolic BP of 90-120
+- Resus with IV fluids, systolic BP of 90-120 (lower target to reduce blood loss?)
 - Inotropes may be required but indicates poor prognosis
 - Ensure adequate analgesia
 - ? beta blockers 

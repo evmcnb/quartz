@@ -1,27 +1,43 @@
 ---
-tags:
-  - Surgery
-  - Endocrinology
+tags: [Surgery, Endocrinology]
 title: pancreatitis
 date created: Wednesday, October 11th 2023, 2:06:18 pm
-date modified: 2024-03-11
+date modified: Sunday, October 26th 2025, 11:50:23 am
 date: 2024-01-14
 ---
-Not an infective cause
+Acute - gland reverts to normal if underlying cause removed 
+Chronic - irreversible loss of tissue
 
-Acute damage can be temporary and can restore function
+#### Acute
 
-Chronic [[Pearls/Pancreatitis|Pancreatitis]] results in fibrosis and reduced function. Alcohol is the most common cause. 
+* Relatively common - damage to exocrine parenchyma
+* Gallstones (50%), alcohol (25%), idopathic (10%)
+* Hereditary pancreatitis - recurrent attacks of severe pancreatitis PRSS1 a. dominant or SPINK1 a. recessive
+* Emergency, severe acute abdo pain with raised serum amaylase/lipase. Persistent hypocalcaemia poor prognnostic sign
+* Mild - swollen gland with fat necrosis
+* Severe - swollen, necrotic gland and haemorrhage (Grey Turner's and Cullen's sign)
+* Pseudocysts (full of pancreatic juice)
+* Hypocalcaemia is bad
 
-![[z_attachments/Pasted image 20231011141201.png|350]]
+## Chronic pancreatitis
 
- - Mild - swollen gland with fat necrosis
+* Irreversible destruction of exocrine tissue (replaced with fibrosis that can mimic carcinoma) followed by destruction of endocrine glands. 
+* Alcohol most common cause
+
+*  Mild - swollen gland with fat necrosis
 - Severe - swollen, necrotic gland and haemorrhage (Grey Turner's and Cullen's sign)
 - Pseudocysts (full of pancreatic juice)
 - Drugs - [[Pearls/Furosemide|Furosemide]], [[Pearls/Thiazide diuretics|Thiazide diuretics]], azathioprine 
+
+
+Chronic pancreatitis results in fibrosis and reduced function. Alcohol is the most common cause. 
+
+
 ## Causes/Factors
 
 Gallstones (50%), alcohol (25%), idiopathic (10%)
+
+![[z_attachments/Pasted image 20231011141201.png|450]]
 
 ## Symptoms
 
@@ -34,20 +50,38 @@ Gallstones (50%), alcohol (25%), idiopathic (10%)
 
 ### Glasgow Score
 
-Used to assess the severity of [[Pearls/Pancreatitis|Pancreatitis]]. 
-- **0 or 1** – mild [[Pearls/Pancreatitis|Pancreatitis]]
-- **2** – moderate [[Pearls/Pancreatitis|Pancreatitis]]
-- **3 or more** – severe [[Pearls/Pancreatitis|Pancreatitis]]
+Used to assess the severity of pancreatitis. Each of the following scores 1 point:
+- PaO2 < 8kPa
+- Age > 55 years
+- Neutrophils > 15
+- Calcium < 2
+- Renal, i.e. urea > 16
+- Enzymes LDH > 600, AST > 200
+- Albumin <32
+- Sugar, glucose > 10
+
+
+- **0 or 1** – mild pancreatitis
+- **2** – moderate pancreatitis
+- **3 or more** – severe pancreatitis
 
 ## Diagnostic Tests
 
-- Bloods: $\uparrow$ WCC, $\uparrow$ CRP, deranged LFTs, $\uparrow$ amylase, (lipase expensive test), U&Es, calcium
+- Bloods: $\uparrow$ WCC, $\uparrow$ CRP, deranged LFTs ($\uparrow$ AST) , $\uparrow$ amylase, (lipase expensive test), U&Es, calcium
+- Cap glucose - hyperglycaemia indicates severe pancreatitis
 - USS - to access for gallstones
-- CTAP - necrossi, abscesses and fluid collection
+- CTAP - necrosis, abscesses and fluid collection
 
-**Amylase** raised more than 3x the normal limit indicates an acute [[Pearls/Pancreatitis|Pancreatitis]]
+**Amylase** raised more than 3x the normal limit indicates an acute pancreatitis
 
-Lipase is more **sensitive and specific** than amylase for [[Pearls/Pancreatitis|Pancreatitis]]
+Lipase is more **sensitive and specific** than amylase for pancreatitis
+
+CT pancreas with contrast – patients who are deteriorating or have signs of sepsis or organ failure
+
+Exclusionary tests:
+- Pregnancy
+- ECG to rule out [[Full/Acute Coronary Syndrome|Acute Coronary Syndrome]]
+- CXR for [[Pearls/Pleural Effusion|Pleural Effusion]]
 
 ## Management
 
@@ -67,9 +101,8 @@ Lipase is more **sensitive and specific** than amylase for [[Pearls/Pancreatitis
 
 ## Complications/red Flags
 
-
 #### Acute
 - Persistent [[Pearls/Hypocalcaemia|Hypocalcaemia]] poor prognostic sign
 - Necrosis of pancreas
 - Pseudocyst can develop 4 weeks after
-- Chronic [[Pearls/Pancreatitis|Pancreatitis]]
+- Chronic pancreatitis

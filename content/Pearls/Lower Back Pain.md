@@ -2,7 +2,7 @@
 tags: [MSK, Neurology, Rheumatology, Symptom]
 title: Lower Back Pain
 date: 
-date modified: Thursday, October 2nd 2025, 5:34:03 pm
+date modified: Sunday, October 26th 2025, 11:18:54 am
 date created: Thursday, October 2nd 2025, 5:24:35 pm
 aliases: [Lumbago]
 ---

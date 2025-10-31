@@ -1,7 +1,7 @@
 ---
-title: "Upper GI secretions"
+title: Upper GI secretions
 date created: Thursday, March 14th 2024, 12:32:23 PM
-date modified: 2024-03-14 12:32:23.736943+00
+date modified: Sunday, October 26th 2025, 11:18:05 am
 tags: ['Gastroenterology']
 ---
 

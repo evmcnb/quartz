@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Acute Kidney Injury
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, August 30th 2025, 10:52:13 am
+date modified: Sunday, October 26th 2025, 1:43:02 pm
 date: 2023-09-18
 ---
 
@@ -58,6 +58,15 @@ Lots of risk factors like age 75+, [[Full/Diabetes Mellitus]], [[Full/Heart Fail
 - Possibly kidney stones
 - Always suspect in acute patients with risk factors
 
+### Symptoms
+
+Electrolyte abnormalities:
+- N&V 
+- Fatigue
+- Confusion
+- Anorexia 
+- Pruritis 
+
 ## Diagnostic Tests
 
 - FBC, U&E and bicarbonate, C reactive protein (CRP), LFTs
@@ -74,6 +83,7 @@ Lots of risk factors like age 75+, [[Full/Diabetes Mellitus]], [[Full/Heart Fail
   - hyperkalaemia - non-responsive to medicine
   - pH <7.1
   - high urea
+- ? catheterise for accurate fluid balance 
 
 ## Complications/red Flags
 
@@ -81,7 +91,8 @@ Lots of risk factors like age 75+, [[Full/Diabetes Mellitus]], [[Full/Heart Fail
 
 - Leads to tented T-wave
   ![|325](z_attachments/325-2.png)
-- Give calcium gluconate -> protects heart and buys time, glucose/dextrose + [[Pearls/Insulin|Insulin]] and possible [[Pearls/Salbutamol|Salbutamol]] nebuliser
+- Give calcium gluconate -> protects heart and buys time
+- glucose/dextrose + [[Pearls/Insulin|Insulin]] and possible [[Pearls/Salbutamol|Salbutamol]] nebuliser to shift potassium into cells
 
 **Acidosis**
 
@@ -92,3 +103,11 @@ Lots of risk factors like age 75+, [[Full/Diabetes Mellitus]], [[Full/Heart Fail
 - malaise
 
 **Therapy-resistant fluid overload**
+
+
+**Criteria for referral for renal** **replacement therapy**
+- Acidosis pH <7.2
+- Electrolyte imbalance – resist hyperkalaemia
+- Intoxication – drugs or poisons
+- Oedema – refractory pulmonary oedema
+- Uraemia – encephalopathy or pericarditis

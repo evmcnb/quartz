@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Respiratory Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Sunday, October 26th 2025, 2:13:12 pm
 date: 2023-09-18
 ---
 
@@ -40,7 +40,7 @@ Hypercapnia: headache, peripheral vasodilation, tachycardia, bouncing pulse, con
 ## Diagnostic Tests
 
 Find underlying cause
-
+- ABG. diagnostic investigation
 - Blood tests
 - CXR
 - Sputum culture
@@ -50,7 +50,7 @@ Find underlying cause
 
 Treat underlying cause
 
-- [[Pearls/Oxygen|Oxygen]]
-- assisted ventilation if necessary
+- [[Pearls/Oxygen|Oxygen]] - 15L via a non-rebreathe mask. Delivery weaned down from there
+- Assisted ventilation if necessary with consideration of ceiling of care. Involve patient family as much as possible. 
 
 ## Complications/red Flags
