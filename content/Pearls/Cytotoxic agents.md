@@ -2,7 +2,8 @@
 tags: [Oncology, Drug]
 title: Cytotoxic agents
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Friday, October 31st 2025, 4:27:10 pm
+date created: Wednesday, September 10th 2025, 3:29:48 pm
 ---
 
 ![[z_attachments/Pasted image 20250911120019.png]]

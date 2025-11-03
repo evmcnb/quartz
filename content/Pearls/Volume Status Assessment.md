@@ -2,7 +2,7 @@
 tags: [Acute, Examination, OSCE]
 title: Volume Status Assessment
 date: 2023-09-27
-date modified: Sunday, October 26th 2025, 2:13:31 pm
+date modified: Monday, November 3rd 2025, 4:39:42 pm
 date created: Sunday, October 26th 2025, 2:13:11 pm
 ---
 **Reasons for admission that can increase fluid requirements:**
@@ -16,6 +16,7 @@ date created: Sunday, October 26th 2025, 2:13:11 pm
 Colour – poor peripheral perfusion, cyanosis
 Leukonychia – whitening of the nail bed, associated with hypalbuminaemia
 ### Palpation
+
 Temperature – systemically warm, adequate perfusion
 Cap refill time
 - Peripheral perfusion
@@ -27,16 +28,13 @@ Skin turgor
 
 Radial pulses
 - Slow pulse – dehydrated
-    
 
 Blood pressures
-
 Raised JVP
 
 Face
 - Eyes – sunken appearance, conjunctival pallor
 - Mouth – dry mucous membranes
-    
 
 Chest
 - RR – increased resp rate – dehydration status

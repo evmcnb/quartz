@@ -1,7 +1,7 @@
 ---
-title: "Warfarin"
+title: Warfarin
 date created: Wednesday, March 20th 2024, 09:49:01 AM
-date modified: 2024-04-08 19:20:49.330755+01
+date modified: Friday, October 31st 2025, 12:34:04 pm
 tags: ['Haematology', 'Drug']
 ---
 
@@ -34,6 +34,18 @@ INR **2.5-3.5** -for mechanical heart valves
 * May take 5 days to achieve INR to therapeutic range
 * **Warfarin can induce a hypercoagulable state because the suppression of protein C occurs much quicker than the coagulation factors**
   + If a patient develops an acute VTE and is at high risk of another heparin should be considered for 5 days
+
+### Acute Management
+
+| Situation                                                                | Management                                                                                                                                                                                |
+| ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Major bleeding** (e.g. variceal haemorrhage, intracranial haemorrhage) | Stop warfarin  <br>Give intravenous vitamin K 5mg  <br>Prothrombin complex concentrate - if not available then FFP*                                                                       |
+| **INR > 8.0  <br>Minor bleeding**                                        | Stop warfarin  <br>Give intravenous vitamin K 1-3mg  <br>Repeat dose of vitamin K if INR still too high after 24 hours  <br>Restart warfarin when INR < 5.0                               |
+| **INR > 8.0  <br>No bleeding**                                           | Stop warfarin  <br>Give vitamin K 1-5mg by mouth, using the intravenous preparation orally  <br>Repeat dose of vitamin K if INR still too high after 24 hours  <br>Restart when INR < 5.0 |
+| **INR 5.0-8.0  <br>Minor bleeding**                                      | Stop warfarin  <br>Give intravenous vitamin K 1-3mg  <br>Restart when INR < 5.0                                                                                                           |
+| **INR 5.0-8.0  <br>No bleeding**                                         | Withhold 1 or 2 doses of warfarin  <br>Reduce subsequent maintenance dose                                                                                                                 |
+
+
 
 ## Interactions
 

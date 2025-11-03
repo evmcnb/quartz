@@ -2,13 +2,12 @@
 tags: [Respiratory]
 title: pneumonia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, October 26th 2025, 11:16:15 am
+date modified: Monday, November 3rd 2025, 4:13:35 pm
 aliases: [Pneumonia]
 date: 2024-01-14
 ---
 
-
-An acute lower respiratory tract infection associated with fever and other abnormal chest symptoms and signs
+Chest infection only becomes pneumonia on **radiographic confirmation**. CURB only valid in this group. 
 
 **Bacterial**
 * Usually rapid onset
@@ -42,7 +41,7 @@ An acute lower respiratory tract infection associated with fever and other abnor
 - Age $\geq$ 65 (soft score)
 
 0-1 - low risk home management - 500mg amoxicillin TDS for 5 days
-2 - intermediate risk - short in-patient stay
+2 - intermediate risk - short in-patient stay + dual abx therapy
 $\geq$ 3 - high risk - severe pneumonia
 
 #### Risk of death with CURB-65
@@ -86,6 +85,8 @@ $\geq$ 3 - high risk - severe pneumonia
 
 ## Diagnostic Tests
 
+
+
 - CXR: showing consolidation
 - Blood/sputum culture
 - Bronchoscopy if risk of infection for bloods
@@ -95,6 +96,8 @@ $\geq$ 3 - high risk - severe pneumonia
 - Weird rash $\rightarrow$ Mycoplasma
 
 ## Management
+
+CURB >2/5 - dual abx therapy - amoxicillin and clarithromycin (allergy pending)
 
 ABCDE
 - Fluids

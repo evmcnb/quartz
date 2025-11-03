@@ -1,11 +1,12 @@
 ---
 title: Fluid prescriptions
 date created: Friday, February 16th 2024, 11:57:32 AM
-date modified: Monday, October 27th 2025, 6:21:11 pm
+date modified: Monday, November 3rd 2025, 4:39:20 pm
 tags: ['Drug']
 ---
 
 
+### Maintenance 
 
 * All should have daily U&Es, FBCs, creatinine
 * 25 to 30 ml/kg/day of water
@@ -15,3 +16,21 @@ tags: ['Drug']
 * Approximately 50 to 100 g/day of glucose to limit starvation ketosis. (This quantity will not address patients' nutritional needs)
 
 If correcting potassium, the maximum rate of infusion via a peripheral line is 10 mmol/hour
+
+
+### Resuscitation
+
+#### Crystalloids (isotonic)
+
+Usually used in fluid resus. Give bolus of 500ml over less than 15 minutes
+- Normal saline (0.9% sodium chloride)
+- Hartmann's (contains balanced electrolytes)
+- Plasma-lyte (also contains balanced electrolytes)
+
+If not responsive to fluids inotropes (increased heart contractility) or vasopressors (increase peripheral vascular resistance) may provide benefit. 
+#### Colloids
+
+Affect fluid shifts in the body
+- Blood
+- Albumin
+- FFP

@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Respiratory Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, October 26th 2025, 2:13:12 pm
+date modified: Monday, November 3rd 2025, 10:05:42 am
 date: 2023-09-18
 ---
 
@@ -26,7 +26,7 @@ hypoxia with hypercapnia ($PaCO_2 < 6kPa$). Caused by alveolar hypoventilation w
 
 - Pulmonary disease: [[Full/asthma]], [[Full/COPD]], [[Full/pneumonia]], [[Full/Pulmonary Fibrosis]], [[Full/Obstructive Sleep Apnoea]]
 - Reduced respiratory drive: sedatives, CNS tumour/trauma
-- Neuromuscular disease: Cervical chord lesion, diaphragmatic paralysis, [[poliomyelitis]], [[myasthenia gravis]], [[Guillain-Barre Syndrome]]
+- Neuromuscular disease: Cervical chord lesion, diaphragmatic paralysis, [[poliomyelitis]], [[Pearls/Myasthenia gravis]], [[Guillain-Barre Syndrome]]
 - Thoracic wall disease: fail chest, [[kyphoscoliosis]]
 
 ### Clinical Features
