@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 2nd 2025, 5:46:25 pm
+date modified: Tuesday, November 4th 2025, 10:00:17 am
 date: 2024-01-14
 ---
 
@@ -76,7 +76,7 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
 (some recommendations to consider as first line treatment)
 - **SGLT2i** - sodium glucose co-transpoter 2 inhibitor. Blocks the reabsorption of glucose in kidneys - wee out sugar. _eg Empagliflozin_
 	- Once settled on metformin and the patients has cardiovascular risk (pre-existing or Q-risk score >10%) add SGLT2i. 
-	- Can increase risk of hypoglycaemia
+	- They **_can_** cause **_hypoglycaemia_** when used with insulin or sulfonylureas.
 	- Reduces cardiovascular risk, lowers HbA1c, lowers BP improves features of heart failure
 	- Increases frequency of urinary tract infections and genital thrush and rarely **risk of DKA** (even with a moderately increased glucose). Rare risk of necrotising fasciitis of the genitalia or perineums
 

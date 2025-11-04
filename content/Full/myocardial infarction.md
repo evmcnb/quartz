@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, October 6th 2025, 1:01:59 pm
+date modified: Tuesday, November 4th 2025, 3:30:03 pm
 date: 2023-11-12
 ---
 
@@ -57,12 +57,12 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 | **Lateral**       | I, aVL +/- V5-6                                                                                                                                                                                                                                                                              | Left circumflex                              |
 | **Posterior**     | Changes in V1-3  <br>  <br>Reciprocal changes of STEMI are typically seen:  <br><br>- horizontal ST depression<br>- tall, broad R waves<br>- upright T waves<br>- dominant R wave in V2<br><br>  <br>Posterior infarction is confirmed by ST elevation and Q waves in posterior leads (V7-9) | Usually left circumflex, also right coronary |
 
-
-
 - ECG - ST elevation (STEMI), T-wave inversion, ST [[Full/Depression]] (NSTEMI) - [[Full/ECG Lead Placement & Interpretation]]
-- Bloods - raised troponin, cardiac enzymes, creatine kinase for NSTEMI
+- Bloods - raised troponin (repeat after 3 hours), cardiac enzymes, creatine kinase for NSTEMI
 - Echo to see area of reduced contraction
 - Coronary angio to show which artery is blocked
+
+Rise in ST of 2mm in the chest leads or 1mm in the limb or new left BBB treated as STEMI. 
 
 ## Management
 
