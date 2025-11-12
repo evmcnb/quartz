@@ -2,7 +2,7 @@
 tags: [Acute, OSCE, Anaesthetics]
 title: Pre-Operative Assessment and Care
 date: 2023-09-27
-date modified: Tuesday, November 4th 2025, 10:13:52 am
+date modified: Wednesday, November 12th 2025, 11:23:34 am
 date created: Tuesday, November 4th 2025, 9:24:42 am
 ---
 
@@ -125,7 +125,7 @@ Each trust have their own guidelines. Important for surgery and anaesthesia.
 **Generally:**
 - Aspirin - continue
 - Clopidogrel - stop 7 days prior. If stroke/MI in past year seek expert advice
-- DOACs - stop 24-72 hours prior to surgery depending on renal function
+- DOACs - stop 24-72 hours prior to surgery depending on surgery risk
 - Warfarin - stop 5 days prior. If high risk of thrombosis - bridge with LMWH
 - LMWH - last dose 12 hours prior (24 hours if on treatment dose for VTE)
 
@@ -136,14 +136,29 @@ If these timings cannot be achieved due to urgent surgery seek haem advice.
 Type 1 **always** get their long acting insulin. Give 80% of dose day before & during reduced oral intake.
 If missing >1 meal $\rightarrow$ variable rate insulin infusion
 
-Type 2 omit agents with potential for hypos (sulphonyurea & SGLT2i)
+Type 2 omit agents with potential for hypos (sulphonyurea & SGLT2i) on the morning before surgery
 
 Generally:
 - First on the list, restart normal medication when diet resumed
-- If acutely unwell - VRII with dexsaline + potassium alongside
+- If acutely unwell or poorly managed diabetes - VRII with dexsaline + potassium alongside
 - Frequent cap glucoses 
 - Always prescribe PRN hypoglycaemia treatment
 
+**Steroids**
+
+Patients at risk of adrenal insufficiency may require supplemental steroids during times of physiological stress.
+
+For patients on long-term corticosteroids:
+- Convert to IV hydrocortisone at induction for moderate to major surgical procedures 
+- Fludrocortisone supplementation if there is associated hypotension or the patient is on a long-term corticosteroid that does not  have a significant mineralocorticoid activity. 
+- Post-operative steroid replacement:
+    - For minor procedures: Usual oral corticosteroids may be resumed immediately post-operatively if the patient is clinically stable and tolerating oral intake.
+    - For major surgery: Continue IV hydrocortisone (e.g. 50 mg every 6 hours or equivalent continuous infusion) for up to 72 hours post-operatively, with transition back to oral steroids as the patient recovers.
+- Ensure appropriate tapering of steroids after the period of stress has resolved, returning to the patient’s maintenance dose.
+
+**ACEi & ARBs**
+
+ACE inhibitors and angiotensin-II receptor antagonists can be associated with severe hypotension after induction of anaesthesia; these drugs should be discontinued 24 hours before surgery.
 
 **Anticipated of haemorrhage**
 

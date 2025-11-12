@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Essential hypertension
 date created: Tuesday, October 17th 2023, 4:07:47 pm
-date modified: Monday, October 6th 2025, 2:01:56 pm
+date modified: Monday, November 10th 2025, 12:50:45 pm
 aliases: [hypertension, Hypertension]
 date: 2024-01-14
 ---
@@ -83,6 +83,6 @@ Treat all >160/100. For those at 140/90 treatment treat if < 80 years of age AND
 
 ## Complications/red Flags
 
-Malignant hypertension - oral therapy unless encephalopathy or cardiac failure. Aim for controlled BP reduction over days not hours. Avoid sudden drops in BP as cerebral autoregulation is poor. Bed rest + [[Pearls/Atenolol|Atenolol]] or long-acting CCBs
+Malignant hypertension (systolic >180) - oral therapy unless encephalopathy or cardiac failure. Aim for controlled BP reduction over days not hours. Avoid sudden drops in BP as cerebral autoregulation is poor. Bed rest + [[Pearls/Atenolol|Atenolol]] or long-acting CCBs
 
 If encephalopathy monitor with arterial probe and look at guidance for IV medications needed. 

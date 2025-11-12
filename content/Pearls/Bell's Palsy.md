@@ -1,13 +1,13 @@
 ---
 title: "Bell's Palsy"
 date created: Friday, February 23th 2024, 01:33:04 PM
-date modified: 2024-05-10 12:33:44.932238+01
+date modified: Wednesday, November 5th 2025, 2:55:44 pm
 tags: ['Neurology']
 ---
 
 
 
-Facial paralysis resulting from inflammation or compression of facial nerve (CN VII)
+Facial paralysis resulting from inflammation or compression of **facial nerve** (CN VII)
 
 * **Sudden onset**
 * Unilateral

@@ -1,7 +1,7 @@
 ---
 title: Sick Day Rules
 date created: Thursday, January 25th 2024, 01:02:10 PM
-date modified: Saturday, August 30th 2025, 12:08:28 pm
+date modified: Wednesday, November 5th 2025, 2:59:44 pm
 tags: ['Nephrology', 'Drug']
 ---
 
@@ -15,6 +15,6 @@ OSCE stations could sneakily ask you write up a drug chart for a dehydrated pati
 
 - **M**etformin - dehydration increases the risk of lactic acidosis
 - **A**CEi/**A**RBs - impair kidney function
-- **N**SAIDs - impair kidney function, may cause fluid retention
+- **N**SAIDs - impair kidney function, may cause fluid retention (that are not at cardioprotective doses)
 - **D**iuretics - worsen dehydration
 

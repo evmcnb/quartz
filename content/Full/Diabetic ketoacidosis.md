@@ -1,10 +1,8 @@
 ---
-tags:
-  - Endocrinology
-  - Acute
+tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: 2024-03-11
+date modified: Wednesday, November 5th 2025, 11:11:51 am
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -43,6 +41,23 @@ Typically in [[Full/Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2
 3. Ketonaemia (> 3mmol/L or ++ on dipstick) 
 
 ## Management
+
+Main principles of management  
+
+- fluid replacement
+    - most patients with DKA are deplete around 5-8 litres
+    - isotonic saline is used initially, even if the patient is severely acidotic
+    - please see an example fluid regime below.
+- insulin
+    - an intravenous infusion should be started at 0.1 unit/kg/hour
+    - once blood glucose is < 14 mmol/l an infusion of 10% dextrose should be started at 125 mls/hr _in addition_ to the 0.9% sodium chloride regime
+- correction of electrolyte disturbance
+    - serum potassium is often high on admission despite total body potassium being low
+    - this often falls quickly following treatment with insulin resulting in hypokalaemia
+    - potassium may therefore need to be added to the replacement fluids
+    - if the rate of potassium infusion is greater than 20 mmol/hour then cardiac monitoring may be required
+- long-acting insulin should be continued, short-acting insulin should be stopped
+
 
 ![[z_attachments/Screenshot 2023-11-12 at 13.30.12.png|450]]
 
