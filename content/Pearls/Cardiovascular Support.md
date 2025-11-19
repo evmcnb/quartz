@@ -1,17 +1,16 @@
 ---
-tags: 
-title: Snippet Template
+tags: [Acute, Anaesthetics, Cardiovascular]
+title: Cardiovascular Support
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Wednesday, November 19th 2025, 9:45:47 pm
+date created: Wednesday, November 12th 2025, 11:23:34 am
 ---
-#Acute #Anaesthetics #Cardiovascular 
-
 
 ## Frank-Starling law
 
 ![[z_attachments/Frankstar(1).png|575]]
 
-`The heart will pump all the blood the returns to it`
+`The heart will pump all the blood that returns to it`
 
 1. When more blood flows back to the heart the ventricles fill with a larger volume of blood. **This stretches the cardiac muscle**. 
 2. The increased stretch leads to a greater force of contraction, to a certain point.
@@ -33,7 +32,7 @@ date modified: 2025-04-23
 
 **_Cardiac output_** = **_stroke volume_** x **_heart rate_**
 
-**_Mean arterial pressure_** (**_MAP_**) is the average blood pressure throughout the entire cardiac cycle, including both systole and diastole. **_Mean arterial pressure_** is a product of **_cardiac output_** and **_systemic vascular resistance_**. Low arterial pressure may be the result of low **_cardiac output_** or low **_systemic vascular resistance_**.#
+**_Mean arterial pressure_** (**_MAP_**) is the average blood pressure throughout the entire cardiac cycle, including both systole and diastole. **_Mean arterial pressure_** is a product of **_cardiac output_** and **_systemic vascular resistance_**. Low arterial pressure may be the result of low **_cardiac output_** or low **_systemic vascular resistance_**.
 
 
 ## Inotropes
@@ -43,7 +42,8 @@ Inotropes are medications that alter the contractility of the heart. This increa
 - Dobutamine
 - Dopamine 
 - Adrenaline
-- (noradrenalinem weak inotrope mostly a vasopressor)
+- Milrinone (PDE3 inhibitor) 
+- (noradrenaline weak inotrope mostly a vasopressor)
 
 **_Positive inotropes_** are given through a **_central venous catheter_**. They are only used where patients can be closely monitored (e.g., ICU). Doses are titrated in response to changes in the patient’s clinical condition, mean arterial pressure, central venous pressure and cardiac output.
 

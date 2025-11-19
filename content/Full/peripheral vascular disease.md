@@ -1,11 +1,9 @@
 ---
-tags:
-  - Cardiovascular
+tags: [Cardiovascular]
 title: peripheral vascular disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
-aliases:
-  - peripheral arterial disease
+date modified: Wednesday, November 19th 2025, 9:48:18 pm
+aliases: [peripheral arterial disease]
 date: 2023-11-12
 ---
 
@@ -22,6 +20,8 @@ Peripheral arterial disease (PAD) is where a build-up of fatty deposits in the a
 - Smoking
 - [[Full/Obesity]]
 - [[Full/Essential hypertension|hypertension]]
+- Male
+- Raised cholesterol
 - etc
 
 ## Symptoms

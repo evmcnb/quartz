@@ -7,10 +7,10 @@ date created: Sunday, October 26th 2025, 1:43:31 pm
 ---
 
 4 main types:
-- Hypovolaemic
-- Cardiogenic
+- Hypovolaemic - (bleed, diarrhoea, vomiting)
+- Cardiogenic - ()
 - Obstructive
-- Distributive 
+- Distributive  - (sepsis, anaphylaxis)
 
 
 ### Presentation in all:
@@ -61,3 +61,15 @@ Systemic vasodilation directing intravascular volume to the interstitial space
 - [[Full/Sepsis|Sepsis]]
 - [[Pearls/Anaphylactic shock|Anaphylactic shock]]
 - Neurogenic - severe traumatic brain or spinal cord injury that compromises the sympathetic nervous system. Results in unopposed parasympathetic action. Spinal cord injuries above T6
+
+
+## Management 
+
+Principles of management; specifics will vary for each
+
+- O2 for all patients
+- Aggressive fluids (blood products if haemorrhaging)
+- Low GCS consider airway input
+- Monitor glucose
+- Maintain temperature at 36$\degree$C
+- Assess for underlying cause

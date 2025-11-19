@@ -22,7 +22,7 @@ date created: Tuesday, September 3rd 2024, 10:43:49 pm
 #### Chest Pain DDX
 
 **4-2-1 Rule for Emergent Conditions**: 
-- 4 chambers of the heart - [[Full/Acute Coronary Syndrome]], [[Aortic Dissection]], [[Pearls/Pericarditis]], [[Pericardial Effusion]]
+- 4 chambers of the heart - [[Full/Acute Coronary Syndrome]], [[Full/Aortic Dissection]], [[Pearls/Pericarditis]], [[Pericardial Effusion]]
 - 2 lungs - [[Full/pulmonary embolism]], [[Full/pneumothorax|Pneumothorax]]
 - 1 oesophagus - [[Oesophageal Perforation]]
 
