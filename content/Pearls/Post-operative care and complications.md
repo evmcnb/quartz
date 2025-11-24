@@ -1,10 +1,10 @@
 ---
-tags: 
-title: Snippet Template
+tags: [Acute, Anaesthetics, OSCE]
+title: Post-operative care and complications
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Thursday, November 20th 2025, 8:38:33 pm
+date created: Tuesday, November 4th 2025, 11:03:16 am
 ---
-#Acute #Anaesthetics #OSCE 
 
 
 Anaesthetic drugs stay in the system for up to 24 hours

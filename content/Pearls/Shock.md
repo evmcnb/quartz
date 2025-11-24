@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Acute]
 title: Shock
 date: 2023-09-27
-date modified: Sunday, October 26th 2025, 2:03:29 pm
+date modified: Thursday, November 20th 2025, 8:36:30 pm
 date created: Sunday, October 26th 2025, 1:43:31 pm
 ---
 
