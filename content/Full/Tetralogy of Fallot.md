@@ -1,8 +1,8 @@
 ---
 tags: [Cardiovascular]
-title: "Fallot's Tetralogy"
+title: Tetralogy of Fallot
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, December 2nd 2025, 10:05:03 am
 date: 2023-09-18
 ---
 
@@ -20,9 +20,16 @@ Tetralogy features:
 - Congenital (both environmental and genetic factors)
 - Severity of illness depends greatly on degree of pulmonary stenosis
 
+- Increased maternal age
+- Alcohol consumption in pregnancy
+- Maternal diabetes
+- Genetic conditions (DiGeorge, Down's)
+- Congential rubella
+
 ## Symptoms
 
 - With closure of ductus arteriosus infants become more cyanotic due to decreasing flow of blood to the lungs and increasing right to left flow across VSD
+- [[Pearls/Eisenmenger Syndrome#Exam findings|Eisenmenger Syndrome]] symptoms
 - Difficulty in feeding/gaining weight
 - Delayed growth
 - Dyspnoea of exertion
@@ -40,8 +47,14 @@ Tetralogy features:
 
 ## Management
 
-- [[Pearls/Oxygen|Oxygen]]
-- Surgery to repair VSD and replace pulmonary valve
+In neonates - prostaglandin E1 infusion to maintain the ductus arteriosus.
+
+For 'tet' (intermittent cyanotic episodes):
+- Oxygen
+- IV morphine
+- IV fluids
+- IV beta blockers
+- Phenylephrine infusion (increases systemic vascular resistance)
 
 ## Complications/red Flags
 

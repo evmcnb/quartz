@@ -1,8 +1,9 @@
 ---
 title: "Conn's syndrome"
 date created: Sunday, January 21th 2024, 01:29:16 PM
-date modified: 2024-05-10 11:16:33.806006+01
-tags: ['Endocrinology']
+date modified: Sunday, November 23rd 2025, 3:19:47 pm
+tags: [Endocrinology]
+aliases: [Hyperaldosteronism]
 ---
 
 
@@ -17,3 +18,11 @@ Via the RAAS - renal retion of H2O and Na+ so high blood pressure, headache and 
 
 The first line investigation for this is a plasma aldosterone/renin ratio, which should show **high aldosterone** levels alongside **low renin** levels.
 
+> [!danger] Most common cause of **secondary** hypertension
+
+
+Management with a MRA - spironolactone, eplerenone
+
+Treat the underlying cause:
+- Stent renal artery if stenosed
+- Remove the adrenal if adenoma.

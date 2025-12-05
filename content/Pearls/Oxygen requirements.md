@@ -1,7 +1,7 @@
 ---
 title: Oxygen requirements
 date created: Tuesday, January 30th 2024, 03:08:01 PM
-date modified: Monday, November 3rd 2025, 10:05:54 am
+date modified: Wednesday, November 26th 2025, 4:40:03 pm
 tags: ['Acute']
 ---
 
@@ -27,6 +27,7 @@ If the patient is receiving **[[Pearls/Oxygen|Oxygen]] therapy** their **PaO2
 | 8             | 52%              |
 | 9             | 56%              |
 | 10            | 60%              |
+
 ![[z_attachments/Pasted image 20251103100353.png|575]]
 **note the differences**
 

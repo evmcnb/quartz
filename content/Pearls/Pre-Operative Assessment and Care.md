@@ -2,7 +2,7 @@
 tags: [Acute, OSCE, Anaesthetics]
 title: Pre-Operative Assessment and Care
 date: 2023-09-27
-date modified: Wednesday, November 12th 2025, 11:23:34 am
+date modified: Sunday, November 23rd 2025, 2:37:31 pm
 date created: Tuesday, November 4th 2025, 9:24:42 am
 ---
 
@@ -11,12 +11,24 @@ date created: Tuesday, November 4th 2025, 9:24:42 am
 - Consent
 
 All types of anaesthetisa alter normal body physiology to some degree. This may cause several common effects:
-A - airway obstruction
-B - hypoventilation & hypoxia
-C - Hypotension
-D - PONV
-E - heat loss and hypothermia (esp in low body weight individuals)
-G - loss of airway reflexes and reflux risk
+- A - airway obstruction
+- B - hypoventilation & hypoxia
+- C - Hypotension
+- D - PONV
+- E - heat loss and hypothermia (esp in low body weight individuals)
+- G - loss of airway reflexes and reflux risk
+   
+
+> [!success] TL;DR OSCE Mark Scheme for Pre-Op Assessment
+> - Anaesthesia History - previous GAs, presence of any complications
+> - PMH - RA, exclude heart & lung disease, hypertension, diabetes, anaemia, epilepsy
+> - Specific implications - connective tissue/rheumatology disorders (SLE, RA, AS)
+> - Cardiorespiratory - dyspnoea, exercise tolerance, cough, wheeze, chest pain, orthopnoea, PND, ankle swelling
+> - Gastro - reflux, heartburn
+> - Airway assessment - just history, cervical spine, jaw, dentition
+> - DH - current medications & previous (recent steroids), reactions and sensitivities
+> - SH & FH - smoking, alcohol, problems with anaesthesia
+> - Preoperative investigations - Blood tests (FBC, U&Es), ECG.
 
 ### 1. Identify
 
@@ -159,6 +171,16 @@ For patients on long-term corticosteroids:
 **ACEi & ARBs**
 
 ACE inhibitors and angiotensin-II receptor antagonists can be associated with severe hypotension after induction of anaesthesia; these drugs should be discontinued 24 hours before surgery.
+
+**Others**
+
+*SEMLA 54321*  
+- Smoking: 5 weeks (at least, earlier the better)  
+- Estrogen pills: 4 weeks  
+- MAO inhibitors: 3 weeks  
+- Lithium: 2 weeks  
+- Aspirin: 1 week
+
 
 **Anticipated of haemorrhage**
 

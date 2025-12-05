@@ -1,9 +1,8 @@
 ---
-tags:
-  - Cardiovascular
+tags: [Cardiovascular]
 title: Arrhythmias
 date created: Sunday, November 12th 2023, 6:12:32 pm
-date modified: Saturday, August 30th 2025, 7:41:04 pm
+date modified: Thursday, November 27th 2025, 5:58:30 pm
 date: 2023-11-12
 ---
 
@@ -84,4 +83,30 @@ Narrow complex is atrial in origin (SVT) - broad complex is ventricular (VT)
 6. Junctional tachycardia - cells in AVN become pacemaker giving narrow QRS complexes. p waves may be inverted or late
 7. [[Pearls/Bundle Branch Block|Bundle Branch Block]] - any of the conditions above can result in a broad complex tachycardia if there is a BBB
 8. VT - Similar to atrial flutter circuits - broad QRS. The plane of the circuit can rotate when in action seen as increasing and decreasing amplitude - torsades de pointes
+
+
+##### AVNRT
+
+- Atrioventricular **Nodal** Re-entrant Tachycardia
+- A small re-entry circuit is located **entirely within the AV node**. The action potential uses both a slow pathway and a fast pathway. The electrical signal gets stuck in a loop, going down one and up the other.
+- This is a _functional_ circuit. The patient doesn't have an "extra" anatomical structure, just different electrical properties within their AV node.
+
+![[z_attachments/Pasted image 20251113164125.png]]
+
+##### AVRT
+
+- Atrioventricular **Re-entrant** Tachycardia
+- A large re-entry circuit that involves **two separate structures**:
+	1. The normal AV node
+	2. An **accessory pathway** (an extra piece of conductive tissue) that connects the atria and ventricles, bypassing the AV node
+- The signal travels in a large loop, for example, _down_ the AV node and _up_ the accessory pathway (or vice versa)
+- This is an _anatomical_ circuit. The patient is born with this extra pathway, often called a ***"Bundle of Kent."***
+- This is the rhythm seen in patients with **Wolff-Parkinson-White (WPW) syndrome**
+
+![[z_attachments/Pasted image 20251113164510.png]]
+*AVRT ECG (but no great way of telling the difference)
+
+![[z_attachments/Pasted image 20251113164538.png]]
+*WPW ECG, note the shortened PR and delta wave (sloped QRS at the start)*
+
 

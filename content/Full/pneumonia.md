@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: pneumonia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, November 3rd 2025, 4:13:35 pm
+date modified: Monday, December 1st 2025, 5:55:05 pm
 aliases: [Pneumonia]
 date: 2024-01-14
 ---
@@ -29,7 +29,7 @@ Chest infection only becomes pneumonia on **radiographic confirmation**. CURB on
 - Klebsiella pneumonia - more common in diabetics and patients with alcohol excess. Frequently caused by aspiration. Can cause "red jelly". Commonly affects upper lobes
 - Staphylococcus aureus pneumonia commonly occurs after influenza or as a complication of measles infection. CXR shows multi-lobar consolidation, cavitation or pneumothorax
 
-- Mycoplasma is a typical which classically presents with a gradual onset dry cough and other weird symptoms - autoimmune haemolytic anaemia and erythema multiforme 
+- Mycoplasma is a typical which classically presents with a gradual onset dry cough and other weird symptoms - autoimmune haemolytic anaemia and erythema multiforme (ring-shaped rashes on hands)
 
   ![|600](z_attachments/600.png)
   

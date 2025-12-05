@@ -1,7 +1,7 @@
 ---
-title: "Phenytoin"
-date created: 2024-04-09 20:49:59.145156+01
-date modified: 2024-04-09 20:49:59.151074+01
+title: Phenytoin
+date created: Tuesday, November 25th 2025, 8:19:44 pm
+date modified: Wednesday, December 3rd 2025, 11:36:21 am
 tags: ['Neurology', 'Drug']
 ---
 

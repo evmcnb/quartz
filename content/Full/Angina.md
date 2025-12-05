@@ -1,9 +1,8 @@
 ---
-tags:
-  - Cardiovascular
+tags: [Cardiovascular]
 title: Angina
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, September 1st 2025, 1:27:24 pm
+date modified: Monday, December 1st 2025, 5:47:26 pm
 date: 2023-11-12
 ---
 
@@ -13,6 +12,11 @@ Pain due to partial blockage of a coronary vessel. Can be stable or unstable
 - **unstable angina** (more serious) – attacks are more unpredictable (they may not have a trigger) and can continue despite resting ^1f93a5
 
 Some people develop unstable angina after having stable angina.
+
+> [!tip]
+> Look for signs of previous scars - midline sternotomy for CABG, scars around accessible arteries for PCI and inner calves for saphenous vein harvesting
+
+
 
 ## Causes/Factors
 
@@ -41,12 +45,33 @@ Some people develop unstable angina after having stable angina.
 
 - **R**efer to cardiology
 - **A**dvise them about the diagnosis, management and when to call an ambulance (3 doses of GTN 5 minutes apart with no relief)
-- **M**edical treatment - GTN spray, beta blocker, CCB (avoid with a reduced ejection fracture)
+- **M**edical treatment - see below
 - **P**rocedural or surgical interventions - PCI, CABG
-- **S**econdary prevention - [[Pearls/Aspirin|Aspirin]] (75mg od), Atorvastatin (80mg od), ACEi (if [[Full/Diabetes Mellitus]], [[Full/Essential hypertension|hypertension]], [[Full/Chronic Kidney Disease]], or [[Full/Heart Failure]] are also present), beta blocker (Bisoprolol)
+- **S**econdary prevention - [[Pearls/Aspirin|Aspirin]] (75mg od), Atorvastatin (80mg od)
 
-> [!tip]
-> Look for signs of previous scars - midline sternotomy for CABG, scars around accessible arteries for PCI and inner calves for saphenous vein harvesting
+#### Medical Management
+
+All prescribed sublingual glyceryl trinitrate to abort angina attacks
+
+ Either a beta-blocker or CCB first line based on patient choice and contradictions
+-  If CCB used as monotherapy, should be verapamil or diltiazem. If used in combination with a beta-blocker then use a longer-acting dihydropyridine CCB (amlodipine, MR nifedipine)
+	- **Beta-blockers should not be prescribed concurrently with verapamil** - risk of complete heart block
+- If there is a poor response to initial treatment then medication should be increased to the max. tolerated dose
+
+If the patient is on monotherapy and cannot tolerate the addition of the alternative agent, consider:
+- a long acting nitrate
+- ivabradine
+- nicorandil
+- ranolazine
+
+If they are on both a beta blocker and CCB only add a third agent whilst the patient is waiting for assessment for PCI/CABG
+
+
+> [!warning] Nitrate tolerance
+> Many patients who take nitrates regularly develop tolerance and reduce efficacy. 
+> - Patient taking standard isosorbide mononitrate should use an asymmetric dosing interval. 
+> - Maintain nitrate free time of 10-14 hours 
+> - **This is not seen in patients who take the modified release isosorbide mononitrate**
 
 ## Complications/red Flags
 

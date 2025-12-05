@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 16th 2025, 6:27:54 pm
+date modified: Wednesday, December 3rd 2025, 11:28:33 am
 aliases: [Asthma]
 date: 2024-01-14
 ---
@@ -69,10 +69,12 @@ Children aged 5-16:
 | **Moderate**                                                                                 | **Severe**                                                                                              | **Life-threatening**                                                                                                                                                                             |
 | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **PEFR 50-75%** best or predicted  <br>Speech normal  <br>RR < 25 / min  <br>Pulse < 110 bpm | **PEFR 33 - 50%** best or predicted  <br>Can't complete sentences  <br>RR > 25/min  <br>Pulse > 110 bpm | **PEFR < 33%** best or predicted  <br>Oxygen sats < 92%  <br>Silent chest, cyanosis or feeble respiratory effort  <br>Bradycardia, dysrhythmia or hypotension  <br>Exhaustion, confusion or coma |
+A fourth category, '**Near-fatal asthma**', is also recognised characterised by a raised pCO2 and/or requiring mechanical ventilation with raised inflation pressures.
 
 ## Management
 
 ### Long-Term Management
+see [[Pearls/Asthma Pharmacology]] for drug details
 
 ##### Step 1
 - A low dose ICS/formoterol combination inhaler taken **PRN** for symptomatic relief (AIR) therapy
@@ -104,21 +106,6 @@ Additional management includes:
 - Avoid smoking (including passive smoke)
 - Avoiding triggers where appropriate
 
-
-#### Pharmacology
-
-- **_Short-acting beta-2 agonists_** (**_SABA_**) e.g. **_salbutamol_** used as a reliver or rescue medication
-- **_Long-acting beta-2 agonists_** (**_LABA_**), e.g. **_salmeterol_**, are slower to act but last longer.
-- **_Inhaled corticosteroids_** (**_ICS_**), such as **_beclometasone_**, reduce the inflammation and reactivity of the airways. These are used as **_maintenance_** or **_preventer_** medications to control symptoms long-term and are taken regularly, even when well.
-- **_Long-acting muscarinic antagonists_** (**_LAMA_**), such as **_tiotropium_**, work by blocking **_acetylcholine receptors_**. Blocking these receptors dilates the bronchioles and reverses the bronchoconstriction.
-- **_Leukotriene receptor antagonists_**, such as **_montelukast_**, work by blocking the effects of **_leukotrienes_**. Leukotrienes are produced by the immune system and cause **_inflammation_**, **_bronchoconstriction_** and **_mucus secretion_** in the airways.
-- **_Theophylline_** works by relaxing the bronchial smooth muscle and reducing inflammation. Unfortunately, it has a **_narrow therapeutic window_** and can be toxic in excess, so monitoring plasma theophylline levels is required.
-
-**_Anti-inflammatory reliever (AIR) therapy_** involves a **_dry powder inhaler_** containing an **_inhaled corticosteroid_** (e.g., **_budesonide_**) plus a **_fast and long-acting beta-agonist_** (e.g., **_formoterol_**). This is used when required for symptoms in patients who do not take any other asthma treatment or regular inhalers. Each time the patient uses it to relieve asthma symptoms, they receive a dose of ICS.
-
-**_Maintenance and reliever therapy_** (**_MART_**) involves a **_dry powder inhaler_** containing an **_inhaled corticosteroid_** (e.g., **_budesonide_**) plus a **_fast and long-acting beta-agonist_** (e.g., **_formoterol_**). The patient uses this single inhaler regularly as a **_preventer_** and **_reliever_** when they have symptoms. They get a regular ICS and beta-agonist dose, with additional doses for uncontrolled symptoms.
-
-
 ### Acute Management
 See [[Full/RRAPID Conditions and Management#asthma Asthma|here]]:
 
@@ -143,7 +130,7 @@ Asthma
 - Bradycardia
 
 > [!warning]
-> Prior to discharge, following an acute [[Pearls/Asthma|Asthma]] attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or [[Pearls/Oxygen|Oxygen]]) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
+> Prior to discharge, following an acute asthma attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or [[Pearls/Oxygen|Oxygen]]) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
 
 ### DDX
 

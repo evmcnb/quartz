@@ -13,7 +13,7 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 
 ## Causes/Factors
 
-- Congenital: [[Full/Cystic Fibrosis]], [[Young's Syndrome]], [[Kartagener's Syndrome]], [[Full/Alpha-1 antitrypsin deficiency]]
+- Congenital: [[Full/Cystic Fibrosis]], [[Young's Syndrome]], [[Pearls/Kartagener's Syndrome]], [[Full/Alpha-1 antitrypsin deficiency]]
 - Post-infection: measles, [[Pearls/Pertussis|Pertussis]], [[Full/pneumonia]], [[Full/Tuberculosis]], [[Full/HIV]]
 - Other: Immunodeficiencies
 

@@ -1,7 +1,7 @@
 ---
 title: Meningitis in children
 date created: Sunday, January 21th 2024, 12:50:51 PM
-date modified: Friday, November 21st 2025, 4:54:15 pm
+date modified: Sunday, November 30th 2025, 7:02:20 pm
 tags: [Neurology, InfectiousDisease]
 ---
 
@@ -28,7 +28,7 @@ Bacterial:
 - disseminated intravascular coagulation
 - signs of cerebral herniation
 
-For patients with meningococcal septicaemia a lumbar puncture is ***contraindicated*** - blood cultures and PCR for meningococcus should be obtained.
+For patients with [[Pearls/Meningococcal septicaemia]] a lumbar puncture is ***contraindicated*** - blood cultures and PCR for meningococcus should be obtained.
 
 ## Management
 

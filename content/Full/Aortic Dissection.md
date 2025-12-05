@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Surgery, Acute]
 title: Aortic Dissection
 date: 
-date modified: Wednesday, November 19th 2025, 9:48:05 pm
+date modified: Tuesday, December 2nd 2025, 9:54:13 am
 date created: Wednesday, November 19th 2025, 9:45:46 pm
 ---
  

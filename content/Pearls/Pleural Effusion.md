@@ -1,8 +1,10 @@
 ---
-title: "Pleural Effusion"
+title: "Light's Criteria"
 date created: Sunday, January 21th 2024, 11:53:35 AM
-date modified: 2024-03-05 15:46:17.709585+00
+date modified: Friday, December 5th 2025, 10:15:56 am
 tags: ['Respiratory', 'Cardiovascular']
+aliases: ["Light's Criteria"]
+linter-yaml-title-alias: "Light's Criteria"
 ---
 
 

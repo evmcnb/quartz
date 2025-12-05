@@ -1,7 +1,7 @@
 ---
 title: Unstable Patients
 date created: Sunday, January 21th 2024, 11:38:59 AM
-date modified: Thursday, November 13th 2025, 5:46:44 pm
+date modified: Thursday, November 27th 2025, 6:03:52 pm
 tags: [Acute, Cardiovascular]
 aliases: [Unstable Patients, Advanced Life Support, Intermediate Life Support, Ventricular Arrhythmias]
 linter-yaml-title-alias: Unstable Patients
@@ -46,7 +46,6 @@ Hypokalemia is the most important cause of ventricular tachycardia followed by 
 * Subtype of this is torsades de pointes - precipitated by prolongation of the QT interval
 * IV magnesium 2g over 10 minutes
 
-
 #### Regular
 
 * IV [[Pearls/Amiodarone|Amiodarone]] 300mg IV over 10-60 mins if adverse features not present
@@ -66,31 +65,6 @@ If one step is unsuccessful move onto the next
 1. Vagal manoeuvres
 2. Give adenosine 6mg $\rightarrow$ 12mg $\rightarrow$ 18mg
 3. Verapamil or beta-blocker
-
-
-##### AVNRT
-
-- Atrioventricular **Nodal** Re-entrant Tachycardia
-- A small re-entry circuit is located **entirely within the AV node**. The action potential uses both a slow pathway and a fast pathway. The electrical signal gets stuck in a loop, going down one and up the other.
-- This is a _functional_ circuit. The patient doesn't have an "extra" anatomical structure, just different electrical properties within their AV node.
-
-![[z_attachments/Pasted image 20251113164125.png]]
-
-##### AVRT
-
-- Atrioventricular **Re-entrant** Tachycardia
-- A large re-entry circuit that involves **two separate structures**:
-	1. The normal AV node
-	2. An **accessory pathway** (an extra piece of conductive tissue) that connects the atria and ventricles, bypassing the AV node
-- The signal travels in a large loop, for example, _down_ the AV node and _up_ the accessory pathway (or vice versa)
-- This is an _anatomical_ circuit. The patient is born with this extra pathway, often called a ***"Bundle of Kent."***
-- This is the rhythm seen in patients with **Wolff-Parkinson-White (WPW) syndrome**
-
-![[z_attachments/Pasted image 20251113164510.png]]
-*AVRT ECG*
-
-![[z_attachments/Pasted image 20251113164538.png]]
-*WPW ECG, note the shortened PR and delta wave (sloped QRS at the start)*
 
 
 `If either of the regular complex arrythmia's treatments are unsucessful move to synchronised cardioversion`

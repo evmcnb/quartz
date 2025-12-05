@@ -26,7 +26,7 @@ hypoxia with hypercapnia ($PaCO_2 < 6kPa$). Caused by alveolar hypoventilation w
 
 - Pulmonary disease: [[Full/asthma]], [[Full/COPD]], [[Full/pneumonia]], [[Full/Pulmonary Fibrosis]], [[Full/Obstructive Sleep Apnoea]]
 - Reduced respiratory drive: sedatives, CNS tumour/trauma
-- Neuromuscular disease: Cervical chord lesion, diaphragmatic paralysis, [[poliomyelitis]], [[Pearls/Myasthenia gravis]], [[Guillain-Barre Syndrome]]
+- Neuromuscular disease: Cervical chord lesion, diaphragmatic paralysis, [[poliomyelitis]], [[Pearls/Myasthenia gravis]], [[Pearls/Guillain-Barre Syndrome]]
 - Thoracic wall disease: fail chest, [[kyphoscoliosis]]
 
 ### Clinical Features

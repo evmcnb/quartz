@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Block
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Friday, November 28th 2025, 4:35:23 pm
 date: 2023-09-18
 ---
 
@@ -22,7 +22,7 @@ Disrupted passage of electrical impulse through the AVN
 
 ## Causes/Factors
 
-- 1st and 2nd Mobitz I may be normal and asymptomatic in athletes or due to $\beta$ blockers or [[Pearls/Digoxin|Digoxin]].
+- 1st degree and Mobitz I may be normal and asymptomatic in athletes or due to $\beta$ blockers or [[Pearls/Digoxin|Digoxin]].
 - May also be [[sick sinus syndrome]]
   3rd degree:
 - [[Full/Coronary Artery Disease]]

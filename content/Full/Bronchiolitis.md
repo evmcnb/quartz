@@ -1,10 +1,9 @@
 ---
-tags:
-  - Respiratory
-  - Paediatrics
+tags: [Respiratory, Paediatrics]
 title: Bronchiolitis
 date: 2024-02-09
-date modified: 2024-03-2011
+date modified: Tuesday, December 2nd 2025, 10:34:49 am
+date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Infection of the bronchioles
 
@@ -12,17 +11,32 @@ Infection of the bronchioles
 
 ## Causes/Factors
 
-- *Respiratory syncytial virus* 
-- Occurs in children under 1 
-- **Most common in children under 6 months old**
+- *Respiratory syncytial virus*  - 75-80% of cases
+- Occurs in children under 1 - **most common in children under 6 months old**
 - Ex-premature babies
-- Any chronic lung disease 
+- More serious if bronchopulmonary dysplasia, congenital heart disease or cystic fibrosis 
 ## Symptoms
 
 - Coryzal symptoms - running/snotting nose, sneezing, mucus in throat and watery eyes 
-- Signs of respiratory distress
+- Dry cough
+- Dyspnoea 
+- Wheezing, fine inspiratory crackles
 - Poor feeding
 - Apnoeas 
+
+
+> [!warning] NICE referral criteria
+> Immediate ambulance if any of the following:
+> - apnoea (observed or reported)
+> - child looks seriously unwell
+> - severe respiratory distress - grunting, marked chest recession, or a RR > 70 
+> - persistent oxygen saturation of less than 92% on room air
+> 
+> Consider a referral if any of the following:
+> - RR > 60 
+> - Difficulty feeding/inadequate oral fluid intake (50-75% of usual volume)
+> - Clinical dehydration
+
 
 ## Signs
 

@@ -26,7 +26,7 @@ In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the we
 ## Causes/Factors
 
 **Acute onset:**
-- [[Guillain-Barre Syndrome]]
+- [[Pearls/Guillain-Barre Syndrome]]
 - [[Porphyria]]
 - Toxic (for example, arsenic, nitrofurantoin)
 - Serum sickness (postimmunisation)
