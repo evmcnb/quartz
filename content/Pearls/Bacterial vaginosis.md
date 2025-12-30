@@ -1,7 +1,7 @@
 ---
-title: "Bacterial vaginosis"
+title: Bacterial vaginosis
 date created: Tuesday, March 19th 2024, 04:33:09 PM
-date modified: 2024-03-19 16:33:09.299633+00
+date modified: Tuesday, December 30th 2025, 1:15:20 pm
 tags: ['OBGYN']
 ---
 

@@ -2,7 +2,7 @@
 tags: [Surgery, Gastroenterology]
 title: Appendicitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, October 26th 2025, 11:11:02 am
+date modified: Saturday, December 6th 2025, 3:07:40 pm
 date: 2024-02-16
 ---
 
@@ -18,7 +18,7 @@ Classical presentation of:
 
 1. Periumbilical pain that moves to right iliac fossa
 2. Peritonism with guarding and rebound
-3. Anorexia is important - vomiting rarely before pain
+3. **Anorexia is important** - vomiting rarely before pain
 
 Other:
 - N&V - vomit once or twice but **persistent vomiting is unusual**
@@ -33,7 +33,7 @@ Other:
 
 ## Diagnostic Tests
 
-- FBC, U&Es, WCC, CRP
+- FBC, U&Es, WCC, CRP - neutrophil-predominant leucocytosis is seen in 80-90%
 - US/CT if unclear
 - **Pregnancy test** - to rule out ectopic pregnancy 
 - Groin and scrotal exam check for incarcerated hernia or testicular torsion
@@ -51,3 +51,15 @@ Low threshold for admission for pregnant women, infants, young people and elderl
 - Appendix mass may result when inflamed appendix becomes covered with omentum
 - Appendix abscess
 - SBO 
+
+### Appendicitis in Children
+
+Appendicitis is one of the most common acute surgical problems facing children. Diagnosis is often made difficult by a presentation which is far from the classically history of:  
+
+- central abdominal pain which later radiates to the right iliac fossa
+- low-grade pyrexia
+- minimal vomiting
+
+Children who are younger or have a retrocaecal/pelvic appendix are more likely to present in an atypical way  
+  
+Appendicitis is uncommon in children under 4 years old but in this group often presents with perforation

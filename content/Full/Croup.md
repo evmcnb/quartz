@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Croup
 date: 2023-09-27
-date modified: Wednesday, December 3rd 2025, 12:27:23 pm
+date modified: Saturday, December 20th 2025, 4:10:33 pm
 date created: Wednesday, December 3rd 2025, 11:40:12 am
 ---
 
@@ -33,7 +33,7 @@ It usually resolves within two days and responds well to treatment with **_dexam
 > [!warning] NICE referral criteria
 > - Moderate or severe croup
 > - <3 months of age
-> - Known airway abnormalities ([[Full/Laryngomalacia]], [[Down's syndrome]])
+> - Known airway abnormalities ([[Full/Laryngomalacia]], [[Pearls/Down's syndrome]])
 > - Uncertainty about diagnosis. **Important differentials include:** [[Full/Epiglottitis|acute epiglottitis]], bacterial tracheitis, peritonsillar abscess and foreign body inhalation 
 
 ## Investigations

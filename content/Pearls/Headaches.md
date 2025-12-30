@@ -1,14 +1,14 @@
 ---
 title: Headaches
 date created: Friday, February 23th 2024, 02:24:12 PM
-date modified: Tuesday, October 14th 2025, 4:58:06 pm
+date modified: Saturday, December 6th 2025, 11:39:45 am
 tags: ['Neurology']
 ---
 
 
 | Type                 | Description                                                                                                                                                                                                                               | Cause                                                                                   | Triggers                                                      | Treatment                                                                                            |
 | :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------- |
-| **Migraine**         | Recurrent, throbbing headaches often accompanied by nausea, vomiting, and sensitivity to light and sound. Can last hours to days. May have an aura before the pain. Can be similar to a [[Stroke]] presentation but **no limb weakness**. | Abnormal brain activity and vascular changes.                                           | Certain foods, stress, hormonal changes, and sensory stimuli. | Avoid triggers, triptans, analgesia, anti-nausea medication, and beta-blockers.                      |
+| **[[Pearls/Migraine]]**     | Recurrent, throbbing headaches often accompanied by nausea, vomiting, and sensitivity to light and sound. Can last hours to days. May have an aura before the pain. Can be similar to a [[Stroke]] presentation but **no limb weakness**. | Abnormal brain activity and vascular changes.                                           | Certain foods, stress, hormonal changes, and sensory stimuli. | Avoid triggers, triptans, analgesia, anti-nausea medication, and beta-blockers.                      |
 | **Cluster Headache** | Intensely painful headaches occurring in clusters, often around the same time each day. Typically one-sided and may involve facial symptoms.                                                                                              | Unclear, possibly related to hypothalamic dysfunction and trigeminal nerve involvement. | Alcohol, certain foods, changes in sleep patterns.            | Acute treatments (high-flow [[Oxygen]], nasal or SC triptans), preventive medications, nerve blocks. |
 | **Tension Headache** | Bilateral, mild to moderate pressure or tightness around the head. Often caused by stress, poor posture, or muscle tension.                                                                                                               | Muscle tension and stress-related factors.                                              | Stress, poor posture, muscle tension.                         | Over-the-counter pain relievers, stress management techniques, improving posture.                    |
 

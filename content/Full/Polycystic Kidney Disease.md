@@ -1,9 +1,8 @@
 ---
-tags:
-  - Nephrology
+tags: [Nephrology]
 title: Polycystic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, December 16th 2025, 5:48:23 pm
 date: 2023-11-12
 ---
 
@@ -18,10 +17,11 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 
 #### Autosomal Recessive (ARPKD)
 
-- Affected in womb
-- PKHD1 gene mutation
+- Affected in womb - often picked up on antenatal scans with oligohydramnios (reduced amniotic fluid volume due to low urine output)
+	- [[Pearls/Potter syndrome]] can result
+- PKHD1 gene mutation - renal tubules and bile duct defects
 - Under developed lungs
-- 1/3 die in first month of birth
+- 1/3 die in first month of birth due to a respiratory disease
 
 ## Causes/Factors
 

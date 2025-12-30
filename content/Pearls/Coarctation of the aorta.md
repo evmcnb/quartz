@@ -2,14 +2,14 @@
 tags: [Neonatology, Cardiovascular]
 title: Coarctation of the aorta
 date: 2023-09-27
-date modified: Monday, December 1st 2025, 7:58:40 pm
+date modified: Saturday, December 20th 2025, 4:47:13 pm
 date created: Monday, December 1st 2025, 7:53:36 pm
 ---
 
 A congenital narrowing of the descending aorta.
 
 - More common in males 
-- DESPITE an association with [[Turner's syndrome]]
+- DESPITE an association with [[Pearls/Turner's syndrome]]
 
 Also associated with: 
 - Bicuspid aortic valve

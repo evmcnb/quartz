@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, November 4th 2025, 10:00:17 am
+date modified: Monday, December 8th 2025, 6:05:26 pm
 date: 2024-01-14
 ---
 
@@ -125,6 +125,7 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 
 ## Complications/red Flags
 
+[[Full/Diabetic Ketoacidosis|Diabetic Ketoacidosis]]
 **[[Full/Hypoglycaemia]]** - due to too high [[Pearls/Insulin|Insulin]] -> coma and brain damage, thrombosis, cardiac [[Full/Arrhythmias]]
 
 **Infections** - periodontitis, thrush and infected ulcers 
@@ -178,3 +179,7 @@ Rare but potentially fatal complication.
 
 - Presentation: polyuria + polydipsia, weight loss, dehydration, tachycardia, hypotension, confusion
 - Medical emergency - escalate. **Treat with IV fluids**
+
+### Diabetes in Children
+
+Type 1 diabetes can impair growth during childhood. Along with the other complications of diabetes at a younger age. Can be a sign of underlying pathology: [[Full/Cystic Fibrosis|Cystic Fibrosis]]

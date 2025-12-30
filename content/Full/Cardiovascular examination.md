@@ -38,7 +38,7 @@ date: 2024-02-07
 - <span style="color:#ff0000">Colour</span> - pallor -> poor peripheral perfusion and <span style="color:#00b0f0">cyanosis</span>
 - <span style="color:#ff0000">Tar staining</span> -<span style="color:#00b0f0"> smoking, risk factor for CVD</span>
 - <span style="color:#ff0000">Xanthomata</span> - yellow cholesterol-rich deposits
-- <span style="color:#ff0000">Arachnodactyly</span> - fingers and toes abnormally long and slender, <span style="color:#00b0f0">feature of</span> [[Marfan's syndrome]] <span style="color:#00b0f0">mitral/aortic valve prolapse & aortic dissection</span>
+- <span style="color:#ff0000">Arachnodactyly</span> - fingers and toes abnormally long and slender, <span style="color:#00b0f0">feature of</span> [[Pearls/Marfan's syndrome]] <span style="color:#00b0f0">mitral/aortic valve prolapse & aortic dissection</span>
 - [[Full/Splinter haemorrhages]] - <span style="color:#00b0f0">local trauma, infective endocarditis, sepsis, vasculitis</span>
 - [[Full/Janeway lesions and Osler's nodes]] - infective [[Full/Endocarditis]]
 - <span style="color:#ff0000"> Pale palmar creases</span> - <span style="color:#00b0f0">anaemia</span>
@@ -107,7 +107,7 @@ In a cardiovascular examination OSCE station, you are **unlikely** to have to 
 - <span style="color:#ff0000">Blue under the tongue </span>- central cyanosis - <span style="color:#00b0f0">hypoxaemia</span> - possible shunt?
 - <span style="color:#ff0000">General dental hygiene</span> - [[Full/Endocarditis]]
 - <span style="color:#ff0000"> Angular stomatitis</span> - <span style="color:#00b0f0">anaemia</span><span style="color:#00b0f0"> </span>
-- <span style="color:#ff0000">High-arched palate</span> - [[Marfan's syndrome]]
+- <span style="color:#ff0000">High-arched palate</span> - [[Pearls/Marfan's syndrome]]
 
 ## Neck
 

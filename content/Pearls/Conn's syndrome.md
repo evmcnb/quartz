@@ -1,14 +1,17 @@
 ---
 title: "Conn's syndrome"
 date created: Sunday, January 21th 2024, 01:29:16 PM
-date modified: Sunday, November 23rd 2025, 3:19:47 pm
+date modified: Monday, December 8th 2025, 6:16:37 pm
 tags: [Endocrinology]
 aliases: [Hyperaldosteronism]
 ---
 
+Aldosterone increases resorption of Na thus:
+- K+ excreted, hypokalaemia
+- H+ excreted, metabolic alkalosis
+- Hypertension from Na+/water retention
 
-
-* Hyperaldosteronism - primary and secondary
+Hyperaldosteronism causes - primary and secondary
 * **Primary**: adrenal cortex hyperplasia, adenoma (intrinsic)
 * **Secondary** - renal artery stenosis, [[Full/Heart Failure]], liver [[Pearls/Cirrhosis|Cirrhosis]] (elsewhere in the body)
 
@@ -24,5 +27,6 @@ The first line investigation for this is a plasma aldosterone/renin ratio, which
 Management with a MRA - spironolactone, eplerenone
 
 Treat the underlying cause:
+- Bilateral idiopathic adrenal hyperplasia is the most common cause
 - Stent renal artery if stenosed
-- Remove the adrenal if adenoma.
+- Remove the adrenal if adenoma 20-30%.

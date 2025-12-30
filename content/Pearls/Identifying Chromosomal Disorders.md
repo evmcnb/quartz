@@ -1,8 +1,10 @@
 ---
-title: "Identifying Chromosomal Disorders"
+title: Edwards syndrome
 date created: Monday, February 26th 2024, 12:51:47 PM
-date modified: 2024-03-04 14:51:04.944481+00
+date modified: Saturday, December 27th 2025, 12:01:21 pm
 tags: ['Genetics']
+aliases: [Edwards syndrome]
+linter-yaml-title-alias: Edwards syndrome
 ---
 
 
@@ -33,20 +35,21 @@ tags: ['Genetics']
 * Trigger thumbs
 * Polydactyl
 
-# Down's syndrome
+# [[Pearls/Down's syndrome]]
 
 * Trisomy 21
 * Flattened appearance to face
 * Small ears, short neck
 
-# Turner syndrome
+# [[Pearls/Turner's syndrome]]
 
 * 45, X
 * therefore female only
 * Normal life expectancy
 * Behavioural, socal and some specific learning disabilities
+* Primary amenorrhoea and short stature, is commonly associated with cardiovascular anomalies like bicuspid aortic valve.
 
-# Klinefelter syndrome
+# [[Pearls/Klinefelter syndrome]]
 
 * 47, XXY
 * Males born with extra X
@@ -59,7 +62,7 @@ tags: ['Genetics']
 * Some cells have 3 copies of C8 others have the 2
 * Full trisomy is fatal
 
-# Prader-Willi syndrome
+# [[Pearls/Prader-Willi syndrome]]
 
 * Deletion of **paternal** chromosome 15
 
@@ -68,7 +71,7 @@ OR
 * Two maternal copies of chromosome 15
 * Restriction of growth etc - what the maternal body would want when pregnant
 
-# Angelman Syndrome
+# [[Pearls/Angelman Syndrome]]
 
 * Deletion of **maternal** chromosome 15
 
@@ -76,7 +79,7 @@ OR
 
 * Two paternal copies of chromosome 15
 
-# Beckwith-Wiedemann Syndrome
+# Beckwith-Wiedemann syndrome
 
 * Foetal overgrowth
 * Hypermethylation of H19 on **maternal** chromosome → reduced expression of maternal H19 → reduced inhibition of maternal IGF2 ⇒ overgrowth/organomegaly

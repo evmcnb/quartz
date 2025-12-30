@@ -2,7 +2,7 @@
 tags: [Examination, OSCE, Gastroenterology]
 title: Abdominal Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-04-21
+date modified: Thursday, December 18th 2025, 11:31:34 am
 date: 2024-02-07
 ---
 

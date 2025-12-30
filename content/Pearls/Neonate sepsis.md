@@ -1,11 +1,39 @@
 ---
-title: "Neonate sepsis"
+title: Neonate sepsis
 date created: Sunday, January 21th 2024, 12:48:06 PM
-date modified: 2024-01-21 12:48:06.160321+00
-tags: ['Acute', 'InfectiousDisease']
+date modified: Thursday, December 18th 2025, 2:35:54 pm
+tags: [Acute, Neonatology]
 ---
 
-
-
+Serious infection in the blood within the first 28 days of life. Categorised as:
 * Early onset first 72 hour - Group B strep/E coli., colonised during delivery
 * Late onset after 72h same organisms but healthcare associated
+
+Account for 10% of all neonatal mortality and must be promptly identified and managed. 
+
+Patients typically present with:
+- Respiratory distress - grunting, nasal flaring, using of accessory respiratory muscles, tachypnoea
+- Tachycardia
+- Apnoea
+- Lethargy
+- Jaundice 
+- Poor feeding
+
+Temperature is not usually a reliable sign 
+
+**Investigations:**
+- Blood culture - 2 cultures ideally
+- FBC - associated with abnormal neutrophil counts
+- CRP not useful for diagnosis
+- Blood gases - metabolic acidosis is concerning, particularly with a base deficit of >10 mmol/L
+- Urine MC&S - more useful in late onset
+- LP - if there are concerns of meningitis as the source of sepsis
+
+**Management:** 
+Most important part of management is early identification and treatment
+- IV benzylpenicillin with gentamicin - except in cases of resistance 
+	- CRP should be remeasured 18-24 hours after presentation to guide duration of therapy
+	- Antibiotics can be ceased at 48 hours in neonates who have a CRP of <10 and a negative culture at hour 0 and 48 
+- Maintain adequate oxygenation status
+- Maintain normal fluid and electrolyte status - severely ill neonates may require volume +/- pressors. **Daily body weight measurements** 
+- Prevention and management of hypoglycaemia & metabolic acidosis

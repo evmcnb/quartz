@@ -20,7 +20,7 @@ Two main types: Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA) and Thoracic
 - **Atherosclerosis**: Common cause, leading to weakening of the arterial wall.
 - **Genetic Factors**: Family history of aortic aneurysms.
 - **[[Full/Essential hypertension]]**: Prolonged high blood pressure contributing to aortic wall stress.
-- **Connective Tissue Disorders**: Conditions like [[Marfan syndrome]].
+- **Connective Tissue Disorders**: Conditions like [[Pearls/Marfan's syndrome]].
 - Male >> 
 - Age: 65+ 
 

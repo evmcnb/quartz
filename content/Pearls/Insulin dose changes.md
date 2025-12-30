@@ -1,7 +1,7 @@
 ---
-title: "Insulin dose changes"
-date created: 2024-04-10 14:59:43.914473+01
-date modified: 2024-04-12 18:59:46.950372+01
+title: Insulin dose changes
+date created: Tuesday, November 25th 2025, 8:19:47 pm
+date modified: Tuesday, December 30th 2025, 1:16:04 pm
 tags: ['OBGYN', 'Endocrinology']
 ---
 

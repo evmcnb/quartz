@@ -2,9 +2,20 @@
 tags: [Nephrology]
 title: Nephrotic syndrome
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, December 16th 2025, 4:55:46 pm
 date: 2023-09-18
 ---
+
+
+> [!success] Classic triad:
+> Nephrotic syndrome is classically defined as a triad of:
+> - Proteinuria (more than 3+ on dipstick)
+> - Hypoalbuminaemia (< 25 g/L)
+> - Oedema (face, legs or generalised)
+> In children peak incidence of 2-5 years. Around 80% of cases are due to [[Full/Minimal change disease|Minimal change disease]]   
+
+
+
 
 
 Loss of protein in urine
@@ -36,9 +47,11 @@ GBM has negative charge to repel proteins
 - Oedema - ankles, feet, eyes (in severe)
 
 - Hypercholesterolaemia
+- Hyper-coagulability
 
 ## Signs
 
+- High plood pressure
 - Peripheral oedema
 - Frothy urine
 - Weight gain
@@ -53,7 +66,9 @@ GBM has negative charge to repel proteins
 
 ## Management
 
-Specific
+Depends on underlying cause
+
+Specific to minimal change:
 
 - Steroids
 - Cyclophosphamide, tacrolimus

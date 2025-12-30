@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Coeliac Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, September 27th 2025, 5:08:22 pm
+date modified: Saturday, December 6th 2025, 3:01:05 pm
 date: 2023-09-18
 ---
 
@@ -11,10 +11,6 @@ Immune mediated enteropathy when ingestion of wheat, rye or barley - anything co
 * Increased CD8+ intraepithelial lymphocytes
 * Villous atrophy, crypt elongation
 
-Non-invasive serologic tests usually performed before biopsy - IgA to TTG or IgA/G to gliadin. Tissue biopsy gold standard. Anti-bodies tested for:
-- **_Anti-tissue transglutaminase antibodies_** (**_anti-TTG_**) 
-- **_Anti-endomysial antibodies_** (**_anti-EMA_**)
-- **_Anti-deamidated gliadin peptide antibodies_** (**_anti-DGP_**)
 
 Treatment with gluten free diet
 
@@ -51,10 +47,10 @@ Rarely can present with neurological symptoms:
 ***The patient must continue eating gluten while being investigated***. Tests may be false negative if the patient is gluten free.
 
 First line blood tests:
-- **_Total immunoglobulin A levels_** (to exclude **_IgA deficiency_**)
-- **_Anti-tissue transglutaminase antibodies_** (**_anti-TTG_**)
+- **_Anti-tissue transglutaminase antibodies_** (**_anti-TTG_**) - to look for Coaeliac
+- **_Total immunoglobulin A levels_** - to exclude **_IgA deficiency_**
+	- If positive, test for IgG endomysealn antibodies, IgG deamidate gliadin peptide or IgG transglutaminase antibodies
 
-- Second line when inconclusive: **_Anti-endomysial antibodies_** (**_anti-EMA_**)
 
 Positive antibody tests indicate a referral to GI for endoscopy and jejunal biopsy:
 

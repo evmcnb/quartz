@@ -1,10 +1,9 @@
 ---
-title: "H. pylori eradication"
-date created: 2024-05-10 13:53:22.807884+01
-date modified: 2024-05-10 13:53:22.814258+01
+title: H. pylori eradication
+date created: Tuesday, November 25th 2025, 8:19:38 pm
+date modified: Saturday, December 6th 2025, 12:17:04 pm
 tags: ['Gastroenterology']
 ---
-
 
 
 Gram -ve aerobic bacteria

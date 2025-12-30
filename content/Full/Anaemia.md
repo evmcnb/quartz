@@ -1,9 +1,8 @@
 ---
-tags:
-  - Haematology
+tags: [Haematology]
 title: Anaemia
 date created: Friday, November 10th 2023, 1:52:37 pm
-date modified: Monday, September 1st 2025, 12:58:26 pm
+date modified: Monday, December 29th 2025, 1:51:38 pm
 date: 2023-11-10
 ---
 

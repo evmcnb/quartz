@@ -56,7 +56,7 @@ Factors associated with poor prognosis
 ### Kidneys
 - Stones ([[Pearls/Hypercalcaemia|Hypercalcaemia]])
 - Nephrocalcinosis
-- [[Full/Tubulointerstitial Nephritis]]
+- [[Full/Acute interstitial nephritis]]
 
 ### Others but more non specific
 

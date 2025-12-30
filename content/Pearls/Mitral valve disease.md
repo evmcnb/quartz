@@ -1,7 +1,7 @@
 ---
-title: "Mitral valve disease"
+title: Mitral valve disease
 date created: Monday, February 26th 2024, 02:17:12 PM
-date modified: 2024-02-26 14:17:12.203357+00
+date modified: Saturday, December 20th 2025, 4:49:15 pm
 tags: ['Cardiovascular']
 ---
 
@@ -43,3 +43,28 @@ Causes of mitral regurgitation:
 * Rheumatic heart disease
 * Connective tissue disorders, such as ***Ehlers-Danlos syndrome*** or ***Marfan syndrome***
 
+
+## Mitral valve prolapse
+
+Common condition - 5-10% of the population. Usually idiopathic.
+
+Associations: 
+- Congenital heart disease
+- Cardiomypathy
+- [[Pearls/Turner's syndrome]], [[Pearls/Marfan's syndrome]], [[Pearls/Fragile X Syndrome]]
+- [[Osteogenesis imperfecta]]
+- [[Pearls/Wolff-Parkinson White|Wolff-Parkinson White]]
+- [[Ehlers-Danlos syndrome]]
+- [[Full/Polycystic Kidney Disease|Polycystic Kidney Disease]]
+
+Features  
+- patients may complain of atypical chest pain or palpitations
+- mid-systolic click (occurs later if patient squatting)
+- late systolic murmur (longer if patient standing)
+- complications: mitral regurgitation, arrhythmias (including long QT), emboli, sudden death
+
+  
+Management  
+- asymptomatic MVP discovered incidentally with no or mild MR requires no follow-up or treatment
+- no antibiotic prophylaxis or activity restrictions are required
+- refer to cardiology if moderate/severe MR, arrhythmias, or risk factors for sudden cardiac death are present

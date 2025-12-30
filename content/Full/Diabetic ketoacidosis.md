@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Wednesday, November 5th 2025, 11:11:51 am
+date modified: Monday, December 8th 2025, 6:02:27 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -76,9 +76,28 @@ Main principles of management
 > - Pulse >100 or <60
 > - [[Pearls/Anion gap|Anion gap]] above 16
 
+
+#### DKA in children
+
+
+###### Fluids
+Dehydrated patients are given an initial fluid bolus of 10ml/kg over 30 minutes (without added potassium).
+
+The remainder of the fluid deficit is corrected over 48 hours. The fluid deficit is approximately 5% of body weight in mild-moderate, 10% in severe DKA (e.g. 2L in a 20kg child). Children are prescribed maintenance fluids plus added fluids to correct it - with potassium 40 mmol/L. Potassium should be monitored closely
+
+**_Maintenance fluid requirements_** for a **_24-hour period_** are calculated based on the child’s weight:
+- 100 ml/kg for the first 10kg, plus
+- 50 ml/kg for the second 10kg, plus
+- 20 ml/kg for the remaining weight (up to 75kg total)
+
+Children with DKA are at a higher risk of developing cerebral oedema - watch for fall in GCS/altered neuro. Consider slowing fluids & IV mannitol and IV hypertonic saline guided by an experienced paediatrician
+
+###### Insulin
+A fixed rate insulin infusion (0.05-0.1 units/kg/hour) is started 1-2 hours after starting the IV fluids. 
+
 #### Complications
 
-- Cerebral oedema - watch for fall in GCS
+- Cerebral oedema
 - Aspiration [[Full/pneumonia]] 
 - Hypo -kalacemia, -magnesaemia and -phosphataemia
 

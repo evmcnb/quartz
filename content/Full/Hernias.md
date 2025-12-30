@@ -1,10 +1,8 @@
 ---
-tags:
-  - Surgery
-  - Gastroenterology
+tags: [Surgery, Gastroenterology]
 title: Hernias
 date created: Tuesday, February 13th 2024, 1:40:45 pm
-date modified: 2024-05-10
+date modified: Saturday, December 6th 2025, 2:38:12 pm
 date: 2024-02-16
 ---
 
@@ -55,8 +53,9 @@ To tell the difference between the two, if you press the deep ring and the herni
 - Low BMI - [[Full/Obesity]] seems to be protective
 - **Superior and medial** to pubic tubercle (to differentiate from femoral)
 
-
 Can be managed via open or laparoscopic surgery with a mesh. 
+
+In some children, the **_deep inguinal ring_** remains patent, and the **_processus vaginalis_** remains intact. This leaves a tract or tunnel from the abdominal contents through the inguinal canal and into the scrotum. The bowel can herniate along this tract, creating an **_indirect inguinal hernia_**.
 
 ### Hiatal hernias
 

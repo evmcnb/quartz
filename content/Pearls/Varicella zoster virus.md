@@ -1,7 +1,7 @@
 ---
-title: "Varicella zoster virus"
+title: Varicella zoster virus
 date created: Tuesday, March 19th 2024, 12:30:17 PM
-date modified: 2024-03-19 12:30:17.397428+00
+date modified: Tuesday, December 16th 2025, 3:22:26 pm
 tags: ['Paediatrics', 'InfectiousDisease']
 ---
 
@@ -9,7 +9,7 @@ tags: ['Paediatrics', 'InfectiousDisease']
 
 Causes chicken pox. Highly contagious, generalised vesicular rash. Most common in children. One episode develops immunity to the virus.
 
-Patients become symptomatic 10 days to 3 weeks after exposure. They stop being contagious after all the lesions have crusted over - usually around 5 days after rash appears
+Patients become symptomatic 10 days to 21 days after exposure. They stop being contagious after all the lesions have crusted over - usually around 5 days after rash appears
 
 The virus can lie dormant in the sensory dorsal root ganglion cells and cranial nerves and reactivate later in life as **shingles** or **[[Pearls/Ramsay Hunt syndrome|Ramsay Hunt syndrome]]**
 

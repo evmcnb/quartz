@@ -1,10 +1,9 @@
 ---
-tags:
-  - Respiratory
-  - Paediatrics
-title: Snippet Template
+tags: [Respiratory, Paediatrics]
+title: Primary Ciliary Dyskinesia
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Wednesday, December 3rd 2025, 5:22:40 pm
+date created: Wednesday, December 3rd 2025, 5:16:28 pm
 ---
 
 Autosomal recessive condition affecting the cilia on the surface of cells.

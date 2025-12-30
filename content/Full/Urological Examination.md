@@ -1,11 +1,9 @@
 ---
-tags:
-  - OSCE
-  - Urology
-  - Examination
+tags: [OSCE, Urology, Examination]
 title: Urological Examination
 date: 2024-05-04
-date modified: 2024-05-04
+date modified: Tuesday, December 16th 2025, 4:13:16 pm
+date created: Tuesday, November 25th 2025, 8:20:04 pm
 ---
 
 ## Introduction

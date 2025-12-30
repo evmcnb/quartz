@@ -1,10 +1,8 @@
 ---
-tags:
-  - Surgery
-  - OBGYN
+tags: [Surgery, OBGYN]
 title: Breast abscess
 date created: Tuesday, February 20th 2024, 4:50:05 pm
-date modified: 2024-03-11
+date modified: Tuesday, December 30th 2025, 1:15:40 pm
 date: 2024-02-23
 ---
 - **_Lactational abscess_** (associated with breastfeeding) 

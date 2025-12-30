@@ -1,25 +1,24 @@
 ---
-tags:
-  - Nephrology
+tags: [Nephrology]
 title: Glomerulonephritis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, December 16th 2025, 5:21:41 pm
 date: 2023-11-12
 ---
 
 
 Glomerulonephritis, often referred to as GN, is a group of kidney diseases that involve inflammation of the glomeruli—the tiny filtering units in the kidneys responsible for removing waste and excess fluid from the blood. Can be due to autoimmune processes
 
-|Name|Cause|Most common presentation|
-|---|---|---|
-|[[Full/Minimal change disease]]|? autoimmune|children with nephrotic, little to no decrease in renal function. Give corticosteroids.|
-|IgA nephropathy|autoimmune|Teens/young adults with nephritic.|
-|Membranous nephropathy|autoimmune|Adults with nephrotic may have PMH of [[Full/Hepatitis]] B or cancer|
-|Focal segmental glomerulosclerosis|? autoimmune|Adults with nephrotic may have PMH of [[Full/HIV]] or anabolic steroid use|
-|Lupus nephritis|autoimmune (Type III)|Other signs of Lupus. Variable renal presentation|
-|Post infectious glomerulonephritis|autoimmune (Type III)|Children with [[Full/Impetigo]] or strep throat|
-|Granulomatosis with polyangiitis (Wegners)|autoimmune (Type III)|Haematuria and rapid fall in eGFR. Also nose and lung symptoms.|
-|Goodpastures disease (anti GBM)|autoimmune (Type II)|Haematuria and a rapid fall in eGFR. Also haemoptysis due to lung involvement|
+| Name                                                       | Cause                 | Most common presentation                                                                |
+| ---------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- |
+| [[Full/Minimal change disease]]                            | ? autoimmune          | children with nephrotic, little to no decrease in renal function. Give corticosteroids. |
+| [[Pearls/Nephritis in Children#IgA Nephropathy\|IgA nephropathy]] | autoimmune            | Teens/young adults with nephritic.                                                      |
+| Membranous nephropathy                                     | autoimmune            | Adults with nephrotic may have PMH of [[Full/Hepatitis]] B or cancer                    |
+| Focal segmental glomerulosclerosis                         | ? autoimmune          | Adults with nephrotic may have PMH of [[Full/HIV]] or anabolic steroid use              |
+| Lupus nephritis                                            | autoimmune (Type III) | Other signs of Lupus. Variable renal presentation                                       |
+| Post infectious glomerulonephritis                         | autoimmune (Type III) | Children with [[Full/Impetigo]] or strep throat                                         |
+| Granulomatosis with polyangiitis (Wegners)                 | autoimmune (Type III) | Haematuria and rapid fall in eGFR. Also nose and lung symptoms.                         |
+| Goodpastures disease (anti GBM)                            | autoimmune (Type II)  | Haematuria and a rapid fall in eGFR. Also haemoptysis due to lung involvement           |
 
 ## Causes/Factors
 
