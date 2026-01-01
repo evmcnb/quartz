@@ -1,8 +1,8 @@
 ---
-tags: []
+tags: [OBGYN]
 title: Ectopic Pregnancy
-date: 
-date modified: Sunday, October 26th 2025, 1:37:01 pm
+date:
+date modified: Wednesday, December 31st 2025, 1:31:27 pm
 date created: Sunday, October 26th 2025, 11:50:23 am
 ---
 Most common site is the fallopian tube (97%). 
@@ -36,10 +36,10 @@ Have a low threshold for suspecting an ectopic pregnancy, even in atypical prese
 ## Investigations
 
 - Pregnancy test
-- hCG
+- B-hCG - in women presenting with abdominal pain and positive pregnancy test, serum B-hCG that **fails to double in 48 hours** suggests a non-viable or ectopic pregnancy
 
 #### Transvaginal ultrasound
-1st line for diagnosing miscarriage. 
+**1st line for diagnosing miscarriage.** 
 - A gestational sac containing a yolk sac/fetal pole may be seen. 
 - Non-specific masses - 'blob sign', 'bagel sign', 'tubal ring sign'. 
 - Mass representing a **_tubal ectopic pregnancy_** moves **separately** to the ovary. The mass may look similar to a **_corpus luteum_**; however, a corpus luteum will move **with** the ovary.
@@ -64,24 +64,14 @@ There are three options for terminating an ectopic pregnancy:
 - **_Medical management_** (IM methotrexate, advised not to get pregnant for 3 months following)
 - **_Surgical management_** (**_salpingectomy_** or **_salpingotomy_**)
 
-Criteria for expectant management:
-- Follow up needs to be possible to ensure successful termination
-- The ectopic needs to be unruptured
-- Adnexal mass < 35mm
-- No visible heartbeat
-- No significant pain
-- HCG level < 1500 IU / l
-
-Criteria for **_methotrexate_** are the same as expectant management, except:
-- HCG level must be < 5000 IU / l
-- Confirmed absence of intrauterine pregnancy on ultrasound
-
-##### Surgical management
-
-Anyone who doesn't meet the criteria for the above needs surgical management. 
-- Laparoscopic salpingectomy - 1st line. Key-hole surgery with removal of the affected fallopian
-- Laparoscopic salpingotomy used in women at increased risk of infertility due to damage to the other tube. A cut is made in the fallopian tube, the ectopic pregnancy is removed, and the tube is closed.
-
-**_Anti-rhesus D prophylaxis_** is given to **_rhesus negative_** women having surgical management of ectopic pregnancy
+| Expectant management                                                                                                                                      | Medical management                                                                                                              | Surgical management                                                                                                                                                                                                                                                                                                                                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Size <35mm                                                                                                                                                | Size <35mm                                                                                                                      | Size >35mm                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Unruptured                                                                                                                                                | Unruptured                                                                                                                      | Can be ruptured                                                                                                                                                                                                                                                                                                                                                                                                |
+| Asymptomatic                                                                                                                                              | No significant pain                                                                                                             | Pain                                                                                                                                                                                                                                                                                                                                                                                                           |
+| No fetal heartbeat                                                                                                                                        | No fetal heartbeat                                                                                                              | Visible fetal heartbeat                                                                                                                                                                                                                                                                                                                                                                                        |
+| **hCG <1,000IU/L**                                                                                                                                        | **hCG <1,500IU/L**                                                                                                              | **hCG >5,000IU/L**                                                                                                                                                                                                                                                                                                                                                                                             |
+| Compatible if another intrauterine pregnancy                                                                                                              | Not suitable if intrauterine pregnancy                                                                                          | Compatible with another intrauterine pregnancy                                                                                                                                                                                                                                                                                                                                                                 |
+| Expectant management involves closely monitoring the patient over 48 hours and if B-hCG levels rise again or symptoms manifest intervention is performed. | Medical management involves giving the patient methotrexate and can only be done if the patient is willing to attend follow-up. | Surgical management can involve salpingectomy or salpingotomy  <br>  <br>Salpingectomy is first-line for women with no other risk factors for infertility  <br>  <br>Salpingotomy should be considered for women with risk factors for infertility such as contralateral tube damage  <br><br>- around 1 in 5 women who undergo a salpingotomy require further treatment (methotrexate and/or a salpingectomy) |
 
 ## Complications/red Flags

@@ -2,7 +2,7 @@
 tags: [OBGYN, Haematology]
 title: VTE in Pregnancy
 date: 2023-09-27
-date modified: Monday, December 29th 2025, 2:24:17 pm
+date modified: Wednesday, December 31st 2025, 10:36:46 am
 aliases: [venous thromboembolism in pregnancy]
 date created: Monday, December 29th 2025, 2:17:21 pm
 ---

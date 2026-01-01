@@ -2,7 +2,7 @@
 tags: [OBGYN, OSCE]
 title: Examples
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 4:38:57 pm
+date modified: Wednesday, December 31st 2025, 2:45:04 pm
 date created: Tuesday, December 30th 2025, 1:10:15 pm
 aliases: [Examples, Cardiotocography, CTG]
 linter-yaml-title-alias: Examples

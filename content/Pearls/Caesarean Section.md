@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Caesarean Section
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 4:48:14 pm
+date modified: Wednesday, December 31st 2025, 12:16:57 pm
 date created: Tuesday, December 30th 2025, 4:20:54 pm
 ---
 
@@ -37,6 +37,8 @@ Two main types of C-section:
 | 'Serious'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | 'Frequent'                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Maternal:  <br><br>- emergency hysterectomy<br>- need for further surgery at a later date, including curettage (retained placental tissue)<br>- admission to intensive care unit<br>- thromboembolic disease<br>- bladder injury<br>- ureteric injury<br>- death (1 in 12,000)<br><br>  <br>Future pregnancies:  <br><br>- increased risk of [[Pearls/Uterine rupture]] during subsequent pregnancies/deliveries<br>- increased risk of antepartum stillbirth<br>- increased risk in subsequent pregnancies of placenta praevia and placenta accreta) | Maternal:  <br><br>- persistent wound and abdominal discomfort in the first few months after surgery<br>- increased risk of repeat caesarean section when vaginal delivery attempted in subsequent pregnancies<br>- readmission to hospital<br>- haemorrhage<br>- infection (wound, endometritis, UTI)<br><br>  <br>Fetal:  <br><br>- lacerations, one to two babies in every 100 |
+
+Prophylactic antibiotics given to reduce the risk of [[Postpartum Endometritis]] 
 
 ##### Vaginal birth after Caesarean (VBAC)
 
