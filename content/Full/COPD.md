@@ -75,7 +75,7 @@ Non-invasive ventilation should be considered in all patients with an acute exac
 Patients should have the **_pneumococcal_** and **_annual flu_** vaccine.
 ### Complications
 
-- [[polycythaemia]] - increased haematocrit 
+- [[Pearls/polycythaemia]] - increased haematocrit 
 - [[Full/Respiratory Failure]]
 - [[Full/pneumothorax]]
 - [[Full/cor pulmonale]]

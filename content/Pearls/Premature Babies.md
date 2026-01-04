@@ -41,7 +41,7 @@ Where preterm labour is suspected or confirmed, there are several options for im
 - Susceptibility to infections, particularly respiratory tract infections
 - Visual impairment
 - Hearing impairment
-- [[cerebral palsy]]
+- [[Full/Cerebral Palsy]]
 
 ### Apnoea
 

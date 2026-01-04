@@ -12,7 +12,7 @@ date: 2024-01-19
 | **Component** | **What the Test Shows** | **High Levels (Possible Causes)** | **Low Levels (Possible Causes)** |
 | ---- | ---- | ---- | ---- |
 | **Hemoglobin (Hb)** | Oxygen-carrying capacity of red blood cells. | - Dehydration | - [[Full/Anaemia]] (iron, vitamin B12, or folate deficiency) |
-|  |  | - [[polycythaemia]] (increased red blood cell production) | - Chronic diseases ([[Full/Chronic Kidney Disease]], inflammation) |
+|  |  | - [[Pearls/polycythaemia]] (increased red blood cell production) | - Chronic diseases ([[Full/Chronic Kidney Disease]], inflammation) |
 |  |  |  | - Blood loss (bleeding, menstruation) |
 | **Hematocrit (Hct)** | Volume of red blood cells as a percentage of total blood volume. | - Dehydration | - Anemia (iron, vitamin B12, or folate deficiency) |
 |  |  | - Polycythemia (increased red blood cell production) | - Chronic diseases (chronic kidney disease, inflammation) |

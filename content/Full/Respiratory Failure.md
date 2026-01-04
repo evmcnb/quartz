@@ -33,7 +33,7 @@ hypoxia with hypercapnia ($PaCO_2 < 6kPa$). Caused by alveolar hypoventilation w
 
 Features are of underlying cause plus symptoms of hypoxia with or without hypercapnia
 
-Hypoxia: dyspnoea, restlessness, agitation, confusion, central cyanosis - if chronic/long standing pulmonary [[Full/Essential hypertension]], [[polycythaemia]], [[Full/cor pulmonale]]
+Hypoxia: dyspnoea, restlessness, agitation, confusion, central cyanosis - if chronic/long standing pulmonary [[Full/Essential hypertension]], [[Pearls/polycythaemia]], [[Full/cor pulmonale]]
 
 Hypercapnia: headache, peripheral vasodilation, tachycardia, bouncing pulse, confusion, drowsiness, coma
 

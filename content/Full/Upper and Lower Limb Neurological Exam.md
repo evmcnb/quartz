@@ -102,7 +102,7 @@ If <span style="color:#ff0000">pronator drift</span> occurs it indicates <span s
 
 #### <span style="color:#00b050">Ankle clonus</span>
 
-<span style="color:#ff0000">Involuntary rhythmic muscular contractions associated with UMN lesions</span> of descending pathways ([[Full/Stroke]], [[Full/Multiple Sclerosis|MS]], [[cerebral palsy]]). Up to 5 "beats" could be considered normal.
+<span style="color:#ff0000">Involuntary rhythmic muscular contractions associated with UMN lesions</span> of descending pathways ([[Full/Stroke]], [[Full/Multiple Sclerosis|MS]], [[Full/Cerebral Palsy]]). Up to 5 "beats" could be considered normal.
 
 1. Position the patient's leg so that the knee and ankle are slightly flexed, supporting the leg with your hand under their knee
 2. Rapidly dorsiflex and partially evert the foot to stretch the gastrocnemius muscle

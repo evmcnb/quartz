@@ -13,7 +13,7 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Full/De
 - Same as [[Full/Deep Vein Thrombosis]]
 - [[Thrombophilia]]
 - Malignancy
-- [[polycythaemia]]
+- [[Pearls/polycythaemia]]
 
 ## Symptoms
 

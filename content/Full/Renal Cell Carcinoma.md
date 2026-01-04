@@ -55,7 +55,7 @@ Two most common:
 
 - Weight loss "cancer cachexia"
 - [[Full/Essential hypertension|Hypertension]]
-- [[polycythaemia]] 
+- [[Pearls/polycythaemia]] 
 - [[Pearls/Hypercalcaemia|Hypercalcaemia]]
 - Stauffer's syndrome - abnormal LFTs (raised ALT, AST, ALP and bilirubin) without liver mets 
 

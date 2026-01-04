@@ -37,7 +37,7 @@ Lack of perfusion
 
 ## Diagnostic Tests
 
-- FBC - Hb and haematocrit $\uparrow \uparrow$ (secondary [[polycythaemia]])
+- FBC - Hb and haematocrit $\uparrow \uparrow$ (secondary [[Pearls/polycythaemia]])
 - ABG - hypoxic $\pm$ hypercapnia
 - CXR - enlarged right A & V, prominent pulmonary arteries 
 - ECG - right axis deviation + right ventricular hypertrophy

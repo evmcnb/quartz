@@ -84,7 +84,7 @@ Inadequate nutritional intake
 
 Difficulty feeding
 - Tongue tie
-- Poor suck (e.g. [[cerebral palsy]])
+- Poor suck (e.g. [[Full/Cerebral Palsy]])
 - Cleft lip/palate
 - Genetic conditions causing an abnormal facial structure
 

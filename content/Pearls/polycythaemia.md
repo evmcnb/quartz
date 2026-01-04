@@ -20,4 +20,4 @@ Secondary:
 - [[Full/COPD|COPD]]
 - Altitude
 - [[Full/Obstructive Sleep Apnoea|Obstructive Sleep Apnoea]]
-- Excessive erythropoietin e.g. [[Fibroids]]
+- Excessive erythropoietin e.g. [[Pearls/Fibroids]]

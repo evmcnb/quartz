@@ -11,10 +11,10 @@ Benign smooth muscle tumours of the uterus. Very common 20-50% of all women in t
 
 **Features**
 - May be asymptomatic
-- [[Menorrhagia]]
+- [[Full/Menorrhagia]]
 - Bulk related symptoms - lower abdo pain, bloating, urinary symptoms 
 - Sub-fertility
-- Rare associated with [[polycythaemia]] secondary to autonomous production of EPO
+- Rare associated with [[Pearls/polycythaemia]] secondary to autonomous production of EPO
 
 Diagnosed with transvaginal ultrasound
 

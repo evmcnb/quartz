@@ -14,8 +14,8 @@ A diagnosis can be made based on self-report of very heavy periods
 
 - Dysfunctional uterine bleeding (no identifiable cause)
 - Extremes of reproductive age
-- [[Fibroids]]
-- [[Pearls/Endometriosis|Endometriosis]] and [[Adenomyosis]]
+- [[Pearls/Fibroids]]
+- [[Pearls/Endometriosis|Endometriosis]] and [[Pearls/Adenomyosis]]
 - [[Pearls/Pelvic inflammatory disease|Pelvic inflammatory disease]]
 
 ## Investigations
@@ -37,4 +37,4 @@ Split into if the patient wants contraception or not
 2. [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]
 3. Long acting progestogens
 
-Refer to secondary care for further investigations if the treatment is unsuccessful, symptoms are severe or there are large [[Fibroids]] (>3cm)
+Refer to secondary care for further investigations if the treatment is unsuccessful, symptoms are severe or there are large [[Pearls/Fibroids]] (>3cm)
