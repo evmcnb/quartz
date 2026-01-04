@@ -2,7 +2,7 @@
 tags: [InfectiousDisease]
 title: HIV
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Friday, January 2nd 2026, 5:05:09 pm
 date: 2023-09-18
 ---
 #### Stages
@@ -19,23 +19,49 @@ Late Stage/end stage - AIDs defining
 - Ethnicity
 - Sexuality
 
-## Symptoms
+## Seroconvestion Features
 
-- Loss of CD4+ cells
-- Chronically elevated CD4+
-- Hypogammaglobinaemia - B cell malignancy
-
-## Signs
+- Sore throat
+- Lymphadenopathy
+- Malaise, myalgia, arthralgia
+- Diarrhoea
+- Maculopapular rash
+- Mouth ulcers
+- Rarely menigoencephalitis
 
 ## Diagnostic Tests
 
-- 4th generation assay - test for HIV antibody and antigen
-- Always confirm with repeat sample
-- Repeat after 45 days if high risk
+HIV antibodies
+- May not be present in early infection, 99% by 3 months
+- Screening ELISA test and confirmatory Western blot assay
+- p24 antigen + HIV antibody are not standard for diagnosis
+	- If the combined test is positive, it should be repeated to confirm the diagnosis
+
+Testing for HIV in asymptomatic patients should be done at 4 & 12 weeks after possible exposure
 
 ## Management
 
 - PrEP / PEP - pre/post exposure prophylaxis
 - HAART - combination therapy
 
+Prophylactic co-trimoxazole is given to all HIV patients with a CD4 count under 200 to protect against pneumocystis jirovecii 
+
+Yearly cervical smears are commended due to increased risk of [[Pearls/Human Papilloma virus Infection|Human Papilloma virus Infection]]
+
+Live vaccines should be avoided, but the rest be kept up to date
+
 ## Complications/red Flags
+
+#### Preventing transmission to infants
+
+The mothers viral load will determine the mode of delivery. 
+
+| **Viral Load**         | **Delivery**                                      |
+| ---------------------- | ------------------------------------------------- |
+| **Under 50 copies/ml** | **_Normal vaginal delivery_**                     |
+| **Over 50 copies/ml**  | Consider a **_pre-labour caesarean section_**     |
+| **Over 400 copies/ml** | **_Pre-labour caesarean section_** is recommended |
+
+Prophylaxis can be given to the baby depending on the viral load too. 
+
+HIV can be transmitted during breastfeeding, thus safest option is to avoid 

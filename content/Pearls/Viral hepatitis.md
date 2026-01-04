@@ -1,7 +1,7 @@
 ---
-title: "Viral hepatitis"
+title: Viral hepatitis
 date created: Friday, March 08th 2024, 04:47:00 PM
-date modified: 2024-03-09 16:44:35.276161+00
+date modified: Friday, January 2nd 2026, 1:25:58 pm
 tags: ['InfectiousDisease', 'Hepatology']
 ---
 
@@ -15,4 +15,20 @@ tags: ['InfectiousDisease', 'Hepatology']
 | [[Full/Hepatitis]] E | * Faecal-oral route * Consumption of raw/undercooked pork, boar, venison and shellfish * Most common acute [[Full/Hepatitis]] * Mild and short term |
 
 ![](https://nosos-static.s3.amazonaws.com/media/uploads/2024/03/09/image_yZmEjlm.png)
+
+
+#### Hepatitis B serology
+
+- HBsAg/HbeAg - **ongoing infection**, either acute or chronic if present >6 months
+- Anti-HBs implies immunity either exposure or immunisation
+- Anti-HBc implies previous or current infection.
+
+Some examples: 
+- Previous immunisation: anti-HBs positive, all others negative
+- previous hepatitis B, not a carrier: anti-HBc positive, HBsAg negative
+- Previous hepatitis B now a carrier: anti-HBc positive, HBsAg positive
+
+> [!warning] Remebering serology
+> - HBsAg - ongoing infection
+> - Anti-HB**c** - **c**aught by the body, previous infection 
 

@@ -2,22 +2,21 @@
 tags: [Oncology, OBGYN]
 title: Vulval Cancer
 date: 
-date modified: Monday, September 22nd 2025, 3:23:34 pm
+date modified: Thursday, January 1st 2026, 2:29:49 pm
 date created: Monday, September 22nd 2025, 3:15:40 pm
 ---
+
 Vulval cancer is rare compared with other gynaecological cancers. Around 90% are **_squamous cell carcinomas_**. Less commonly, they can be **_malignant melanomas_**.
 
 FIGO used for staging
 ## Causes/Factors
 
-
 - Advanced age (particularly over 75 years)
 - Immunosuppression
-- Human papillomavirus (HPV) infection
-- **_Lichen sclerosus_** 
+- [[Pearls/Human Papilloma virus Infection|Human Papilloma virus Infection]]
+- [[Pearls/Lichen sclerosus]]
 
 Around 5% of women with **_lichen sclerosis_** get vulval cancer.
-
 
 ### Vulval Intraepithelial Neoplasia
 
@@ -37,18 +36,11 @@ A biopsy is required to diagnose VIN. A specialist will coordinate management. T
 
 ## Symptoms
 
-- Vulval lump
-- Ulceration
+- Lump/ulcer on the labia majora
+- Inguinal lymphadenopathy
 - Bleeding
 - Pain
 - Itching
-- Lymphadenopathy in the groin
-
-Vulval cancer most frequently affects the **_labia majora_**, giving an appearance of:
-- Irregular mass
-- Fungating lesion
-- Ulceration
-- Bleeding
 
 ## Investigations
 
@@ -64,5 +56,3 @@ Management depends on the stage, and may involve:
 - Groin lymph node dissection
 - Chemotherapy
 - Radiotherapy
-
-## Complications/red Flags

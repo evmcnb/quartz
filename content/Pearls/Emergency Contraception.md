@@ -1,9 +1,9 @@
 ---
-tags:
-  - OBGYN
-title: Snippet Template
+tags: [OBGYN]
+title: Emergency Contraception
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Thursday, January 1st 2026, 2:10:10 pm
+date created: Wednesday, December 31st 2025, 3:31:04 pm
 ---
 
 Two oral methods currently available in the UK:

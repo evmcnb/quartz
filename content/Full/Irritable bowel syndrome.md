@@ -40,7 +40,7 @@ It is important to ***exclude serious underlying pathology***. The top different
 - [[Full/Bowel cancer|Bowel cancer]]
 - [[Full/inflammatory bowel disease|inflammatory bowel disease]]
 - [[Full/Coeliac Disease|Coeliac Disease]]
-- [[Pearls/Ovarian Cancer|Ovarian Cancer]]
+- [[Pearls/Ovarian Tumours|Ovarian Tumours]]
 - [[Pearls/Pancreatic cancer|Pancreatic cancer]]
 
 ## Investigations

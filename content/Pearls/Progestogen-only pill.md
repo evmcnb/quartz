@@ -2,12 +2,12 @@
 tags: []
 title: Progestogen-only pill
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 3:21:48 pm
+date modified: Sunday, January 4th 2026, 12:10:33 pm
 date created: Wednesday, December 31st 2025, 3:13:31 pm
 ---
 
 
-Far fewer contraindications and risks compared with the [[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]]
+Far fewer contraindications and risks compared with the [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]
 
 Only absolute contraindication is active [[Full/Breast carcinoma|Breast carcinoma]]
 

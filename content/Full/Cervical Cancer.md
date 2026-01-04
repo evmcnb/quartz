@@ -2,11 +2,11 @@
 tags: [Oncology, OBGYN]
 title: Cervical Cancer
 date: 
-date modified: Monday, September 22nd 2025, 9:40:30 pm
+date modified: Thursday, January 1st 2026, 2:18:05 pm
 date created: Monday, September 22nd 2025, 5:08:59 pm
 ---
 Cancer of the cervix tends to affect younger women, peaking in the reproductive years.
-80% of cervical cancers are **_squamous cell carcinomas_**
+80% of cervical cancers are **_squamous cell carcinomas_**, other 20% are adenocarcinomas
 
 Cervical cancer is strongly associated with [[Pearls/Human Papilloma virus Infection|Human Papilloma virus Infection]]. Children aged 12 – 13 years are vaccinated against certain strains of HPV to reduce the risk of cervical cancer. 
 
@@ -58,6 +58,13 @@ The cervical screening program involves performing a smear for women:
 - Every three years aged 25 – 49
 - Every five years aged 50 – 64
 
+Moved to a HPV first screen, if the cells test negative for HPV the smear is negative. Else: 
+- HPV negative, continue routine screening
+- HPV positive with normal cytology - repeat the HPV test after 12 months
+- HPV positive with abnormal cytology - refer for colposcopy
+- Inadequate sample - repeat the smear after at least 3 months 
+
+
 There are some notable exceptions to the program:
 - Women with HIV are screened **annually**
 - Women over 65 may request a smear if they have not had one since aged 50
@@ -67,6 +74,15 @@ There are some notable exceptions to the program:
 
 ## Management
 
+| FIGO Stage | Description                                                                                                                                                                                                                        |
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| IA         | Confined to cervix, only visible by microscopy and less than 7 mm wide:  <br><br>- A1 = < 3 mm deep<br>- A2 = 3-5 mm deep                                                                                                          |
+| IB         | Confined to cervix, clinically visible or larger than 7 mm wide:  <br><br>- B1 = < 4 cm diameter<br>- B2 = > 4 cm diameter                                                                                                         |
+| II         | Extension of tumour beyond cervix but not to the pelvic wall  <br><br>- A = upper two thirds of vagina<br>- B = parametrial involvement                                                                                            |
+| III        | Extension of tumour beyond the cervix and to the pelvic wall  <br><br>- A = lower third of vagina<br>- B = pelvic side wall<br><br>  <br>NB: Any tumour causing hydronephrosis or a non-functioning kidney is considered stage III |
+| IV         | Extension of tumour beyond the pelvis or involvement of bladder or rectum  <br><br>- A = involvement of bladder or rectum<br>- B = involvement of distant sites outside the pelvis                                                 |
+|            | <small>don't need to learn this</small>                                                                                                                                                                                            |
+
 Management of cervical cancer depends on the stage and the individual situation. The usual treatments are:
 
 - **_Cervical intraepithelial neoplasia_** and **_early-stage 1A_**: LLETZ or cone biopsy
@@ -74,21 +90,14 @@ Management of cervical cancer depends on the stage and the individual situation.
 - **_Stage 2B – 4A_**: Chemotherapy and radiotherapy
 - **_Stage 4B_**: Management may involve a combination of surgery, radiotherapy, chemotherapy and palliative care
 
-### Large Loop Excision of the Transformation Zone
-It involves using a loop of wire with electrical current (**_diathermy_**) to remove abnormal epithelial tissue on the cervix.
-
-Bleeding and abnormal discharge can occur for several weeks following a LLETZ procedure. This varies between women. Intercourse and tampon use should be avoided after the procedure to reduce the risk of infection. Depending on the depth of the tissue removed from the cervix, the procedure may increase the risk of **_preterm labour_**.
-
-### Cone Biopsy
-A cone biopsy is a treatment for **_cervical intraepithelial neoplasia_** (**_CIN_**) and very early-stage cervical cancer. It involves a general anaesthetic. The surgeon removes a cone-shaped piece of the cervix using a scalpel. This sample is sent for histology to assess for malignancy.
-The main risks of a cone biopsy are:
-- Pain
-- Bleeding
-- Infection
-- Scar formation with **_stenosis_** of the cervix
-- Increased risk of miscarriage and premature labour
-
 
 ## Complications/red Flags
 
  The **_5-year survival_** drops significantly with more advanced cervical cancer, from around 98% with stage 1A to around 15% with stage 4. Early detection makes a significant difference, which is one reason the screening program is so valuable and important.
+ 
+|FIGO Stage|1-Year Survival|5-Year Survival|
+|---|---|---|
+|I|99%|96%|
+|II|85%|54%|
+|III|74%|38%|
+|IV|35%|5%|

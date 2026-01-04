@@ -2,7 +2,7 @@
 tags: []
 title: Termination of pregnancy
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 2:05:20 pm
+date modified: Friday, January 2nd 2026, 11:17:13 am
 date created: Wednesday, December 31st 2025, 1:53:11 pm
 ---
 
@@ -23,7 +23,7 @@ Upper limit is 24 weeks gestation - these limits do not apply in cases where it 
 #### Medical management
 
 Often referred to mimicking a miscarriage - 
-- Mifepristone & misoprostol 48 hours later - same management as [[Miscarriage#Medical Management|medical miscarriage]]
+- Mifepristone & misoprostol 48 hours later - same management as [[Pearls/Miscarriage#Medical Management|medical miscarriage]]
 - Pregnancy test required in 3 weeks also - need to detect hCG level rather than just +ve or -ve 
 
 #### Surgical management

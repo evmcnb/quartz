@@ -1,14 +1,14 @@
 ---
 title: Endometrial cancer
 date created: Sunday, January 21th 2024, 12:44:02 PM
-date modified: Monday, September 22nd 2025, 5:08:59 pm
+date modified: Thursday, January 1st 2026, 2:22:32 pm
 tags: [OBGYN]
 date:
 ---
 
 
 > [!warning] 
-> Any woman presenting with postmenopausal bleeding has endometrial cancer until proven otherwise. The key risk factors are obesity and [[Full/Diabetes Mellitus|Diabetes Mellitus]] 
+> Any woman presenting with postmenopausal bleeding has endometrial cancer until proven otherwise. Should be 2WW referred. The key risk factors are obesity and [[Full/Diabetes Mellitus|Diabetes Mellitus]] 
 
 * 2 types of adenocarcinomas (Type 1 endometrioid, Type 2 serous)
 * FIGO staging
@@ -18,20 +18,22 @@ date:
 
 ## Causes/Factors
 
-Unopposed oestrogen stimulates the endometrial cells and increases the risk of endometrial hyperplasia and cancer. Unopposed oestrogen refers to oestrogen without progesterone. The risk endometrial cancer is associated with the amount of unopposed oestrogen the endometrium is exposed to during the patient’s life:
-- Age
-- Earlier onset of menstruation 
+Unopposed oestrogen stimulates the endometrial cells and increases the risk of endometrial hyperplasia and cancer. 
+
+- Nullparity
+- Early menarche
 - Late menopause
 - Oestrogen only hormone replacement
-- No or fewer pregnancies
-- Obesity (adipose fat is a source of oestrogen)
-- Polycystic ovarian syndrome 
+- [[Obesity]] (adipose fat is a source of oestrogen)
+- [[Full/Diabetes Mellitus|Diabetes Mellitus]]
+- [[Pearls/Polycystic ovary syndrome|Polycystic ovary syndrome]]
 - Tamoxifen
+- [[Full/Bowel cancer|HNPCC]]
 
 **Protective factors**
 - Combined contraceptive pill
 - Mirena coil
-- Increased pregnancies 
+- Multiparity 
 - Cigarette smoking
 
 ## Symptoms

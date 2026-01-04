@@ -1,8 +1,9 @@
 ---
-title: Ovarian Cancer
+title: Ovarian Tumours
 date created: Sunday, January 21th 2024, 12:45:50 PM
-date modified: Monday, September 22nd 2025, 3:36:04 pm
-tags: ['Oncology', 'OBGYN']
+date modified: Sunday, January 4th 2026, 3:35:23 pm
+tags: [Oncology, OBGYN]
+aliases: [Ovarian cysts, Ovarian cancer]
 ---
 
 Often presents late due to the non-specific symptoms resulting in a worse prognosis. Presents with abdominal bloating, early satiety, pelvic pain, **pelvic mass, weight loss, [[Pearls/Ascites|Ascites]]**- *criteria for 2 week referral.*
@@ -14,16 +15,28 @@ Often presents late due to the non-specific symptoms resulting in a worse progno
   + Choriocarcinoma - extremely malignant, β-HCG
 * Sex-cord stroma - rare, produce steroid hormones
 
-CA125 can be used as a tumour marker but not very specific
+CA125 can be used as a tumour marker but not very specific - [[Pearls/Endometriosis|Endometriosis]], menstruation and benign ovarian cysts may also raise it
 
-FIGO staging -
-
+**FIGO staging:**
 * Stage 1: Confined to the ovary
 * Stage 2: Spread past the ovary but inside the pelvis
 * Stage 3: Spread past the pelvis but inside the abdomen
 * Stage 4: Spread outside the abdomen (distant metastasis)
 
-## Types of Ovarian Cancer
+## Types of Ovarian Cysts/Cancers
+
+Complex (multi-loculated) ovarian cysts should be biopsied to exclude malignancy
+
+### Physiological
+
+**Follicular**
+- Commonest type of cyst
+- Due to non-rupture of the dominant follicle/failure of atresia in a non-dominant follicle
+- Commonly regress after several menstrual cycles
+
+**Corpus luteum cyst**
+- During the menstrual cycle if pregnancy doesn't occur, the corpus luteum usually breaks down. If this doesn't occur, it may fill with blood/fluid and form a cyst
+- More likely to present with intraperitoneal bleeding
 
 ##### Epithelial Cell Tumours
 
@@ -67,7 +80,7 @@ Ovarian tumours may be due to metastasis from cancer elsewhere;
 
 
 **Protective factors**
-* [[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]]
+* [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]
 * Breastfeeding
 * [[Full/Pregnancy]]
 
@@ -104,10 +117,15 @@ The **_risk of malignancy index_** (**_RMI_**) estimates the risk of an ovaria
 - Ultrasound findings
 - CA125 level
 
-
 Women under 40 years with a **_complex ovarian mass_** require tumour markers for a possible **_germ cell tumour_**:
 - **_Alpha-fetoprotein_** (**_α-FP_**)
 - **_Human chorionic gonadotropin_** (**_HCG_**)
 
 ## Management
-Ovarian cancer will be managed by a specialist **_gynaecology oncology MDT_**. It usually involves a combination of **_surgery_** and **_chemotherapy_**.
+
+**Diagnostic laparoscopy** is key for ovarian cancer. Allows direct visualisation of the pelvis, peritoneal surfaces and diaphragm.
+
+All pateints managed through gynaecological oncology MDT. Definitive treatment: 
+- Primary cytoreductive surgery - total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy
+- Followed by platinum based chemotherapy
+- Where primary debulking is unlikely, neoadjuvant chemotherapy is given first. 

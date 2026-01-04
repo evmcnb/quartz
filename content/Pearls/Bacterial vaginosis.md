@@ -1,10 +1,9 @@
 ---
 title: Bacterial vaginosis
 date created: Tuesday, March 19th 2024, 04:33:09 PM
-date modified: Tuesday, December 30th 2025, 1:15:20 pm
+date modified: Friday, January 2nd 2026, 12:23:12 pm
 tags: ['OBGYN']
 ---
-
 
 
 Overgrowth of anaerobic bacteria - not a STI
@@ -24,7 +23,7 @@ Can occur along side other infections - candidiasis, chlamydia and gonorrhoea
 ## Presentation
 
 * Fishy-smelling watery grey or white vaginal discharge
-* Itching irritation and pain are **not**typically associated with BV and suggest an alternative cause
+* Itching irritation and pain are **not** typically associated with BV and suggest an alternative cause
 * Examination not always required if symptoms are typical but a speculum exam can be performed to confirm the discharge and exclude other causes
 
 ## Investigations
@@ -35,9 +34,12 @@ Can occur along side other infections - candidiasis, chlamydia and gonorrhoea
 ## Management
 
 * Asymptomatic does not require any treatment and may spontaneously resolve
-* **[[Pearls/Metronidazole|Metronidazole]]**is the antibiotic choice as anaerobic bacteria targets. Given orally or by vaginal gel. **Patients must avoid alcohol while taking**
+* **[[Pearls/Metronidazole|Metronidazole]] 5-7 days
+	* **Given orally or by vaginal gel. **Patients must avoid alcohol while taking**
+	* A single dose of 2g is an alternative
 * [[Pearls/Clindamycin|Clindamycin]] is an alternative but not optimal
 * Always assess the risk of pelvic infections with swabs - **chlamydia and gonorrhea**
+* If pregnant, treatment is still **metronidazole** throughout the pregnancy. 
 
 ## Complications
 

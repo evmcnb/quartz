@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Haematology]
 title: Deep Vein Thrombosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Sunday, January 4th 2026, 12:10:47 pm
 date: 2024-01-14
 ---
 
@@ -18,7 +18,7 @@ Where a blood clot forms in a deep vein usually due to pooling of that blood due
 - Age
 - Genetic ([[Pearls/Factor V leiden]])
 - [[Full/Pregnancy]]
-- $\uparrow$ Oestrogen levels ([[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]])
+- $\uparrow$ Oestrogen levels ([[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]])
 - Trauma/surgery
 - Cancer
 - past DVT

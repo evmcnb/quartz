@@ -1,7 +1,9 @@
 ---
 title: Combined oral contraceptive pill
 date created: Wednesday, December 31st 2025, 2:44:53 pm
-date modified: Wednesday, December 31st 2025, 3:13:17 pm
+date modified: Sunday, January 4th 2026, 12:02:11 pm
+tags: [OBGYN, OSCE]
+date: 2023-09-27
 ---
 
 Combination of oestrogen and progesterone
@@ -10,6 +12,11 @@ Prevents pregnancy in 3 ways:
 - Preventing ovulation (primary mechanism)
 - Progesterone thickens the cervical mucus
 - Progesterone inhibits proliferation of the endometrium 
+
+COCP = 4 letters = 4 weeks
+- Should stop taking 4 weeks before surgery
+
+The oral contraceptive pill can cause drug-induced cholestasis. (hyperbilirubinemia, jaundice, and pruritus)
 
 ## Counselling
 
@@ -94,4 +101,3 @@ The best way to understand the rules is to consider that _theoretically_ women
 | Week 1 (days 1-7)                  | Emergency contraception considered if she had unprotected sex in the pill-free interval or in week 1                           |
 | Week 2 (days 8-14)                 | No need for emergency contraception                                                                                            |
 | Week 3 (days 15-21)                | No emergency contraception is needed. They should go back-to-back with their next pack of pills and skip the pill-free period. |
-

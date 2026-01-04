@@ -35,7 +35,7 @@ Two types - **urge and stress**. Establishing the type is essential for managem
 ## Management
 
 **Stress incontinence:**
-
+- Urinalysis - to exclude a UTI or diabetes
 * Avoid caffeine, diuretics and overfilling the bladder
 * Avoid excessive or restrictive fluid intake
 * Weight loss if appropriate

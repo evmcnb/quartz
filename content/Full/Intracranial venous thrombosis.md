@@ -1,11 +1,8 @@
 ---
-tags:
-  - Neurology
-  - Haematology
-  - Cardiovascular
+tags: [Neurology, Haematology, Cardiovascular]
 title: Intracranial venous thrombosis
 date created: Thursday, October 5th 2023, 1:38:54 pm
-date modified: 2024-03-11
+date modified: Sunday, January 4th 2026, 12:10:54 pm
 date: 2023-10-05
 ---
 Thrombosis of the cerebral sinuses or veins causes cerebral infarction but much rarer than arterial disease.
@@ -17,7 +14,7 @@ Most commonly sagittal sinus thrombosis (47%) or transverse sinus thrombosis (35
 
 - Anything that promotes a hypercoagulable state
 - [[Full/Pregnancy]]
-- [[Pearls/Combined Oral Contraceptive|Combined Oral Contraceptive]] pill
+- [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]
 - Head injury
 - Dehydration
 - Tumours

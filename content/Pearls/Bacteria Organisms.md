@@ -1,7 +1,7 @@
 ---
-title: "Bacteria Organisms"
+title: Bacteria Organisms
 date created: Saturday, January 20th 2024, 12:04:40 AM
-date modified: 2024-01-20 00:04:40.341831+00
+date modified: Friday, January 2nd 2026, 12:30:08 pm
 tags: ['Antibiotic']
 ---
 
@@ -50,8 +50,8 @@ tags: ['Antibiotic']
 
 ## *Neisseria meningitidis* -ve
 
-| Niche | Main Infections | Other |
-| --- | --- | --- |
+| Niche   | Main Infections                  | Other                           |
+| ------- | -------------------------------- | ------------------------------- |
 | Pharynx | Meningococcal sepsis, meningitis | Reduction since vaccine. Coccus |
 
 ## *Neisseria gonorrhoeae* -ve
