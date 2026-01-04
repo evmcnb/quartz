@@ -1,7 +1,7 @@
 ---
 title: Polycystic ovary syndrome
 date created: Sunday, January 21th 2024, 10:55:56 AM
-date modified: Sunday, January 4th 2026, 3:31:13 pm
+date modified: Sunday, January 4th 2026, 5:21:47 pm
 tags: ['OBGYN', 'Endocrinology']
 ---
 Endocrine disorder characterised by hyperandrogenism + [[Pearls/Insulin|Insulin]] resistance. Both a high insulin and LH levels are seen in PCOS - some overlap with metabolic syndrome 
@@ -23,5 +23,6 @@ Investigated with:
 >* clinical/biochemical signs of hypoaldosterism (hirutism, [[Full/Acne vulgaris]])
 >* polycystic ovaries on USS (>12 follicles bigger than 2-9mm, or increased ovarian volume >10 cm$^3$ )
 
+If weight loss does not help with conception, can add in **metformin** as an adjunct. Metformin has been shown to have a beneficial effect on ovulation and conception rates in patients with PCOS.
 
 Clomiphene citrate can be given to stimulate ovulation in those trying to conceive. Increases endogenous FSH production 

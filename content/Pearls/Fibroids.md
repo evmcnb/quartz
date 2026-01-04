@@ -8,6 +8,9 @@ date: 2023-09-27
 ---
 
 Benign smooth muscle tumours of the uterus. Very common 20-50% of all women in the later reproductive years. More common in Afro-Caribbean women
+- Intramural fibroids are the most common - develop within the muscle wall of the uterus
+
+
 
 **Features**
 - May be asymptomatic

@@ -1,6 +1,6 @@
 ---
 tags: []
-title: _index
+title: Home
 enableToc: false
 date created: Wednesday, August 2nd 2023, 8:37:53 pm
 date modified: Sunday, January 4th 2026, 5:03:55 pm

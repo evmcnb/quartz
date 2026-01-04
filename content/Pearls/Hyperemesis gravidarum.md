@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Hyperemesis gravidarum
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 2:17:12 pm
+date modified: Sunday, January 4th 2026, 5:11:42 pm
 date created: Wednesday, December 31st 2025, 2:05:20 pm
 ---
 
@@ -21,6 +21,8 @@ Thought to be related to b-hCG levels. Most common between 8 and 12 weeks
 > - A confirmed or suspected comorbidity  (e.g. can't take oral antibiotics for UTI)
 
 Pregnancy-Unique Quantification of Emesis (PUQE) can be used to classify severity of NVP 
+
+Increased risk with twins (more b-HCG released)
 
 ### Management
 
