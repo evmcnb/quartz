@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Labour
 date:
-date modified: Tuesday, December 30th 2025, 3:41:42 pm
+date modified: Monday, January 5th 2026, 11:31:50 am
 date created: Tuesday, December 30th 2025, 10:07:08 am
 ---
 
@@ -70,6 +70,8 @@ When the cervix takes too long to dilate, the readings will cross the right of t
 - If longer than 1 hour (can be left longer if epidural) consider ventouse extraction, forceps delivery or C-section
 - Episiotomy may be necessary following crowning 
 - Associated with transient fetal bradycardia 
+
+![[z_attachments/Pasted image 20260105112042.png]]
 
 #### Failure to Progress
 

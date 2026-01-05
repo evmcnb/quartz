@@ -1,7 +1,7 @@
 ---
 title: Fibroids
 date created: Sunday, January 4th 2026, 12:25:32 pm
-date modified: Sunday, January 4th 2026, 2:22:57 pm
+date modified: Monday, January 5th 2026, 9:37:56 am
 aliases: [Leiomyoma]
 tags: [OBGYN]
 date: 2023-09-27
