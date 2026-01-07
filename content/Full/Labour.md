@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Labour
 date:
-date modified: Monday, January 5th 2026, 11:31:50 am
+date modified: Monday, January 5th 2026, 2:30:33 pm
 date created: Tuesday, December 30th 2025, 10:07:08 am
 ---
 
@@ -100,6 +100,28 @@ Delay is when the active second stage lasts over:
     - Complete breech – with hips and knees flexed (like doing a cannonball jump into a pool)
     - Frank breech – with hips flexed and knees extended, bottom first
     - Footling breech – with a foot hanging through the cervix
+
+
+#### Normal Labour
+
+- **Lie**: longitudinal
+- **Attitude**: good flexion
+- **Presentation**: cephalic
+- **Position**: right/left occipitoanterior
+- **Denominator:** occiput
+
+
+##### Mechanisms of Labour
+
+1. Engagement - when the largest diameter of the fetal head fits into the largest diameter of the maternal pelvis. Head moves towards the pelvic brim in left/right occipto-transverse position 
+2. Descent - the baby descends through the pelvic inlet towards the pelvic floor
+3. Flexion - as the fetus descends its head comes into contact with the pelvic floor, causing cervical flexion
+4. Internal rotation - the baby rotates from the left/right occipto-transverse position into a occipto-anterior position to lie under the suprapubic arch
+5. Extension - the occiput slips beneath the suprapubic arch causing the head to extend. This pushes against the perineum causing it to stretch 
+6. Restitution and external rotation - the head then externally rotates to face the left or right medical thigh. At the same time the shoulders are rotating from a transverse position to an anterior-posterior position - **realigning it with the head**
+7. Expulsion - delivery of shoulders and body. First downward traction to the fetal head, then upward. 
+
+![[z_attachments/Pasted image 20260105133221.png|400]]
 
 ### Stage 3
 

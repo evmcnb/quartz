@@ -2,7 +2,7 @@
 tags: []
 title: Placental abruption
 date: 2023-09-27
-date modified: Friday, January 2nd 2026, 5:40:28 pm
+date modified: Monday, January 5th 2026, 12:54:12 pm
 date created: Monday, December 29th 2025, 4:31:14 pm
 ---
 
@@ -11,12 +11,16 @@ Separation of a normally sited placenta from the uterine wall resulting in inter
 ![[z_attachments/Pasted image 20251229163237.png]]
 
 
-Risk factors: 
-- [[Full/Pre-eclampsia]]
-- Cocaine use
-- Multiparity
-- Maternal trauma
-- Increasing maternal age
+Risk factors - ABRUPTION: 
+- **A** for **A**bruption previously;
+- **B** for **B**lood pressure (i.e. hypertension or pre-eclampsia);
+- **R** for **R**uptured membranes, either premature or prolonged;
+- **U** for **U**terine injury (i.e. trauma to the abdomen);
+- **P** for **P**olyhydramnios;
+- **T** for **T**wins or multiple gestation;
+- **I** for **I**nfection in the uterus, especially chorioamnionitis;
+- **O** for **O**lder age (i.e. aged over 35 years old);
+- **N** for **N**arcotic use (i.e. cocaine and amphetamines, as well as smoking)
 
 Clinical features:
 - shock out of keeping with visible loss

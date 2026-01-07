@@ -2,7 +2,7 @@
 tags: [OBGYN, Acute]
 title: Chorioamnionitis
 date:
-date modified: Tuesday, December 30th 2025, 4:56:44 pm
+date modified: Monday, January 5th 2026, 1:29:48 pm
 date created: Tuesday, December 30th 2025, 4:33:56 pm
 ---
 An infection of the chorioamniotic membranes and amniotic fluid
@@ -12,7 +12,9 @@ Leading causes of [[Full/Sepsis|Sepsis]] in [[Full/Pregnancy|Pregnancy]] along w
 
 ## Causes/Factors
 
-A wide variety of bacteria including:
+The most common organisms implicated in chorioamnionitis are group B streptococcus and E.coli.
+
+Can be caused by any tho.
 - Gram +ve
 - Gram -ve
 - Anaerobes
