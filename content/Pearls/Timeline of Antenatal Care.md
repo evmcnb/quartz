@@ -2,12 +2,15 @@
 tags: [OBGYN]
 title: Timeline of Antenatal Care
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 1:19:03 pm
+date modified: Tuesday, January 6th 2026, 9:21:03 am
 date created: Saturday, December 27th 2025, 11:47:51 am
 ---
 
 - 10 antenatal visits in the first pregnancy if uncomplicated
 - 7 antenatal visits in the subsequent pregnancies 
+
+- 2 scans in low risk pregnancies
+- 4ish scans for high risk 
 
 | **Gestation**                     | **Purpose of visit**                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

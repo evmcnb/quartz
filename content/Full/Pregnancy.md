@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology, OBGYN]
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, December 30th 2025, 1:28:35 pm
+date modified: Tuesday, January 6th 2026, 4:34:38 pm
 date: 2023-09-18
 ---
 
@@ -24,17 +24,23 @@ Pregnant women should receive the same investigations and treatments as non-preg
 
 A high risk pregnancy involves factors increasing health risks for the parent or baby. All of the following increase risk: 
 **Maternal health**
-- Age: <17 or 35+
-- BMI >30
+- Age: <17 or 40+
+- BMI >30 - increased risk of [[Pearls/Gestational Diabetes|Gestational Diabetes]], [[Full/Pre-eclampsia|Pre-eclampsia]] and [[Pearls/VTE in Pregnancy|VTE in Pregnancy]]
 - Chronic conditions: [[Full/Essential hypertension|hypertension]], [[Full/Diabetes Mellitus|Diabetes Mellitus]], [[Full/Chronic Kidney Disease|Chronic Kidney Disease]], [[Full/Coronary Artery Disease|Ischemic Heart Disease]], thyroid issues, autoimmune diseases, [[Pearls/Epilepsy|Epilepsy]], [[Full/HIV|HIV]], cancer. 
 - Smoking, vaping, alcohol, recreational drugs, caffeine
+- Previous abdominal surgery - adhesions making access to uterus more difficult 
+- Previous [[Full/Deep Vein Thrombosis|Deep Vein Thrombosis]] or a strong family history - especially if oestrogen induced
 - Absence of prenatal care
 - Multiple gestation
-- Post-date gestation
+- 3 consecutive miscarriages 
+- High parity and low interpregnancy interval - [[Pearls/Uterine rupture|Uterine rupture]] and [[Pearls/Postpartum haemorrhage|Postpartum haemorrhage]]
+- Post-date gestation/pre-term delivery
+- [[Pearls/Placenta praevia|Placenta praevia]]
 - IUGR
 - Augmentation of labour
-- [[Full/Pre-eclampsia]]
+- [[Full/Pre-eclampsia|Pre-eclampsia]]
 
+May need extra counselling, investigations, scans and reviews. 
 ## Radiology
 
 If the uterus is positioned outside the imagining field of view, the radiation dose to the foetus is minimal.
@@ -54,17 +60,16 @@ Should always be a balance of risk - drugs different again in lactation
 | [[Full/Penicillins]]                                                                                                  | Tetracycline/[[Pearls/Doxycycline\|Doxycycline]]                                                                                                                        |
 | Macrolides                                                                                                            | [[Pearls/Ciprofloxacin\|Ciprofloxacin]]                                                                                                                                 |
 | Low molecular weight heparin                                                                                          | [[Pearls/Trimethoprim\|Trimethoprim]] (in 1st trimester)<br>[[Pearls/Nitrofurantoin]] (in 3rd trimester)                                                                |
-| [[Pearls/Aspirin\|Aspirin]]                                                                                           | NSAIDs (3rd trimester)                                                                                                                                                  |
+| [[Pearls/Aspirin\|Aspirin]]                                                                                           | NSAIDs (1st & 3rd trimester)                                                                                                                                            |
 | Labetalol                                                                                                             | ACEi                                                                                                                                                                    |
 | Nifedipine                                                                                                            | ARA                                                                                                                                                                     |
 | Adenosine                                                                                                             | Mycophenolate                                                                                                                                                           |
 | [[Pearls/Prednisolone\|Prednisolone]]                                                                                 | [[Pearls/Warfarin\|Warfarin]]                                                                                                                                           |
 | Treatment for [[Full/asthma]]: [[Pearls/Salbutamol\|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella)                                                                                                                                     |
-|                                                                                                                       | Thiazide-like diuretics                                                                                                                                                 |
-|                                                                                                                       | Opiates                                                                                                                                                                 |
-|                                                                                                                       | [[Pearls/Sodium Valproate\|Sodium Valproate]]                                                                                                                           |
-|                                                                                                                       | [[Pearls/Lithium\|Lithium]]                                                                                                                                             |
-|                                                                                                                       | Isotretinoin                                                                                                                                                            |
+| Paracetamol                                                                                                           | Thiazide-like diuretics                                                                                                                                                 |
+| Opiates (generally safe with cautions)                                                                                | [[Pearls/Sodium Valproate\|Sodium Valproate]] (if possible)                                                                                                             |
+| Entonox                                                                                                               | [[Pearls/Lithium\|Lithium]]                                                                                                                                             |
+| [[Pearls/Magnesium Sulfate\|Magnesium Sulfate]]                                                                       | Isotretinoin                                                                                                                                                            |
 |                                                                                                                       | SSRIs - can cross the placenta. Risk benefits need to be balanced<br>1st trimester: heart defects<br>3rd trimester: pulmonary hypertension<br>Can experience withdrawal |
 
 ## Chronic Conditions
@@ -106,3 +111,4 @@ Ideally should be well controlled for at least 3 months before becoming pregnant
 - Sulfasalazine is safe 
 - Corticosteroids may be used during flare-ups
 - NSAIDs are generally avoided unless really necessary
+

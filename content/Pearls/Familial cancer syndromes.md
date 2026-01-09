@@ -1,7 +1,7 @@
 ---
 title: Familial cancer syndromes
 date created: Tuesday, January 23th 2024, 03:09:39 PM
-date modified: 2024-02-26 12:52:35.189+00
+date modified: Wednesday, January 7th 2026, 9:37:04 am
 tags: ['Oncology', 'Genetics']
 ---
 

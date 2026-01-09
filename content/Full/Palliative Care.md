@@ -2,7 +2,7 @@
 tags: []
 title: Palliative Care
 date: 
-date modified: Monday, October 20th 2025, 4:38:29 pm
+date modified: Wednesday, January 7th 2026, 3:16:23 pm
 date created: Saturday, August 23rd 2025, 10:18:03 am
 ---
 
@@ -38,6 +38,7 @@ date created: Saturday, August 23rd 2025, 10:18:03 am
 - Respond to the patient’s reactions as they occur
 - Give any positive aspects first
 - Give facts accurately about treatment options, prognosis. Prognosis should be given in a days-weeks, weeks-months or months-years timeframes 
+- Avoid double negatives - e.g. 'Not good news' bad 
 
 #### **E**xplore emotions and sympathise
 1. Identify emotion expressed by the patient (sadness, silence, shock etc.)

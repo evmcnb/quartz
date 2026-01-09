@@ -1,7 +1,7 @@
 ---
 title: Gonorrhoea
 date created: Friday, January 2nd 2026, 12:47:44 pm
-date modified: Friday, January 2nd 2026, 12:57:18 pm
+date modified: Thursday, January 8th 2026, 10:57:11 am
 tags: [InfectiousDisease, OBGYN, Urology]
 date: 2023-09-27
 ---
@@ -11,7 +11,7 @@ date: 2023-09-27
 Incubation period of 2-5 days
 
 Features:
-- Urethral discharge, dysuria
+- Urethral discharge, dysuria. **More likely in males**
 - Females: cervicitis
 - Rectal and pharyngeal infections usually asymptomatic
 
@@ -32,6 +32,8 @@ Diagnosed via nucleic acid amplification testing:
 - STAT dose IM ceftriaxone 1g if the sensitivities are not known
 - STAT dose of oral ciproflaxacin 500mg if the sensitives are known 
 - If needle-phobic, then STAT oral cefixime 400mg + azithromycin 2g can be used 
+
+Test of cure 2 weeks after treatment. 
 
 Different regimes are recommended for complication infections
 

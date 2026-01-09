@@ -1,11 +1,10 @@
 ---
 tags: [OBGYN, OSCE]
-title: Examples
+title: Cardiotocography
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 2:45:04 pm
+date modified: Tuesday, January 6th 2026, 1:58:40 pm
 date created: Tuesday, December 30th 2025, 1:10:15 pm
-aliases: [Examples, Cardiotocography, CTG]
-linter-yaml-title-alias: Examples
+aliases: [CTG]
 ---
 
 Used to measure the fetal heart rate (FHR) and the contractions of the uterus. Two transducers are used
@@ -51,7 +50,7 @@ Aiming for 4-5 contractions in 10 minutes
 
 The baseline rate is the average heart rate within a 10-minute window
 
-A normal heart rate is between 110-160 
+A normal heart rate is between 110-160. To say the FHR is stable, need to look at previous 1 hour
 
 #### Fetal Tachycardia
 
@@ -172,9 +171,8 @@ A deceleration that lasts longer than 2 minutes
 
 Considerations after a pathological CTG: 
 - Fetal scalp stimulation - firm pressure on the head looking for acceleration to be reassured
-- Fetal blood sampling (FBS) - obtaining a blood sample from the scalp to assess pH 
 - Consider expediting delivery 
-# Examples
+## Examples
 
 
 ![[z_attachments/Pasted image 20251230152012.png]]

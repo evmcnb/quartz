@@ -2,12 +2,14 @@
 tags: [OBGYN, Haematology]
 title: VTE in Pregnancy
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 10:36:46 am
+date modified: Wednesday, January 7th 2026, 8:36:35 am
 aliases: [venous thromboembolism in pregnancy]
 date created: Monday, December 29th 2025, 2:17:21 pm
 ---
 
-Common and potentially fatal. PE is a significant cause of obstetric deaths
+Common and potentially fatal. PE is the most significant cause of obstetric deaths in the UK
+
+90% of DVTs in pregnancy occur in the left leg, and 70% are above the knee
 
 **Risk factors**
 - Smoking

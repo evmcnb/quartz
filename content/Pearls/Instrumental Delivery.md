@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Instrumental Delivery
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 4:04:45 pm
+date modified: Tuesday, January 6th 2026, 11:24:17 am
 date created: Tuesday, December 30th 2025, 3:59:27 pm
 ---
 
@@ -16,6 +16,14 @@ Some key indications are:
 - Maternal exhaustion
 - Control of the head in various fetal positions
 
+Pre-requisites for delivery:
+- Fully dilated cervix
+- Fully ruptured membrane
+- >34 weeks gestation (skull developed enough)
+- Empty bladder
+- Comfortable mother
+- Fully informed consent
+- Arrangements for emergency [[Pearls/Caesarean Section|Caesarean Section]]
 
 > [!tip] 
 > There is an increased risk of requiring an instrumental delivery when an epidural is in place for analgesia

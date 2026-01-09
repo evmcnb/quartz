@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Labour
 date:
-date modified: Monday, January 5th 2026, 2:30:33 pm
+date modified: Tuesday, January 6th 2026, 11:42:41 am
 date created: Tuesday, December 30th 2025, 10:07:08 am
 ---
 
@@ -21,6 +21,8 @@ Normally occurs between 37 and 42 weeks gestation
 - Vaginal exam should be offered every 4 hours to check progression of labour
 - Maternal urine should be checked for ketones and protein every 4 hours
 
+![[z_attachments/Pasted image 20260106112745.png|325]]
+
 ### Stage 1
 
 The signs of labour are:
@@ -34,6 +36,7 @@ In a primigravida last typically 10-16 hours
 - Latent phase - 0-3 cm dilation normally takes 6 hours
 - Active phase - 3-10cm dilation, normally 1cm/hr 
 
+Anything less than 1 cm every 2 hours is a delay 
 
 #### Partogram
 Women are monitored for their progress in the first stage of labour using a partogram. 
@@ -160,8 +163,6 @@ Several options before labour to improve symptoms
 - Catheter into the epidural space with combined local anaeshetic and fentanyl
 - Very good pain relief during labour
 - Some more adverse effects: headache after insertion, hypotension, **increased probability of instrumental delivery**
-
-
 
 #### IM Pethidine or Diamorphine
 - Opoids

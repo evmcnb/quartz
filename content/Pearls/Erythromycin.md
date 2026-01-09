@@ -1,7 +1,7 @@
 ---
-title: "Erythromycin"
-date created: 2024-04-13 17:30:20.277585+01
-date modified: 2024-04-13 17:30:20.283982+01
+title: Erythromycin
+date created: Tuesday, November 25th 2025, 8:19:52 pm
+date modified: Tuesday, January 6th 2026, 4:26:30 pm
 tags: ['Antibiotic', 'Drug']
 ---
 

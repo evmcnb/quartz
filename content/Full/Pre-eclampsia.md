@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Pre-eclampsia
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 4:57:48 pm
+date modified: Tuesday, January 6th 2026, 2:51:26 pm
 date created: Monday, December 29th 2025, 2:24:17 pm
 ---
 
@@ -47,6 +47,13 @@ A combination of features that occur as a complication of pre-eclampsia and ecla
 - **H**aemolysis
 - **E**levated **L**iver enzymes 
 - **L**ow **P**latelets
+
+## Investigations
+
+- FBC
+- U&E
+- LFTs
+- Clotting 
 
 ## Management
 

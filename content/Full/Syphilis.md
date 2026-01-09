@@ -2,7 +2,7 @@
 tags: [InfectiousDisease, Neurology, OBGYN]
 title: Syphilis
 date: 
-date modified: Thursday, November 6th 2025, 9:42:29 am
+date modified: Thursday, January 8th 2026, 12:25:27 pm
 date created: Wednesday, November 5th 2025, 2:59:43 pm
 ---
 
@@ -27,9 +27,8 @@ Primary features
 - local non-tender lymphadenopathy
 - often not seen in women (the lesion may be on the cervix)
 
-  
 Secondary features - occurs 6-10 weeks after primary infection  
-- systemic symptoms: fevers, lymphadenopathy
+- **systemic** infection: fevers, lymphadenopathy
 - rash on trunk, palms and soles
 - buccal 'snail track' ulcers (30%)
 - condylomata lata (painless, warty lesions on the genitalia )
@@ -62,16 +61,16 @@ Serological tests can be divided into:
     - examples include: TP-EIA (_T. pallidum_ enzyme immunoassay), TPHA (_T. pallidum_ HaemAgglutination test)
     - the TP-EIA test has become increasingly popular in recent years
 
+Can also be seen on microscopy
+
 #### Example Test Results
 
 Positive non-treponemal test + positive treponemal test  
 - consistent with active syphilis infection
 
-  
 Positive non-treponemal test + negative treponemal test  
 - consistent with a false-positive syphilis result e.g. due to pregnancy or SLE (see list above)
 
-  
 Negative non-treponemal test + positive treponemal test : 
 - consistent with successfully treated syphilis
 
@@ -79,6 +78,8 @@ Negative non-treponemal test + positive treponemal test :
 
 Management  
 - intramuscular benzathine penicillin is the first-line management
+	- Primary, secondary and early latent: 2.4 MU IM single dose
+	- Late latent/tertiary: 2.4 MU IM weekly for 3 weeks
 - alternatives: doxycycline
 
 ## Complications/red Flags

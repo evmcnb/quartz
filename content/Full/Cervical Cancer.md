@@ -2,13 +2,13 @@
 tags: [Oncology, OBGYN]
 title: Cervical Cancer
 date: 
-date modified: Thursday, January 1st 2026, 2:18:05 pm
+date modified: Friday, January 9th 2026, 12:06:06 pm
 date created: Monday, September 22nd 2025, 5:08:59 pm
 ---
 Cancer of the cervix tends to affect younger women, peaking in the reproductive years.
 80% of cervical cancers are **_squamous cell carcinomas_**, other 20% are adenocarcinomas
 
-Cervical cancer is strongly associated with [[Pearls/Human Papilloma virus Infection|Human Papilloma virus Infection]]. Children aged 12 – 13 years are vaccinated against certain strains of HPV to reduce the risk of cervical cancer. 
+Cervical cancer is strongly associated with [[Pearls/Human Papilloma virus Infection|Human Papilloma virus Infection]] (types 16, 18 & 33). Children aged 12 – 13 years are vaccinated against certain strains of HPV to reduce the risk of cervical cancer. 
 
 **_Cervical screening_** with **_smear tests_** is used to screen for precancerous and cancerous changes to the cells of the cervix.
 
@@ -55,8 +55,7 @@ CIN III is sometimes called **_cervical carcinoma in situ_**.
 ### Screening
 
 The cervical screening program involves performing a smear for women:
-- Every three years aged 25 – 49
-- Every five years aged 50 – 64
+- **Every five years aged 25 – 64**
 
 Moved to a HPV first screen, if the cells test negative for HPV the smear is negative. Else: 
 - HPV negative, continue routine screening
@@ -70,7 +69,8 @@ There are some notable exceptions to the program:
 - Women over 65 may request a smear if they have not had one since aged 50
 - Women with previous CIN may require additional tests (e.g. test of cure after treatment)
 - Certain groups of immunocompromised women may have additional screening (e.g. women on dialysis, cytotoxic drugs or undergoing an organ transplant)
-- Pregnant women due a routine smear should wait until 12 weeks post-partum
+- Pregnant women due a routine smear should wait until **12 weeks post-partum**
+- After a LLETZ, a follow up smear is scheduled for **6 months**
 
 ## Management
 
@@ -81,7 +81,7 @@ There are some notable exceptions to the program:
 | II         | Extension of tumour beyond cervix but not to the pelvic wall  <br><br>- A = upper two thirds of vagina<br>- B = parametrial involvement                                                                                            |
 | III        | Extension of tumour beyond the cervix and to the pelvic wall  <br><br>- A = lower third of vagina<br>- B = pelvic side wall<br><br>  <br>NB: Any tumour causing hydronephrosis or a non-functioning kidney is considered stage III |
 | IV         | Extension of tumour beyond the pelvis or involvement of bladder or rectum  <br><br>- A = involvement of bladder or rectum<br>- B = involvement of distant sites outside the pelvis                                                 |
-|            | <small>don't need to learn this</small>                                                                                                                                                                                            |
+
 
 Management of cervical cancer depends on the stage and the individual situation. The usual treatments are:
 

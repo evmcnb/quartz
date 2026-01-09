@@ -2,7 +2,7 @@
 tags: [OBGYN, Acute]
 title: Postpartum haemorrhage
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 2:45:04 pm
+date modified: Tuesday, January 6th 2026, 4:21:34 pm
 date created: Tuesday, December 30th 2025, 4:08:49 pm
 ---
 
@@ -11,7 +11,7 @@ Defined as a blood loss of >500ml after a vaginal delivery.
 - Secondary PPH - occurs, 24 hours to 12 weeks. Due to retained placental tissue or [[Endometritis]]
 
 Cause 4 Ts:
-- Tone (uterine atony) - vast majority of cases. The uterus fails to contract firmly after childbirth preventing it from clamping shut the blood vessels that supply the placenta. 
+- **Tone (uterine atony)** - vast majority of cases. The uterus fails to contract firmly after childbirth preventing it from clamping shut the blood vessels that supply the placenta. 
 - Trauma - perineal tear 
 - Tissue - retained placenta
 - Thrombin - clotting/bleeding disorder

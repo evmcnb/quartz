@@ -54,7 +54,7 @@ Physical exam generally unreliable as similar to dermatitis
 
 - Immediate: Treatment dose apixaban or rivaroxaban or LMWH
 
-Continue anti-coagulation (1st DOAC, [[Pearls/Warfarin|Warfarin]] for those with [[Antiphospholipid syndrome]], LMWH in [[Full/Pregnancy]]) for: 
+Continue anti-coagulation (1st DOAC, [[Pearls/Warfarin|Warfarin]] for those with [[Pearls/Antiphospholipid syndrome]], LMWH in [[Full/Pregnancy]]) for: 
 - 3 months if the DVT was provoked 
 - 6 months if unprovoked or irreversible underlying cause
 

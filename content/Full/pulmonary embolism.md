@@ -2,7 +2,7 @@
 tags: [Respiratory, Cardiovascular]
 title: pulmonary embolism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, October 14th 2025, 2:53:31 pm
+date modified: Tuesday, January 6th 2026, 2:15:00 pm
 date: 2023-09-18
 ---
 
@@ -47,7 +47,7 @@ May also have signs and symptoms of [[Full/Deep Vein Thrombosis#Symptoms|DVT]]
 - <4 perform a D-dimer and if positive get a CTPA
 
 - CTPA - 1st line diagnostic
-- V/Q scan
+- V/Q scan - in those of childbearing age (to protect rapidly developing breasts from irradiation)
 
 ## Management
 
@@ -55,7 +55,7 @@ May also have signs and symptoms of [[Full/Deep Vein Thrombosis#Symptoms|DVT]]
 
 Anticoagulation for haemodynamically stable PEs:
 - DOAC - apixaban or rivaroxaban first line
-- LMWH main alternative (e.g. in [[Pearls/Kidney Failure|Kidney Failure]] patients)
+- LMWH main alternative (e.g. in [[Pearls/Kidney Failure|Kidney Failure]] patients or in [[Full/Pregnancy|Pregnancy]])
 
 ==Massive PE with haemodynamic compromise== one of
 - Continuous infusion of unfractionated heparin
@@ -66,7 +66,7 @@ Anticoagulation for haemodynamically stable PEs:
 ## Long-Term Anticoagulation
 The options for long-term anticoagulation in VTE are a **_DOAC_**, **_warfarin_** or **_LMWH_**.
 - DOACs (-xbans & dabigatran) are first line and are suitable for most patients - exceptions in extreme renal impairment. 
-- [[Pearls/Warfarin|Warfarin]] - target INR 2-3 for treating DVTs and PEs. First line in patients with [[Antiphospholipid syndrome]]
+- [[Pearls/Warfarin|Warfarin]] - target INR 2-3 for treating DVTs and PEs. First line in patients with [[Pearls/Antiphospholipid syndrome]]
 - Low molecular weight heparin (LMWH) is first line in [[Full/Pregnancy]]
 
 Continue anticoagulation for: 

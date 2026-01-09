@@ -1,7 +1,7 @@
 ---
 title: Combined oral contraceptive pill
 date created: Wednesday, December 31st 2025, 2:44:53 pm
-date modified: Sunday, January 4th 2026, 12:02:11 pm
+date modified: Thursday, January 8th 2026, 4:35:47 pm
 tags: [OBGYN, OSCE]
 date: 2023-09-27
 ---
@@ -33,7 +33,7 @@ Harms/benefits:
 - If the COCP is started within the first 5 days of the cycle, then there is no need for additional contraception.
 	- If its started at any other point in the cycle then alternative contraception should be used for the **first 7 days**
 - Should be taken at the same time every day
-- There is no medical benefit from having a withdrawal bleed. Options include never having a pill-free interval, "tricycling" - taking three 21 day packs back to back before having a 4-7 day break. 
+- There is no medical benefit from having a withdrawal bleed. Options include never having a pill-free interval, "tricycling" - taking three 21 day packs back to back before having a 4-7 day break. More tailored
 - Advice that intercourse during the pill-free period is only safe if the next pack is started on time
 - Vomiting or diarrhoea may reduce the effectiveness
 - Effectiveness may be reduced if taking liver enzyme inducing drugs 
@@ -64,7 +64,7 @@ UKEMC 4 conditions:
 - Breast feeding <6 weeks post-partum
 - Uncontrolled hypertension (>160/100)
 - Major surgery
-- Positive antiphospholipid antibodies (e.g. in [[Pearls/Systemic Lupus Erythematosus|Systemic Lupus Erythematosus]] or [[Antiphospholipid syndrome]])
+- Positive antiphospholipid antibodies (e.g. in [[Pearls/Systemic Lupus Erythematosus|Systemic Lupus Erythematosus]] or [[Pearls/Antiphospholipid syndrome]])
 
 #### Types
 

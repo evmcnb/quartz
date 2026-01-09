@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Miscarriage
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 1:53:11 pm
+date modified: Wednesday, January 7th 2026, 4:49:58 pm
 date created: Wednesday, December 31st 2025, 1:31:27 pm
 ---
 
@@ -23,12 +23,17 @@ Different types:
 > [!info] Epidemiology
 > This risk of miscarriage is significantly increased with women over 35 or men over 40
 
+##### Viability
+
+Fetus needs to between 5-7mm to have enough information to assess. At approximately 5-6 weeks gestational age. After this point can see if fetal heart beat should be present. 
+
+
 ### Management
 
 #### Expectant management
 
 - Women with a pregnancy <6 weeks gestation with bleeding can be managed expectantly in the community
-- >6 weeks **need a referral to an early pregnancy assessment unit**
+- $>$ 6 weeks **need a referral to an early pregnancy assessment unit**
 
 First line involves waiting 7-14 days for the miscarriage to complete spontaneously. If unsuccessful then medical or surgical management may be offered
 
@@ -36,7 +41,7 @@ First line involves waiting 7-14 days for the miscarriage to complete spontaneou
 > Some situations cannot be managed expectantly:
 > - Increased risk of haemorrhage 
 > - Evidence of infection
->   Previous adverse/traumatic pregnancy
+> - Previous adverse/traumatic pregnancy
 
 #### Medical Management
 
@@ -67,7 +72,7 @@ Indicated when patient unwell otherwise patient choice. Two pain options are
 Defined as 3 or more consecutive spontaneous abortions
 
 Causes:
-- [[Antiphospholipid syndrome]]
+- [[Pearls/Antiphospholipid syndrome]]
 - Endocrine disorders: poorly controlled [[Full/Diabetes Mellitus|Diabetes Mellitus]]/thyroid disorders. [[Pearls/Polycystic ovary syndrome|Polycystic ovary syndrome]]
 - Uterine abnormality
 - Parental chromosomal abnormalities

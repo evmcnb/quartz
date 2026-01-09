@@ -20,7 +20,7 @@ Anything that increases the risk of embolic events or CVD
 - Embolic events - theromboemboli from the carotid artery or heart can occlude the vessel
 - Atherosclerosis - buld-up of plaque in the carotid artery or ophthalmic artery
 - Vasculitis - inflammatory conditions such as [[Full/Giant cell arteritis]]
-- Hypercoagulable states - [[Antiphospholipid syndrome]] or protein C/S defiency
+- Hypercoagulable states - [[Pearls/Antiphospholipid syndrome]] or protein C/S defiency
 
 ## Clinical Features
 

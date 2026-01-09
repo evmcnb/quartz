@@ -2,12 +2,11 @@
 tags: [OBGYN]
 title: Menopause
 date: 2023-09-27
-date modified: Sunday, January 4th 2026, 3:08:27 pm
+date modified: Wednesday, January 7th 2026, 9:53:56 am
 date created: Sunday, January 4th 2026, 2:53:38 pm
 ---
 
 Permanent cessation of menstruation. Clinical diagnosis made after a period has been absent for 12 months. 
-
 
 Average age of 51 years old. Symptoms start in the climacteric period (before) caused by reduced level of oestrogen/ovarian failure. Typically last for 7 years. 
 - change in length of menstrual cycles
@@ -24,11 +23,14 @@ Average age of 51 years old. Symptoms start in the climacteric period (before) c
 ##### HRT
 Cannot give unopposed oestrogen, so oral or transdermal combined HRT is given if the women has a uterus. Symptoms typically last 2-5 years
 
+Can also give [[Pearls/Intrauterine contraceptive device|Mirena Coil]]
+
 Treatment with HRT has some risks:
 - [[Full/Deep Vein Thrombosis|Deep Vein Thrombosis]] slight increased risk with **oral** HRT. No increased with with **transdermal** HRT
 - Slightly increased risk with oral HRT
 - Breast cancer increased risk with all combined HRT, although the mortality from breast cancer is not raised
 - Ovarian cancer: increased risk with all HRT 
+- Heard disease: oral HRT started 10 years after the menopause
 
 **Contraindications**
 - Current or past breast-cancer

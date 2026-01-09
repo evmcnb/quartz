@@ -2,7 +2,7 @@
 tags: []
 title: Progestogen-only pill
 date: 2023-09-27
-date modified: Sunday, January 4th 2026, 12:10:33 pm
+date modified: Thursday, January 8th 2026, 4:14:50 pm
 date created: Wednesday, December 31st 2025, 3:13:31 pm
 ---
 
@@ -11,15 +11,15 @@ Far fewer contraindications and risks compared with the [[Pearls/Combined oral c
 
 Only absolute contraindication is active [[Full/Breast carcinoma|Breast carcinoma]]
 
-Irregular vaginal bleeding in the most common problem
+Irregular vaginal bleeding in the most common problem - usually settles within 3 months 
 
 **Two types to remember**:
 - Traditional POP - cannot be delayed for more than 3 hours
 - Desogestrel-only pill - can be taken up to 12 hours late and still be effective
 
 Traditional pill works by mainly thickening the cervical mucus. 
-Desogestrel works by also inhibiting ovulation 
 
+**Desogestrel works by also inhibiting ovulation** 
 
 #### Starting the POP
 
@@ -30,6 +30,6 @@ Desogestrel works by also inhibiting ovulation
 #### Missed pills
 
 If criteria met for a missed pill, see above: 
-- Take the missed pill as soon as possible
+- Take the missed pill as soon as possible and the due pill whenever its scheduled
 - Continue with the rest of the pack 
 - **Additional contraception** should be used until pill taking has been re-established for 48 hours

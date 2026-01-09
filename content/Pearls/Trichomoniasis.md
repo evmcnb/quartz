@@ -2,7 +2,7 @@
 tags: [InfectiousDisease, OBGYN, Urology]
 title: Trichomoniasis
 date: 2023-09-27
-date modified: Friday, January 2nd 2026, 1:17:46 pm
+date modified: Thursday, January 8th 2026, 10:36:18 am
 date created: Friday, January 2nd 2026, 1:11:12 pm
 ---
 
@@ -17,13 +17,14 @@ Protozoan spread through sexual intercourse. Can increase the risk of:
 **Presentation**:
 - **Strawberry cervix**
 - **pH > 4.5**
-- Vaginal discharge: offensive, yellow/green frothy
+- Vaginal discharge: offensive, **yellow frothy**
 - Vulvovaginitis
 - Usually asymptomatic in men but may cause urethritis
 
-NAATs gold standard
+NAATs gold standard - can do microscopy
 
 **Management**:
 - Refer to GUM for, diagnosis, treatment and contact tracing
-- Oral metronidazole for 5-7 days
+- Oral metronidazole 400mg BD for 5-7 days
 - Or STAT 2g metronidazole
+- No sex until both partners are treated

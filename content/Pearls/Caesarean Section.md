@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Caesarean Section
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 12:16:57 pm
+date modified: Tuesday, January 6th 2026, 12:34:17 pm
 date created: Tuesday, December 30th 2025, 4:20:54 pm
 ---
 
@@ -46,3 +46,8 @@ Prophylactic antibiotics given to reduce the risk of [[Pearls/Postpartum Endomet
 - Case by case decision for pre-mature babies
 - Around 70-75% have a successful vaginal delivery
 - Contraindications include previous uterine rupture or classical caesarean scar 
+
+For those having a VBAC need the following:
+- good IV access
+- continuous CTG 
+- adequate progress 
