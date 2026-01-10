@@ -2,7 +2,7 @@
 tags: [Oncology, OBGYN]
 title: Cervical Cancer
 date: 
-date modified: Friday, January 9th 2026, 12:06:06 pm
+date modified: Friday, January 9th 2026, 1:43:42 pm
 date created: Monday, September 22nd 2025, 5:08:59 pm
 ---
 Cancer of the cervix tends to affect younger women, peaking in the reproductive years.
@@ -63,6 +63,7 @@ Moved to a HPV first screen, if the cells test negative for HPV the smear is neg
 - HPV positive with abnormal cytology - refer for colposcopy
 - Inadequate sample - repeat the smear after at least 3 months 
 
+- If 3 serial positive HPV results but normal cytology - refer for colposcopy (patient not clearing HPV)
 
 There are some notable exceptions to the program:
 - Women with HIV are screened **annually**
@@ -73,6 +74,8 @@ There are some notable exceptions to the program:
 - After a LLETZ, a follow up smear is scheduled for **6 months**
 
 ## Management
+
+Staging with CT Abdomen/Chest
 
 | FIGO Stage | Description                                                                                                                                                                                                                        |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -90,14 +93,23 @@ Management of cervical cancer depends on the stage and the individual situation.
 - **_Stage 2B – 4A_**: Chemotherapy and radiotherapy
 - **_Stage 4B_**: Management may involve a combination of surgery, radiotherapy, chemotherapy and palliative care
 
+##### Fertility sparing treatment
+
+Option in women who  
+- are under the age of 40  
+- wish to preserve fertility  
+- Have tumours less than 2 cms in size
+
+Patients can be offered radical trachelectomy (cervix, parametrium and upper vagina removed and uterus  anastomosed to vagina) with pelvic lymphadenectomy after MDT discussion.
+
 
 ## Complications/red Flags
 
  The **_5-year survival_** drops significantly with more advanced cervical cancer, from around 98% with stage 1A to around 15% with stage 4. Early detection makes a significant difference, which is one reason the screening program is so valuable and important.
  
-|FIGO Stage|1-Year Survival|5-Year Survival|
-|---|---|---|
-|I|99%|96%|
-|II|85%|54%|
-|III|74%|38%|
-|IV|35%|5%|
+| FIGO Stage | 1-Year Survival | 5-Year Survival |
+| ---------- | --------------- | --------------- |
+| I          | 99%             | 96%             |
+| II         | 85%             | 54%             |
+| III        | 74%             | 38%             |
+| IV         | 35%             | 5%              |

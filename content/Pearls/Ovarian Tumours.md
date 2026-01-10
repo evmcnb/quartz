@@ -1,7 +1,7 @@
 ---
 title: Ovarian Tumours
 date created: Sunday, January 21th 2024, 12:45:50 PM
-date modified: Sunday, January 4th 2026, 3:35:23 pm
+date modified: Friday, January 9th 2026, 1:58:30 pm
 tags: [Oncology, OBGYN]
 aliases: [Ovarian cysts, Ovarian cancer]
 ---
@@ -129,3 +129,7 @@ All pateints managed through gynaecological oncology MDT. Definitive treatment:
 - Primary cytoreductive surgery - total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy
 - Followed by platinum based chemotherapy
 - Where primary debulking is unlikely, neoadjuvant chemotherapy is given first. 
+
+Targeted therapies used for maintenance: 
+- PARP-inhibitors – in patients with BRCA mutations
+- VEGF inhibitors – in selected patients with stage 4 disease

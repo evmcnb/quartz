@@ -6,6 +6,8 @@ tags: ['OBGYN', 'Endocrinology']
 ---
 Endocrine disorder characterised by hyperandrogenism + [[Pearls/Insulin|Insulin]] resistance. Both a high insulin and LH levels are seen in PCOS - some overlap with metabolic syndrome 
 
+Effectively the same symptoms as [[Pearls/Menopause|Menopause]]
+
 Increased GnRH stimulation from the hypothalamus leads to elevated LH levels, which in turn causes ovarian androgen production, resulting in raised testosterone levels and lowered sex hormone binding globulin.
 
 Investigated with:

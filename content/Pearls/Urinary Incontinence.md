@@ -1,7 +1,7 @@
 ---
 title: Urinary Incontinence
 date created: Tuesday, March 19th 2024, 04:01:50 PM
-date modified: Tuesday, January 6th 2026, 8:47:59 am
+date modified: Friday, January 9th 2026, 2:35:16 pm
 tags: ['Urology']
 ---
 
@@ -14,11 +14,13 @@ Two types - **urge and stress**. Establishing the type is essential for managem
 * Over activity of the detrusor muscle - **overactive bladder**
 * Suddenly feeling the urge to pass urine
 * Significant impact on quality of life
+* Caffeine, carbonated drinks, alcohol
 
 ## Stress Incontinence
 
 * Weakness in pelvic floor and sphincter muscles allows urine to leak at times of increased pressure on the bladder
 * Typically when laughing, coughing or when surprised.
+* Increase risk with higher parity 
 
 ## Mixed type
 
@@ -32,13 +34,21 @@ Two types - **urge and stress**. Establishing the type is essential for managem
 * Anticholinergic medications, fibroids, pelvic tumours, neurological conditions (MS, [[Pearls/Diabetic neuropathy|Diabetic neuropathy]] and spinal cord injuries)
 * More common in men - rare in women. Women suspected should be referred for urodynamic testing and specialist management
 
+
+## Investigations
+
+Bladder diaries should be completed for a minimum of 3 days
+- Urine dip and cultures
+- Urodynamics studies not required before conservative management - looking at detrusor muscle activity 
+![[z_attachments/Pasted image 20260109143001.png]]
+
 ## Management
 
 **Stress incontinence:**
 - Urinalysis - to exclude a UTI or diabetes
 * Avoid caffeine, diuretics and overfilling the bladder
 * Avoid excessive or restrictive fluid intake
-* Weight loss if appropriate
+* Weight loss if appropriate (BMI <30)
 * Supervised pelvic floor exercises for at least 3 months before considering **surgery**
 * Duloxetine - SNRI used second line after surgery if not suitable candidate
 

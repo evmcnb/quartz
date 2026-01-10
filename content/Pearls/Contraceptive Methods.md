@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Contraceptive Methods
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 3:23:22 pm
+date modified: Friday, January 9th 2026, 1:26:59 pm
 date created: Wednesday, December 31st 2025, 2:43:01 pm
 ---
 

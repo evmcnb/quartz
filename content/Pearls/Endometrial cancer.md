@@ -1,16 +1,20 @@
 ---
 title: Endometrial cancer
 date created: Sunday, January 21th 2024, 12:44:02 PM
-date modified: Wednesday, January 7th 2026, 4:10:31 pm
+date modified: Friday, January 9th 2026, 1:49:48 pm
 tags: [OBGYN]
 date:
+aliases: [Uterine cancer]
 ---
 
 
 > [!warning] 
 > Any woman presenting with postmenopausal bleeding has endometrial cancer until proven otherwise. Should be 2WW referred. The key risk factors are obesity and [[Full/Diabetes Mellitus|Diabetes Mellitus]] 
 
-* 2 types of adenocarcinomas (Type 1 endometrioid, Type 2 serous)
+2 types of adenocarcinomas
+- Type 1 endometrioid oestrogen dependent 90%
+- Type 2 serous 10% 
+
 * FIGO staging
 * Lynch syndrome also increases risk of endometrial cancer (MLH1)
 * Smoking reduces risk?
