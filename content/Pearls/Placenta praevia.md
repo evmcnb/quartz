@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Placenta praevia
 date: 2023-09-27
-date modified: Monday, December 29th 2025, 4:20:15 pm
+date modified: Sunday, January 11th 2026, 12:01:52 pm
 date created: Monday, December 29th 2025, 4:10:24 pm
 ---
 aka low lying placenta 
@@ -22,7 +22,6 @@ Classical grading
 - embryos are more likely to implant on a lower segment scar from previous caesarean section
 
   
-
 ## Presentation
 
 - No pain

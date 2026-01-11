@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Caesarean Section
 date: 2023-09-27
-date modified: Tuesday, January 6th 2026, 12:34:17 pm
+date modified: Saturday, January 10th 2026, 5:12:32 pm
 date created: Tuesday, December 30th 2025, 4:20:54 pm
 ---
 
@@ -51,3 +51,15 @@ For those having a VBAC need the following:
 - good IV access
 - continuous CTG 
 - adequate progress 
+
+#### Anatomy
+
+Layers superficial to deep
+- Superficial fascia
+- Deep fascia
+- Anterior rectus sheath
+- Rectus abdominis muscle (not cut, rather pushed laterally following incision of the linea alba)
+- Transversalis fascia
+- Extraperitoneal connective tissue
+- Peritoneum
+- Uterus

@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Pelvic inflammatory disease
 date: 2023-09-27
-date modified: Wednesday, January 7th 2026, 11:25:32 am
+date modified: Saturday, January 10th 2026, 4:53:04 pm
 date created: Friday, January 2nd 2026, 1:03:11 pm
 ---
 
@@ -21,6 +21,7 @@ Usually the result of ascending infection from the endocervix
 - Dysuria and menstrual irregularities
 - Vaginal or cervical discharge
 - Cervical excitation/cervical motion tenderness
+- Subfertility
 
 **Investigations**
 - Pregnancy test done to exclude [[Full/Ectopic Pregnancy|Ectopic Pregnancy]]

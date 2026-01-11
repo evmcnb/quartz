@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Ectopic Pregnancy
 date:
-date modified: Wednesday, December 31st 2025, 1:31:27 pm
+date modified: Sunday, January 11th 2026, 6:21:52 pm
 date created: Sunday, October 26th 2025, 11:50:23 am
 ---
 Most common site is the fallopian tube (97%). 
@@ -20,6 +20,7 @@ Non-tubal
 - Intrauterine devices (coils)
 - Older age
 - Smoking
+- [[Pearls/Endometriosis|Endometriosis]]
 
 ## Presentation
 

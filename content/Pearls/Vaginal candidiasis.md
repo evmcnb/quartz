@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Vaginal candidiasis
 date: 2023-09-27
-date modified: Thursday, January 8th 2026, 10:22:25 am
+date modified: Sunday, January 11th 2026, 5:59:15 pm
 aliases: [Vaginal thrush]
 date created: Friday, January 2nd 2026, 12:23:12 pm
 ---
@@ -28,7 +28,7 @@ Can be a **clinical diagnosis** - high vaginal swab is not routinely indicated.
 **Management**:
 - Avoid local irritants - tight fitting clothes, scented products etc
 - Oral fluconazole 150mg single dose
-- Clotrimazole 500mg intravaginal pessary as a single dose if cannot take orally
+- Clotrimazole 500mg intravaginal pessary as a single dose if cannot take fluconazole (e.g. pregnancy)
 - If there are vulval symptoms, consider adding topical imidazole
 
 If pregnant, then only local treatments may be used. 

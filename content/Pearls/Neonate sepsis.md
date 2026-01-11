@@ -1,13 +1,13 @@
 ---
 title: Neonate sepsis
 date created: Sunday, January 21th 2024, 12:48:06 PM
-date modified: Thursday, December 18th 2025, 2:35:54 pm
+date modified: Saturday, January 10th 2026, 3:54:30 pm
 tags: [Acute, Neonatology]
 ---
 
 Serious infection in the blood within the first 28 days of life. Categorised as:
 * Early onset first 72 hour - Group B strep/E coli., colonised during delivery
-* Late onset after 72h same organisms but healthcare associated
+* Late onset after 72h - hospital acquired pathogens: _Staphylococcus epidermidis_ and _Staphylococcus aureus_
 
 Account for 10% of all neonatal mortality and must be promptly identified and managed. 
 

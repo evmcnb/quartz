@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Rhesus negative pregnancy
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 4:57:56 pm
+date modified: Sunday, January 11th 2026, 11:53:05 am
 date created: Monday, December 29th 2025, 1:26:46 pm
 ---
 
@@ -30,5 +30,9 @@ Anti-D Ig should be given STAT (always within 72 hours) in the following situati
 
 **All babies born to Rh -ve mother should have cord blood taken at delivery for FBC, blood group and direct [[Pearls/Coombs test]]**
 
-**Kleihauer test** - checks how much fetal blood has passed into the mother's blood during a sensitisation event. Used after any sensitising event past 20 weeks gestation. Add acid to maternal blood, fetal cells are resistant
+##### Kleihauer test
+
+Checks how much fetal blood has passed into the mother's blood during a sensitisation event. 
+- **Used after any sensitising event past 20 weeks gestation**. 
+- Add acid to maternal blood, fetal cells are resistant
 

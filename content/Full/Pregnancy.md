@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology, OBGYN]
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, January 6th 2026, 4:34:38 pm
+date modified: Sunday, January 11th 2026, 6:38:49 pm
 date: 2023-09-18
 ---
 
@@ -71,6 +71,28 @@ Should always be a balance of risk - drugs different again in lactation
 | Entonox                                                                                                               | [[Pearls/Lithium\|Lithium]]                                                                                                                                             |
 | [[Pearls/Magnesium Sulfate\|Magnesium Sulfate]]                                                                       | Isotretinoin                                                                                                                                                            |
 |                                                                                                                       | SSRIs - can cross the placenta. Risk benefits need to be balanced<br>1st trimester: heart defects<br>3rd trimester: pulmonary hypertension<br>Can experience withdrawal |
+
+### Drugs in Lactation
+
+
+| Consider Safe                                 | Contraindicated                         |
+| --------------------------------------------- | --------------------------------------- |
+| [[Full/Penicillins\|Penicillins]]             | [[Pearls/Ciprofloxacin\|Ciprofloxacin]] |
+| [[Full/Cephalosporins\|Cephalosporins]]       | Tetracycline                            |
+| [[Pearls/Trimethoprim\|Trimethoprim]]         | Chloramphenicol                         |
+| Gluccorticoids                                | Sulphonamides                           |
+| [[Pearls/Levothyroxine\|Levothyroxine]]       | [[Pearls/Lithium\|Lithium]]             |
+| [[Pearls/Sodium Valproate\|Sodium Valproate]] | Benzodiazepines                         |
+| [[Pearls/Carbamazepine\|Carbamazepine]]       | [[Pearls/Aspirin\|Aspirin]]             |
+| [[Pearls/Salbutamol\|Salbutamol]]             | [[Pearls/Carbimazole\|Carbimazole]]     |
+| [[Tricyclic antidepressants]]                 | Methotrexate                            |
+| [[Antipsychotics]]                            | Sulfonylureas                           |
+| Beta blockers                                 | Cytotoxic drugs                         |
+| Warfarin                                      | [[Pearls/Amiodarone\|Amiodarone]]       |
+| Heparin                                       |                                         |
+| Digoxin                                       |                                         |
+
+
 
 ## Chronic Conditions
 

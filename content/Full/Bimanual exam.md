@@ -2,7 +2,7 @@
 tags: [OSCE, OBGYN]
 title: Bimanual exam
 date: ""
-date modified: Wednesday, January 7th 2026, 6:05:40 pm
+date modified: Sunday, January 11th 2026, 11:46:22 am
 date created: Wednesday, January 7th 2026, 5:50:23 pm
 aliases: [Vaginal examination]
 ---
@@ -37,7 +37,7 @@ aliases: [Vaginal examination]
 - Can do this in privacy then let us know when they're ready 
 - They'll have a towel/sheet provided
 
-## ## Vulval exam
+## Vulval exam
 
 #### Inspect the vulva
 

@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Umbilical cord prolapse
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 3:48:35 pm
+date modified: Sunday, January 11th 2026, 12:04:35 pm
 date created: Tuesday, December 30th 2025, 3:41:42 pm
 ---
 
@@ -14,6 +14,7 @@ Risk factors:
 - Polyhydramnios
 - Twin pregnancy
 - Abnormal presentations
+- Artificial amniotomy
 
 Around 50% of cord prolapses occur at artificial rupture of the membranes
 

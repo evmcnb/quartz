@@ -2,12 +2,12 @@
 tags: [OBGYN]
 title: Antenatal lifestyle advice
 date: 2023-09-27
-date modified: Monday, December 29th 2025, 2:16:54 pm
+date modified: Sunday, January 11th 2026, 5:55:16 pm
 date created: Saturday, December 27th 2025, 12:08:05 pm
 ---
 
 ##### Nutritional supplements
-- Folic acid 400 mcg should be given from before conception until 12 weeks - reduces the risk of neural tube defects. Some may require higher doses (women who take anti-epileptics)
+- Folic acid 400 mcg should be given from before conception until 12 weeks - reduces the risk of neural tube defects. Some may require higher doses (women who take anti-epileptics or have [[Pearls/Sickle Cell Disease|Sickle Cell Disease]])
 - Women with folate deficiency are started on folic acid 5mg daily.
 - Iron supplementation should **not** be offered routinely
 - Vitamin A supplementation might be teratogenic (intake above 700 mcg). Liver is high in vitamina A so should be avoided

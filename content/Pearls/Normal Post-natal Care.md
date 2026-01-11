@@ -2,7 +2,7 @@
 tags: [Neonatology, Paediatrics]
 title: Normal Post-natal Care
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 12:13:36 pm
+date modified: Saturday, January 10th 2026, 4:01:23 pm
 date created: Thursday, December 18th 2025, 11:04:28 am
 ---
 
@@ -45,6 +45,7 @@ If oral 3 doses are given at birth, 4-7 days and 4-6 weeks.
 - Breast feeding released oxytocin which can cause the uterus to contract. This is normal 
 - Breastfeeding women may not have regular menstrual period for 6 months or longer - lactational amenorrhea
 - Bottle-feeding women will begin having period from 3 weeks onwards
+- Cabergoline can be used to suppress lactation (dopamine agonist)
 
 #### Contraception After Childbirth
 

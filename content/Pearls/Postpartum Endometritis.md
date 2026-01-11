@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Postpartum Endometritis
 date: 2023-09-27
-date modified: Tuesday, January 6th 2026, 4:42:51 pm
+date modified: Sunday, January 11th 2026, 1:33:29 pm
 date created: Wednesday, December 31st 2025, 12:14:25 pm
 ---
 
@@ -13,6 +13,8 @@ Inflammation usually caused by an infection. Occurs more commonly after a [[Pear
 - Lower abdominal or pelvic pain
 - Fever
 - [[Full/Sepsis|Sepsis]]
+
+Need to be admitted if pyrexial
 
 Patients presenting with milder symptoms and no signs of sepsis can be treated in the community with oral broad-spectrum (e.g. co-amoxiclav) depending on risk of chlamydia and gonorrhoea. Worried most about Group A Strep - so need to cover that 
 
