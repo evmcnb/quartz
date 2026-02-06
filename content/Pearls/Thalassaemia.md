@@ -1,7 +1,7 @@
 ---
 title: Thalassaemia
 date created: Sunday, January 21th 2024, 01:01:57 PM
-date modified: Friday, October 31st 2025, 12:45:53 pm
+date modified: Tuesday, January 27th 2026, 5:22:33 pm
 tags: ['Haematology']
 ---
 
@@ -22,7 +22,9 @@ Change in globin gene expression leads to reduced rate of synthesis of normal gl
 
 **Intermedia** - no absolute requirement for transfusions to survive. Clinical picture v dependant on genetics
 
-**Major** - severe [[Pearls/Anaemia|Anaemia]], lots of abnormal nucleated RBCs clinical features due to severe [[Pearls/Anaemia|Anaemia]]. Hair on end skull
-
+**Major** - severe [[Pearls/Anaemia|Anaemia]], lots of abnormal nucleated RBCs clinical features due to severe [[Pearls/Anaemia|Anaemia]]. Hair on end skull. Failure to thrive, HbF markedly raised
+- Regular lifelong blood tranfusions
+- Iron chelation therapy (need blood but not all the iron)
+- Stem cell/bone marrow transplant can be curative
 Need blood but causes Fe toxicity so iron chelation needed too
 

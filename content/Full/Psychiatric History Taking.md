@@ -44,7 +44,7 @@ Depending on the situation, information may be need to be gathered from a collat
 - Delusions and hallucinations (psychosis)
 - Obsessions or compulsions
 - Alcohol or substance abuse
-- Issues around food or weight (eating disorders)
+- Issues around food or weight ([[Pearls/Eating disorders]])
 
 When exploring symptoms, you can use the acronym **NOTEPAD**:
 

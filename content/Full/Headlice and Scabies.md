@@ -1,7 +1,6 @@
 ---
-tags:
-  - Dermatology
-title: Head Lice and Scabies
+tags: [Dermatology]
+title: "**Scabies**"
 date created: Saturday, December 23rd 2023, 1:48:19 pm
 date modified: 2024-03-11
 date: 2024-01-11
@@ -36,7 +35,7 @@ date: 2024-01-11
 
 # **Scabies**
 
-**Overview:** Scabies is a contagious skin infestation caused by the Sarcoptes scabiei mite. The mites burrow into the skin, and deposit eggs. Stmptoms due to allergic reaction to the parasite. Spread through prolonged skin-to-skin contact.
+**Overview:** Scabies is a contagious skin infestation caused by the Sarcoptes scabiei mite. The mites burrow into the skin, and deposit eggs. Symptoms due to allergic reaction to the parasite. Spread through prolonged skin-to-skin contact.
 
 **Causes/Factors:**
 

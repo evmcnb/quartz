@@ -26,3 +26,11 @@ The following signs may indicate abuse, but do not confirm it:
 
 
 All NHS organisations should have a **_safeguarding team_** and a **_safeguarding lead_** who is available to assist with safeguarding concerns.
+
+**Non accidental injury**  
+- Delayed presentation
+- Delay in attaining milestones
+- Lack of concordance between proposed and actual mechanism of injury
+- Multiple injuries
+- Injuries at sites not commonly exposed to trauma
+- Children on the at risk register

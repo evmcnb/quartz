@@ -1,8 +1,8 @@
 ---
-tags: []
+tags: [InfectiousDisease, Paediatrics]
 title: Molluscum contagiosum
 date: 2023-09-27
-date modified: Thursday, January 8th 2026, 11:50:06 am
+date modified: Friday, February 6th 2026, 1:59:04 pm
 date created: Thursday, January 8th 2026, 11:43:29 am
 ---
 

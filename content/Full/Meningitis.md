@@ -1,8 +1,8 @@
 ---
-tags: []
+tags: [Neurology]
 title: Meningitis
-date: 
-date modified: Thursday, November 20th 2025, 9:09:36 pm
+date:
+date modified: Tuesday, January 27th 2026, 5:53:04 pm
 date created: Thursday, November 20th 2025, 8:37:07 pm
 ---
 
@@ -24,7 +24,7 @@ date created: Thursday, November 20th 2025, 8:37:07 pm
 * ***Group B streptococcus*** (***GBS***) (particularly in neonates as GBS may colonise the vagina)
 * ***Listeria monocytogenes*** (particularly in neonates)
 
-Viral causes:
+Viral causes tend to be milder and only require supportive treatment. Aciclovir can be used in confirmed cases:
 
 * ***Enteroviruses*** (e.g., ***coxsackievirus***)
 * ***Herpes simplex virus*** (***HSV***)
@@ -57,7 +57,7 @@ There are two ***special tests*** you can perform to look for meningeal irritati
 1. IV acesss - cultures, bloods (FBC, renal function, glucose, lactate, clotting, CRP)
 2. LP - if this cannot be done within the first hour, IV antibiotics should be given after blood cultures have been taken
 3. IV antibiotics
-4. IV dexamethasone (avoid is sepsis/septicaemia, immunocompromised or following surgery)
+4. IV dexamethasone (avoid is sepsis/septicaemia, immunocompromised or following surgery) for auditory and neuro protection
 5. (acyclovir used in severe cases)
 
 
@@ -76,12 +76,17 @@ Bacterial causes - medical emergency. See guidelines for specifics:
 - When in hospital - if <3 months or >50 years = IV ceftriaxone + amox (for listeria cover)
 - Otherwise in **hospital** IV ceftriaxone
 
+
 | Organism                                      | Management                                  |
 | --------------------------------------------- | ------------------------------------------- |
 | Meningococcal meningitis                      | IV benzylpenicillin or IV ceftriaxone       |
 | Pneumococcal meningitis                       | IV ceftriaxone                              |
 | Meningitis caused by _Haemophilus influenzae_ | IV ceftriaxone)                             |
 | Meningitis caused by Listeria                 | IV amoxicillin (or ampicillin) + gentamicin |
+
+Vancomycin should be added if theres a risk of penicillin resistant pneumococcal infection (recent foreign travel or prolonged antibiotic exposure)
+
+
 
 ## Investigations
 

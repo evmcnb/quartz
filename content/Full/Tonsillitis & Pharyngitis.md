@@ -28,7 +28,16 @@ Most commonly caused by [[Pearls/Viruses|Viruses]] - rhino, corona, [[Pearls/Inf
 
 ## Diagnostic Tests
 
-FeverPAIN Criteria - to determine whether antibiotics might be needed
+
+> [!success] Centor Criteria
+> Can be used to estimate the probability that tonsillitis is due to a bacteria infection. A score of 3 or more gives 40-60% probability of bacterial tonsillitis and it is appropriate to offer abx. One point for each of:
+> - Fever over 38$\degree$C 
+> - Tonsillar exudates
+> - Absence of cough
+> - **Tender** anterior cervical lymph nodes
+
+
+FeverPAIN Criteria - to determine whether antibiotics might be needed alternative to centor criteria. 
 
 - **F**ever (during previous 24 hours)
 - **P**urulence (pus on tonsils)
@@ -43,12 +52,22 @@ If needed:
 ## Management
 
 1. **Viral Infections:** Rest, hydration, and over-the-counter pain relievers.
-2. **Bacterial Infections:** Antibiotics (if caused by streptococcus bacteria).
+2. **Bacterial Infections:** Antibiotics (if caused by streptococcus bacteria) - **Penicillin V 10 days** (but tastes bad for children so amoxicillin could be prescribed but not part of guidelines), clarithromycin in those with true penicillin allergy.  
 3. **Hydration:** Drinking fluids to stay hydrated.
 4. **Saltwater Gargle:** Warm saltwater gargles for soothing the throat.
 
+
+### Tonsillectomy
+
+The indications for tonsillectomy are controversial. NICE recommend that it should only be considered if the person meets **all** of the following: 
+- Sore throats are due to true tonsillitis (not recurrent URTI)
+- The person has 7 episodes per year for 1 year, 5 per year for 2 years or 3 per year for 3 years with no explanation of recurrence
+- The episodes are disabling and prevent normal function
+
+
 ## Complications/red Flags
 
+- **[[Full/Otitis media|Otitis media]]**
 - **Complications of Untreated Strep Throat:** [[Pearls/Rheumatic Fever|Rheumatic Fever]], kidney inflammation (post-streptococcal [[Pearls/Glomerulonephritis|Glomerulonephritis]]), and others.
-- **Peritonsillar Abscess:** Accumulation of pus around the tonsils.
+- **Peritonsillar Abscess:** Accumulation of pus around the tonsils ([[Pearls/Quinsy]])
 - **Airway Obstruction:** Severe tonsillar swelling leading to breathing difficulties.

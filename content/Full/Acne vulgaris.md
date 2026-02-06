@@ -1,12 +1,10 @@
 ---
-tags:
-  - Dermatology
+tags: [Dermatology]
 title: Acne vulgaris
 date created: Saturday, December 23rd 2023, 2:01:46 pm
-date modified: 2024-03-11
+date modified: Wednesday, February 4th 2026, 11:17:00 am
 date: 2024-01-14
-aliases:
-  - Acne
+aliases: [Acne]
 ---
 Acne is caused by chronic inflammation with out without localised infection within pockets of skin - pilosebaceous units that contain the fair follicles and sebaceous glands
 
@@ -34,15 +32,39 @@ Aim of treatment is to reduce the symptoms, risk of scaring and psychosocial imp
 > [!warning]
 > Always explore the psychosocial burden and any potential anxiety and [[Full/Depression]] that may be associated with the condition 
 
-- If mild no treatment may be an option
-- **Topical benzyol peroxide** - reduces inflammation, helps unblock the comedomes and is toxic to the P. acnes bacteria  
-- **Topical retinoids** - chemicals related to vitamin A that slow the production of sebum
-- **Topical antibiotics** - [[Pearls/Clindamycin|Clindamycin]] 
-- **Oral antibiotics** - lymecycline
-- **Oral contraceptive pill** - can help female patients stabilise hormones to slow production of sebum 
+#### Mild to moderate
+
+A 12 week course of **topical therapy** should be tried first-line: 
+- Topical benzyol peroxide - reduces inflammation, helps unblock the comedomes and is toxic to the P. acnes bacteria  
+- Topical retinoids - chemicals related to vitamin A that slow the production of sebum
+- Topical [[Pearls/Clindamycin|Clindamycin]]
+
+#### Moderate to severe
+
+A 12 week course of **one** of the following: 
+- Topical adapalene with benzyol peroxide $\pm$ oral lymecycline or [[Pearls/Doxycycline|Doxycycline]]
+- Topical tretinoin with topical clindamycin
+- Topical azelaic acid  + oral lymecycline or [[Pearls/Doxycycline|Doxycycline]]
+
+Only continue antibiotics for more than 6 months in exceptional circumstances. Topical and oral antibiotics should not be used in combination.
+
+> [!danger] Tetracyclines in Pregnancy
+> Tetracycline should be avoided in pregnant or breastfeeding women and in children younger than 12. Erythromycin may be used in pregnancy 
+
+The [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]] may be used as an alternative to oral antibiotics in women
+
+
+> [!warning] NICE referral criteria
+> Referral should be considered in the following:
+> - Mild to moderate acne that has not responded to two completed courses of treatment
+> - Moderate to severe acne that has not responded to previous treatment including antibiotic
+> - Acne with scarring or persistent pigmentary changes 
+> - Acne causing/contributing to psychological distress
+
 
 ### Isotretinoin (*Roaccutane*)
 
+- Only under specialist supervision
 - Very effective at clearing the skin - but with very harsh side effects
 
 >[!danger]

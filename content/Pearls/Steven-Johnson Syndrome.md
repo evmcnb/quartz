@@ -2,10 +2,10 @@
 tags: [Oncology, Ophthalmology, Rheumatology]
 title: Steven-Johnson Syndrome
 date:
-date modified: ""
+date modified: Wednesday, February 4th 2026, 11:23:13 am
 aliases: [Toxic Epidermal Necrolysis]
+date created: Tuesday, November 25th 2025, 8:20:06 pm
 ---
-
 
 Steven-Johnson Syndrome and Toxic Epidermal Necrolysis (TEN) are a spectrum of the **same pathology**, where a disproportional immune response causes epidermal necrosis, resulting in blistering and shedding of the top layer of skin. 
 
@@ -13,11 +13,13 @@ SJS <10% of body surface area, TEN >10%
 
 ## Causes/Factors
 
-Drugs
-- Anti-epileptics
-- Antibiotics
-- Allopurinol
-- NSAIDs
+Drugs (PECANS)
+- P - penicillins  
+- E - epilepsy drugs (carbamazepine)  
+- C - COCP  
+- A - allopurinol  
+- N - NSAIDs  
+- S - Sulphonamides
 
 **Infections**
 - Herpes simplex
@@ -27,8 +29,9 @@ Drugs
 
 Altered immune system
 - Cancer
-- Bone marrow transplant#
-- Lupus
+- Bone marrow transplant
+- [[Full/Systemic Lupus Erythematosus|Systemic Lupus Erythematosus]]
+- [[Pearls/Sarcoidosis|Sarcoidosis]]
 
 ## Presentation
 The condition has a spectrum of severity. Some cases are mild whilst others are very severe and can potentially be fatal.

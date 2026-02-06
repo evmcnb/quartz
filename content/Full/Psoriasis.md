@@ -2,10 +2,10 @@
 tags: [Dermatology, Rheumatology]
 title: Psoriasis
 date created: Tuesday, January 2nd 2024, 3:56:27 pm
-date modified: Thursday, October 16th 2025, 5:55:28 pm
+date modified: Wednesday, February 4th 2026, 11:05:56 am
 date: 2024-01-14
 ---
-Psoriasis is a chronic autoimmune skin disorder characterized by the  buildup of skin cells, resulting in thick, scaly patches. It often involves redness, itching, and discomfort.
+Psoriasis is a chronic autoimmune skin disorder characterised by the buildup of skin cells, resulting in thick, scaly patches. It often involves redness, itching, and discomfort.
 
 Relapsing-remitting course and may have nail and joint involvement [[Full/Inflammatory Arthritis#Psoriatic Arthritis|psoriatic arthritis]]
 
@@ -15,17 +15,23 @@ Relapsing-remitting course and may have nail and joint involvement [[Full/Inflam
 
 Thickened erythematous plaques with silver scales commonly seen on extensor surfaces. 1-10cm in diameter. Most common form
 
+![[z_attachments/Pasted image 20260204110200.png|350]]
+
 #### Guttate psoriasis
 
-Commonly occurs in children. Many small raised papules across the trunk and limbs. Mildly erythematous and can be slightly scaly. These can turn into full plaques. 
+**Commonly occurs in children**. Many small raised papules across the trunk and limbs. Mildly erythematous and can be slightly scaly. These can turn into full plaques. 
 
-Often triggered by a **strep. throat infection**, stress or medications.  
+![[z_attachments/Pasted image 20260204110230.png]]
 
-Often resolves spontaneously within 3-4 months.
+Often triggered by a **strep. throat infection** 2-4 weeks prior, stress or medications. 
+
+Often resolves spontaneously within 2-3 months.
 
 #### Pustular psoriasis
 
 ***Medical emergency*** but rare. Pustules form under areas of erythematous skin. Not infectious, but patients can be systemically unwell. Initially require admission
+
+![[z_attachments/Pasted image 20260204110312.png|525]]
 
 
 #### Erythrodermic psoriasis
@@ -62,8 +68,8 @@ Based off clinical findings. Features of psoriasis include:
 ## Management
 
 1. Topical Potent Steroid + Topical Vit D, both OD but put on separate times of the day (one in morning, the other in evening)  
-2. 8wks pass, didn't work -> Stop steroid, use Vit D BD  
-3. 8-12wks pass, didn't work -> Start potent steroid BD, or Start Coal tar OD or BD  
+2. 8wks pass, didn't work -> Stop steroid, use Vit D analogue BD  
+3. 8-12wks pass, didn't work -> Start potent steroid BD, or start Coal tar OD/BD  
 4. Didn't work -> refer to derm (can do phototherapy, or methotrexate)
 
 

@@ -6,15 +6,14 @@ tags: ['Haematology']
 ---
 
 
-
-| Disease | Iron | TIBC | Ferritin |
-| --- | --- | --- | --- |
-| Iron deficiency | $\downarrow$ | $\uparrow$ | $\downarrow$ |
-| Anaemia of chronic disease | $\downarrow$ | $\downarrow$ | $\uparrow$ |
-| Chronic haemolysis | $\uparrow$ | $\downarrow$ | $\uparrow$ |
-| [[snippets/Haemochromatosis|Haemochromatosis]] | $\uparrow$ | $\downarrow$ or $\leftrightarrow$ | $\uparrow$ |
-| [[Full/Pregnancy]] | $\uparrow$ | $\uparrow$ | $\leftrightarrow$ |
-| Sideroblastic anaemia | $\uparrow$ | $\leftrightarrow$ | $\uparrow$ |
+| Disease                                       | Iron         | TIBC                              | Ferritin          |
+| --------------------------------------------- | ------------ | --------------------------------- | ----------------- |
+| Iron deficiency                               | $\downarrow$ | $\uparrow$                        | $\downarrow$      |
+| Anaemia of chronic disease                    | $\downarrow$ | $\downarrow$                      | $\uparrow$        |
+| Chronic haemolysis                            | $\uparrow$   | $\downarrow$                      | $\uparrow$        |
+| [[Pearls/Haemochromatosis\|Haemochromatosis]] | $\uparrow$   | $\downarrow$ or $\leftrightarrow$ | $\uparrow$        |
+| [[Full/Pregnancy]]                            | $\uparrow$   | $\uparrow$                        | $\leftrightarrow$ |
+| Sideroblastic anaemia                         | $\uparrow$   | $\leftrightarrow$                 | $\uparrow$        |
 
 Haemolytic - macrocytic $\uparrow$ reticulocytes $\uparrow$ bilirubin
 

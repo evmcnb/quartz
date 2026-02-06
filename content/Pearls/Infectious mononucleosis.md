@@ -1,7 +1,7 @@
 ---
-title: "Infectious mononucleosis"
+title: Infectious mononucleosis
 date created: Sunday, January 21th 2024, 10:57:29 AM
-date modified: 2024-01-21 10:57:29.860002+00
+date modified: Tuesday, January 27th 2026, 5:58:55 pm
 tags: ['InfectiousDisease']
 ---
 

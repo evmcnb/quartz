@@ -52,9 +52,9 @@ Associations:
 - Congenital heart disease
 - Cardiomypathy
 - [[Pearls/Turner's syndrome]], [[Pearls/Marfan's syndrome]], [[Pearls/Fragile X Syndrome]]
-- [[Osteogenesis imperfecta]]
+- [[Pearls/Osteogenesis imperfecta]]
 - [[Pearls/Wolff-Parkinson White|Wolff-Parkinson White]]
-- [[Ehlers-Danlos syndrome]]
+- [[Pearls/Ehlers-Danlos Syndrome]]
 - [[Full/Polycystic Kidney Disease|Polycystic Kidney Disease]]
 
 Features  

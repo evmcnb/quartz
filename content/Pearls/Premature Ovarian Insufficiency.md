@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Premature Ovarian Insufficiency
 date: 2023-09-27
-date modified: Sunday, January 4th 2026, 3:14:51 pm
+date modified: Friday, February 6th 2026, 1:59:12 pm
 date created: Sunday, January 4th 2026, 3:08:27 pm
 ---
 
@@ -10,7 +10,7 @@ The onset of menopausal symptoms and elevated GnRH levels before the age of 40. 
 - Idiopathic - most common, may have FH
 - Bilateral oophorectomy 
 - Radiotherapy/chemotherapy
-- Infection - [[Mumps]]
+- Infection - [[Pearls/Mumps]]
 - Autoimmune disorders
 - Resistant ovary syndrome 
 

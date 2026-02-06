@@ -21,7 +21,16 @@ As normal
 
 SOCRATES as normal 
 
-## Gynaecological Symptoms
+## Systemic Enquiry
+
+Most of the time you don't know if you need to switch into a thorough gynae history before doing a systems enquiry. Go top to toe asking about associated symptoms as normal. Make sure to ask about:
+- Bowel changes
+- Burning when urinating
+- Last menstrual period
+- Vaginal bleeding or discharge - changes to normal
+
+That should be enough to indicate if a gynae history is needed
+## Gynaecological History
 
 
 > [!info] Summary of key gynaecological symptoms
@@ -69,6 +78,11 @@ Abdominal distension
 
 ### Menstrual history
 
+1. What was the date of your last period? 
+2. Are you someone how has regular periods? Tell me what's typical for you (cycle duration)
+3. How long do you bleed for? How frequently do you change pads?
+4. Have your periods been more painful than usual 
+
 ##### Duration
 
 *"How long do your periods typically last"*
@@ -106,7 +120,9 @@ If the period is late, essential to consider pregnancy
 If relevant to assess risk of lifetime oestrogen exposure. Couple this with quick obstetric history
 
 
-## Contraception
+### Contraception
+
+*Do you use contraception?*
 
 Clarify the type of contraception currently used: 
 - [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]/patch
@@ -118,27 +134,19 @@ Clarify the type of contraception currently used:
 Explore if this has changed and why
 
 
-## Reproductive plans
+### Reproductive plans
 
 Need to ask if they have children/trying for children/considering having children
 
 Important for evaluating treatment options. 
 
 
-## Past gynaecological history
+### Past gynaecological history
 
 Need to ask about the following: 
 - Gynaecological conditions
 - Gynaecological surgeries - abdominal/pelvic surgery, loop excision of the transitional zone
 - Cervical screening - check attendance/vaccination against HPV 
-
-## PMH
-
-As normal. Relevant to gynaecological presentations:
-- **Migraine with aura**: oestrogen containing medications (e.g. combined oral contraceptive) would be contraindicated.
-- **Previous venous thromboembolism (VTE)**: oestrogen containing medications would be contraindicated.
-- **Breast cancer (current or previous)**: use of oestrogen containing medications would be usually be contraindicated or require specialist input before being commenced.
-- **Bleeding disorders** (e.g. Von Willebrand's) would be relevant if a patient presented with heavy vaginal bleeding.
 
 ## Obstetric history
 
@@ -152,6 +160,16 @@ As normal. Relevant to gynaecological presentations:
 - Age of children
 - Pre-mature/birth weight
 - Mode of delivery
+
+
+## PMH
+
+As normal. Relevant to gynaecological presentations:
+- **Migraine with aura**: oestrogen containing medications (e.g. combined oral contraceptive) would be contraindicated.
+- **Previous venous thromboembolism (VTE)**: oestrogen containing medications would be contraindicated.
+- **Breast cancer (current or previous)**: use of oestrogen containing medications would be usually be contraindicated or require specialist input before being commenced.
+- **Bleeding disorders** (e.g. Von Willebrand's) would be relevant if a patient presented with heavy vaginal bleeding.
+
 - Complications
 
 ## Drug history

@@ -1,20 +1,18 @@
 ---
-tags:
-  - ENT
-  - Acute
+tags: [ENT, Acute]
 title: Epistaxis
 date created: Saturday, February 17th 2024, 4:15:38 pm
 date modified: 2024-03-11
 date: 2024-02-23
 ---
-Damage to the blood vessels of the nasal mucosa
+Damage to the blood vessels of the nasal mucosa. Split into anterior and posterior bleeds. Can usually visualise the source with anterior bleeds. Posterior haemorrhages tend to be more profuse and deeper. Occur more frequently in older patients and have a high risk of aspiration and airway compromise. 
 
 ## Causes/Factors
 
 Local 
 - Trauma
 - Inflammation
-- Topical drugs (corticosteroids)
+- Topical drugs (corticosteroids, cocaine)
 - Surgery
 - Vascular issues (hereditary haemorrhagic telangiectasia, [[Granulomatosis with polyangiitis]])
 - Tumours ([[Full/Squamous cell carcinoma]])
@@ -44,22 +42,22 @@ General
 ## Management
 
 ABCDE if haemodynamically unstable
-- Person should sit with their upper body tilted forward and their mouth open - soft part of the nose should be pinched firmly for 10-15 mins
+- Person should sit with their upper body tilted forward and their mouth open - soft part of the nose should be pinched firmly for at least 20 mins
 
 **Acute Epistaxis management:**  
 1. First aid measures: lean forward, with their mouth open and pinch nose (15-20 minutes)  
-IF SUCCESSFUL: apply Naseptin cream(chlorhexidine and neomycin) to reduce crusting and risk of vestibulitis  
+<span style="color:rgb(0, 176, 80)">IF SUCCESSFUL</span>: apply Naseptin cream (chlorhexidine and neomycin) to reduce crusting and risk of vestibulitis  
 
-IF UNSUCCESSFUL  
+<span style="color:rgb(255, 0, 0)">IF UNSUCCESSFUL</span>  
   
 2. Cautery: if you can visualise the bleeding point.  
  - Anterior packing: if the bleeding point cannot be visualised.  
   
-IF UNSUCCESSFUL  
+<span style="color:rgb(255, 0, 0)">IF UNSUCCESSFUL  </span>
   
 3. Posterior packing: urgent referral to ENT  
   
-IF UNSUCCESSFUL  
+<span style="color:rgb(255, 0, 0)">IF UNSUCCESSFUL  </span>
   
 4. Admit to emergency department for sphenopalatine ligation in theatre
 

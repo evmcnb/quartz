@@ -222,7 +222,7 @@ Each hip should be examined individually. All clothing should be removed. Basica
 
 ##### Barlow test
 
-Used to screen for a dislocatable hip by attempting to dislocate it:
+Used to screen for [[Pearls/Developmental Dysplasia of the Hip]] by attempting to dislocate it:
 1. Stabilise the contralateral side of the pelvis. Place your thumb anteriorly over the symphysis pubis and other fingers over the sacrum
 2. Adduct the hip whilst applying light pressure on the knee (directing force posteriorly)
 
@@ -248,7 +248,6 @@ A positive sign is the clunk ass the femoral head relocates
 
 ##### Femoral pulses
 Palpate and compare femoral pulses - if possible. 
-
 
 ##### Tone & movement
 

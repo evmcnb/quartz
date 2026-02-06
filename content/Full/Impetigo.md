@@ -1,6 +1,5 @@
 ---
-tags:
-  - Dermatology
+tags: [Dermatology]
 title: Impetigo
 date created: Saturday, December 16th 2023, 2:14:14 pm
 date modified: 2024-03-11
@@ -11,7 +10,7 @@ Impetigo is a highly contagious bacterial skin infection primarily affecting chi
 Impetigo is typically caused by *Staphylococcus aureus* or *Streptococcus pyogenes* bacteria (less commonly).
 
 > [!warning]
-> Children should be kept off off school during the infection due to the transmissibility.  
+> Children should be kept off off school until the lesions are crusted over or 48 hours after commencing antibiotic treatment
 ## Causes/Factors
 
 The primary causes and risk factors for Impetigo include:
@@ -25,9 +24,9 @@ The primary causes and risk factors for Impetigo include:
 
 - Typically occurs around the nose or mouth - exudate forms the golden crust
 - Do not cause systemic symptoms 
-- **Antiseptic cream** (hydrogen peroxide 1% cream) 1st line treatment 
+- **Antiseptic cream** (hydrogen peroxide 1% cream + topical fusidic acid) 1st line treatment 
 - Oral flucloxacillin to treat more severe/wide spread infection
-- Advise patient not to touch or scratch lesionss
+- Advise patient not to touch or scratch lesions
 
 ## Bullous impetigo
 
@@ -36,7 +35,6 @@ The primary causes and risk factors for Impetigo include:
 - They heal without scarring but can be painful and itchy
 - More common in neonates and children under 2 
 - They may be feverish and generally unwell. In severe infections when the lesions are widespread, it is called **_staphylococcus scalded skin syndrome_**.
-
 
 ## Complications 
 

@@ -2,11 +2,11 @@
 tags: [Dermatology, Incomplete]
 title: Atopic dermatitis (eczema)
 date created: Wednesday, November 29th 2023, 1:00:52 pm
-date modified: Thursday, October 16th 2025, 5:34:50 pm
+date modified: Wednesday, February 4th 2026, 11:00:36 am
 date: 2024-03-11
 ---
 
-A reaction pattern rather than a specific disease - hypersensitivity type I reaction. Often appears in childhood and can continue to adulthood. 
+A reaction pattern rather than a specific disease - [[Pearls/Hypersensitivity Reactions|Hypersensitivity Reactions]] type I. Often appears in childhood and can continue to adulthood. 
 
 Acute - red weeping +/- small vesicles 
 Subacute - red less exudate crusting 

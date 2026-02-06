@@ -38,7 +38,7 @@ Causes blindness, very common in tropics. Conjunctivae become dry and develop ov
 | Vit $B_6$ (pyridoxine) | Small intestine          | Polyneuropathy                                   |
 | Vit $B_{12}$           | Terminal ileum           | [[Full/Macrocytic anaemia]]                           |
 | Vit C                  | Proximal ileum           | Scurvy                                           |
-| Vit D\*                | Jejunum as free vit      | [[Rickets]]                                      |
+| Vit D\*                | Jejunum as free vit      | [[Pearls/Rickets]]                                      |
 | Vit E\*                | Small intestine          | Haemolysis, neurological deficit                 |
 | Vit K\*                | Small intestine          | Bleeding disorders                               |
 | Folic acid             | Jejunum                  | [[Full/Anaemia]]                           |

@@ -2,7 +2,8 @@
 tags: [Psychiatry]
 title: Generalised anxiety disorder
 date: 2024-03-19
-date modified: 2024-03-19
+date modified: Thursday, January 22nd 2026, 5:09:22 pm
+date created: Tuesday, November 25th 2025, 8:19:58 pm
 ---
 
 **Trait anxiety** - An individuals tendency to experience anxiety in response to stressors

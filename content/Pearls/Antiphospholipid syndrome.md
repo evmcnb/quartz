@@ -27,13 +27,13 @@ Causes a paradoxical raise in the APTT
 
 > [!warning] NICE Diagnostic criteria
 > Clinical criteria (at least one must be met):
-    >- ≥1 clinical episode of arterial, venous, or small-vessel thrombosis (confirmed by >imaging or histopathology)
-    >- Pregnancy morbidity: three or more consecutive, unexplained spontaneous abortions <10 weeks, or ≥1 unexplained fetal loss ≥10 weeks, or ≥1 preterm birth <34 weeks due to placental insufficiency
+    > - ≥1 clinical episode of arterial, venous, or small-vessel thrombosis (confirmed by >imaging or histopathology)
+    > - Pregnancy morbidity: three or more consecutive, unexplained spontaneous abortions <10 weeks, or ≥1 unexplained fetal loss ≥10 weeks, or ≥1 preterm birth <34 weeks due to placental insufficiency
 >
 > Laboratory criteria (at least one must be met on ≥2 occasions at least 12 weeks apart):
-    >- Lupus anticoagulant (LA)
-    >- Anticardiolipin (aCL) antibodies
-    >- Anti-beta2 glycoprotein I (anti-β2GP1) antibodies
+    > - Lupus anticoagulant (LA)
+    > - Anticardiolipin (aCL) antibodies
+    > - Anti-beta2 glycoprotein I (anti-β2GP1) antibodies
 
 #### Management
 

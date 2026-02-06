@@ -15,7 +15,7 @@ Bleeding into the space between the arachnoid membrane and the pia mater - **sub
 - **Arteriovenous Malformations (AVMs):** Abnormal connections between arteries and veins in the brain.
 - **Blood-Thinning Medications:** Medications like [[Pearls/Anticoagulants|Anticoagulants]] can increase the risk of bleeding.
 - **Family History:** A family history of aneurysms or SAH 3-5x risk
-- **Other conditions:** That increase risk of aneurysms eg [[Ehlers-Danlos syndrome]], [[Full/Polycystic Kidney Disease]] 
+- **Other conditions:** That increase risk of aneurysms eg [[Pearls/Ehlers-Danlos Syndrome]], [[Full/Polycystic Kidney Disease]] 
 
 ## Symptoms
 

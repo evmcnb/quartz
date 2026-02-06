@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: "Down's syndrome"
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 2:44:58 pm
+date modified: Thursday, January 22nd 2026, 4:19:12 pm
 date created: Saturday, December 20th 2025, 4:10:32 pm
 ---
 
@@ -24,7 +24,7 @@ Trisomy 21. Results in characteristic dysmorphic features and predisposes to var
 - Recurrent [[Full/Otitis media|Otitis media]]
 - Recurrent respiratory infections
 - Eustachian tube defects leading to glue ear and conductive hearing loss
-- Visual problems - myopia, strabismus and [[Full/Cataracts|Cataracts]]
+- Visual problems - myopia, [[Pearls/Strabismus]] and [[Full/Cataracts|Cataracts]]
 - [[Full/Hypothyroidism|Hypothyroidism]]
 - [[Full/Coeliac Disease|Coeliac Disease]]
 - [[Full/Diabetes Mellitus|Diabetes Mellitus]]

@@ -11,13 +11,7 @@ Low intake - [[Pearls/Malnutrition|Malnutrition]], malabsorption, [[Full/Alcohol
 
 Excess loss - hyperparathyroidism, renal tubular damage (Fanconi syndrome), diarrhoea
 
-Extracellular/intracellular fluid redistribution - alkalosis, refeeding
-
-#### Refeeding syndrome
-
-* $\downarrow$ [[Pearls/Insulin|Insulin]], $\uparrow$ glucagon. Fat and protein metabolism. Intracellular stores of electrolytes used up
-* Upon refeeding $\uparrow$ [[Pearls/Insulin|Insulin]], $\uparrow$ glycolysis, requiring K, PO4 and magnesium movement into cells with glucose.
-* This causes severe hypokalaemia, hypophosphatemia and [[Pearls/Hypomagnesemia|Hypomagnesemia]] $\rightarrow$ heart dysfunction and resp failure
+Extracellular/intracellular fluid redistribution - alkalosis, [[Pearls/Refeeding syndrome]]
 
 #### Signs and symptoms of low PO4
 

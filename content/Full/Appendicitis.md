@@ -27,7 +27,7 @@ Other:
 
 ## Signs
 
-- Tachycardia, fever - mild. Higher temperatures are more typical of [[Mesenteric adenitis]]
+- Tachycardia, fever - mild. Higher temperatures are more typical of [[Pearls/Mesenteric adenitis]]
 - Mcburney's point - between umbilicus and right iliac fossa
 - Rovsing's sign - push on left iliac fossa and pain exhibits itself on right
 

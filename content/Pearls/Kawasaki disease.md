@@ -5,7 +5,7 @@ date modified: Wednesday, October 29th 2025, 5:22:36 pm
 tags: ['Rheumatology', 'InfectiousDisease']
 ---
 
-Kawasaki disease is a rare condition mainly seen in children under 5-years-old. It is classified by a fever which is present for 5 days or more along with 4 of the following features:
+Kawasaki disease is a rare condition mainly seen in children under 5-years-old. It is classified by a **fever** which is present for 5 days or more along with 4 of the following features:
 
 - Dry cracked lips
 - Bilateral conjunctivitis
@@ -13,4 +13,4 @@ Kawasaki disease is a rare condition mainly seen in children under 5-years-old. 
 - Cervical lymphadenopathy
 - Red rash over trunk
 
-Treatment with high dose aspirin 
+Treatment with high dose aspirin $\pm$ IV Ig

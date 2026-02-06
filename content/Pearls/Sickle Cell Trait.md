@@ -1,11 +1,9 @@
 ---
-title: "Sickle Cell Trait"
+title: Sickle Cell Trait
 date created: Sunday, January 21th 2024, 01:00:31 PM
-date modified: 2024-01-21 13:00:31.34756+00
+date modified: Tuesday, January 27th 2026, 5:14:44 pm
 tags: ['Haematology']
 ---
-
-
 
 * Normal blood count
 * Hb Electrophoresis: Hb-S 45%, Hb-A 55%

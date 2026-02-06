@@ -27,7 +27,7 @@ aka Berger's disease
 
 Involves transient IgA deposits in the nephrons causing inflammation. 
 - Usually presents in teenagers or young adults (15-35) with **macroscopic haematuria** following an **URTI*** (1-2 weeks ago)
-- Associated with [[Full/Alcohol-related Liver Disease|Alcohol-related Liver Disease]], [[Full/Coeliac Disease|Coeliac Disease]], [[Henoch-Schonlein purpura]]
+- Associated with [[Full/Alcohol-related Liver Disease|Alcohol-related Liver Disease]], [[Full/Coeliac Disease|Coeliac Disease]], [[Pearls/Henoch-Schonlein purpura]]
 - Supportive treatment with mild disease
 - Persistent proteinuria treated with ACEis
 - Active disease (falling eGFR treated with corticosteroids)

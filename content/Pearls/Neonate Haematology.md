@@ -6,7 +6,6 @@ tags: [Haematology, Neonatology, Paediatrics]
 ---
 
 
-
 Where is blood made in utero
 
 * Day 18 to 3m in yolk sac

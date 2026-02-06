@@ -1,17 +1,20 @@
 ---
-tags:
-  - Respiratory
-  - InfectiousDisease
+tags: [Respiratory, InfectiousDisease]
 title: Infectious Mononucleosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, January 27th 2026, 6:04:50 pm
 date: 2023-09-18
 ---
 
 Glandular fever
 Spread through saliva caused almost exclusively from EBV
 
-![[z_attachments/Pasted image 20230823125619.png]]
+
+> [!success] Classic triad
+> - Sore throat
+> - Lymphadenopathy
+> - Pyrexia 
+
 ## Causes/Factors
 
 - EBV virus colonisation, possibly at a older age than normal
@@ -21,9 +24,16 @@ Spread through saliva caused almost exclusively from EBV
 - Fever
 - [[Pearls/Sore throat|Sore throat]]
 - Fatigue
-- **_Lymphadenopathy_** (swollen lymph nodes)
+- **_Lymphadenopathy_** 
 - Tonsillar enlargement
-- **_Splenomegaly_** and in rare cases **_splenic rupture_**
+- **_Splenomegaly_** 50% and in rare cases **_splenic rupture_**
+- Transient rise in ALT
+
+
+> [!warning] IM and amoxicillin/ampicillin
+> A maculopapular pruritic rash develops in "all" patients who take amoxicillin/ampicillin whilst they have IM 
+
+
 ## Signs
 
 - **Swollen Lymph Nodes:** Palpable and tender lymph nodes, especially in the neck and armpits.
@@ -31,9 +41,8 @@ Spread through saliva caused almost exclusively from EBV
 
 ## Diagnostic Tests
 
-- **Physical Exam:** Evaluation of symptoms, particularly swollen lymph nodes, [[Pearls/Sore throat|Sore throat]], and fever.
+
 - **Monospot Test:** this introduces the patient’s blood to **_red blood cells_** from **_horses_**. Heterophile antibodies (if present) will react to the horse red blood cells and give a positive result.
-- **Viral capsid antigen:** tests for specific EBV antibodies. IgM for acute infection, IgG for immunity. 
 - **[[Pearls/Liver function tests|Liver function tests]]:** To assess liver function and detect any abnormalities.
 - **Throat swabs**
 
@@ -42,6 +51,7 @@ Spread through saliva caused almost exclusively from EBV
 1. **Rest:** Usually self limiting
 2. **Avoiding Contact Sports:** To prevent risk of splenic rupture due to enlarged spleen.
 3. **Avoiding Alcohol:** To avoid additional strain on the liver.
+4. **Avoid contact sports** for 4 weeks to reduce risk of splenic rupture
 
 ## Complications/red Flags
 

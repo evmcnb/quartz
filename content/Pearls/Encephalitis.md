@@ -1,23 +1,19 @@
 ---
-title: "Encephalitis"
+title: Encephalitis
 date created: Friday, February 23th 2024, 02:01:10 PM
-date modified: 2024-02-23 14:01:10.308348+00
+date modified: Tuesday, January 27th 2026, 5:58:47 pm
 tags: ['Neurology']
 ---
 
+Inflammation of the brain usually viral - HSV-1 95% (HSV-2 in neonates from genital herpes contracted during birth). Other viruses such as polio, mumps rubella and measles can be causative too **ask about vaccinations**
 
-
-Inflammation of the brain usually viral - HSV, West Nile, enterovirus
-
+Typically affects temporal and inferior frontal lobes
 * Fever
 * Headache
-* AMS
-* Seizures
-* Focal neurological deficits
+* Altered 
+* Acute onset seizures
+* Acute focal neurological deficits
 
-Do a neuro exam, CSF?, MRI
+LP with PCR for HSV, VZV and enteroviruses, MRI and EEG
 
-[[Pearls/Antivirals|Antivirals]] - for viral
-
-Corticosteroids - for immune-mediated
-
+IV aciclovir should be started in all cases of suspected encephalitis

@@ -2,7 +2,7 @@
 tags: [Respiratory, Genetics, Haematology]
 title: G6PD deficiency
 date: 2023-09-27
-date modified: Friday, October 31st 2025, 1:08:57 pm
+date modified: Tuesday, January 27th 2026, 5:23:18 pm
 date created: Friday, October 31st 2025, 12:45:52 pm
 ---
 
@@ -11,7 +11,7 @@ Glucose-6-phosphate dehydrogenase (G6PD) deficiency is the commonest red blood c
 - Common in people from the Mediterranean and Africa
 - Many drugs can precipitate a crisis
 
-| <br>                | **G6PD deficiency**                                                                 | **Hereditary spherocytosis**                                                                                                                            |
+| <br>                | **G6PD deficiency**                                                                 | **[[Pearls/Hereditary spherocytosis]]**                                                                                                                        |
 | ------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Gender**          | Male (X-linked recessive)                                                           | Male + female (autosomal dominant)                                                                                                                      |
 | **Ethnicity**       | African + Mediterranean descent                                                     | Northern European descent                                                                                                                               |

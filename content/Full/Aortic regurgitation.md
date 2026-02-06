@@ -20,7 +20,7 @@ Inadequate closure of the aortic valve during diastole that allows for reverse b
 
 **Chronic**
 - Congenital abnormality 
-- Connective tissue disorders [[Pearls/Marfan's syndrome]], [[Ehlers-Danlos syndrome]]
+- Connective tissue disorders [[Pearls/Marfan's syndrome]], [[Pearls/Ehlers-Danlos Syndrome]]
 - [[Pearls/Rheumatic Fever]]
 - [[Takayasu arteritis]]
 - [[Full/Inflammatory Arthritis#Rheumatoid Arthritis|RA]]

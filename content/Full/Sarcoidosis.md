@@ -10,6 +10,7 @@ date: 2024-02-09
 - Unknown cause
 - Mainly respiratory but all organs affected
 
+
 [[Pearls/Hypercalcaemia|Hypercalcaemia]] + bilateral hilar lymphadenopathy $\rightarrow$ ?sarcoidosis
 ## Causes/Factors
 
@@ -97,6 +98,11 @@ The blood test findings to remember are:
 
 
 Very patient dependent, but 50% do not require any treatment and most only require symptomatic treatment in the form of NSAIDs
+
+**Indications for steroids**:
+- patients with CXR stage 2 or 3 disease who are symptomatic
+- [[Pearls/Hypercalcaemia|Hypercalcaemia]]
+- Eye, heart or neuro involvement
 
 
 **_Oral steroids_** (for 6-24 months) are usually first-line where treatment is required. **_Bisphosphonates_** protect against [[Full/osteoporosis]] whilst on long-term steroids.

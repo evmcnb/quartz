@@ -1,12 +1,8 @@
 ---
-tags:
-  - Examination
-  - MSK
-  - OSCE
-  - Incomplete
+tags: [Examination, MSK, OSCE, Incomplete]
 title: GALS Exam
 date created: Thursday, November 16th 2023, 6:08:10 pm
-date modified: 2024-04-21
+date modified: Thursday, January 22nd 2026, 4:47:06 pm
 date: 2023-11-22
 ---
 
@@ -70,7 +66,7 @@ Ask if they have any trouble walking unassisted
 Look for 
 - Shuffling 
 - Foot drop - peroneal nerve lesion
-- Waddling - muscular dystrophy
+- Waddling - [[Pearls/Muscular dystrophy]]
 - Ataxic - cerebellar
 - Turning - if slow -> Parkinsonism
 - Look at footwear
