@@ -2,7 +2,8 @@
 tags: [Psychiatry]
 title: Depression
 date: 2024-02-09
-date modified: 2024-03-19
+date modified: Friday, February 6th 2026, 4:25:23 pm
+date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
 Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia)
 

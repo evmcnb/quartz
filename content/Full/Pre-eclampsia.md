@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Pre-eclampsia
 date: 2023-09-27
-date modified: Tuesday, January 6th 2026, 2:51:26 pm
+date modified: Friday, February 6th 2026, 3:24:00 pm
 date created: Monday, December 29th 2025, 2:24:17 pm
 ---
 
@@ -12,7 +12,7 @@ The emergence of high blood pressure during pregnancy that may be a precursor to
 > [!success] Classic triad of symptoms
 > - New-onset hypertension
 > - Proteinuria
-> - Oedema 
+> - Oedema (facial)
 
 
 Formal definition:
@@ -26,7 +26,7 @@ Formal definition:
 |---|---|
 |- hypertensive disease in a previous pregnancy<br>- chronic kidney disease<br>- autoimmune disease, such as systemic lupus erythematosus or antiphospholipid syndrome<br>- type 1 or type 2 diabetes<br>- chronic hypertension|- first pregnancy<br>- age 40 years or older<br>- pregnancy interval of more than 10 years<br>- body mass index (BMI) of 35 kg/m² or more at first visit<br>- family history of pre-eclampsia<br>- multiple pregnancy|
 
-Aspirin is used for prophylaxis against the development of pre-eclampsia. It is given from 12 weeks gestation until birth to women with:
+150mg aspirin is used for prophylaxis against the development of pre-eclampsia. It is given from 12 weeks gestation until birth to women with:
 - A single **high-risk** factor
 - Two or more **moderate-risk** factors
 ## Presentation
@@ -38,7 +38,7 @@ Features of severe pre-eclampsia
 - visual disturbance
 - papilloedema
 - RUQ/epigastric pain
-- hyperreflexia
+- hyperreflexia & clonus
 - platelet count < 100 * 106/l, abnormal liver enzymes or HELLP syndrome
 
 ##### HELLP Syndrome
@@ -54,6 +54,7 @@ A combination of features that occur as a complication of pre-eclampsia and ecla
 - U&E
 - LFTs
 - Clotting 
+- Urine PCR
 
 ## Management
 
@@ -67,7 +68,9 @@ All pregnant women are routinely monitored at every antenatal appointment for ev
 Further management: 
 - Oral labetalol is first line
 - Nifedipine if asthmatic 
-- Delivery of the baby is the most important definitive management step
+- Delivery of the baby is the most important definitive management step via any route
+
+
 
 
 #### Gestational hypertension

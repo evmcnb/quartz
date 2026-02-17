@@ -1,7 +1,7 @@
 ---
 title: Endometrial cancer
 date created: Sunday, January 21th 2024, 12:44:02 PM
-date modified: Friday, January 9th 2026, 1:49:48 pm
+date modified: Friday, February 6th 2026, 3:45:53 pm
 tags: [OBGYN]
 date:
 aliases: [Uterine cancer]
@@ -63,7 +63,7 @@ Endometrial cancer may also present with:
 > - Visible haematuria with raised platelets, anaemia or elevated glucose
 
 There are three investigations to remember for diagnosing and excluding endometrial cancer:
-- **_Transvaginal ultrasound_** for **_endometrial thickness_** (normal is less than 4mm post-menopause)
+- **_Transvaginal ultrasound_** for **_endometrial thickness_** (normal is less than **4mm** post-menopause)
 - **_Pipelle biopsy_**, which is highly **_sensitive_** for endometrial cancer making it useful for excluding cancer. Can be taken in outpatient clinic
 - **_Hysteroscopy_** with endometrial biopsy
 

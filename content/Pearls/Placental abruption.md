@@ -2,7 +2,7 @@
 tags: []
 title: Placental abruption
 date: 2023-09-27
-date modified: Monday, January 5th 2026, 12:54:12 pm
+date modified: Friday, February 6th 2026, 3:25:11 pm
 date created: Monday, December 29th 2025, 4:31:14 pm
 ---
 
@@ -34,14 +34,14 @@ Clinical features:
 
 - Fetus alive and distressed: **immediate C-section**
 - Fetus alive, not distressed and < 36 weeks: admit, observe, give steroids, threshold to deliver depends on gestation
-- Fetus alive, not distressed and > 36 weeks: deliver vaginally 
+- Fetus alive, not distressed and > 36 weeks: deliver vaginally, ARM
 - Fetus dead, induce vaginal delivery
 
 #### Complications
 
 Maternal  
 - shock
-- DIC
+- DIC - clots can form behind the placenta and use up a lot of clotting factors.
 - renal failure
 - PPH
 

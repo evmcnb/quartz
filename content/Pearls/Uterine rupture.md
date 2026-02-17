@@ -1,7 +1,7 @@
 ---
 title: Uterine rupture
 date created: Tuesday, December 30th 2025, 4:46:31 pm
-date modified: Tuesday, December 30th 2025, 4:58:02 pm
+date modified: Friday, February 6th 2026, 3:38:18 pm
 tags: [OBGYN, Acute, Surgery]
 date: 2023-09-27
 ---
@@ -14,12 +14,12 @@ Leads to significant bleeding. High morbidity and mortality
 
 
 Main risk factor is **previous caesarean section**. The scar on the uterus becomes a point of weakness. Other risk factors include: 
-- Previous uterine surgery
+- Previous uterine surgery (C-section)
 - Increased BMI 
 - High parity 
 - Increased age
 - Induction of labour
-- Use of oxytocin to stimulate contractions
+- **Use of oxytocin to stimulate contractions**
 
 **Presentation**
 - Acutely unwell mother 

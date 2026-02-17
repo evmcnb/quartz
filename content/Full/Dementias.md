@@ -1,10 +1,8 @@
 ---
-tags:
-  - Neurology
-  - Geriatrics
+tags: [Neurology, Geriatrics]
 title: Dementias
 date created: Wednesday, October 18th 2023, 1:38:15 pm
-date modified: 2024-03-11
+date modified: Friday, February 6th 2026, 4:31:25 pm
 date: 2024-01-23
 ---
 
@@ -42,12 +40,15 @@ Mimic the symptoms of dementia
 
 ### Diagnostic Tests
 1. **Cognitive Assessments**: Mini-Mental State Examination (MMSE), Montreal [[Full/Cognitive Assessment]] (MoCA).
-2. **Neuroimaging**: MRI, CT scans to detect brain atrophy, structural changes, or vascular abnormalities.
+2. **Neuroimaging**: MRI, CT scans to detect brain atrophy, structural changes, or vascular abnormalities ([[Full/Subdural Haematoma|Subdural Haematoma]], [[Pearls/Normal pressure hydrocephalus|Normal pressure hydrocephalus]])
 3. **PET Scans**: Used to visualize abnormal protein deposits (e. g., amyloid, tau).
-4. **Blood tests:** check B12
+4. **Blood tests:** FBC, U&E, LFTs, calcium, glucose, ESR/CRP, TFTs, vitamin B12 and folate to rule out reversible causes.
 5. **Urine dip/MS&C:** elderly patients can become very confused and forgetful with a bad UTI
 
 ### Management
+
+Referred to memory clinics
+
 1. **Pharmacotherapy**: Cholinesterase inhibitors (e.g., donepezil) for Alzheimer's; memantine for moderate to severe Alzheimer's and some other dementias. Debated efficacy
 2. **Symptomatic Treatment**: Address behavioural and psychological symptoms using appropriate medications.
 3. **Non-Pharmacological Approaches**: Cognitive stimulation, physical exercise, and occupational therapy.

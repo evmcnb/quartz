@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Miscarriage
 date: 2023-09-27
-date modified: Wednesday, January 7th 2026, 4:49:58 pm
+date modified: Friday, February 6th 2026, 2:56:11 pm
 date created: Wednesday, December 31st 2025, 1:31:27 pm
 ---
 
@@ -14,7 +14,6 @@ Different types:
 - **Missed miscarriage** - the fetus is no longer alive, but no symptoms have occured
 - **Threatened miscarriage** - vaginal bleeding with a closed cervix and a fetus that is still alive
 - **Inevitable miscarriage** - vaginal bleeding with an open cervix
-- **Anembryonic pregnancy** - a gestational sac is present but contains no embryo
   
 - **Incomplete miscarriage** - retrained products of conception remain in the uterus 
 - **Complete miscarriage** - no products of conception left in the uterus 

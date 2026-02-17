@@ -2,15 +2,23 @@
 tags: [OBGYN]
 title: Timeline of Antenatal Care
 date: 2023-09-27
-date modified: Tuesday, January 6th 2026, 9:21:03 am
+date modified: Friday, February 6th 2026, 3:00:32 pm
 date created: Saturday, December 27th 2025, 11:47:51 am
 ---
+BP and urine dip and each appointment to screen for [[Full/Pre-eclampsia|Pre-eclampsia]]
+
 
 - 10 antenatal visits in the first pregnancy if uncomplicated
 - 7 antenatal visits in the subsequent pregnancies 
 
 - 2 scans in low risk pregnancies
 - 4ish scans for high risk 
+
+Scans look at generally:
+- Baby growth
+- Liqor volume
+- Location of placenta
+- Placental blood flow
 
 | **Gestation**                     | **Purpose of visit**                                                                                                                                                                                                                                                                                                                                                                              |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

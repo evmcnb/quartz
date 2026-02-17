@@ -2,7 +2,7 @@
 tags: []
 title: Preterm prelabour rupture of membranes
 date: 2023-09-27
-date modified: Tuesday, January 6th 2026, 11:56:58 am
+date modified: Friday, February 6th 2026, 4:22:16 pm
 date created: Tuesday, December 30th 2025, 11:52:00 am
 ---
 
@@ -34,5 +34,5 @@ When there is doubt about the diagnosis, can test the fluid for:
 - Admit for observation and monitor for signs of infection - 48 hours to see if labour will start
 - Oral erythromycin 250 mg for 10 days or until labour is established
 - Antenatal corticosteroids (usually dexamethasone/betamethasone) 12mg IM x 2 
-- Consider IV mag sulphate for fetal neuroprotection if <30 weeks and birth is imminent 
+- Consider IV mag sulphate for fetal neuroprotection if <30 weeks and birth is imminent (no blood brain barrier in babies so risk of meningitis)
 - **Delivery is recommended at 37 weeks** if there are no other indications for early delivery (chorioamnionitis, fetal compromise)

@@ -116,7 +116,7 @@ Psychosis occurs when a patient has lost touch with reality so assessing them ca
 
 " I have to ask you some questions that may seem strange. These are question was ask everyone. Would that be okay?"
 
-Symptoms of psychosis include hallucinations, thought abnormalities and delusions. All present in [[Schizophrenia]] but can be found in other disorders
+Symptoms of psychosis include hallucinations, thought abnormalities and delusions. All present in [[Full/Schizophrenia]] but can be found in other disorders
 
 #### Hallucinations
 

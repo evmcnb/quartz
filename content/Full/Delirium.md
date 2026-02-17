@@ -2,7 +2,7 @@
 tags: [Neurology, Geriatrics]
 title: Delirium
 date: 2024-01-19
-date modified: Thursday, October 2nd 2025, 3:05:30 pm
+date modified: Friday, February 6th 2026, 4:33:09 pm
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 
@@ -31,15 +31,16 @@ Assessment of capacity is important
 
 ## Causes/Factors
 
-**P**ain
-**I**nfection - [[Full/Urinary Tract Infection]], [[Full/pneumonia]], [[Full/Cellulitis]], [[Full/Skin Ulcers]]
-**N**utrition - B12, folate, glucose, [[Full/Nutritional disorders]]
-**C**onstipation - +/- urinary retention, codiene
-**H**ydration - intake, diruetics, diarrhoea
+*PINCH ME*
+- **P**ain
+- **I**nfection - [[Full/Urinary Tract Infection]], [[Full/pneumonia]], [[Full/Cellulitis]], [[Full/Skin Ulcers]]
+- **N**utrition - B12, folate, glucose, [[Full/Nutritional disorders]]
+- **C**onstipation - +/- urinary retention, codiene
+- **H**ydration - intake, diruetics, diarrhoea
 
 
-**M**edication - prescribed, alcohol and drugs, withdrawal
-**E**nvironment/electrolytes
+- **M**edication - prescribed, alcohol and drugs, withdrawal
+- **E**nvironment/electrolytes
 
 ## Symptoms
 

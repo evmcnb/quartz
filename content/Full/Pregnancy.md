@@ -86,7 +86,7 @@ Should always be a balance of risk - drugs different again in lactation
 | [[Pearls/Carbamazepine\|Carbamazepine]]       | [[Pearls/Aspirin\|Aspirin]]             |
 | [[Pearls/Salbutamol\|Salbutamol]]             | [[Pearls/Carbimazole\|Carbimazole]]     |
 | [[Tricyclic antidepressants]]                 | Methotrexate                            |
-| [[Antipsychotics]]                            | Sulfonylureas                           |
+| [[Pearls/Antipsychotics]]                            | Sulfonylureas                           |
 | Beta blockers                                 | Cytotoxic drugs                         |
 | Warfarin                                      | [[Pearls/Amiodarone\|Amiodarone]]       |
 | Heparin                                       |                                         |

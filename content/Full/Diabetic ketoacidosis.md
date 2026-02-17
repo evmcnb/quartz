@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Monday, December 8th 2025, 6:02:27 pm
+date modified: Wednesday, February 11th 2026, 12:05:13 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -61,6 +61,8 @@ Main principles of management
 
 ![[z_attachments/Screenshot 2023-11-12 at 13.30.12.png|450]]
 
+
+**Fluid resuscitation in children is 10mL/kg in 10 mins**
 
 ## Complications/red Flags
 

@@ -1,10 +1,9 @@
 ---
-title: "Wernicke-Korsakoff syndrome"
+title: Wernicke-Korsakoff syndrome
 date created: Tuesday, March 19th 2024, 02:21:02 PM
-date modified: 2024-03-19 14:21:02.413269+00
+date modified: Friday, February 6th 2026, 4:54:43 pm
 tags: ['Gastroenterology', 'Neurology', 'Psychiatry']
 ---
-
 
 
 Alcohol **prevents the absorption of thiamine** by blocking thiamine pyrophosphate synthetase, resulting in thiamine deficiency.

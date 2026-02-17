@@ -1,7 +1,7 @@
 ---
 title: Fluid prescriptions
 date created: Friday, February 16th 2024, 11:57:32 AM
-date modified: Tuesday, November 4th 2025, 9:24:42 am
+date modified: Wednesday, February 11th 2026, 12:06:45 pm
 tags: ['Drug']
 ---
 
@@ -17,6 +17,9 @@ tags: ['Drug']
 
 If correcting potassium, the maximum rate of infusion via a peripheral line is 10 mmol/hour
 
+#### Children
+- 100 ml/kg/day for the first 10kg
+- 50 ml/kg/day for the next 10kg
 
 ### Resuscitation
 
