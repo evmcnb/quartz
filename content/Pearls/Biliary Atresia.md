@@ -21,6 +21,7 @@ Typically presents within the first weeks of life and **obstructive jaundice cau
 > - Biliary atresia causes raised conjugated bilirubin vs unconjugated
 
 **Investigations**
+- Cholangiography for definative diagnosis
 - Serum bilirubin including differentiation into conjugated and total bilirubin: Total bilirubin may be normal, whereas conjugated bilirubin is abnormally high
 - Liver function tests (LFTs) including serum bile acids and aminotransferases are usually raised but cannot differentiate between biliary atresia and other causes of neonatal cholestasis
 - Other investigations to rule out other causes of neonatal jaundice - [[Full/Alpha-1 antitrypsin deficiency|Alpha-1 antitrypsin deficiency]], [[Full/Cystic Fibrosis|Cystic Fibrosis]]

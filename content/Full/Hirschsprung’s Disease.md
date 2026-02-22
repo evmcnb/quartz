@@ -42,3 +42,6 @@ Or can be slower:
 - Definitive: surgery to remove the affected area of the colon
 
 ## Complications/red Flags
+
+
+
