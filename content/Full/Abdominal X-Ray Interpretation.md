@@ -1,11 +1,9 @@
 ---
-tags:
-  - OSCE
-  - Radiology
-  - Gastroenterology
+tags: [OSCE, Radiology, Gastroenterology]
 title: Abdominal X-Ray Interpretation
 date: 2024-04-27
-date modified: 2024-04-27
+date modified: Tuesday, February 24th 2026, 9:12:44 am
+date created: Tuesday, November 25th 2025, 8:20:04 pm
 ---
 ### 1. Patient details
 

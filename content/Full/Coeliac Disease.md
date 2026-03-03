@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Coeliac Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, December 6th 2025, 3:01:05 pm
+date modified: Tuesday, February 24th 2026, 9:39:34 am
 date: 2023-09-18
 ---
 
@@ -24,7 +24,7 @@ Treatment with gluten free diet
 
 
 Often asymptomatic and under-diagnosed. Low threshold for testing
-- Failure to thrive in young children
+- Failure to thrive in young children - wasted buttocks very specific
 - Stinking stools (steatorrhea)
 - Diarrhoea
 - Abdominal pain

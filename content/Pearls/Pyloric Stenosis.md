@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Paediatrics]
 title: Pyloric Stenosis
 date: 2023-09-27
-date modified: Saturday, December 6th 2025, 12:22:02 pm
+date modified: Tuesday, February 24th 2026, 9:07:39 am
 date created: Saturday, December 6th 2025, 12:17:04 pm
 ---
 
@@ -19,6 +19,8 @@ Typically:
 - Possible metabolic alkalosis with a hypochloremia from the vomiting 
 
 Diagnosed via ultrasound visualisation of the thickened pylorus 
+
+![[z_attachments/Pasted image 20260224090706.png]]
 
 **_Treatment_** is with a **_laparoscopic pyloromyotomy_** (Ramstedt pyloromyotomy). An incision is made in the smooth muscle of the pylorus to widen the canal, widening the space for food to pass from the stomach to the duodenum.
 

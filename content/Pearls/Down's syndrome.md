@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: "Down's syndrome"
 date: 2023-09-27
-date modified: Thursday, January 22nd 2026, 4:19:12 pm
+date modified: Tuesday, February 24th 2026, 9:41:53 am
 date created: Saturday, December 20th 2025, 4:10:32 pm
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Fluid prescriptions
 date created: Friday, February 16th 2024, 11:57:32 AM
-date modified: Wednesday, February 11th 2026, 12:06:45 pm
+date modified: Friday, February 27th 2026, 10:52:22 am
 tags: ['Drug']
 ---
 
@@ -20,6 +20,9 @@ If correcting potassium, the maximum rate of infusion via a peripheral line is 1
 #### Children
 - 100 ml/kg/day for the first 10kg
 - 50 ml/kg/day for the next 10kg
+- 20 ml/kg/day subsequently
+
+0.9% saline with 5% glucose $\pm$ potassium 
 
 ### Resuscitation
 
@@ -31,6 +34,12 @@ Usually used in fluid resus. Give bolus of 500ml over less than 15 minutes
 - Plasma-lyte (also contains balanced electrolytes)
 
 If not responsive to fluids inotropes (increased heart contractility) or vasopressors (increase peripheral vascular resistance) may provide benefit. 
+
+##### Children
+
+- Fluid bolus of 10ml/kg and assess response
+- Above 60ml/kg total consider vasopressors 
+
 #### Colloids
 
 Affect fluid shifts in the body

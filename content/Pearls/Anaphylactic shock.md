@@ -1,7 +1,7 @@
 ---
 title: Anaphylactic shock
 date created: Monday, February 26th 2024, 05:06:49 PM
-date modified: Sunday, October 26th 2025, 11:15:18 am
+date modified: Friday, February 27th 2026, 10:15:57 am
 tags: ['Acute']
 ---
 
@@ -39,3 +39,5 @@ Management
 5. 0.9% saline 500ml over 15 mins up to 2L. Titrate against BP
 6. Raising feet may help restore circulation
 7. If still hypotensive admission to ICU and expert help need
+
+Can additional stuff (steroids + antihistamine but adjuncts rather than treatment)

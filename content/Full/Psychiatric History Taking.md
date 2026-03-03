@@ -1,20 +1,18 @@
 ---
-tags:
-  - Psychiatry
-  - OSCE
+tags: [Psychiatry, OSCE]
 title: Psychiatric History Taking
 date created: Friday, January 19th 2024, 9:50:27 am
-date modified: 2024-03-11
+date modified: Tuesday, February 24th 2026, 2:11:04 pm
 date: 2024-01-19
 ---
 Table to fill out in your mind for a psychological condition. 
 
-|               | Biological | Psychological | Social |
-| ------------- | ---------- | ------------- | ------ |
-| Predisposing  |            |               |        |
-| Precipitating |            |               |        |
-| Perpetuating  |            |               |        |
-| Protective    |            |               |        |
+|               | Biological                     | Psychological                    | Social                                      |
+| ------------- | ------------------------------ | -------------------------------- | ------------------------------------------- |
+| Predisposing  | Genes, gender, chronic illness | IQ. temperament                  | Housing, martial discord, parent MH problem |
+| Precipitating | Alcohol, drugs                 | Exam pressure, critical comments | Overcrowding, bullying                      |
+| Perpetuating  | Pain                           | Stress                           | Few friends                                 |
+| Protective    | Medication                     | Talking therapy                  | Social support                              |
 ## Introduction
 
 - **Wash hands** (and don PPE if needed)

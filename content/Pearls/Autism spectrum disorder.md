@@ -2,9 +2,13 @@
 tags: [Paediatrics]
 title: Autism spectrum disorder
 date: 2023-09-27
-date modified: Thursday, January 22nd 2026, 5:24:50 pm
+date modified: Wednesday, February 25th 2026, 9:07:47 am
 date created: Thursday, January 22nd 2026, 5:15:06 pm
 ---
+Three core areas of difficulty:
+
+![[z_attachments/Pasted image 20260224152903.png]]
+
 Qualitative impairment in social interaction and communication. Including repetitive stereotyped behaviour, interests and activities typically evidenced before 2-3 years of age:
 - Frequently play alone and uninterested in being with other children
 - May fail to regulate social interaction with nonverbal cues
@@ -23,3 +27,13 @@ No consistent evidence demonstrating medication improvements. More targeted to s
 - SSRI - reduced repetitive behaviour, anxiety and aggression
 - Anti-psychotic: reduce aggression and self-injury
 - Methylphenidate for [[Pearls/Attention deficit hyperactivity disorder]]
+- Rarely catatonia 
+
+Alternative diagnosis:
+- Learning disability
+- Sensory impairment
+- Language disorder
+- Attachment disorder
+- [[Pearls/Fragile X Syndrome|Fragile X Syndrome]]/[[Pearls/Inborn errors of metabolism|PKU]]
+- [[Tuberous sclerosis]]/[[Neurofibromatosis]]
+- [[Psychosis]] (rarely)

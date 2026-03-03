@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Paediatrics]
 title: Constipation in Children
 date: 2023-09-27
-date modified: Saturday, December 6th 2025, 12:14:08 pm
+date modified: Tuesday, February 24th 2026, 10:57:28 am
 date created: Saturday, December 6th 2025, 11:51:09 am
 ---
 
@@ -28,10 +28,18 @@ Red flags which may indicate a secondary cause are:
 - Abdo distension
 - Disclosure or evidence that raises concerns over possibility of child maltreatment
 
+
+> [!info] Rome Criteria
+> Diagnostic criteria for functional constipation. Must include 2 of the following with an age of at least 4:
+> - <3 defecations a week
+> - At least one episode of faecal incontinence per week
+> - History of painful/hard bowel movements
+> - History of large diameter stools
+
 ### Management 
 
 - Macrogols (Movicol) first line
-- Add a stimulant if above doesn't work after 2 weeks
+- Add a stimulant if above doesn't work after 2 weeks (often the case)
 
 Infants not yet weaned (usually < 6 months)  
 - bottle-fed infants: give extra water in between feeds. Try gentle abdominal massage and bicycling the infant's legs

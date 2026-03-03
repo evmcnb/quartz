@@ -1,12 +1,8 @@
 ---
-tags:
-  - Radiology
-  - OSCE
-  - Respiratory
-  - Cardiovascular
+tags: [Radiology, OSCE, Respiratory, Cardiovascular]
 title: Chest X-Ray Interpretation
 date created: Tuesday, October 10th 2023, 10:10:52 am
-date modified: 2024-03-11
+date modified: Tuesday, February 24th 2026, 12:07:28 pm
 date: 2024-02-17
 ---
 > [!info] Note for this page

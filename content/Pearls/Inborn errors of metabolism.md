@@ -1,7 +1,7 @@
 ---
 title: Inborn errors of metabolism
 date created: Monday, February 26th 2024, 01:03:33 PM
-date modified: Monday, December 8th 2025, 6:40:21 pm
+date modified: Tuesday, February 24th 2026, 10:36:18 am
 tags: ['Genetics']
 ---
 
@@ -28,6 +28,8 @@ tags: ['Genetics']
 
 * Cannot breakdown amino acid **phenylalanine**
 * Plays a role in melanin → PKU lighter skin & hair
+* Developmental delay
+* Hypotonia
 
 ## Porphyria
 

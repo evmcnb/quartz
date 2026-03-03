@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Wednesday, February 11th 2026, 12:05:13 pm
+date modified: Friday, February 27th 2026, 11:00:39 am
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -80,7 +80,6 @@ Main principles of management
 
 
 #### DKA in children
-
 
 ###### Fluids
 Dehydrated patients are given an initial fluid bolus of 10ml/kg over 30 minutes (without added potassium).

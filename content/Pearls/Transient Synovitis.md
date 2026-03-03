@@ -2,7 +2,7 @@
 tags: [Orthopaedics, Paediatrics]
 title: Transient Synovitis
 date: 2023-09-27
-date modified: Tuesday, October 28th 2025, 1:57:10 pm
+date modified: Tuesday, February 24th 2026, 9:26:05 am
 date created: Tuesday, October 28th 2025, 1:53:59 pm
 ---
 
@@ -17,6 +17,10 @@ Symptoms of transient synovitis often occur within a few weeks of a viral illnes
 - Mild low grade temperature
 
 Children with transient synovitis should be otherwise well. They should have normal paediatric observations and no signs of systemic illness. When other signs are present, consider alternative diagnoses.
+
+Hip effusion on ultrasound
+
+![[z_attachments/Pasted image 20260224092512.png]]
 
 ### Management
 

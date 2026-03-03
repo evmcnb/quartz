@@ -2,7 +2,7 @@
 tags: [Paediatrics]
 title: Developmental Milestones
 date: 2023-09-27
-date modified: Saturday, December 20th 2025, 3:19:40 pm
+date modified: Monday, February 23rd 2026, 9:39:33 am
 date created: Friday, December 5th 2025, 5:07:41 pm
 ---
 
@@ -71,6 +71,8 @@ Look at the number of letters for each sound
 | 4 years   | Plays with other children        |
 
 **Feeding**
+- Primary dentition at 6 months
+- Same time to start weening
 
 |**Milestone**|**Age**|
 |---|---|
@@ -83,10 +85,11 @@ Look at the number of letters for each sound
 
 There are certain red flags for things that would suggest there is a problem:
 - Lost developmental milestones
+- Persisting primitive reflexes
 - Not holding an object by 6 months
 - Not sitting unsupported by 9 months
 - Not standing independently by 12–15 months
-- Not walking by 15 months in girls or 18 months in boys
+- Not walking by 15 months in girls or 18 months in boys ([[Full/Cerebral Palsy|Cerebral Palsy]], [[Pearls/Muscular dystrophy|Duchennes muscular dystrophy]], or could be normal with bottom shuffling)
 - Not running by 2 years
 - No words by 18 months
 - No interest in others by 12 months

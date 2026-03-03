@@ -1,7 +1,7 @@
 ---
-title: "Diahorrea and Vomiting Electrolytes"
-date created: 2024-04-24 13:10:44.669521+01
-date modified: 2024-04-24 13:12:02.806343+01
+title: Diarrhoea and Vomiting Electrolytes
+date created: Tuesday, November 25th 2025, 8:19:38 pm
+date modified: Tuesday, February 24th 2026, 10:53:26 am
 tags: ['Nephrology', 'Symptom']
 ---
 

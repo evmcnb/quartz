@@ -1,12 +1,9 @@
 ---
-tags:
-  - Urology
+tags: [Urology]
 title: Urolithiasis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
-aliases:
-  - Kidney stones
-  - Renal colic
+date modified: Tuesday, February 24th 2026, 9:21:34 am
+aliases: [Kidney stones, Renal colic]
 date: 2023-11-27
 ---
 

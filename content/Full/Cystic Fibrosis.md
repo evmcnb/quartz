@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Cystic Fibrosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, December 3rd 2025, 5:15:48 pm
+date modified: Tuesday, February 24th 2026, 12:18:54 pm
 date: 2023-09-18
 ---
 Thickened mucus glands
@@ -39,8 +39,10 @@ Other features:
 - Regular (2+ per day) chest physiotherapy and postural drainage
 - High calorie diet, including high fat 
 - Minimise contact with other CF patients to prevent cross infection with _Burkholderia cepacia_ complex and _Pseudomonas aeruginosa_
-- Pancreatic supplements taken with meals
+- Pancreatic supplements taken with meals. High calorie high fat diet 
 - Lung transplantation - chronic infection with _Burkholderia cepacia_ is a contraindication
 ## Complications/red Flags
 
-- Low prognosis - median ~41 years
+- ~~Low prognosis - median ~41 years~~ 
+
+New modulators have increased the life-expectancy to almost normal - Kaftrio & Alyftrek

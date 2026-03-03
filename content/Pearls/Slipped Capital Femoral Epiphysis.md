@@ -2,7 +2,7 @@
 tags: []
 title: Slipped Capital Femoral Epiphysis
 date: 2023-09-27
-date modified: Wednesday, October 29th 2025, 5:02:53 pm
+date modified: Tuesday, February 24th 2026, 9:27:20 am
 date created: Tuesday, October 28th 2025, 2:39:06 pm
 ---
 
@@ -17,5 +17,6 @@ Presenting symptoms can be vague. These can be:
 - Restricted range of movement in the hip - **reduced internal rotation of the leg in flexion**
 - Painful limp
 
-
 XR to confirm, surgery to fix
+
+![[z_attachments/Pasted image 20260224092657.png]]

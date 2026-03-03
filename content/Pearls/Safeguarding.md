@@ -2,7 +2,7 @@
 tags: [Paediatrics, OSCE]
 title: Safeguarding
 date: 2023-09-27
-date modified: Saturday, December 20th 2025, 4:42:09 pm
+date modified: Tuesday, February 24th 2026, 9:30:49 am
 date created: Saturday, December 20th 2025, 3:35:24 pm
 ---
 
@@ -34,3 +34,15 @@ All NHS organisations should have a **_safeguarding team_** and a **_safeguardin
 - Multiple injuries
 - Injuries at sites not commonly exposed to trauma
 - Children on the at risk register
+
+### Fractures
+
+Typically: 
+- multiple rib
+- metaphyseal - corner fractures: triangular piece of bone, from dragging a child. Most specific to abuse
+![[z_attachments/Pasted image 20260224092941.png]]
+- spiral long bone
+- spinal
+- skull
+
+Must always correlate with the history, e.g. spiral fracture without any history of a twisting injury. Suspicious if fractures of different ages 

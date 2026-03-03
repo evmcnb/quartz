@@ -2,7 +2,8 @@
 tags: [Orthopaedics, Paediatrics]
 title: "Perthes' Disease"
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Tuesday, February 24th 2026, 9:26:18 am
+date created: Friday, February 6th 2026, 1:47:15 pm
 ---
 
 Degenerative condition affecting joints of children aged 4-8. Due to **avascular necrosis of the femoral head** (epiphysis). 

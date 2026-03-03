@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Epiglottitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, December 3rd 2025, 11:54:48 am
+date modified: Tuesday, February 24th 2026, 11:56:20 am
 date: 2023-09-18
 ---
 
@@ -21,6 +21,7 @@ Epiglottitis was generally considered a disease of childhood (2-7 years) but in 
 - Fever
 - Stridor
 - Drooling
+- Look unwell
 
 Tripod position - finds it easier to breath leaning forward extending their neck in a seated position
 

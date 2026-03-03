@@ -1,10 +1,20 @@
 ---
-title: "Self Harm"
+title: Self Harm
 date created: Tuesday, March 19th 2024, 02:35:49 PM
-date modified: 2024-03-19 14:40:28.139128+00
+date modified: Friday, February 27th 2026, 9:51:06 am
 tags: ['Acute', 'Psychiatry']
 ---
 
+What? How? When? Where?
+
+Factors associated with an increase risk of suicide:
+- Conducted in isolation
+- Timed so that intervention was unlikely
+- Precautions to avoid discovery
+- Preparation in anticipation of death e.g. giving things away
+- Act considered for hour/days before hand
+- Suicide note
+- Told others about thought of suicide
 
 
 * The majority of self-poisoning episodes involve prescribed or over-the-counter medication, and a minority involve illicit drugs, other household substances, or plant material.

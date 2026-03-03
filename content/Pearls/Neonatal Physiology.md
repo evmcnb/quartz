@@ -2,10 +2,10 @@
 tags: [Neonatology]
 title: Neonatal Physiology
 date: 2023-09-27
-date modified: Thursday, December 18th 2025, 3:31:24 pm
+date modified: Monday, February 23rd 2026, 4:27:49 pm
 date created: Thursday, December 18th 2025, 10:38:09 am
 ---
-
+Neonates considered term + 28 days (i.e. if born at 40 weeks, neonates are first 28 days of life)
 
 ### Cardio-respiratory
 

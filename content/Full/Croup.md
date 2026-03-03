@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Croup
 date: 2023-09-27
-date modified: Saturday, December 20th 2025, 4:10:33 pm
+date modified: Friday, February 27th 2026, 10:13:58 am
 date created: Wednesday, December 3rd 2025, 11:40:12 am
 ---
 
@@ -34,7 +34,7 @@ It usually resolves within two days and responds well to treatment with **_dexam
 > - Moderate or severe croup
 > - <3 months of age
 > - Known airway abnormalities ([[Full/Laryngomalacia]], [[Pearls/Down's syndrome]])
-> - Uncertainty about diagnosis. **Important differentials include:** [[Full/Epiglottitis|acute epiglottitis]], bacterial tracheitis, peritonsillar abscess and foreign body inhalation 
+> - Uncertainty about diagnosis. **Important differentials include:** [[Full/Epiglottitis|acute epiglottitis]], [[Bacterial tracheitis]], [[Pearls/Quinsy|Quinsy]] and foreign body inhalation 
 
 ## Investigations
 
@@ -42,8 +42,9 @@ It usually resolves within two days and responds well to treatment with **_dexam
 - If a CXR is done a PA view will show subglottic narrowing (steeple sign)
 ## Management
 
-Single dose of oral dexamethasone (0.15mg/kg) regardless of severity
+Single dose of oral dexamethasone (0.15mg/kg) regardless of severity. Then don't annoy them 
 
 Emergency treatment: 
 - high flow oxygen
-- nebulised adrenaline 
+- nebulised adrenaline $\pm$ bumetanide 
+

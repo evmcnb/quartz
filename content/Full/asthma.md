@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, December 3rd 2025, 11:28:33 am
+date modified: Friday, February 27th 2026, 10:42:26 am
 aliases: [Asthma]
 date: 2024-01-14
 ---
@@ -107,21 +107,26 @@ Additional management includes:
 - Avoiding triggers where appropriate
 
 ### Acute Management
-See [[Full/RRAPID Conditions and Management#asthma Asthma|here]]:
+See [[Full/RRAPID Conditions and Management#Full/asthma Asthma|here]]
 
-Oh  
-Shit,  
-I  
-Hate  
-My  
-Asthma  
+- Oh  
+- Shit,  
+- I  
+- Hate  
+- My  
+- Asthma  
   
 1) [[Pearls/Oxygen|Oxygen]]  
-2) [[Pearls/Salbutamol|Salbutamol]] nebulisers  
+2) [[Pearls/Salbutamol|Salbutamol]] nebulisers (5mg for those 5+, 2.5mg under)
 3) [[Pearls/Ipratropium Bromide|Ipratropium Bromide]] nebulisers  
 4) Hydrocortisone IV or Oral [[Pearls/Prednisolone|Prednisolone]]  
 5) Magnesium Sulfate IV  
 6) Aminophylline / IV [[Pearls/Salbutamol|Salbutamol]]
+
+**History**
+- Ever been hospitalised before with asthma
+- Needed IV therapy before?
+- Compliance with asthma therapy 
 
 ## Complications/red Flags
 

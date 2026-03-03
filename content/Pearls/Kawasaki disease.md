@@ -7,10 +7,15 @@ tags: ['Rheumatology', 'InfectiousDisease']
 
 Kawasaki disease is a rare condition mainly seen in children under 5-years-old. It is classified by a **fever** which is present for 5 days or more along with 4 of the following features:
 
+- Oropharyngeal changes - strawberry tongue
+- Changes in the peripheries such as oedema or peeling.
+- Bilateral nonpurulent conjunctivitis
+- Polymorphic rash.
+- Cervical lymphadenopathy.
 - Dry cracked lips
-- Bilateral conjunctivitis
-- Peeling of skin on fingers and toes
-- Cervical lymphadenopathy
-- Red rash over trunk
+
 
 Treatment with high dose aspirin $\pm$ IV Ig
+
+
+Coronary artery aneurysms associated with Kawasaki disease are a major source of morbidity and mortality and should be screened for in all patients with a confirmed diagnosis

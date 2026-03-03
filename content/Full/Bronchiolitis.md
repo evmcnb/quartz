@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Bronchiolitis
 date: 2024-02-09
-date modified: Tuesday, December 2nd 2025, 10:34:49 am
+date modified: Tuesday, February 24th 2026, 1:42:08 pm
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Infection of the bronchioles
@@ -57,13 +57,13 @@ Most infants can be manage at home with advice about when to seek further attent
 - 50-75% less of their normal milk intake
 - Clinical dehydration
 - RR above 70
-- [[Pearls/Oxygen|Oxygen]] sats below 92%
+- [[Pearls/Oxygen|Oxygen]] if sats below 92% (90% if less than 6 weeks)
 - Moderate to severe respiratory distress - deep recessions or head bobbing
 - Apnoeas
 - Patients not confident in their ability to manage at home 
 
 
-### In hopsital 
+### In hospital 
 Typically patients only require supportive management 
 - Ensure adequate intake - orally, via NG or IV fluids. Important to avoid overfeeding as **this will restrict breathing**
 - Saline nasal drops and suctioning to remove secretions - particularly prior to feeding

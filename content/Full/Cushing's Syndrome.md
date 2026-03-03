@@ -1,9 +1,8 @@
 ---
-tags:
-  - Endocrinology
+tags: [Endocrinology]
 title: "Cushing's Syndrome"
 date created: Wednesday, November 1st 2023, 1:15:33 pm
-date modified: 2024-03-11
+date modified: Friday, February 27th 2026, 11:17:44 am
 date: 2023-11-10
 ---
 

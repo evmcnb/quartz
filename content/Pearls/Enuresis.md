@@ -2,7 +2,7 @@
 tags: [Paediatrics]
 title: Enuresis
 date: 2023-09-27
-date modified: Tuesday, December 16th 2025, 5:43:16 pm
+date modified: Monday, February 23rd 2026, 9:57:17 am
 date created: Tuesday, December 16th 2025, 5:30:50 pm
 ---
 
@@ -20,3 +20,5 @@ Management escalation:
 5. Desmopressin - for short-term control or an alarm is ineffective/not acceptable to the family 
 
 Assess family dynamic as may be a sign of abuse. 
+
+

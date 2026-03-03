@@ -2,10 +2,10 @@
 tags: [Hepatology, Gastroenterology, Paediatrics]
 title: Biliary Atresia
 date: 2023-09-27
-date modified: Saturday, December 6th 2025, 2:54:56 pm
+date modified: Monday, February 23rd 2026, 9:00:26 am
 date created: Saturday, December 6th 2025, 2:38:12 pm
 ---
-Congenital condition where bile ducts are narrowed or absent. Bile cannot be excreted so conjugated bilirubin builds up causing jaundice
+	Congenital condition where bile ducts are narrowed or absent. Bile cannot be excreted so conjugated bilirubin builds up causing jaundice
 
 
 Typically presents within the first weeks of life and **obstructive jaundice causes:**

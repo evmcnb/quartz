@@ -2,7 +2,7 @@
 tags: [Surgery, Acute]
 title: Bowel obstruction
 date created: Friday, February 16th 2024, 3:42:32 pm
-date modified: Sunday, October 26th 2025, 11:14:29 am
+date modified: Tuesday, February 24th 2026, 9:12:04 am
 date: 2024-02-16
 ---
 Small bowel obstruction is more common
@@ -55,6 +55,10 @@ Small [[Pearls/Bowel Obstruction|Bowel Obstruction]] (coiled-spring appearance)
 Large [[Pearls/Bowel Obstruction|Bowel Obstruction]]
 
 ![[z_attachments/Pasted image 20240216160339.png|425]]
+
+Intestinal malrotation with volvulus
+
+![[z_attachments/Pasted image 20260224090946.png]]
 ## Management
 
 ABCDE approach - may be haemodynamically unstable and require urgent intervention if develop:

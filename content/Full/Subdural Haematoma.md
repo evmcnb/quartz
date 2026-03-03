@@ -1,10 +1,8 @@
 ---
-tags:
-  - Neurology
-  - Cardiovascular
+tags: [Neurology, Cardiovascular]
 title: Subdural Haematoma
 date created: Wednesday, October 4th 2023, 3:33:55 pm
-date modified: 2024-03-11
+date modified: Tuesday, February 24th 2026, 9:31:09 am
 date: 2023-10-05
 ---
 Very treatable condition in those whose conscious level fluctuates and in those having an "evolving [[Full/Stroke]]"

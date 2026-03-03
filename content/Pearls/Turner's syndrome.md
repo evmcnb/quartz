@@ -14,6 +14,7 @@ Features:
 - Primary amenorrhea 
 (less importantly)
 - webbed neck, widely-spaced nipples
+- Coarctation of the aorta (systolic murmur)
 
 
 

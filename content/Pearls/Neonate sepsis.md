@@ -1,7 +1,7 @@
 ---
 title: Neonate sepsis
 date created: Sunday, January 21th 2024, 12:48:06 PM
-date modified: Saturday, January 10th 2026, 3:54:30 pm
+date modified: Friday, February 27th 2026, 11:17:21 am
 tags: [Acute, Neonatology]
 ---
 
@@ -27,7 +27,7 @@ Temperature is not usually a reliable sign
 - CRP not useful for diagnosis
 - Blood gases - metabolic acidosis is concerning, particularly with a base deficit of >10 mmol/L
 - Urine MC&S - more useful in late onset
-- LP - if there are concerns of meningitis as the source of sepsis
+- LP - if there are concerns of meningitis as the source of sepsis (more common <3 month olds)
 
 **Management:** 
 Most important part of management is early identification and treatment
