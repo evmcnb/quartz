@@ -2,10 +2,9 @@
 tags: [Paediatrics]
 title: Infant Nutrition
 date: 2023-09-27
-date modified: Monday, February 23rd 2026, 9:02:18 am
+date modified: Monday, March 2nd 2026, 12:23:39 pm
 date created: Saturday, December 20th 2025, 2:51:22 pm
 ---
-
 
 ### Breast vs Bottle
 
@@ -29,7 +28,7 @@ Volumes are gradually increased in the first week of life as tolerated. For exam
 - Day 1: 60 mL/kg/day
 - Day 2: 90 mL/kg/day
 - Day 3: 120 mL/kg/day
-- Day 4 and onwards: 150 mL/kg/day
+- Day 4 and onwards: **150 mL/kg/day**
 
 Preterm/underweight babies may require higher volumes
 

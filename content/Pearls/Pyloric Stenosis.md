@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Paediatrics]
 title: Pyloric Stenosis
 date: 2023-09-27
-date modified: Tuesday, February 24th 2026, 9:07:39 am
+date modified: Monday, March 2nd 2026, 12:10:38 pm
 date created: Saturday, December 6th 2025, 12:17:04 pm
 ---
 
@@ -12,11 +12,11 @@ Hypertrophy and narrowing of the pylorus. After feeding, powerful pertistalsis a
 - first-borns are more commonly affected
 
 Typically:
-- Before 3 months
+- 1 month - 3 months
 - A hungry, thin,  pale and failing to thrive baby
-- Forceful/projectile vomiting 30 mins after a feed
+- Forceful/projectile vomiting 30 mins after a feed - if its progressed that far
 - A firm, round mass may be felt in the upper abdomen that feels “**_like a large olive_**”, caused by the **_hypertrophic pylorus_**.
-- Possible metabolic alkalosis with a hypochloremia from the vomiting 
+- Possible metabolic alkalosis with a hypochloremia and hypokalaemia from the vomiting 
 
 Diagnosed via ultrasound visualisation of the thickened pylorus 
 

@@ -1,11 +1,9 @@
 ---
-title: "Maturity-Onset Diabetes of the Young"
-date created: 2024-04-10 13:34:16.381657+01
-date modified: 2024-04-10 13:34:16.386479+01
+title: Maturity-Onset Diabetes of the Young
+date created: Tuesday, November 25th 2025, 8:19:43 pm
+date modified: Friday, March 6th 2026, 10:53:49 am
 tags: ['Endocrinology']
 ---
-
-
 
 Maturity-onset diabetes of the young refers to any of several **hereditary forms of diabetes** **mellitus** caused by mutations in an **autosomal dominant** gene disrupting [[Pearls/Insulin|Insulin]] production.
 

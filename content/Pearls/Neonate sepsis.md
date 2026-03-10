@@ -1,12 +1,12 @@
 ---
 title: Neonate sepsis
 date created: Sunday, January 21th 2024, 12:48:06 PM
-date modified: Friday, February 27th 2026, 11:17:21 am
+date modified: Friday, March 6th 2026, 10:46:25 am
 tags: [Acute, Neonatology]
 ---
 
 Serious infection in the blood within the first 28 days of life. Categorised as:
-* Early onset first 72 hour - Group B strep/E coli., colonised during delivery
+* Early onset first 72 hour - Group B strep/E coli., colonised during delivery, prolonged SROM
 * Late onset after 72h - hospital acquired pathogens: _Staphylococcus epidermidis_ and _Staphylococcus aureus_
 
 Account for 10% of all neonatal mortality and must be promptly identified and managed. 
@@ -18,6 +18,7 @@ Patients typically present with:
 - Lethargy
 - Jaundice 
 - Poor feeding
+- Appears ill
 
 Temperature is not usually a reliable sign 
 
@@ -36,4 +37,4 @@ Most important part of management is early identification and treatment
 	- Antibiotics can be ceased at 48 hours in neonates who have a CRP of <10 and a negative culture at hour 0 and 48 
 - Maintain adequate oxygenation status
 - Maintain normal fluid and electrolyte status - severely ill neonates may require volume +/- pressors. **Daily body weight measurements** 
-- Prevention and management of hypoglycaemia & metabolic acidosis
+- Prevention and management of [[Pearls/Neonatal hypoglycaemia]] & metabolic acidosis

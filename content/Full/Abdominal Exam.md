@@ -2,7 +2,7 @@
 tags: [Examination, OSCE, Gastroenterology]
 title: Abdominal Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, December 18th 2025, 11:31:34 am
+date modified: Friday, March 6th 2026, 11:21:08 am
 date: 2024-02-07
 ---
 
@@ -77,7 +77,7 @@ Place dorsal aspect of your hand onto patients to assess temperature
 - <span style="color:#ff0000">Bruising</span> - <span style="color:#00b0f0">clotting problem due to liver disease</span>
 - <span style="color:#ff0000">Excoriations</span> - <span style="color:#00b0f0">sign of pruritis indicated cholestasis</span>
 - <span style="color:#ff0000">Needle track marks</span> - IV drug user - [[Full/Hepatitis]]
-- <span style="color:#ff0000">Acanthosis nigricans in axillae</span> - [[Full/Diabetes Mellitus]]<span style="color:#00b0f0">, gastric cancer (or other GI malignancy)</span>
+- <span style="color:#ff0000">Acanthosis nigricans in axillae</span> - [[Full/Diabetes Mellitus]] (T2DM)<span style="color:#00b0f0">, gastric cancer (or other GI malignancy)</span>
 - <span style="color:#ff0000">Hair loss in axillae </span>- due to<span style="color:#00b0f0"> iron-deficiency anaemia and malnutrition</span>
 
 ## Face

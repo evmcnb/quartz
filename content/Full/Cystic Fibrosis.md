@@ -2,9 +2,10 @@
 tags: [Respiratory]
 title: Cystic Fibrosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, February 24th 2026, 12:18:54 pm
+date modified: Monday, March 9th 2026, 2:44:46 pm
 date: 2023-09-18
 ---
+
 Thickened mucus glands
 - 85% of patients with CF develop **_pancreatic insufficiency_**
 - 30-50% of adults with CF develop **_cystic fibrosis diabetes_**

@@ -2,7 +2,7 @@
 tags: [Paediatrics, Neonatology, OSCE, Examination]
 title: Newborn infant physical examination
 date: ""
-date modified: Thursday, December 18th 2025, 2:07:50 pm
+date modified: Monday, March 9th 2026, 2:52:26 pm
 date created: Thursday, December 18th 2025, 11:19:41 am
 ---
 
@@ -83,8 +83,16 @@ Very important to document any birthmarks or bruising/lacerations from birth tra
 - **Vernix** - a waxy/cheese-like white substance coating the skin of the newborns (normal finding)
 - **Birthmarks**
 	- Salmon patch - red or pink patches often on an infant's eyelids, head or neck. Common and usually fade by the age of 2
+	  
+	  ![[z_attachments/Pasted image 20260309144945.png|350]]
 	- Haemangiomas - blood vessels which form a raised lump on the skin that appears soon after birth. Typically get bigger over the first 6-12 months, then shrink and disappear by 7.
+	  
+	  ![[z_attachments/Pasted image 20260309145031.png|375]]
 	- Port-wine stain (naevus flammeus) - red/purple marks on the face and neck which are typically present from birth and do not regress
+	  
+	  ![[z_attachments/Pasted image 20260309145058.png|350]]
+	- Slate-grey nevus (previously mongolian blue spot)
+	   ![[z_attachments/Pasted image 20260309145201.png|375]]
 	
 
 ## Face

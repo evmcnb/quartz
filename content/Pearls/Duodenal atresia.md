@@ -1,8 +1,8 @@
 ---
-tags: [Paediatrics, Radiology]
+tags: [Paediatrics, Radiology, Gastroenterology]
 title: Duodenal atresia
 date: 2023-09-27
-date modified: Tuesday, February 24th 2026, 9:46:20 am
+date modified: Monday, March 2nd 2026, 12:32:48 pm
 date created: Tuesday, February 24th 2026, 9:41:53 am
 ---
 Malformation of the duodenum. Causes a complete [[Full/Bowel obstruction|Bowel obstruction]].

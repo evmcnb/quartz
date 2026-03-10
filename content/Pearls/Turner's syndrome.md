@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: "Turner's syndrome"
 date: 2023-09-27
-date modified: Saturday, December 20th 2025, 4:47:27 pm
+date modified: Monday, March 9th 2026, 9:05:19 am
 date created: Saturday, December 20th 2025, 4:33:45 pm
 ---
 
@@ -15,7 +15,9 @@ Features:
 (less importantly)
 - webbed neck, widely-spaced nipples
 - Coarctation of the aorta (systolic murmur)
-
+- Bicuspid aortic valve
 
 
 Associated with aortic dilation and dissection - regular monitoring key 
+
+Somatotropin, or recombinant human growth hormone can help with growth

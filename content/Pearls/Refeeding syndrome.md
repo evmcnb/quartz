@@ -2,7 +2,8 @@
 tags: [Psychiatry, Geriatrics, Cardiovascular]
 title: Refeeding syndrome
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Monday, March 9th 2026, 9:45:05 am
+date created: Wednesday, February 4th 2026, 10:57:00 am
 ---
 
 

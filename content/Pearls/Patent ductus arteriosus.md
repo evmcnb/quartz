@@ -8,7 +8,7 @@ date created: Monday, December 1st 2025, 7:36:36 pm
 
 - Usually acyanotic - eventually results in late cyanosis in the lower extremities
 - Connection between the pulmonary trunk and descending aorta
-- More common in [[Pearls/Premature Babies]], born at high altitude or maternal [[Rubella]] infection
+- More common in [[Pearls/Premature Babies]], born at high altitude or maternal [[Pearls/Rubella]] infection
 
 Features: 
 - Left subclavicular thrill

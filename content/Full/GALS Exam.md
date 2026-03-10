@@ -2,7 +2,7 @@
 tags: [Examination, MSK, OSCE, Incomplete]
 title: GALS Exam
 date created: Thursday, November 16th 2023, 6:08:10 pm
-date modified: Thursday, January 22nd 2026, 4:47:06 pm
+date modified: Monday, March 2nd 2026, 4:38:05 pm
 date: 2023-11-22
 ---
 

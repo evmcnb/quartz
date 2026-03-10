@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, December 8th 2025, 6:05:26 pm
+date modified: Friday, March 6th 2026, 10:56:59 am
 date: 2024-01-14
 ---
 
@@ -41,7 +41,8 @@ If symptomatic a single abnormal test is enough, if asymptomatic two abnormal te
 
 - Symptoms and random plasma glucose >11 mmol/L
 - Fasting plasma glucose >7 mmol/L
-- HbA1C - 48 mmol cut off for starting treatment
+- OGTT - glucose at 2 hours >11 mmol/L
+- HbA1C - 48 mmol cut off for starting treatment (not used in young people)
 
 Weight loss, short history and moderate or large urinary ketones are indication for immediate insulin treatment at **any age**
 

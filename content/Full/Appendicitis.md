@@ -2,7 +2,7 @@
 tags: [Surgery, Gastroenterology]
 title: Appendicitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, December 6th 2025, 3:07:40 pm
+date modified: Monday, March 2nd 2026, 12:24:23 pm
 date: 2024-02-16
 ---
 
@@ -37,6 +37,7 @@ Other:
 - US/CT if unclear
 - **Pregnancy test** - to rule out ectopic pregnancy 
 - Groin and scrotal exam check for incarcerated hernia or testicular torsion
+- PARKS score in children
 ## Management
 
 Low threshold for admission for pregnant women, infants, young people and elderly people

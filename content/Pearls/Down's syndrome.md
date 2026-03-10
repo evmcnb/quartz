@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: "Down's syndrome"
 date: 2023-09-27
-date modified: Tuesday, February 24th 2026, 9:41:53 am
+date modified: Monday, March 9th 2026, 3:33:58 pm
 date created: Saturday, December 20th 2025, 4:10:32 pm
 ---
 
@@ -32,7 +32,7 @@ Trisomy 21. Results in characteristic dysmorphic features and predisposes to var
 - [[Full/Obstructive Sleep Apnoea|Obstructive Sleep Apnoea]]
 - Hypogonadism and reduce fertility
 - Congenital heart defects (ASD)
-- Congential GI abnormalities - [[Duodenal atresia]] and [[Full/Hirschsprung’s Disease|Hirschsprung’s Disease]]
+- Congential GI abnormalities - [[Pearls/Duodenal atresia]] and [[Full/Hirschsprung’s Disease|Hirschsprung’s Disease]]
 - [[Pearls/Acute lymphoblastic leukaemia|Acute lymphoblastic leukaemia]]
 - [[Pearls/Acute myeloid leukaemia|Acute myeloid leukaemia]]
 - Early onset dementia 
@@ -57,6 +57,8 @@ If women book later in the pregnancy (15-20 weeks), the quadruple test should be
 | **Down's syndrome**     | ↓                 | ↓                     | ↑                             | ↑         |
 | **Edward's syndrome**   | ↓                 | ↓                     | ↓                             | ↔         |
 | **Neural tube defects** | ↑                 | ↔                     | ↔                             | ↔         |
+
+On anomaly scan - atrioventricular septal defect very specific
 
 #### Results
 

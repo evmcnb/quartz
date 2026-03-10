@@ -34,7 +34,7 @@ It usually resolves within two days and responds well to treatment with **_dexam
 > - Moderate or severe croup
 > - <3 months of age
 > - Known airway abnormalities ([[Full/Laryngomalacia]], [[Pearls/Down's syndrome]])
-> - Uncertainty about diagnosis. **Important differentials include:** [[Full/Epiglottitis|acute epiglottitis]], [[Bacterial tracheitis]], [[Pearls/Quinsy|Quinsy]] and foreign body inhalation 
+> - Uncertainty about diagnosis. **Important differentials include:** [[Full/Epiglottitis|acute epiglottitis]], [[Pearls/Bacterial tracheitis]], [[Pearls/Quinsy|Quinsy]] and foreign body inhalation 
 
 ## Investigations
 

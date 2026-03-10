@@ -1,8 +1,8 @@
 ---
-tags: [Acute, Paediatrics]
+tags: [Acute, Paediatrics, OSCE]
 title: Paediatric Basic Life Support
 date: 2023-09-27
-date modified: Monday, February 23rd 2026, 11:21:27 am
+date modified: Tuesday, March 3rd 2026, 6:17:37 pm
 date created: Monday, February 23rd 2026, 11:14:14 am
 ---
 The following principles apply to **infants and children** (not neonates):  

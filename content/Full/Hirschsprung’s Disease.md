@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Paediatrics]
 title: Hirschsprung’s Disease
 date: 2023-09-27
-date modified: Saturday, December 6th 2025, 2:12:10 pm
+date modified: Monday, March 2nd 2026, 12:25:48 pm
 date created: Saturday, December 6th 2025, 1:50:00 pm
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Limping Child
 date created: Wednesday, December 10th 2025, 5:27:17 pm
-date modified: Thursday, December 18th 2025, 10:33:21 am
+date modified: Monday, March 2nd 2026, 5:10:04 pm
 tags: [Orthopaedics, Paediatrics]
 date: 2023-09-27
 ---
@@ -12,7 +12,7 @@ Common paediatric pathway
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | **[[Pearls/Transient Synovitis\|Transient Synovitis]]**                                   | Acute onset  <br>Usually accompanies viral infections, but the child is well or has a mild fever  <br>More common in boys, aged 2-12 years |
 | **[[Pearls/Septic Arthritis\|Septic Arthritis]]/[[Pearls/Osteomyelitis\|Osteomyelitis]]** | Unwell child, high fever                                                                                                                   |
-| **Juvenile idiopathic arthritis**                                                         | Limp may be painless                                                                                                                       |
+| **[[Pearls/Juvenile idiopathic arthritis]]**                                                     | Limp may be painless                                                                                                                       |
 | **Trauma**                                                                                | History is usually diagnostic                                                                                                              |
 | **Development dysplasia of the hip**                                                      | Usually detected in neonates  <br>6 times more common in girls                                                                             |
 | **Perthes disease**                                                                       | More common at 4-8 years  <br>Due to avascular necrosis of the femoral head                                                                |

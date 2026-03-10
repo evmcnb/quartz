@@ -2,9 +2,11 @@
 tags: [Paediatrics, InfectiousDisease]
 title: Mumps
 date: 2023-09-27
-date modified: Tuesday, January 27th 2026, 6:08:51 pm
+date modified: Monday, March 9th 2026, 11:43:39 am
 date created: Tuesday, January 27th 2026, 6:05:22 pm
 ---
+
+
 
 Tends to occur in winter/spring. Spread by droplets. Infective 7 days before and 9 days after parotid swelling. Incubation period of 14-21 days. 
 - fever

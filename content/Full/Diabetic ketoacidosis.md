@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Friday, February 27th 2026, 11:00:39 am
+date modified: Sunday, March 8th 2026, 4:43:01 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -98,7 +98,7 @@ A fixed rate insulin infusion (0.05-0.1 units/kg/hour) is started 1-2 hours afte
 
 #### Complications
 
-- Cerebral oedema
+- **Cerebral oedema** - look for reduced GCS 
 - Aspiration [[Full/pneumonia]] 
 - Hypo -kalacemia, -magnesaemia and -phosphataemia
 

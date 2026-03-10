@@ -1,7 +1,7 @@
 ---
 title: Epilepsy
 date created: Friday, February 23th 2024, 03:01:43 PM
-date modified: Friday, February 27th 2026, 11:28:52 am
+date modified: Friday, March 6th 2026, 10:04:43 am
 tags: ['Neurology']
 ---
 
@@ -20,7 +20,7 @@ Most neurologists now start antiepileptics following a second epileptic seizure.
 | **Atonic seizures** ("drop attacks")       | General brain                 |                             | Sudden loss of muscle tone, often resulting in a fall. May indicate Lennox-Gastaut syndrome.                             |                                                                                                         | Same as tonic seizures.                                                   |
 | **Absence seizures**                       | More common in children       |                             | Becomes blank and stares into space then abruptly returns to normal. Unaware. Lasts 10-20 seconds.                       | Usually stop as they grow older.                                                                        | [[Ethosuximide]].                                                         |
 | **Infantile spasms** (West syndrome)       | Most common in children       | Hypsarrhythmia on EEG       | Presents with clusters of full-body spasms.                                                                              | Associated with developmental regression and has a poor prognosis.                                      | Treatment is with **ACTH** and **Vigabatrin**.                            |
-| **Febrile convulsions**                    | Children (6 months - 5 years) | High fever                  | Not caused by epilepsy or other neurological pathology.                                                                  | One in three will have another febrile convulsion. Complex seizure (15+ mins) increase risk of epilepsy | Reduce fever.                                                             |
+| **[[Pearls/Febrile convulsions]]**                | Children (6 months - 5 years) | High fever                  | Not caused by epilepsy or other neurological pathology.                                                                  | One in three will have another febrile convulsion. Complex seizure (15+ mins) increase risk of epilepsy | Reduce fever.                                                             |
 
 Levofloxacin (quinolones) lowers the seizure **threshold**
 

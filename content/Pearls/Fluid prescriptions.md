@@ -1,7 +1,7 @@
 ---
 title: Fluid prescriptions
 date created: Friday, February 16th 2024, 11:57:32 AM
-date modified: Friday, February 27th 2026, 10:52:22 am
+date modified: Monday, March 9th 2026, 3:05:21 pm
 tags: ['Drug']
 ---
 
@@ -22,7 +22,7 @@ If correcting potassium, the maximum rate of infusion via a peripheral line is 1
 - 50 ml/kg/day for the next 10kg
 - 20 ml/kg/day subsequently
 
-0.9% saline with 5% glucose $\pm$ potassium 
+0.9% saline with 5% glucose $\pm$ potassium. 
 
 ### Resuscitation
 

@@ -2,11 +2,11 @@
 tags: [Psychiatry]
 title: Schizophrenia
 date:
-date modified: Friday, February 6th 2026, 5:29:40 pm
+date modified: Monday, March 9th 2026, 10:26:41 am
 date created: Friday, February 6th 2026, 4:57:46 pm
 ---
 
-Severe psychotic disorder. Presents between the ages 15-30, earlier in men.
+Severe [[Pearls/Psychotic Disorders|psychotic disorder]]. Presents between the ages 15-30, earlier in men.
 - Psychosis <6 months: Schizophreniform disorder
 - Psychosis 6 months+: **Schizophrenia**
 - Psychosis + depression and mania: Schizoaffective disorder 
@@ -16,6 +16,7 @@ Severe psychotic disorder. Presents between the ages 15-30, earlier in men.
 ## Causes/Factors
 
 - Family history - MZ twins so big genetic component
+- **Very rare in those under 10**
 
 #### Poor prognostic indicators
 

@@ -2,7 +2,7 @@
 tags: [Acute, Paediatrics]
 title: pRRAPID
 date:
-date modified: Friday, February 27th 2026, 10:53:33 am
+date modified: Friday, March 6th 2026, 9:53:19 am
 date created: Monday, February 23rd 2026, 10:11:04 am
 ---
 
@@ -23,13 +23,13 @@ date created: Monday, February 23rd 2026, 10:11:04 am
 
 ### Normal vital signs in children
 
-|                                      | **Infant** | **1-2 years** | 2-5 years** | **5-12 years** |  **Adolescent** |
-| ------------------------------------ | ---------- | ------------- | ----------- | -------------- | --------------- |
-| **Pulse rate (bpm)**                 | 110-160    | 100-150       | 95-140      | 80-120         | 60-90           |
-| **Respiratory rate (rpm)**           | 30-40      | 25-35         | 25-30       | 20-25          | 14-18           |
-| **Blood pressure Systolic mmHg**     | 80-90      | 85-95         | 85-100      | 90-100         | 100-140         |
-| **Temperature (define if oral etc)** | 35-37oC    |               |             |                | 36-37.5 oC      |
-| **Saturations**                      | 94-98%     |               |             |                |                 |
+|                                      | **Infant** | **1-2 years** | 2-5 years** | **5-12 years** | **Adolescent** |
+| ------------------------------------ | ---------- | ------------- | ----------- | -------------- | -------------- |
+| **Pulse rate (bpm)**                 | 110-160    | 100-150       | 95-140      | 80-120         | 60-90          |
+| **Respiratory rate (RR)**            | 30-40      | 25-35         | 25-30       | 20-25          | 14-18          |
+| **Blood pressure Systolic mmHg**     | 80-90      | 85-95         | 85-100      | 90-100         | 100-140        |
+| **Temperature (define if oral etc)** | 35-37oC    |               |             |                | 36-37.5 oC     |
+| **Saturations**                      | 94-98%     |               |             |                |                |
 
 ## Initial steps
 
@@ -95,7 +95,6 @@ Must be sized correctly
 - Nasopharyngeal - partial consciousness, e.g. seizure. Lateral nostril to tragus
 
 #### Reassess
-
 
 ## Breathing
 
@@ -195,12 +194,41 @@ Assess the patient’s **level of consciousness** using the ACVPU
 
 [[Full/Glasgow Coma Scale|Glasgow Coma Scale]] can be used for a more detailed assessment
 
-![[z_attachments/Pasted image 20260223111125.png]]
 
+> [!success] GCS with modification for children
+> **Best eye response**
+> 
+> |**Score**|**Description**|
+> |---|---|
+> |**1**|No eye opening|
+> |**2**|Eye opening to pain|
+> |**3**|Eye opening to verbal command|
+> |**4**|Eye open spontaneously|
+> 
+> **Best verbal response** _(use one of the following)_
+> 
+> |**Score**|**Adult version (aged 5+)**|**Children's modification**|**Grimace response for preverbal or intubated patients**|
+> |---|---|---|---|
+> |**1**|No verbal response|No vocal response|No response to pain|
+> |**2**|Incomprehensible sounds|Occasionally whimpers and/or moans|Mild grimace to pain|
+> |**3**|Inappropriate words|Cries inappropriately|Vigorous grimace to pain|
+> |**4**|Confused|Less than usual ability and/or spontaneous irritable cry|Less than usual spontaneous ability or only response to touch stimuli|
+> |**5**|Orientated|Alert, babbles, coos, words or sentences to usual ability|Spontaneous normal facial/oromotor activity|
+> 
+> **Best motor response**
+> 
+> |**Score**|**Description**|
+> |---|---|
+> |**1**|No motor response to pain|
+> |**2**|Abnormal extension to pain|
+> |**3**|Abnormal flexion to pain|
+> |**4**|Withdrawal to painful stimuli|
+> |**5**|Localities to painful stimuli or withdraws to touch*|
+> |**6**|Obeys commands or performs normal spontaneous movement|
 
 - **Pupils** - size, symmetry and reactivity to light
 - **Brief neurological assessment** - moving all limbs, looking for signs of focal neurology
-- Posture - seriously ill child may be hypotonic. 
+- Posture - seriously ill child may be hypotonic.
 
 
 #### Investigations

@@ -2,7 +2,7 @@
 tags: [Neurology, Paediatrics]
 title: Muscular dystrophy
 date: 2023-09-27
-date modified: Thursday, January 22nd 2026, 5:04:46 pm
+date modified: Monday, March 9th 2026, 8:10:58 pm
 aliases: [Duchennes muscular dystrophy]
 date created: Thursday, January 22nd 2026, 4:47:05 pm
 ---
@@ -25,9 +25,10 @@ Only going to focus on Duchennes
 X linked recessive inherited disorder in the dystrophin genes required for normal muscle function:
 - Progressive proximal muscle weakness from 5 years
 - Calf pseudohypertrophy
-- **Gower's sign** - child uses arms to stand up from a squatted position
+- **Gower's sign** - child uses arms to stand up from a squatted position due to a proximal muscle weakness
 - 30% of patients have cognitive impairment
 - Associated with dilated cardiomyopathy
+- Ask about fetal movements
 
 **Investigations**
 - Raised CK

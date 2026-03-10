@@ -2,7 +2,7 @@
 tags: [Psychiatry, Drug]
 title: Antipsychotics
 date: 2023-09-27
-date modified: Friday, February 6th 2026, 5:40:17 pm
+date modified: Monday, March 9th 2026, 10:26:53 am
 date created: Friday, February 6th 2026, 5:09:49 pm
 ---
 Used in the management of schizophrenia and other forms of psychosis, mania and agitation. Divided into typical (first generation) and atypical (second generation)

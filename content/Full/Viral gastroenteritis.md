@@ -2,7 +2,7 @@
 tags: [InfectiousDisease, Gastroenterology]
 title: Viral gastroenteritis
 date created: Friday, February 23rd 2024, 12:11:52 pm
-date modified: Tuesday, January 27th 2026, 6:09:03 pm
+date modified: Friday, March 6th 2026, 11:14:54 am
 date: 2024-02-23
 ---
 Gastroenteritis is inflammation all the way from the stomach to the intestines
@@ -60,7 +60,7 @@ Prolonged diarrhoea - acute-onset diarrhoea that has persisted for over 14 days.
 Rarely fatal especially in extremes of age or with pre-existing conditions. Usually due to dehydration etc 
 
 
-- Lactose intolerance
+- **Lactose intolerance**
 - Irritable bowel syndrome
 - [[Pearls/Reactive Arthritis|Reactive Arthritis]]
 - Guillain–Barré syndrome
