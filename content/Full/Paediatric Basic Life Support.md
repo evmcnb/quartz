@@ -2,7 +2,7 @@
 tags: [Acute, Paediatrics, OSCE]
 title: Paediatric Basic Life Support
 date: 2023-09-27
-date modified: Tuesday, March 3rd 2026, 6:17:37 pm
+date modified: Tuesday, March 17th 2026, 9:33:11 am
 date created: Monday, February 23rd 2026, 11:14:14 am
 ---
 The following principles apply to **infants and children** (not neonates):  
@@ -41,3 +41,5 @@ Additional key points:
 - change the rescuer performing compressions every 2 minutes if possible
 - continue CPR until the child shows signs of life, advanced help arrives, or the rescuer is exhausted
 - attach and use an AED as soon as available, using paediatric pads/settings if appropriate
+
+Pulse check out of the paeds algorithm - up to individual 

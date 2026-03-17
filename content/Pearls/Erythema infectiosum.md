@@ -16,3 +16,5 @@ The rose-red rash makes the cheeks appear bright red, hence the name 'slapped ch
 - Can cause acute arthritis in adults
 - Children can continue to go to school as by the time the rash appears they are no longer infectious
 - Can affect 20 week fetus 
+
+Parvovirus can cause aplastic anaemia.

@@ -1,7 +1,7 @@
 ---
 title: Fluid prescriptions
 date created: Friday, February 16th 2024, 11:57:32 AM
-date modified: Monday, March 9th 2026, 3:05:21 pm
+date modified: Tuesday, March 17th 2026, 8:52:37 am
 tags: ['Drug']
 ---
 
@@ -23,6 +23,8 @@ If correcting potassium, the maximum rate of infusion via a peripheral line is 1
 - 20 ml/kg/day subsequently
 
 0.9% saline with 5% glucose $\pm$ potassium. 
+
+There is **no need** to subtract the resuscitation boluses from the total 24-hour fluid requirements.
 
 ### Resuscitation
 
@@ -46,3 +48,19 @@ Affect fluid shifts in the body
 - Blood
 - Albumin
 - FFP
+
+
+### Replacement (dehydration)
+
+Daily maintenance fluids + fluid losses (e.g. from vomiting/diarrhea)
+
+Use isotonic crystalloid that contains sodium with added glucose (e.g. 0.9% sodium chloride + 5% glucose).
+
+If do not have any weights need to go off clinical signs of dehydration: 
+- 2.5%: signs of dehydration detectable
+- 5%: signs and symptoms but no red flags
+- 10%: any red flags or the child is in shock 
+
+1. Calculate % dehydration = $\frac{\text{Well Weight} - \text{Current Weight}}{\text{Well Weight}} \times 100$
+2. Calculate fluid deficit (mL) = $\% \text{ dehydration} \times \text{weight (kg)} \times 10$
+3. Total fluid requirement (mL) = maintenance fluids (mL) + fluid deficit (mL) over a 24 hour period
