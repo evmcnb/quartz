@@ -27,6 +27,8 @@ Severe [[Pearls/Psychotic Disorders|psychotic disorder]]. Presents between the a
 - Younger age of onset
 - Prominent negative symptoms
 
+
+
 ## Features
 
 Symptoms may be divided into **auditory hallucinations, thought disorders, passivity phenomena and delusional perceptions**
@@ -69,3 +71,5 @@ Delusional perceptions - a 2 stage process:
 3. Close attention to cardiovascular risk modification due to antipsychotic medication
 
 ## Complications/red Flags
+
+- Approx 10% complete suicide

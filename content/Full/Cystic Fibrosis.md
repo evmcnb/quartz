@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Cystic Fibrosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 9th 2026, 2:44:46 pm
+date modified: Friday, March 27th 2026, 3:57:39 pm
 date: 2023-09-18
 ---
 
@@ -16,9 +16,11 @@ Thickened mucus glands
 
 Purely genetic condition, mutation leads to defect in chloride ion channel causing thickened mucus.  1 in 25 people carry the mutation - autosomal recessive. Mutation in CFTR gene on chromosome 7
 
+Na+ channels transport Na+ into cells $\rightarrow$ osmotic gradient, dehydrating surfaces. Leads to abnormal cilia and thick mucous
+
 ### Clinical Features
 
-- Neonates: meconium ileus (90% of cases will have CF)
+- Neonates: **meconium ileus** (90% of cases will have CF)
 - Children: cough, wheeze, **recurrent infections**, [[Full/bronchiectasis]], [[Full/pneumothorax]], haemoptysis
 - Adult: malabsorption, steatorrhoea, male infertility, [[Full/osteoporosis]], [[Full/Osteoarthritis]], [[vasculitis]], abnormal bowel movements
 - Loss of Islets of Langerhans cells ([[Pearls/Insulin|Insulin]]) -> CF related diabetes
@@ -32,7 +34,8 @@ Other features:
 - Nasal polyps
 ## Diagnostic Tests
 
-- Sweat test: high levels of NaCl present in sweat
+- [[Pearls/Newborn Blood Spot Screening Test|Newborn Blood Spot Screening Test]] looking for raised immunoreactive trypsin
+- Sweat test: high levels of NaCl present in sweat (>60mmol/L = diagnostic)
 - Genetic screening
 
 ## Management
@@ -40,7 +43,7 @@ Other features:
 - Regular (2+ per day) chest physiotherapy and postural drainage
 - High calorie diet, including high fat 
 - Minimise contact with other CF patients to prevent cross infection with _Burkholderia cepacia_ complex and _Pseudomonas aeruginosa_
-- Pancreatic supplements taken with meals. High calorie high fat diet 
+- Pancreatic supplements taken with meals (Creon). 
 - Lung transplantation - chronic infection with _Burkholderia cepacia_ is a contraindication
 ## Complications/red Flags
 

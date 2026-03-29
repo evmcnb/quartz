@@ -1,5 +1,5 @@
 ---
-title: "Urea:Creatinine Ratio"
+title: Urea to Creatinine Ratio
 date created: 2024-04-28 17:17:39.264418+01
 date modified: 2024-04-28 17:20:38.532779+01
 tags: ['Nephrology']

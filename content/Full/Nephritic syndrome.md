@@ -40,7 +40,7 @@ date: 2023-11-12
 
 1. **Addressing Underlying Conditions** 
 2. **Blood Pressure Control:** Medications to manage [[Full/Essential hypertension]] and protect the kidneys.
-3. **Diuretics:** To manage edema.
+3. **Diuretics:** To manage oedema.
 4. **Dietary Changes:** Reducing salt and fluid intake.
 5. **Immunosuppressive Medications:** In cases of autoimmune-related nephritic syndrome.
 

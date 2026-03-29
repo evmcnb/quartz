@@ -37,8 +37,11 @@ Tetralogy features:
 ## Signs
 
 - Children may squat during hypercyanotic spell as it increases systemic vascular resistance and temporary reversal of shunt
-- Pulmonary murmur
+- Pulmonary stenosis murmur - left sternal edge 2nd intercostal
+- VSD - pan-systolic murmur at lower mid sternal boarder 
+- 'Boot shaped heart'
 
+![[z_attachments/Pasted image 20260327092643.png|540]]
 ## Diagnostic Tests
 
 - Echo demonstrates abnormal anatomy
@@ -60,3 +63,4 @@ For 'tet' (intermittent cyanotic episodes):
 
 - pulmonary regurgitation
 - RV outflow tract obstruction
+- Both leading to dilated cardiomyopathyT

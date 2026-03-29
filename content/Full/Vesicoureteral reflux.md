@@ -6,9 +6,9 @@ date modified: 2024-03-11
 date: 2023-09-18
 ---
 
-When urine flows backwards from the bladder to the ureter
+When urine flows backwards from the bladder to the ureter. 
 
-Affects 10% of population and pre-disposes children to [[Full/Urinary Tract Infection|Urinary Tract Infection]]s 
+Affects 10% of population and pre-disposes children to [[Full/Urinary Tract Infection|Urinary Tract Infection]]s. Most common cause of recurrent UTI in infants.
 
 ![[z_attachments/Pasted image 20260222104649.png|276]]
 
@@ -25,7 +25,7 @@ Affects 10% of population and pre-disposes children to [[Full/Urinary Tract Infe
 - Age <2 y/o
 - FH
 
-- Congenital abnormality of the vesicoureteric junction - when ureter enters bladder at abnormal angle
+- Congenital abnormality of the vesicoureteric junction - when ureter enters bladder at abnormal angle ([[Pearls/Posterior Urethral Valve|Posterior Urethral Valve]])
 
 ## Clinical Features
 
@@ -42,8 +42,9 @@ Usually asymptomatic + children "grow out of it"
 
 ## Management
 
-Usually grow out of it
-
+- Grade 1 & 2 often self resolve
+- Grade 3 &4 can self resolve - may need prophylactic antibiotics. Need to avoid constipation
+- Grade 5 rarely resolves and needs repair
 
 ## Complications/red Flags
 

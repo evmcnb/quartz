@@ -2,7 +2,7 @@
 tags: [Respiratory, InfectiousDisease]
 title: Infectious Mononucleosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, January 27th 2026, 6:04:50 pm
+date modified: Friday, March 20th 2026, 11:07:49 am
 date: 2023-09-18
 ---
 
@@ -60,4 +60,4 @@ Spread through saliva caused almost exclusively from EBV
 - **Haemolytic [[Pearls/Anaemia|Anaemia]]**
 - **Chronic Fatigue:** Some individuals experience fatigue for several weeks or months.
 
-- Avoid ampicillin & amoxycillin with EBV as may cause rash
+- Avoid ampicillin & amoxicillin with EBV as may cause rash that can be falsely labelled as an allergy

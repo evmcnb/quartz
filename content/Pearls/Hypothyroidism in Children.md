@@ -16,6 +16,9 @@ Occurs in 1 in 3000 births. Can be the result of:
 Screened for on the [[Pearls/Newborn Blood Spot Screening Test]]
 
 Where it is not picked up a birth, patients can present with:
+- Hypotonia
+- Macroglossia
+- Umbilical hernia
 - Prolonged neonatal jaundice
 - Poor feeding
 - Constipation

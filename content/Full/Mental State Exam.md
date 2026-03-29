@@ -102,7 +102,7 @@ One of the most complex areas of psychiatry
 ### Risk
 
 - "When things are difficult people can have thoughts about harming themselves and of suicide. Have you had these thoughts?"
-- Any risk of [[Pearls/Self Harm|Self Harm]]/harm to others/suicidal ideas or plans
+- Any risk of [[Pearls/Self Harm and Suicide|Self Harm and Suicide]]/harm to others/suicidal ideas or plans
 - Protective factors - family, friends, pet
 - Domestic violence and abuse?
 - **SAFEGUARDING**

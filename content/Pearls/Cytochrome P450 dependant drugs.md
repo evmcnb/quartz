@@ -1,14 +1,12 @@
 ---
-title: "Cytochrome P450 dependant drugs"
+title: Cytochrome P450 dependant drugs
 date created: 2024-04-13 15:57:11.512205+01
 date modified: 2024-05-07 14:43:13.793903+01
 tags: ['Drug']
 ---
 
 
-
 Dependant
-
 * **[[Pearls/Phenytoin|Phenytoin]]**
 * **Theophylline**
 * **[[Pearls/Carbamazepine|Carbamazepine]]**
@@ -17,14 +15,14 @@ Dependant
 * Flecainide
 * Sildenafil
 * [[Pearls/Simvastatin|Simvastatin]]
-* SSRIs SNRIs
+* SSRIs 
+* SNRIs
 
-Enzyme inducers **decrease** the amount of active [[Pearls/Warfarin|Warfarin]] and decrease its exposure (and INR)
+Enzyme inducers **decrease** the amount of active metabolite and decrease its exposure (and INR)
 
-Enzyme inhibitors **increase**the amount of active [[Pearls/Warfarin|Warfarin]] and increase its exposure (and INR)
+Enzyme inhibitors **increase** the amount of active metabolite and increase its exposure (and INR)
 
-Drugs that can **inhibit**P450
-
+Drugs that can **inhibit** P450
 * [[Pearls/Amiodarone|Amiodarone]]
 * [[Pearls/Metronidazole|Metronidazole]]
 * [[Pearls/Ciprofloxacin|Ciprofloxacin]], levofloxacin

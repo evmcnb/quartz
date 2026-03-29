@@ -14,9 +14,10 @@ A congenital narrowing of the descending aorta.
 Also associated with: 
 - Bicuspid aortic valve
 - Berry aneurysms 
-- Neurofibromatosis
+- [[Pearls/Neurofibromatosis]]
 
 Features: 
+- **Weak femoral pulses**
 - Radio-femoral delay
 - Mid systolic murmur - maximal over the back
 - Infancy: heart failure

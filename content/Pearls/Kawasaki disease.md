@@ -19,6 +19,7 @@ Treatment with high dose aspirin (cardio-protective) $\pm$ IV Ig
 
 ### Risk
 
-Coronary artery aneurysms associated with Kawasaki disease are a major source of morbidity and mortality and should be screened for in all patients with a confirmed diagnosis
+Coronary artery aneurysms associated with Kawasaki disease are a major source of morbidity and mortality. Echocardiogram to screen in all patients with a confirmed diagnosis
+
 
 Treatment should be completed within 10 days for reducing risk

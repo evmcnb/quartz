@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: "Turner's syndrome"
 date: 2023-09-27
-date modified: Monday, March 9th 2026, 9:05:19 am
+date modified: Friday, March 27th 2026, 3:34:23 pm
 date created: Saturday, December 20th 2025, 4:33:45 pm
 ---
 
@@ -14,8 +14,9 @@ Features:
 - Primary amenorrhea 
 (less importantly)
 - webbed neck, widely-spaced nipples
-- Coarctation of the aorta (systolic murmur)
+- Coarctation of the aorta (systolic murmur) -  *The aorta does a sharp TURN in turners*
 - Bicuspid aortic valve
+- Horse-shoe kidneys 
 
 
 Associated with aortic dilation and dissection - regular monitoring key 

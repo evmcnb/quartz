@@ -160,7 +160,7 @@ If a lump is intradermal you cannot draw the skin over it, while if the lump is 
 
 ## Neurofibromas 
 
-- Caused by [[Neurofibromatosis]]
+- Caused by [[Pearls/Neurofibromatosis]]
 - Autosomal dominant inheritance - expression of NF1 is variable even within a family 
 
 ![[z_attachments/Pasted image 20231110131301.png|300]]

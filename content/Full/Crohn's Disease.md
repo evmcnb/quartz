@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: "Crohn's Disease"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, September 30th 2025, 3:01:29 pm
+date modified: Friday, March 20th 2026, 11:29:52 am
 date: 2023-09-18
 ---
 
@@ -79,7 +79,7 @@ Extraintestinal signs:
 ### Inducing Remission
 
 - **Steroids** - oral prednisolone or IV hydrocortisone
-- **Enteral nutrition** - treating nutritional deficiencies (B12, folate, calcium)
+- **Exclusive enteral nutrition** - very simple food, treating nutritional deficiencies (B12, folate, calcium). First-line for children 
 
 where steroids are not enough may add:
 - azathioprine

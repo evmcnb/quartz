@@ -125,7 +125,7 @@ Port wine stains - common, permanent. Early pulse dye laser treatment
 
 ---
 
-Cafe-au-lait spots - pigmented birthmarks: "coffe with milk". Usually benign, but more than 6 could be a sign of [[Neurofibromatosis]]
+Cafe-au-lait spots - pigmented birthmarks: "coffe with milk". Usually benign, but more than 6 could be a sign of [[Pearls/Neurofibromatosis]] ^f81550
 
 ![[z_attachments/Pasted image 20260317165432.png|475]]
 

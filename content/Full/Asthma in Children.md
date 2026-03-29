@@ -2,12 +2,12 @@
 tags: [Respiratory, Paediatrics]
 title: Asthma in Children
 date:
-date modified: Wednesday, December 3rd 2025, 11:38:21 am
+date modified: Friday, March 27th 2026, 4:03:23 pm
 date created: Wednesday, December 3rd 2025, 11:01:02 am
 ---
-
+Re
 Smooth muscle hypersensitivity (bronchoconstriction) revsible with bronchodilators such as salbutamol.
-
+Re
 Seen commonly in [[Pearls/Atopic individuals|Atopic individuals]]
 
 For more see [[Full/asthma|asthma in adults]]
@@ -65,7 +65,7 @@ Treatment escalation:
 
 Same initial management as above
 
-If asthma remains uncontrolled, choice between MART therapy (see [[Pearls/Asthma Pharmacology|here]]) or conventional pathway. 
+If asthma remains uncontrolled, assess for suitability for MART therapy (see [[Pearls/Asthma Pharmacology|here]]) then conventional pathway if not. 
 
 #### Children 12+
 

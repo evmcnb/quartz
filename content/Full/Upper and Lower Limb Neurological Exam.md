@@ -52,7 +52,7 @@ Tests to only do for <span style="color:#00b0f0">upper limb will appear blue</sp
 
 **W**asting of muscles - LMN lesion or disuse atrophy
 
-**I**nvoluntary movements - pseudoathetosis (proprioception failure), chorea ([[Huntington's Disease|Huntington's]])
+**I**nvoluntary movements - pseudoathetosis (proprioception failure), chorea ([[Pearls/Huntington's Disease|Huntington's]])
 
 **F**asciculartions - LMN pathology
 

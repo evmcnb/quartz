@@ -35,3 +35,16 @@ Anti-psychotics can be given orally or by depot injection. Start off orally and 
 | Aripiprazole   | 2nd (atypical) | Good metabolic profile - unlikely to cause weight gain                                                                         | Can cause akathisia                                                                             |
 | Risperidone    | 2nd (atypical) | High efficacy for positive symptoms                                                                                            | Hyperprolactinemia                                                                              |
 | Clozapine      | 2nd (atypical) | Most effective anti-psychotic                                                                                                  | Risk of [[Pearls/Agranulocytosis]] $\rightarrow$ death, lower seizure threshold, sedation, weight gain |
+
+### Monitoring 
+
+This is on top of clinical follow-up that patients require.
+
+| **Test**                                                                        | **Frequency**                                                                                                           |
+| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Full blood count (FBC), urea and electrolytes (U&E), liver function tests (LFT) | - at the start of therapy<br>- annually<br>- clozapine requires much more frequent monitoring of FBC (initially weekly) |
+| Lipids, weight                                                                  | - at the start of therapy<br>- at 3 months<br>- annually                                                                |
+| Fasting blood glucose, prolactin                                                | - at the start of therapy<br>- at 6 months<br>- annually                                                                |
+| Blood pressure                                                                  | - baseline<br>- frequently during dose titration                                                                        |
+| Electrocardiogram                                                               | - baseline                                                                                                              |
+| Cardiovascular risk assessment                                                  | - annually                                                                                                              |

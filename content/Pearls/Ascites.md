@@ -5,8 +5,6 @@ date modified: Saturday, August 30th 2025, 11:07:30 am
 tags: ['Gastroenterology', 'Hepatology']
 ---
 
-
-
 * **Sodium and water retention** - peripheral arterial vasodilation which causes a reduction in BV. This reduction activates the RAAS promoting retention
 * **Portal hypertension** - local hydrostatic pressure leading to increase hepatic and splanchnic production of lymph and transduction of fluid into the peritoneal cavity. A high SAAG gradient (> 11g/L) indicates portal hypertension
 * **Low serum albumin** (due to poor liver function) further reduces plasma oncotic pressure

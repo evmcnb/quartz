@@ -2,14 +2,14 @@
 tags: [Paediatrics, OSCE]
 title: Safeguarding
 date: 2023-09-27
-date modified: Tuesday, February 24th 2026, 9:30:49 am
+date modified: Friday, March 27th 2026, 3:54:29 pm
 date created: Saturday, December 20th 2025, 3:35:24 pm
 ---
 
 The basic types of abuse are:
 - **_Physical_**
 - **_Emotional_**
-- **_Sexual_**
+- **_Sexual_** - children under the age of **13** are unable to consent. Also report if the partner is above 16
 - **_Neglect_**
 
 #### Signs of Possible Abuse:

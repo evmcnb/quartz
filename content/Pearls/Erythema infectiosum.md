@@ -1,7 +1,7 @@
 ---
 title: Erythema infectiosum
 date created: Monday, March 9th 2026, 11:43:39 am
-date modified: Monday, March 9th 2026, 11:43:43 am
+date modified: Friday, March 20th 2026, 11:30:07 am
 aliases: [Fifth disease, Slapped-cheek syndrome]
 ---
 Caused by parvovirus B19. It is spread by the respiratory route and a person is infectious 3 to 5 days before the appearance of the rash

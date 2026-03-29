@@ -6,7 +6,7 @@ date modified: Friday, March 6th 2026, 10:56:59 am
 date: 2024-01-14
 ---
 
-- type 1 diabetes – where the body's immune system attacks and destroys the cells that produce insulin ^7f5ee9
+- type 1 diabetes – where the body's immune system attacks and destroys the cells that produce insulin (GAD antibodies) ^7f5ee9
   - Latent autoimmune diabetes in adults
 - type 2 – where the body does not produce enough insulin, or the body's cells do not react to insulin
   - Maturity onset DM of the young (MODY) - monogenic forms of diabetes that are characterized by early-onset diabetes. **Autosomal dominant**

@@ -5,7 +5,9 @@ date: 2024-02-09
 date modified: Friday, February 6th 2026, 4:25:23 pm
 date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
-Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia)
+Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia).
+
+At least partially due to a disturbance in serotonin (5-HT). 
 
 The onset of individual episodes is often related to stressful events or situations, and it usually runs a relapsing and remitting course.
 
@@ -19,7 +21,7 @@ The onset of individual episodes is often related to stressful events or situati
 | Protective    |                                                           |                                               | - Current employment<br>- Support<br>- Marital status |
 ## Symptoms
 
-> [!tldr] Core three symptoms of depression
+> [!success] Core three symptoms of depression
 > - Low mood
 > - Anhedonia (loss of interest or pleasure in most activities that they previously enjoyed)
 > - Lack of energy (anergia)
@@ -46,8 +48,7 @@ Important to conduct -
 >- The symptoms are not attributable to other organic or substance causes (e.g. normal bereavement)
 >- The symptoms impair daily function and cause significant distress
 
-- Patient-health-questionnaire-9 
-
+**To rule out organic causes:**
 - FBC - macrocytic anaemia 
 - Thyroid function (hypothyroidism)
 - Vitamin B12 - signs of paraesthesia and impaired memory
@@ -55,17 +56,29 @@ Important to conduct -
 - CT head may be performed in patients with atypical features and other signs indicative of pathology
 ## Management
 
-1. **Mild** depressive episode, with or without **somatic** symptoms
-2. **Moderate** depressive episode, with or without **somatic** symptoms
-3. **Severe** depressive episode, with or without **psychotic** symptoms: these may be mood-congruent or incongruent psychotic symptoms
-4. **Recurrent depressive disorder**: when one has two more depressive episodes
+Simple classification from the PHQ-9 score
+
+
+> [!success] PHQ-9 
+> [[Pearls/PHQ-9 questionnaire]] used to assess the severity of depression. 9 questions about how often the patient is experiencing symptoms:
+> - 'less severe' depression: encompasses what was previously termed subthreshold and mild depression: **a PHQ-9 score of < 16**
+> - 'more severe' depression: encompasses what was previously termed moderate and severe depression: **a PHQ-9 score of ≥ 16**
+
+> NICE: _'do not routinely offer antidepressant medication as first-line treatment for less severe depression, unless that is the person's preference'._
 
 Management is based on the bio-psycho-social model. 
 
-| Severity           | Short term                                                                                                             | Long term                                                                                                                                   |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mild depression    | **1st line** - *low intensity psychosocial interventions*<br>Group CBT <br>Individual CBT<br>Counselling<br>SSRIs***** | SSRIs take around 4-6 weeks before any benefit is noticeable. In the first 3 weeks might make things worse<br><br>Assess for social support |
-| Moderate or severe | **1st line** - combination of antidepressants, and high intensity psychosocial interventions                           | Risk assessment<br>Review response to treatment<br>Relapse prevention plan<br>Assess social support and previous issues flagged             |
+##### Less Severe
+
+- Guided self-help
+- SSRI the first-line anti-depressant
+- Exercise/mindfulness
+- CBT
+
+##### More Severe
+
+- A combination of individual CBT **and** an antidepressant (SSRI, SNRI or another based on previous treatment)
+
 
 **\*** although not routinely offered unless that is the patients preference. Need a past history of moderate or severe depression or mild depression that has been resistance to treatment
 

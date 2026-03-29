@@ -7,7 +7,7 @@ aliases: [Kidney stones, Renal colic]
 date: 2023-11-27
 ---
 
-Urinary tract calculi/stones
+Urinary tract calculi/stones. 
 
 Stones forming in the lumen of the urinary tract, anywhere from renal calyx $\rightarrow$ bladder. Types:
 
@@ -34,13 +34,13 @@ Leads to soluble material to precipitate out
 
 Pain - excruciating 
 
-- URETER: Classic "loin to groin" pain - renal colic
+- URETER: **Classic "loin to groin" pain** - renal colic
 - BLADDER: lower abdo pain
 - URETHRA: dysuria
 
 - Haematuria
 - Reduced UO
-- 
+
 
 ## Diagnostic Tests
 

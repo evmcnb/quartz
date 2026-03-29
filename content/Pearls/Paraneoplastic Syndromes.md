@@ -1,5 +1,5 @@
 ---
-title: "Paraneoplastic Syndromes"
+title: Paraneoplastic Syndromes
 date created: Tuesday, March 05th 2024, 03:34:53 PM
 date modified: 2024-04-10 13:37:42.126073+01
 tags: ['Rheumatology', 'Respiratory', 'Oncology']
@@ -21,6 +21,5 @@ tags: ['Rheumatology', 'Respiratory', 'Oncology']
 **Lambert-Eaton syndrome** is a rare autoimmune condition, similar to myasthenia gravis, characterised by limb muscle weakness which is classically temporarily relieved after exertion/physical exercise. The condition is generally considered a paraneoplastic syndrome, with most patients having an underlying malignancy, the most common of which is small-cell lung cancer. The condition is not commonly associated with SCCs as in this case.  
 
   
-
 **Syndrome of inappropriate antidiuretic hormone secretion** (SIADH), as the name suggests, is a result of excess ADH release, causing an increase in water re-absorption from the kidneys and hyponatraemia. As a paraneoplastic syndrome, SIADH is generally associated with small cell cancer, not SCC.
 

@@ -12,7 +12,7 @@ date created: Monday, December 1st 2025, 7:36:36 pm
 
 Features: 
 - Left subclavicular thrill
-- Continuous machinery murmur
+- **Continuous machinery murmur**
 - Large volume, bounding, collapsing pulse
 - Wide pulse pressure
 - Heaving apex beat

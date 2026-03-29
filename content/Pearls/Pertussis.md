@@ -1,7 +1,7 @@
 ---
 title: Pertussis
 date created: Sunday, January 21th 2024, 12:49:37 PM
-date modified: Tuesday, February 24th 2026, 11:30:05 am
+date modified: Friday, March 20th 2026, 11:48:18 am
 tags: ['Respiratory', 'Paediatrics']
 ---
 
@@ -24,6 +24,7 @@ Whooping cough should be suspected if a person has an acute cough that has laste
 Diagnosis  
 - per nasal swab culture for _Bordetella pertussis_ - may take several days or weeks to come back
 - PCR and serology are now increasingly used as their availability becomes more widespread
+- Raised lymphocytes
 
 **Management:**
 - Infants under 6 months should be admitted

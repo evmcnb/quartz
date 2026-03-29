@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, February 27th 2026, 10:42:26 am
+date modified: Wednesday, March 25th 2026, 5:30:25 pm
 aliases: [Asthma]
 date: 2024-01-14
 ---
@@ -135,7 +135,11 @@ See [[Full/RRAPID Conditions and Management#Full/asthma Asthma|here]]
 - Bradycardia
 
 > [!warning]
+> **Adults:**
 > Prior to discharge, following an acute asthma attack, a patient should have been stable on their discharge medication (i.e. no nebulisers or [[Pearls/Oxygen|Oxygen]]) for 12-24 hours, PEFR >75% of expected and have had their inhaler technique checked and recorded
+> 
+> **Children:**
+> 4 hourly max 6 puffs, not requiring oxygen. Maintaining sats 
 
 ### DDX
 

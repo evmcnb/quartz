@@ -56,17 +56,20 @@ Only innocent murmur with a diastolic component. Continuous murmur heard across 
 - 2-8 years old 
 - Auscultate the sternocleidomastoid muscle - bell
 - Only audible when sitting up - should disappear lying down. Quieter when the jugular is pressed or neck extended 
+
+## Non-innocent
 ### Pan-systolic
 
 Throughout systolic contraction 
-- Mitral regurgitation, heard loudest in the mitral area (5th intercostal space, mid-clavicular line)
-- Tricuspid regurgitation, heard loudest in the tricuspid area (5th intercostal space, left sternal border)
-- Ventricular septal defect, heard loudest at the left lower sternal border
+- **Ventricular septal defect**, heard loudest at the left lower sternal border. The smaller the hole the louder the murmur. Can lead to pulmonary hypertension
+- **Mitral regurgitation**, heard loudest in the mitral area (5th intercostal space, mid-clavicular line)
+- **Tricuspid regurgitation**, heard loudest in the tricuspid area (5th intercostal space, left sternal border)
 
 ### Ejection-systolic
 
 They have a **_crescendo-decrescendo character_**, building and then falling in intensity, with a peak in the middle. This matches the flow during systole, which is slowest at the start and end, and fastest in the middle.
 
+- Atrial septal defect, upper left sternal edge 2nd intercostal space. Can get palpatations, risk of stroke, RBBB
 - Aortic stenosis, heard loudest in the aortic area (2nd intercostal space, right sternal border)
 - Pulmonary stenosis, heard loudest in the pulmonary area (2nd intercostal space, left sternal border)
 - Hypertrophic obstructive cardiomyopathy, heard loudest in the 4th intercostal space at the left sternal border

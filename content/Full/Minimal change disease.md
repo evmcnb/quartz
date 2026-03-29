@@ -29,19 +29,36 @@ Possible autoimmune condition where T cells release substances that damage the g
 
 ## Diagnostic Tests
 
-- **Urinalysis:** Detects proteinuria and other abnormalities in the urine.
-- **Blood Tests:** To assess kidney function, protein levels, and lipid levels.
-- **Kidney Biopsy:** A definitive diagnosis often requires a kidney tissue sample, which shows *minimal changes* under the microscope; characterised by podocyte foot process effacement on renal biopsy.
+- Urinalysis - +++ protein
+- Blood tests - [[Pearls/Urea to Creatinine Ratio|Urea to Creatinine Ratio]],  U&E, LFTs (albumin)
+- Renal USS 
+- Blood pressure 
+- Renal biopsy
+- Varicella PCR - need to make sure before giving high dose steroids 
+
+### Children
+
+| Typical                | Atypical                 |
+| ---------------------- | ------------------------ |
+| Aged 1-10              | <1 or >10                |
+| Normotensive           | Macroscopic haematuria   |
+| Normal creatinine      | FH of nephrotic syndrome |
+| Microscopic haematuria |                          |
 
 ## Management
 
-1. **Corticosteroids:** Prednisone or other steroids to suppress the abnormal immune response.
-2. **Immunosuppressive Drugs:** For cases not responding to steroids.
-3. **Diuretics:** To manage edema.
-4. **Dietary Changes:** Reducing salt and fluid intake.
+1. **Dietary Changes:** Fluid restriction & low salt diet
+2. **Corticosteroids:** High dose prednisone or other steroids to suppress the abnormal immune response.
+3. **Prophylaxis:** Abx and PPI (due to steroids)
+4. **Diuretics:** To manage oedema.
+
+Immunosuppressive Drugs: For cases not responding to steroids.****
+
 
 ## Complications/red Flags
 
+
+
 - **Risk of Infection:** Immunosuppressive medications can increase susceptibility to infections.
-- **Thrombosis:** Increased risk of blood clots due to hyperlipidemia.
-- **Relapses:** MCD can recur after periods of remission.
+- **Thrombosis:** Increased risk of blood clots due to hyperlipidemia and loss of protein C.
+- **Relapses:** MCD can recur after periods of remission. 80% of patients will have on relapse. Can be steroid dependent or resistant 

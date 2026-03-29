@@ -1,0 +1,127 @@
+---
+tags: [Psychiatry]
+title: Antidepressants
+date: 2023-09-27
+date modified: 2025-04-23
+---
+Main types are:
+- Selective serotonin reuptake inhibitors (SRRIs)
+- Serotonin and norepinephrine reuptake inhibitors (SNRIs)
+- Tricyclic antidepressants (TCAs)
+- Other - mirtazapine, vortioxetine
+
+
+> [!warning] Initiation of antidepressant therapy
+> Following the start of antidepressant therapy, patients should be reviewed by a doctor after **2 weeks**.
+> 
+> Patients under the age of 25 or at increased risk of suicide, should be reviewed after **1 week**
+> 
+> If a patient makes a good response to antidepressant therapy, they should continue on treatment for at least 6 months after remission as this reduces the risk of relapse.
+
+## Selective serotonin reuptake inhibitors
+
+Considered first-line treatment for the majority of patients with depression
+- Fluoxetine and citalopram (although QT interval) are currently preferred
+- Sertraline is useful post [[Full/myocardial infarction|myocardial infarction]] and [[Pearls/Postpartum mental health problems|Postpartum depression]]
+- SSRIs should be used with caution in children and adolescents. Fluoxetine is the drug of choice
+
+##### Adverse effects
+
+- Increased rise of GI bleeding in patients taking SSRIs. **PPI should be prescribed if patient also taking an NSAID**
+- Things can be come worse before getting better (2 weeks of starting). Need to counsel patients around this. Anxiety, agitation, increased suicidal thoughts
+- Fluoxetine and paroxetine have a higher propensity for drug interactions
+- Paroxetine has an increased risk of congenital malformations, especially in the first trimester 
+
+- Gastrointestinal symptoms most common
+- Headaches
+- Sexual dysfunction
+- Hyponatraemia (due to [[Pearls/Syndrome of Inappropriate Antidiuretic Hormone]]))
+
+**Citalopram and QT interval**
+- Associated with dose-dependent QT interval prolongation and should not be used in those with pre-existing long QT or in combination with other medicines that prolong the QT interval
+- Maximum daily dose is 40mg for adults; 20mg for patients older than 65 + those with hepatic impairment
+
+##### Interactions
+
+- NSAIDs - GI irritation. Normally advise against SSRIs, but if given prescribe a PPI
+- Warfarin/heparin: NICE guidelines recommend avoid SSRIs and consider mirtazapine
+- Aspirin
+- Triptans - increased risk of [[Pearls/Serotonin Syndrome]]
+- Monoamine oxidase inhibitors (MAOIs) - increased risk of [[Pearls/Serotonin Syndrome]]
+
+
+##### Stopping
+
+The dose should be gradually reduced over a 4 week period. This is not necessary with fluoxetine. 
+
+**Discontinuation symptoms:**  
+- increased mood change
+- restlessness
+- difficulty sleeping
+- unsteadiness
+- sweating
+- gastrointestinal symptoms: pain, cramping, diarrhoea, vomiting
+- paraesthesia
+
+## Serotonin and Norepinephrine Reuptake Inhibitors
+
+Newer class. Examples include duloxetine and venlafaxine. They can increase the blood pressure and are contraindicated in uncontrolled hypertension.
+
+Duloxetine is also used to treat neuropathic pain (including [[Pearls/Diabetic neuropathy|Diabetic neuropathy]])
+
+Venlafaxine is used when there is inadequate response to other antidepressants. It is more likely to cause discontinuation symptoms. Increased risk of death from overdose. 
+
+
+## Tricyclic Antidepressants
+
+Less commonly used due to side effect profile and toxicity in [[Pearls/Tricyclic antidepressant overdose|overdose]]. They are used in the treatment of [[Pearls/Neuropathic Pain|Neuropathic Pain]]. 
+
+As well as 5-HT (serotonin) and NA (norepinephrine) receptors, tricyclics interact with a number of others:
+- Histamine receptor antagonist: **drowsiness** 
+- Muscarinic receptor antagonist: **dry mouth, blurred vision, constipation, urinary retention**
+- Adrenergic receptor antagonist: **postural hypotension**
+- **Lengthening of QT interval**
+
+##### Choice of tricyclic  
+
+- low-dose amitriptyline is commonly used in the management of neuropathic pain and the prophylaxis of headache (both tension and migraine)
+- lofepramine has a lower incidence of toxicity in overdose
+- amitriptyline and dosulepin (dothiepin) are considered the most dangerous in overdose
+
+| **More sedative**                                              | **Less sedative**                              |
+| -------------------------------------------------------------- | ---------------------------------------------- |
+| Amitriptyline  <br>Clomipramine  <br>Dosulepin  <br>Trazodone* | Imipramine  <br>Lofepramine  <br>Nortriptyline |
+*trazodone is technically a 'tricyclic-related antidepressant'
+
+
+## Other
+
+### Mirtazapine 
+
+- Blocks alpha2-adrengergic receptors
+- Key side effects of:
+	- Sedation
+	- Increased appetite
+	- Weight gain
+- Taken at night
+- Sedative effect greatest at low doses.
+- Less likely to cause sexual dysfunction than SSRIs
+
+### Vortioxetine
+
+- Used as third-line treatment after an inadequate response to **two other antidepressants**
+- Good anti-anxiety effects
+- Good side effect profile and considered safe in those with heart disease
+- No risk of discontinuation symptoms
+- Commonly causes nausea for the first few weeks
+
+## Switching Antidepressants
+
+|**Current Medication (Switching From)**|**Target Medication (Switching To)**|**Recommended Switching Method**|
+|---|---|---|
+|**Citalopram, Escitalopram, Sertraline, or Paroxetine**|Another **SSRI**|Direct switch is possible.|
+|**Fluoxetine**|Another **SSRI**|Withdraw, leave a gap of 4–7 days (due to its long half-life), then start a low dose of the alternative SSRI.|
+|**Most SSRIs** _(excluding Fluoxetine)_|**Tricyclic Antidepressant (TCA)**|Cross-tapering is recommended (slowly reduce the current drug dose while slowly increasing the new drug dose).|
+|**Fluoxetine**|**Tricyclic Antidepressant (TCA)**|Withdraw, leave a gap of 4–7 days, then start the TCA at a low dose.|
+|**Citalopram, Escitalopram, Sertraline, or Paroxetine**|**Venlafaxine**|Direct switch is possible _(use caution if switching from paroxetine)_.|
+|**Fluoxetine**|**Venlafaxine**|Withdraw, leave a gap of 4–7 days, then start venlafaxine at a low dose.|

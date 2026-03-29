@@ -7,9 +7,9 @@ date modified: 2025-04-23
 
 New ICD-11 classifications shifted to definitions based on severity and specific problems. The majority of patients will still be diagnosed based on the old classification:
 
-|Cluster A: 'Odd or Eccentric'|Cluster B: 'Dramatic, Emotional, or Erratic'|Cluster C: 'Anxious and Fearful'|
-|---|---|---|
-|- Paranoid<br>- Schizoid<br>- Schizotypal|- Antisocial<br>- Borderline (Emotionally Unstable)<br>- Histrionic<br>- Narcissistic|- Obsessive-Compulsive<br>- Avoidant<br>- Dependent|
+| Cluster A: 'Odd or Eccentric'             | Cluster B: 'Dramatic, Emotional, or Erratic'                                          | Cluster C: 'Anxious and Fearful'                    |
+| ----------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| - Paranoid<br>- Schizoid<br>- Schizotypal | - Antisocial<br>- Borderline (Emotionally Unstable)<br>- Histrionic<br>- Narcissistic | - Obsessive-Compulsive<br>- Avoidant<br>- Dependent |
 
 #### Key Features of Personality Disorder (ICD-11)
 

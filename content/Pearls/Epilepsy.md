@@ -11,6 +11,17 @@ Most neurologists now start antiepileptics following a second epileptic seizure.
 - the EEG shows unequivocal epileptic activity
 - the patient or their family or carers consider the risk of having a further seizure unacceptable
 
+
+Generalised seizures:
+- Seizure onset within and rapidly engaging bilaterally distributed networks with loss of consciousness 
+- Tonic-clonic, tonic, atonic, myoclonic and absence
+
+Focal seizures:
+- Seizure origin within the network limited to one cerebral hemisphere
+- Most commonly arising from temporal and frontal lobes
+
+
+
 | Seizure Type                               | Location                      | Before                      | During                                                                                                                   | After                                                                                                   | Treatment                                                                 |
 | ------------------------------------------ | ----------------------------- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | **Generalised tonic-clonic** (_grand mal_) | General brain                 | Aura                        | Tonic (muscle tensing), Clonic (muscle jerking). Tonic before clonic usually. Incontinence, tongue biting, complete LOC. | **Post-ictal period:** confused, tired, irritable, and low.                                             | [[Lamotrigine]] or [[Levetiracetam]].                                     |
@@ -19,8 +30,8 @@ Most neurologists now start antiepileptics following a second epileptic seizure.
 | **Tonic seizures**                         | General brain                 |                             | Sudden onset of increased muscle tone. Lasts a few seconds/minutes. Patient falls if standing.                           |                                                                                                         | [[Sodium Valproate]]. **For women of childbearing age:** [[Lamotrigine]]. |
 | **Atonic seizures** ("drop attacks")       | General brain                 |                             | Sudden loss of muscle tone, often resulting in a fall. May indicate Lennox-Gastaut syndrome.                             |                                                                                                         | Same as tonic seizures.                                                   |
 | **Absence seizures**                       | More common in children       |                             | Becomes blank and stares into space then abruptly returns to normal. Unaware. Lasts 10-20 seconds.                       | Usually stop as they grow older.                                                                        | [[Ethosuximide]].                                                         |
-| **Infantile spasms** (West syndrome)       | Most common in children       | Hypsarrhythmia on EEG       | Presents with clusters of full-body spasms.                                                                              | Associated with developmental regression and has a poor prognosis.                                      | Treatment is with **ACTH** and **Vigabatrin**.                            |
-| **[[Pearls/Febrile convulsions]]**                | Children (6 months - 5 years) | High fever                  | Not caused by epilepsy or other neurological pathology.                                                                  | One in three will have another febrile convulsion. Complex seizure (15+ mins) increase risk of epilepsy | Reduce fever.                                                             |
+| **Infantile spasms** ([[Pearls/West syndrome]])   | Most common in children       | Hypsarrhythmia on EEG       | Presents with clusters of full-body spasms.                                                                              | Associated with developmental regression and has a poor prognosis.                                      | Treatment is with **ACTH** and **Vigabatrin**.                            |
+| **[[Pearls/Febrile convulsions]]**         | Children (6 months - 5 years) | High fever                  | Not caused by epilepsy or other neurological pathology.                                                                  | One in three will have another febrile convulsion. Complex seizure (15+ mins) increase risk of epilepsy | Reduce fever.                                                             |
 
 Levofloxacin (quinolones) lowers the seizure **threshold**
 

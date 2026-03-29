@@ -24,7 +24,7 @@ Most noticeable in the hands but also in the head, jaw and vocal cords.
 Usually diagnosed after excluding other causes:
 - [[Full/Parkinson's disease|Parkinson's disease]]
 - [[Full/Multiple Sclerosis|Multiple Sclerosis]]
-- [[Huntington's Disease]]
+- [[Pearls/Huntington's Disease]]
 - [[Full/Hyperthyroidism|Hyperthyroidism]]
 - Fever
 - [[Dopamine antagonists]]

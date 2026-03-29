@@ -2,8 +2,9 @@
 tags: [Urology, Nephrology]
 title: Urinary Tract Infection
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, December 29th 2025, 1:51:17 pm
+date modified: Friday, March 27th 2026, 3:32:11 pm
 date: 2023-09-18
+aliases: [Pyelonephritis]
 ---
 
 Bacteriuria - may be asymptomatic or symptomatic. A diagnosis based on symptoms and signs
@@ -57,6 +58,27 @@ Do not rely on classical symptoms in a catharised patient
 - Blood tests - if systemically unwell: FBC , U&Es, CRP and culture. Consider fasting glucose
 - Imaging - USS and referral to urology for assessment in men with upper UTI; failure to respond to treatment; recurrent UTI; pyelonephritis; unusual organism; persistent haematuria
 
+
+> [!warning] Atypical UTI in children
+>
+> Features of atypical UTI:  
+>- Seriously ill
+>- Poor urine flow
+>- Abdominal or bladder mass
+>- Raised creatinine
+>- Septicaemia
+>- Failure to respond to treatment with suitable antibiotics within 48 hours
+>- Infection with non-_E. coli_ organisms.
+>
+ For children that has an atypical first UTI or recurrent UTI they additionally require:
+> - USS
+> - DMSA 
+> - MCUG
+
+
+![[z_attachments/Pasted image 20260326154317.png]]
+<small>Left: DMSA, Right MCUG</small>
+
 ## Management
 
 #### Lower urinary tract infections
@@ -98,9 +120,9 @@ Women who suffer regularly from UTIs following sexual intercourse can be offered
 
 #### Acute pyelonephritis
 
-Hosptial admission should be considered
+Hospital admission should be considered
 - Local antibiotic guidelines should be followed if available
-- The BNF currently recommends a broad-spectrum cephalosporin or a quinolone (for non-pregnant women) for 10-14 days
+- The BNF currently recommends a broad-spectrum cephalosporin or a quinolone (for non-pregnant women) for 48 hours IV then oral 10-14 days.
 
 - **Children** >3 months with an upper UTI **should be considered for admission**. If not admitted, oral antibiotics for 7-10 days - cephalosporin or co-amoxiclav
 

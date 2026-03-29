@@ -35,5 +35,5 @@ Alternative diagnosis:
 - Language disorder
 - Attachment disorder
 - [[Pearls/Fragile X Syndrome|Fragile X Syndrome]]/[[Pearls/Inborn errors of metabolism|PKU]]
-- [[Tuberous sclerosis]]/[[Neurofibromatosis]]
-- [[Psychosis]] (rarely)
+- [[Pearls/Tuberous sclerosis]]/[[Pearls/Neurofibromatosis]]
+- [[Pearls/Psychosis]] (rarely)

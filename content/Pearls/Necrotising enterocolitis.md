@@ -1,7 +1,7 @@
 ---
 title: Necrotising enterocolitis
 date created: Friday, March 08th 2024, 04:59:01 PM
-date modified: Thursday, December 18th 2025, 2:51:24 pm
+date modified: Friday, March 20th 2026, 11:13:25 am
 tags: ['Gastroenterology', 'Neonatology']
 ---
 
@@ -23,5 +23,12 @@ Can progress quickly to discolouration, perforation and peritonitis
 
 **Abdominal XR** is the diagnostic investigation - pneumatosis intestinalis (intramural gas) is the hallmark finding. Portal venous gas and possibly free air could also be found
 
-First medical management then if condition worsens surgical laparotomy to remove affected bowel
+![[z_attachments/Pasted image 20260320111011.png]]
+
+First medical management:
+1. Nil by mouth
+2. NG feeding
+3. Abx
+
+then if condition worsens surgical laparotomy to remove affected bowel
 

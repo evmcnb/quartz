@@ -19,3 +19,4 @@ tags: ['Symptom', 'Drug']
 * Difficulty sleeping - insomnia
 * Indigestion
 * Increase the risk of osteonecrosis 
+* GI irritation - prescribe a PPI

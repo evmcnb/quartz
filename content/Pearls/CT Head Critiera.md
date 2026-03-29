@@ -2,7 +2,7 @@
 tags: [Acute, Neurology, OSCE]
 title: CT Head Critiera
 date: 2023-09-27
-date modified: Tuesday, November 4th 2025, 2:25:41 pm
+date modified: Friday, March 27th 2026, 4:29:52 pm
 date created: Tuesday, November 4th 2025, 2:24:38 pm
 ---
  
@@ -22,4 +22,22 @@ CT head scan within 8 hours of the head injury - for adults with any of the foll
 - dangerous mechanism of injury (a pedestrian or cyclist struck by a motor vehicle, an occupant ejected from a motor vehicle or a fall from a height of greater than 1 metre or 5 stairs)
 - more than 30 minutes' retrograde amnesia of events immediately before the head injury
 
-If a patient is on warfarin who have sustained a head injury with no other indications for a CT head scan, perform a CT head scan within 8 hours of the injury.
+If a patient is on warfarin who have sustained a head injury with no other indications for a CT head scan, perform a CT head scan within 8 hours of the injury.choice between
+
+### Children
+
+Any of the following after a head injury:
+- Suspicion of non-accidental injury 
+- Post-traumatic seizure without history of epilepsy
+- GCS <14 in <1 year olds or <15 in over 1s within 2 hours of the injury
+- Suspected open or depressed skull injury or tense fontanelle
+- Any sign of basal skull fracture
+- Focal neurological deficit
+- Presence of bruise 5cm+ in children under 1
+
+Soft scoring items (only 1, observe for 4 hours, 2+ CT scan):
+- Witnessed loss of consciousness for 5+ minutes
+- Abnormal drowsiness
+- 3+ episodes of vomiting
+- Dangerous mechanism of injury (RTA, fall from >3 meters, high speed object)
+- Amnesia lasting 5+ mins

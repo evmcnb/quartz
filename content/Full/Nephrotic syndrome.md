@@ -27,13 +27,16 @@ GBM has negative charge to repel proteins
 
 ## Causes/Factors
 
+**Primary**
 - **[[Full/Minimal change disease]]** - most common cause in children. Usually idiopathic and treated with steroids
-- Membranous nephropathy - most common cause in adults
+- Membranous nephropathy
 - Focal Segmental Glomerulosclerosis - most common cause in adults
+
+**Secondary**
 - [[Full/Diabetes Mellitus]]
+- IgA vasculitis - ([[Pearls/Henoch-Schonlein purpura|Henoch-Schonlein purpura]])
 - [[Full/Systemic Lupus Erythematosus]]
 - Amyloid
-
 - [[Full/HIV]], HEP B&C, malaria
 - NSAIDs
 
@@ -46,7 +49,10 @@ GBM has negative charge to repel proteins
 - Hypoalbuminaemia
 - Oedema - ankles, feet, eyes (in severe)
 
-- Hypercholesterolaemia
+- Worse in the morning better later in the day
+- Can have a proceeding immune trigger
+
++ Hypercholesterolaemia (as a response to the low albumin)
 - Hyper-coagulability
 
 ## Signs
@@ -60,9 +66,11 @@ GBM has negative charge to repel proteins
 
 ## Diagnostic Tests
 
-- Urinalysis
-- Blood tests
-- Biopsy
+- Urinalysis - +++ protein
+- Blood tests - [[Pearls/Urea to Creatinine Ratio|Urea to Creatinine Ratio]],  U&E, LFTs (albumin)
+- Renal USS 
+- Blood pressure 
+- Renal biopsy
 
 ## Management
 
@@ -76,7 +84,7 @@ Specific to minimal change:
 - Loop diuretics [[Pearls/Furosemide|Furosemide]]
 - BP control - ACEi
 - Hypercholesterolaemia - statins
-- Thrombo-prophylaxis - herparin
+- Thrombo-prophylaxis - heparin
 
 ## Complications/red Flags
 
