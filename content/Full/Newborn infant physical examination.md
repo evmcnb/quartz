@@ -255,7 +255,7 @@ A positive sign is the clunk ass the femoral head relocates
 - Missing digits
 
 ##### Femoral pulses
-Palpate and compare femoral pulses - if possible. 
+Palpate and compare femoral pulses - if possible. Weak/absent: **coarctation of the aorta**
 
 ##### Tone & movement
 

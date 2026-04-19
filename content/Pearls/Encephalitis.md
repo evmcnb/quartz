@@ -17,3 +17,14 @@ Typically affects temporal and inferior frontal lobes
 LP with PCR for HSV, VZV and enteroviruses, MRI and EEG
 
 IV aciclovir should be started in all cases of suspected encephalitis
+
+
+### Autoimmune
+
+- Sudden seizures
+- Memory loss
+- Behavioural changes
+- Normal neurological findings and imaging
+- Lymphocytosis in CSF  
+
+Treat with methylprednisolone

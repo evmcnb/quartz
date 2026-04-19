@@ -2,7 +2,7 @@
 tags: [Psychiatry, Drug]
 title: Antipsychotics
 date: 2023-09-27
-date modified: Monday, March 9th 2026, 10:26:53 am
+date modified: Friday, April 3rd 2026, 4:16:47 pm
 date created: Friday, February 6th 2026, 5:09:49 pm
 ---
 Used in the management of schizophrenia and other forms of psychosis, mania and agitation. Divided into typical (first generation) and atypical (second generation)
@@ -26,15 +26,15 @@ In elderly patients:
 Anti-psychotics can be given orally or by depot injection. Start off orally and if concern of adherence can switch to depot injection. 
 
 
-| Drug           | Generation     | Advantage                                                                                                                      | Disadvantage                                                                                    |
-| -------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
-| Chlorpromazine | 1st (typical)  | Sedative properties                                                                                                            | Anticholinergic effects                                                                         |
-| Haloperidol    | 1st (typical)  | Effective suppressing hallucinations and delusions **without** sedation                                                        | High risk of [[Pearls/Extrapyramidal Side-effects]]. QT prolonged                                      |
-| Olanzapine     | 2nd (atypical) | High efficacy (second only to clozapine)                                                                                       | Metabolic side effects                                                                          |
-| Quetiapine     | 2nd (atypical) | Very low risk of [[Pearls/Extrapyramidal Side-effects]] - can be used in those with [[Full/Parkinson's disease\|Parkinson's disease]] | Can be too sedating                                                                             |
-| Aripiprazole   | 2nd (atypical) | Good metabolic profile - unlikely to cause weight gain                                                                         | Can cause akathisia                                                                             |
-| Risperidone    | 2nd (atypical) | High efficacy for positive symptoms                                                                                            | Hyperprolactinemia                                                                              |
-| Clozapine      | 2nd (atypical) | Most effective anti-psychotic                                                                                                  | Risk of [[Pearls/Agranulocytosis]] $\rightarrow$ death, lower seizure threshold, sedation, weight gain |
+| Drug           | Generation     | Advantage                                                                                                                             | Disadvantage                                                                                           |
+| -------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Chlorpromazine | 1st (typical)  | Sedative properties, used for intractable hiccups                                                                                     | Anticholinergic effects                                                                                |
+| Haloperidol    | 1st (typical)  | Effective suppressing hallucinations and delusions **without** sedation                                                               | High risk of [[Pearls/Extrapyramidal Side-effects]]. QT prolonged                                      |
+| Olanzapine     | 2nd (atypical) | High efficacy (second only to clozapine)                                                                                              | Metabolic side effects                                                                                 |
+| Quetiapine     | 2nd (atypical) | Very low risk of [[Pearls/Extrapyramidal Side-effects]] - can be used in those with [[Full/Parkinson's disease\|Parkinson's disease]] | Can be too sedating                                                                                    |
+| Risperidone    | 2nd (atypical) | High efficacy for positive symptoms                                                                                                   | Hyperprolactinemia                                                                                     |
+| Clozapine      | 2nd (atypical) | Most effective anti-psychotic                                                                                                         | Risk of [[Pearls/Agranulocytosis]] $\rightarrow$ death, lower seizure threshold, sedation, weight gain |
+| Aripiprazole   | 3rd            | Fewer metabolic side effects - unlikely to gain weight                                                                                | Insomnia, anxiety, headache some anticholinergic side effects. Can cause akathisia                     |
 
 ### Monitoring 
 

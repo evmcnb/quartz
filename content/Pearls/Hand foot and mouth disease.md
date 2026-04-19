@@ -14,6 +14,8 @@ Pretty self explanatory for the location. Caused by coxsackie A16 and enteroviru
 
 ![[z_attachments/Pasted image 20260204113335.png|500]]
 
+Can impair oral intake due to painful ulcers, predisposing to dehydration and pre-renal acute kidney injury
+
 Management:
 - Symptomatic treatment only
 - Reassurance 

@@ -40,7 +40,7 @@ In demyelinating peripheral neuropathies such as Guillain Barre Syndrome, the we
 - Porphyria
 - Diphtheria
 - Lead
-- [[Charcot-Marie-Tooth disease]]
+- [[Pearls/Charcot-Marie-Tooth disease]]
 - Diabetes (diabetic amyotrophy)  
 
 **Predominantly sensory:**

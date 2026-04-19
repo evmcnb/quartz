@@ -5,13 +5,12 @@ date modified: Tuesday, September 23rd 2025, 8:30:54 pm
 tags: ['Haematology']
 ---
 
-
-
 Red Blood Cells
 
 * 1 unit raises Hb by 10g/L and contains 200-250 mg of iron
 * 10-20ml/kg recipient
 * Stored at 4°C for up to 35 days
+* Over 2 hours in non-urgent cases
 
 Platelets
 

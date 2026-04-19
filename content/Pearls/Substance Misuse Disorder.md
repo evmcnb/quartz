@@ -1,7 +1,7 @@
 ---
 title: Substance Misuse Disorder
 date created: Tuesday, March 19th 2024, 02:29:29 PM
-date modified: Monday, February 23rd 2026, 9:10:45 am
+date modified: Friday, April 3rd 2026, 5:01:30 pm
 tags: ['Acute', 'Psychiatry']
 ---
 
@@ -46,6 +46,7 @@ CNS depressants - overdoses can cause [[Full/Respiratory Failure]] and death
 * Main intervention if opioid detox with methadone reduction
 * Alternative to this is buprenorphine reduction
 * [[Full/Counselling]] and rehab
+* Supervised methadone prescription. If more than 5 dose are missed reassessment and reinduction of treatment are necessary
 
 ## Benzodiazepines
 

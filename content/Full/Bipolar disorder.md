@@ -2,7 +2,8 @@
 tags: [Psychiatry]
 title: Bipolar disorder
 date: 2024-01-19
-date modified: 2024-03-11
+date modified: Monday, March 30th 2026, 4:24:23 pm
+date created: Tuesday, November 25th 2025, 8:19:45 pm
 ---
 
 Recurrent episodes of mania/hypomania then depression. Two types of bipolar disorder recognised:
@@ -19,8 +20,8 @@ Typically develops in the late teen years
 
 ### Management 
 
-- [[Pearls/Lithium|Lithium]] mood stabilizer of choice
-- Management of mania: consider stopping antidepressant if taking one, starting [[Pearls/Antipsychotics|Antipsychotic]] therapy (olanzapine or haloperidol)
+- [[Pearls/Lithium|Lithium]] mood stabilizer of choice ([[Pearls/Sodium Valproate|Sodium Valproate]] second-line or lamotrigine in women)
+- Management of mania: consider stopping antidepressant if taking one, starting [[Pearls/Antipsychotics|Antipsychotic]] therapy (olanzapine or haloperidol). Acute management with quetiapine (improves mania symptoms + sedation)
 - Depression: talking therapies; otherwise fluoxetine
 
 If symptoms suggest hypomania then NICE recommend routine referral to the community mental health team (CMHT)

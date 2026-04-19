@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, November 27th 2025, 5:41:51 pm
+date modified: Wednesday, April 15th 2026, 12:12:58 pm
 date: 2023-11-12
 ---
 
@@ -65,7 +65,17 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 - Echo to see area of reduced contraction
 - Coronary angio to show which artery is blocked
 
-Rise in ST of 2mm in the chest leads or 1mm in the limb or new left BBB treated as STEMI. 
+Rise in ST of 2mm in the chest leads or 1mm in the limb or new left BBB treated as STEMI - criteria for thrombolysis, can be taken to the cath lab for much less
+
+
+> [!tldr] Modified Sgarbossa Criteria
+> 5% of new LBBBs are actually a STEMI. Need something more specific. Look at the direction of the ST elevation or depression with the LBBB. If they are concordant that is very concerning. Full criteria: 
+> - **Concordant ST elevation** ≥ 1 mm in ≥ 1 lead
+>- **Concordant ST depression** ≥ 1 mm in ≥ 1 lead of V1-V3
+>- **_Proportionally_ excessive discordant STE** in ≥ 1 lead anywhere with ≥ 1 mm STE, as defined by ≥ 25% of the depth of the preceding S-wave
+>  
+> ![[z_attachments/Pasted image 20260409102143.png|400]]
+
 
 ## Management
 

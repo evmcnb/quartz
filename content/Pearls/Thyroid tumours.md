@@ -24,3 +24,8 @@ tags: ['Oncology', 'Endocrinology']
 * Most common carcinoma
 * Invades lymphatics
 * Annie eye cuclei under microscopy
+
+## Medullary thyroid carcinoma
+
+- Can occurs as part of [[Multiple endocrine neoplasia]], so suspect in people with a history of [[Pheochromocytoma]], parathyroid hyperplasia and thyroid cancers
+- Parafollicular cell cancer $\rightarrow$ **increased calcitonin**

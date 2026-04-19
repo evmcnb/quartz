@@ -2,7 +2,8 @@
 tags: [Psychiatry]
 title: Antidepressants
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Friday, April 3rd 2026, 4:34:21 pm
+date created: Monday, March 30th 2026, 2:49:33 pm
 ---
 Main types are:
 - Selective serotonin reuptake inhibitors (SRRIs)
@@ -44,7 +45,7 @@ Considered first-line treatment for the majority of patients with depression
 ##### Interactions
 
 - NSAIDs - GI irritation. Normally advise against SSRIs, but if given prescribe a PPI
-- Warfarin/heparin: NICE guidelines recommend avoid SSRIs and consider mirtazapine
+- Warfarin/heparin: NICE guidelines recommend avoid SSRIs (fluoxetine) and consider mirtazapine instead 
 - Aspirin
 - Triptans - increased risk of [[Pearls/Serotonin Syndrome]]
 - Monoamine oxidase inhibitors (MAOIs) - increased risk of [[Pearls/Serotonin Syndrome]]
@@ -75,6 +76,10 @@ Venlafaxine is used when there is inadequate response to other antidepressants. 
 ## Tricyclic Antidepressants
 
 Less commonly used due to side effect profile and toxicity in [[Pearls/Tricyclic antidepressant overdose|overdose]]. They are used in the treatment of [[Pearls/Neuropathic Pain|Neuropathic Pain]]. 
+
+|**More sedative**|**Less sedative**|
+|---|---|
+|Amitriptyline  <br>Clomipramine  <br>Dosulepin  <br>Trazodone*|Imipramine  <br>Lofepramine  <br>Nortriptyline|
 
 As well as 5-HT (serotonin) and NA (norepinephrine) receptors, tricyclics interact with a number of others:
 - Histamine receptor antagonist: **drowsiness** 
@@ -115,6 +120,9 @@ As well as 5-HT (serotonin) and NA (norepinephrine) receptors, tricyclics intera
 - No risk of discontinuation symptoms
 - Commonly causes nausea for the first few weeks
 
+### Monoamine oxidase inhibitors (MAOIs)
+
+- Avoid eating cheese (high tyramine $\rightarrow$ hypertensive crisis)
 ## Switching Antidepressants
 
 |**Current Medication (Switching From)**|**Target Medication (Switching To)**|**Recommended Switching Method**|

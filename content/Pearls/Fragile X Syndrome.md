@@ -15,6 +15,7 @@ Caused by a CGG trinucleotide repeat expansion on the X chromosome.
 - Learning difficulties
 - Large low set ears, long thing face, high arched palate
 - Macroorchidism 
+- Macrocephaly
 - Hypotonia
 - Autism is more common
 - [[Pearls/Mitral valve disease|Mitral valve prolapse]]

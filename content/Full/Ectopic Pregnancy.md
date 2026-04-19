@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Ectopic Pregnancy
 date:
-date modified: Sunday, January 11th 2026, 6:21:52 pm
+date modified: Wednesday, April 15th 2026, 12:32:17 pm
 date created: Sunday, October 26th 2025, 11:50:23 am
 ---
 Most common site is the fallopian tube (97%). 
@@ -12,6 +12,8 @@ Non-tubal
 - Abdomen    
 - Cervix
 - Caesarean section scar
+
+![[z_attachments/Pasted image 20260415122823.png|542]]
 ## Causes/Factors
 
 - Previous ectopic pregnancy
@@ -40,6 +42,7 @@ Have a low threshold for suspecting an ectopic pregnancy, even in atypical prese
 - B-hCG - in women presenting with abdominal pain and positive pregnancy test, serum B-hCG that **fails to double in 48 hours** suggests a non-viable or ectopic pregnancy
 
 #### Transvaginal ultrasound
+
 **1st line for diagnosing miscarriage.** 
 - A gestational sac containing a yolk sac/fetal pole may be seen. 
 - Non-specific masses - 'blob sign', 'bagel sign', 'tubal ring sign'. 

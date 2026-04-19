@@ -12,7 +12,7 @@ Leading causes of [[Full/Sepsis|Sepsis]] in [[Full/Pregnancy|Pregnancy]] along w
 
 ## Causes/Factors
 
-The most common organisms implicated in chorioamnionitis are group B streptococcus and E.coli.
+The most common organisms implicated in chorioamnionitis are group B streptococcus (Streptococcus agalactiae) and E.coli.
 
 Can be caused by any tho.
 - Gram +ve

@@ -1,12 +1,9 @@
 ---
-tags:
-  - Respiratory
+tags: [Respiratory]
 title: Industrial dust diseases
 date created: Saturday, October 7th 2023, 4:44:52 pm
 date modified: 2024-03-11
-aliases:
-  - Pneumoconiosis
-  - Hypersensitivity pneumonitis
+aliases: [Pneumoconiosis, Hypersensitivity pneumonitis]
 date: 2024-01-14
 ---
 For all of these diseases patients can claim compensation through _Industrial Injuries Act_

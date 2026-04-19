@@ -54,7 +54,7 @@ A combination of features that occur as a complication of pre-eclampsia and ecla
 - U&E
 - LFTs
 - Clotting 
-- Urine PCR
+- Urine PCR - a urine protein:creatinine ratio of 30 mg/mmol
 
 ## Management
 

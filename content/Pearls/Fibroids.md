@@ -11,7 +11,6 @@ Benign smooth muscle tumours of the uterus. Very common 20-50% of all women in t
 - Intramural fibroids are the most common - develop within the muscle wall of the uterus
 
 
-
 **Features**
 - May be asymptomatic
 - [[Full/Menorrhagia]]
@@ -21,10 +20,18 @@ Benign smooth muscle tumours of the uterus. Very common 20-50% of all women in t
 
 Diagnosed with transvaginal ultrasound
 
-**Management**
+#### Management
 
-Generally regress after the menopause.
-Nothing required for asymptomatic findings 
+**Asymptomatic fibroids**
+- Generally regress after the menopause.
+- Nothing required for asymptomatic findings 
+
+**Menorrhagia secondary to fibroids**
+- Fibroids <3cm in size: levonorgestrel-releasing intrauterine system (IUS)
+- NSAIDs (mefenamic acid)
+- TXA
+- COOP/progestogen
+
 
 To shrink/remove: 
 - GnRH agonists to reduce the size for a short time ? before removal

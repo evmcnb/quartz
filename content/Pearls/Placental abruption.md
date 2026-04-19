@@ -20,7 +20,7 @@ Risk factors - ABRUPTION:
 - **T** for **T**wins or multiple gestation;
 - **I** for **I**nfection in the uterus, especially chorioamnionitis;
 - **O** for **O**lder age (i.e. aged over 35 years old);
-- **N** for **N**arcotic use (i.e. cocaine and amphetamines, as well as smoking)
+- **N** for **N**arcotic use (i.e. **cocaine** and amphetamines, as well as smoking)
 
 Clinical features:
 - shock out of keeping with visible loss

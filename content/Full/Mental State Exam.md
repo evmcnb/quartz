@@ -1,8 +1,5 @@
 ---
-tags:
-  - Psychiatry
-  - Examination
-  - OSCE
+tags: [Psychiatry, Examination, OSCE]
 title: Mental State Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: 2024-03-11
@@ -34,7 +31,18 @@ Note if the patient appears **engaged** in the consultation and if you can dev
 - Is it spontaneous?
 - Comprehensive answers?
 - Any tangential or circumstantial speech
-- Mania is generally loud and all over the place, [[Full/Depression]] quiet and 
+- Mania is generally loud and all over the place, [[Full/Depression]] quiet
+
+**Knight's move** - speaking different sentences that are entirely unrelated to each other without any discernible link between them. Related to [[Full/Schizophrenia|Schizophrenia]]
+
+**Circumstantiality** -  the inability to answer a question without giving excessive, unnecessary detail
+
+**Clang associations** - ideas are related to each other by the fact they sound similar or rhyme
+
+**Flight of ideas** - this differs from Knight's move as there are discernible links between the ideas discussed
+
+**Word salad** - where speech is completely incoherent with sentences formed from real words strung together randomly forming a sentence that does not make sense.
+
 
 ### Mood
 

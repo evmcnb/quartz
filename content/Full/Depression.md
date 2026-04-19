@@ -26,11 +26,17 @@ The onset of individual episodes is often related to stressful events or situati
 > - Anhedonia (loss of interest or pleasure in most activities that they previously enjoyed)
 > - Lack of energy (anergia)
 
+Somatic symptoms (biological/melancholic symptoms)
+- loss of emotional reactivity
+- diurnal mood variation
+- early morning waking
+- psychomotor agitation
+- loss of appetite and weight 
+- loss of libido 
+
+Depression with somatic symptoms is thought to be a more biological/endogenous depressive episode and is typically more severe than an episode with no somatic symptoms.
+
 Other important symptoms are: 
-- weight change
-- disturbed sleep - sleeping late, waking early, not being able to fall back asleep
-- psychomotor changes - movement slower or more restless
-- reduced libido
 - feeling of worthlessness of guilt 
 - decreased concentration
 - thoughts of self-harm

@@ -4,6 +4,7 @@ title: Lung Tumours
 date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Monday, September 29th 2025, 9:56:16 am
 date: 2024-02-23
+aliases: [Lung cancer, Lung carcinoma]
 ---
 
 
@@ -41,6 +42,7 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
 * Typically peripheral
 * Most common type of lung cancer in non-smokers
 * But still comprised of majority smokers
+* Can cause gynecomastia 
 
 ###### Large cell carcinoma
 - Typically peripheral

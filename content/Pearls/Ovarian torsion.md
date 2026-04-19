@@ -11,7 +11,7 @@ Partial or complete torsion of the ovary on its supporting ligaments that may co
 ![[z_attachments/Pasted image 20260104153310.png|400]]
 
 **Risk factors**
-- [[Pearls/Ovarian Tumours|Ovarian Tumours]] - present in 90% of cases as the ovary is heavier than usual 
+- [[Full/Ovarian Tumours|Ovarian Tumours]] - present in 90% of cases as the ovary is heavier than usual 
 - Reproductive age
 - Pregnancy
 - Ovarian hyperstimulation

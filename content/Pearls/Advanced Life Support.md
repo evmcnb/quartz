@@ -41,7 +41,7 @@ Hypokalemia is the most important cause of ventricular tachycardia followed by 
 - Consider digoxin or amiodarone if evidence of heart failure
 - Anticoagulate if duration > 48 h
 
-##### Polymorphic ventricular tachardia
+##### Polymorphic ventricular tachycardia
 
 * Subtype of this is torsades de pointes - precipitated by prolongation of the QT interval
 * IV magnesium 2g over 10 minutes

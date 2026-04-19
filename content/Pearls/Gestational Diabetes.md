@@ -13,7 +13,7 @@ Most significant immediate complication is a large for date fetus and macrosomia
 Anyone with risk factors should be screen with an oral glucose tolerance test at 24-28 weeks gestation:
 - **Unexplained stillbirth in a previous pregnancy**
 - BMI >30 
-- Previous gestational diabets
+- Previous gestational diabetes
 - Previous macrosomic baby weighing 4.5kg or above 
 
 Thresholds for diagnosis:

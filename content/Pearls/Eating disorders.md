@@ -35,6 +35,7 @@ Features include:
 - Hypothermia
 - Mood changes
 - Metabolic disturbances - Na+, K+, Ca++ $\rightarrow$ arrhythmias, kidney stones, fluid balance issues
+- Hypoglycaemia - always check
 
 Has the **highest mortality** of any psychiatric condition. Up to 5-20% of patients will eventually die because of the disorder despite treatment. 
 - 50% recover

@@ -25,7 +25,7 @@ Breast/Formula feed:An infant that has reflux who is not distressed (asymptomati
 
 Breast babies:Troublesome symptoms despite positioning advice (30 degree head up, sleep on back) - Trial of Gaviscone
 
-Bottle fed: Reduce feed 150mlkg/24 hour $\rightarrow$ Feed thickner 1/2 weeks $\rightarrow$ no response $\rightarrow$ alginate for 1/2 weeks $\rightarrow$ no response $\rightarrow$ 4 weeks PPI $\rightarrow$ no response $\rightarrow$  refer for endoscopy (NICE)
+Bottle fed: Reduce feed 150ml/kg/24 hour $\rightarrow$ Feed thickner 1/2 weeks $\rightarrow$ no response $\rightarrow$ alginate for 1/2 weeks $\rightarrow$ no response $\rightarrow$ 4 weeks PPI $\rightarrow$ no response $\rightarrow$  refer for endoscopy (NICE)
 
 
 Do not give a PPI unless special circumstances (refusing feeds, gagging or choking, or faltering growth)

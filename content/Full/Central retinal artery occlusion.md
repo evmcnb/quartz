@@ -1,7 +1,5 @@
 ---
-tags:
-  - Ophthalmology
-  - Acute
+tags: [Ophthalmology, Acute]
 title: Central retinal artery occlusion
 date created: Friday, February 9th 2024, 12:58:43 pm
 date modified: 2024-03-11

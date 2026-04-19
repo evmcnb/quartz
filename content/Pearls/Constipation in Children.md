@@ -5,6 +5,8 @@ date: 2023-09-27
 date modified: Tuesday, February 24th 2026, 10:57:28 am
 date created: Saturday, December 6th 2025, 11:51:09 am
 ---
+Quantify degree of constipation: [[Bristol Stool Chart]]
+
 
 Primary constipation - no underlying physical cause other than lifestyle and environmental factors.
 - Reduced fibre or fluid intake
@@ -13,6 +15,7 @@ Primary constipation - no underlying physical cause other than lifestyle and env
 
 Secondary constipation - other diseases causes constipation
 - [[Full/Hirschsprung’s Disease]]
+- [[Full/Coeliac Disease|Coeliac Disease]]
 - [[Full/Cystic Fibrosis|Cystic Fibrosis]]
 - [[Full/Hypothyroidism|Hypothyroidism]]
 - Medications (anti-histamines/opiates)
@@ -38,14 +41,28 @@ Red flags which may indicate a secondary cause are:
 
 ### Management 
 
-- Macrogols (Movicol) first line
-- Add a stimulant if above doesn't work after 2 weeks (often the case)
+**Lifestyle changes** - but don't use alone 
+- Water intake
+- Fibre (fruit & veg)
+- Routine toilet habits
+
+> [!tldr] Disimpaction regime 
+> 1. Macrogols (Movicol) first line at escalating dose regimen
+> 2. Keep building up until 1/2 days of loose stools
+> 3. Add a stimulant if above doesn't work after 2 weeks (often the case)
+> 4. Reduce the number down to a lower maintenance level until a regular bowel habit is established
+>   
+>   Treatment can initially increase symptoms of soiling and abdominal pain
+
+
 
 Infants not yet weaned (usually < 6 months)  
 - bottle-fed infants: give extra water in between feeds. Try gentle abdominal massage and bicycling the infant's legs
 - breast-fed infants: constipation is unusual and organic causes should be considered
 
   
-Infants who have or are being weaned  
+Infants who have or are being weaned 
 - offer extra water, diluted fruit juice and fruits
 - if not effective consider adding lactulose
+
+Check those who have 

@@ -18,7 +18,7 @@ Only 3 things that can make it bleed more:
 	- Unopposed oestrogen - [[Pearls/Polycystic ovary syndrome|Polycystic ovary syndrome]], [[Full/Obesity|Obesity]]
 2. $\uparrow$ Friability
 	- Polyps
-	- Malignancy ([[Pearls/Ovarian Tumours|Ovarian cancer]], [[Pearls/Endometrial cancer|Endometrial cancer]], [[Full/Cervical Cancer|Cervical Cancer]])
+	- Malignancy ([[Full/Ovarian Tumours|Ovarian cancer]], [[Pearls/Endometrial cancer|Endometrial cancer]], [[Full/Cervical Cancer|Cervical Cancer]])
 	- Infection
 	- [[Pearls/Atrophic vaginitis|Atrophic vaginitis]]
 	- [[Pearls/Intrauterine contraceptive device|Intrauterine contraceptive device]]

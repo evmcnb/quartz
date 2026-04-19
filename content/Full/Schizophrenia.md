@@ -28,7 +28,6 @@ Severe [[Pearls/Psychotic Disorders|psychotic disorder]]. Presents between the a
 - Prominent negative symptoms
 
 
-
 ## Features
 
 Symptoms may be divided into **auditory hallucinations, thought disorders, passivity phenomena and delusional perceptions**

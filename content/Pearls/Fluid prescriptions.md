@@ -26,6 +26,14 @@ If correcting potassium, the maximum rate of infusion via a peripheral line is 1
 
 There is **no need** to subtract the resuscitation boluses from the total 24-hour fluid requirements.
 
+#### Neonates
+
+- Birth to day 1: 50-60 mL/kg/day
+- Day 2: 70-80 mL/kg/day
+- Day 3: 80-100 mL/kg/day
+- Day 4: 100-120 mL/kg/day
+- Days 5-28: 120-150 mL/kg/day
+
 ### Resuscitation
 
 #### Crystalloids (isotonic)

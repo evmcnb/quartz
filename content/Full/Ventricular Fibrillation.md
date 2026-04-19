@@ -34,7 +34,7 @@ Possible
 
 ## Management
 
-- Basic life support
+- Life support
 - DC electric shock as soon as possible once rhythm identified
 - $\beta$ blockers sometimes used
 - Family history assessment

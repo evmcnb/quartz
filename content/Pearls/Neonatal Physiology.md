@@ -9,13 +9,19 @@ Neonates considered term + 28 days (i.e. if born at 40 weeks, neonates are first
 
 ### Cardio-respiratory
 
+In the womb, the pulmonary vascular resistance is high and the systemic vascular resistance is low:
+- Collapsed alveoli $\rightarrow$ high pressure
+- Placenta low resistance reservoir $\rightarrow$ low pressure 
+
+
 - Thorax is squeezed as the body passes through the vagina helping clear fluid from the lungs
 - Stress of this released adrenaline and cortisol
 - Combined with temperature change, sound and physical touch, the baby is stimulated to take its first breath
+- Oxygen vasodilates pulmonary vasculature 
 
 
-- The fall in pulmonary vascular resistance and thus right atrial pressure causes the functional closing of the foramen ovale
-- Increased oxygenation in the blood causes a drop in prostaglandins - the ductus arteriosus closes. 
+- The fall in pulmonary vascular resistance and thus right atrial pressure with an increase in systemic vascular resistance causes the functional closing of the foramen ovale
+- Increased oxygenation and clipping of the umbilical cord causes a drop in prostaglandins - the ductus arteriosus closes 1-3 days. 
 - When blood stop flowing through the umbilical veins, the ductus venosus closes
 
 ### Thermoregulation

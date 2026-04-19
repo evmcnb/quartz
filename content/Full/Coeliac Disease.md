@@ -87,3 +87,4 @@ Patients with coeliac disease often have a degree of **functional hyposplenism*
 - [[Pearls/Anaemia|Anaemia]]
 - [[Pearls/Dermatitis Herpetiformis|Dermatitis Herpetiformis]]
 - Osteopenia/porosis
+- Enteropathy-associated T cell lymphoma (EATL)

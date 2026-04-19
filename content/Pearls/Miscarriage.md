@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Miscarriage
 date: 2023-09-27
-date modified: Friday, February 6th 2026, 2:56:11 pm
+date modified: Wednesday, April 15th 2026, 12:27:52 pm
 date created: Wednesday, December 31st 2025, 1:31:27 pm
 ---
 
@@ -11,12 +11,15 @@ A spontaneous termination of a pregnancy
 - Late miscarriage - 12-24 weeks gestation
 
 Different types: 
-- **Missed miscarriage** - the fetus is no longer alive, but no symptoms have occured
 - **Threatened miscarriage** - vaginal bleeding with a closed cervix and a fetus that is still alive
 - **Inevitable miscarriage** - vaginal bleeding with an open cervix
   
 - **Incomplete miscarriage** - retrained products of conception remain in the uterus 
 - **Complete miscarriage** - no products of conception left in the uterus 
+
+- **Missed miscarriage** - the fetus is no longer alive, but no symptoms have occurred
+
+![[z_attachments/Pasted image 20260415121358.png]]
 
 
 > [!info] Epidemiology
@@ -34,7 +37,7 @@ Fetus needs to between 5-7mm to have enough information to assess. At approximat
 - Women with a pregnancy <6 weeks gestation with bleeding can be managed expectantly in the community
 - $>$ 6 weeks **need a referral to an early pregnancy assessment unit**
 
-First line involves waiting 7-14 days for the miscarriage to complete spontaneously. If unsuccessful then medical or surgical management may be offered
+First line involves waiting 7-14 days for the miscarriage to complete spontaneously. If unsuccessful then **vaginal misoprostol** given no indication for surgical management. 
 
 > [!warning] NICE Criteria
 > Some situations cannot be managed expectantly:

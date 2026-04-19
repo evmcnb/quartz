@@ -1,7 +1,6 @@
 ---
 title: Pulmonary Fibrosis
-tags:
-  - Respiratory
+tags: [Respiratory]
 date created: Wednesday, August 16th 2023, 1:57:16 pm
 date modified: 2024-03-11
 date: 2023-09-18

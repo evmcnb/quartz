@@ -51,7 +51,7 @@ Analgesia should be given and does not mask potentially serious causes of pain.
 | [[Pearls/Volvulus]]                                                    | _Incarcerated hernia_                                         | [[Full/Ectopic Pregnancy\|Ectopic Pregnancy]]                       |
 |                                                                 | _Intussusception_                                             | Gastroenteritis                                                     |
 |                                                                 | _Meckel diverticulum_                                         | [[Full/inflammatory bowel disease\|inflammatory bowel disease]]     |
-|                                                                 | [[Pearls/Mesenteric adenitis\|Mesenteric adenitis]]           | [[Pearls/Ovarian Tumours\|Ovarian cysts]]                           |
+|                                                                 | [[Pearls/Mesenteric adenitis\|Mesenteric adenitis]]           | [[Full/Ovarian Tumours\|Ovarian cysts]]                           |
 |                                                                 | [[Pearls/Ovarian torsion\|Ovarian torsion]]                   | [[Full/pancreatitis\|pancreatitis]]                                 |
 |                                                                 | [[Pearls/Pyloric Stenosis\|Pyloric Stenosis]]                 | [[Pearls/Pelvic inflammatory disease\|Pelvic inflammatory disease]] |
 |                                                                 | [[Pearls/Testicular Torsion\|Testicular Torsion]]             | [[Full/Urolithiasis\|Kidney stones]]                                |

@@ -18,6 +18,7 @@ tags: ['Oncology', 'Genetics']
 * APC tumour supressor gene
 * Autosomal dominant
 * 100% risk of bowel adenoma
+* Total proctocolectomy if any polyps over 1cm
 
 ## Hereidtary Nonpolyposis Colorectal Cancer (Lynch syndrome)
 

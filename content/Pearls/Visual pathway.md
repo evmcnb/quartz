@@ -1,5 +1,5 @@
 ---
-title: "Visual pathway"
+title: Visual pathway
 date created: Sunday, January 21th 2024, 11:44:46 AM
 date modified: 2024-01-21 11:44:46.012771+00
 tags: ['Neurology', 'Ophthalmology']
