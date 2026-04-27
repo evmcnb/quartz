@@ -2,13 +2,27 @@
 tags: [Psychiatry, Examination, OSCE]
 title: Mental State Exam
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Saturday, April 25th 2026, 3:18:29 pm
 date: 2023-11-08
 ---
+Getting a snapshot of their mental picture - useful to see how it changes over time. Semi-objective way to measure progress. 
+
+Only include what is happening to them right in the moment - not last week etc
+
+**ASEPTIC Risk**
+- **A**ppearance and Behaviour
+- **S**peech
+- **E**motion - mood & affect
+- **P**erception
+- **T**hought - form & content. Suicide? 
+- **I**nsight and judgement
+- **C**ognition
+- **Risk**
+
 
 ### Appearance
 
-Observe the patient’s **general** **appearance**:
+Observe the patient’s **general** **appearance** enough to describe them if they ran out the room:
 
 - **Personal hygiene**: are there any signs of self-neglect?
 - **Clothing**: are they dressed appropriately for the weather/circumstances? Are clothes put on correctly?
@@ -27,11 +41,58 @@ Note if the patient appears **engaged** in the consultation and if you can dev
 
 ### Speech
 
-- Flow, tone and volume - rate and quantity
+- Tone, rate, quantity and volume 
 - Is it spontaneous?
 - Comprehensive answers?
 - Any tangential or circumstantial speech
 - Mania is generally loud and all over the place, [[Full/Depression]] quiet
+
+
+### Emotion
+
+#### Mood
+
+Subjective - how does person think about themselves
+- "How are you feeling?"
+- "What's your current mood?"
+- "What do  you enjoy doing?"
+- "How's your concentration?"
+- "What about sleep?"
+- Eating/ADLs?
+
+#### Affect 
+
+Objective - how do you view the person: 
+- Affect - expression of emotions on face
+	- Fixed affect: the patient’s affect remains the same throughout the interview, regardless of the topic.
+	- Restricted affect: the patient’s affect changes slightly throughout the interview, but doesn’t demonstrate the normal range of emotional expression that would be expected.
+	- Labile affect: characterised by exaggerated changes in emotion which may or may not relate to external triggers. Patients typically feel like they have no control over their emotions.
+- How intense is this affect?
+- Does this agree with their thoughts
+
+### Perception
+
+Hallucinations - sensory experience without sensory input
+Illusion - misperceives a real sensory stimulus
+
+Delusion - totally fixed false belief
+- Paranoid - belief about circumstances outside their experience affecting themself
+- Persecutory - people are coming after them
+- Grandiose - unreasonable self importance
+- Nihilistic - when they feel part of their body is dead/rotting
+- Passivity - someone else is controlling thought/body/emotions
+
+
+
+### Thoughts
+
+**Form** - how do the thoughts connect together
+- Tangental thinking?
+- Go around the question rather than answering
+- Flight of ideas - how quick do the thoughts change?
+- Insertion/withdrawal/broadcasting/blocking
+
+**Tangentiality** - answers the question but ends up somewhere different
 
 **Knight's move** - speaking different sentences that are entirely unrelated to each other without any discernible link between them. Related to [[Full/Schizophrenia|Schizophrenia]]
 
@@ -44,37 +105,20 @@ Note if the patient appears **engaged** in the consultation and if you can dev
 **Word salad** - where speech is completely incoherent with sentences formed from real words strung together randomly forming a sentence that does not make sense.
 
 
-### Mood
-
-Subjective - how does person think about themselves
-- "How are you feeling?"
-- "What's your current mood?"
-
-Objective - how do you view the person?
-- Whats their apparent emotion (affect)
-	- Fixed affect: the patient’s affect remains the same throughout the interview, regardless of the topic.
-	- Restricted affect: the patient’s affect changes slightly throughout the interview, but doesn’t demonstrate the normal range of emotional expression that would be expected.
-	- Labile affect: characterised by exaggerated changes in emotion which may or may not relate to external triggers. Patients typically feel like they have no control over their emotions.
-- How intense is this affect?
-- Does this agree with their thoughts
-
-Affect - expression of emotions on face
-
-### Thoughts
-
-Form - how do the thoughts connect together
-- Tangental thinking?
-- Go around the question rather than answering
-- Flight of ideas - how quick do the thoughts change?
-
-Content - what's in the thoughts
+**Content** - what's in the thoughts
 - Is there a logical trail of thought
 - Any obsessions/delusions/overvalued ideas?
 - Suicidal thoughts?
-### Perception
 
-Hallucinations - sensory experience without sensory input
-Illusion - misperceives a real sensory stimulus
+Overvalued idea - similar to delusion but not as fixed
+
+### Insight & Judgement
+
+One of the most complex areas of psychiatry - very important. 
+
+- Does the person understand that they're ill
+- And if they understand this, do they believe that is related to a mental disorder
+- And if they do do they think there's ways to recover
 
 ### Cognition
 
@@ -85,14 +129,8 @@ Illusion - misperceives a real sensory stimulus
 - Do you know where we are at the moment?
 
 - Can you remember who I am?
+- Asking meaning of proverbs. 
 
-### Insight & Judgement
-
-One of the most complex areas of psychiatry
-
-- Does the person understand that they're ill
-- And if they understand this, do they believe that is related to a mental disorder
-- And if they do do they think there's ways to recover
 
 ## Social history
 

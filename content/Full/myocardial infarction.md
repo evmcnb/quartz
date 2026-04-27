@@ -81,22 +81,33 @@ Rise in ST of 2mm in the chest leads or 1mm in the limb or new left BBB treated 
 
 Acute:
 
-**MOAN pneumonic**
-- [[Pearls/Morphine|Morphine]] 5-10mg (with [[Pearls/Metoclopramide|Metoclopramide]] 10mg)
-- [[Pearls/Oxygen|Oxygen]]
-- Aspirn 300mg + ticagrelor 180mg - **dual anti-platelet therapy**. [[Pearls/Clopidogrel|Clopidogrel]] if high bleeding risk, or prasugrel if having angiography.
-- Nitrates - GNT spray
+- Aspirin 300 mg
+- Ticagrelor 180mg. [[Pearls/Clopidogrel|Clopidogrel]]/prasugrel if high bleeding risk, or prasugrel if having angiography.
+- Unfractinated heparin usually given for patients who are going to have a PCI. Alternative with LMWH
 
-*PCI* must be within 2 hours otherwise *fibrinolysis* 
 
-Antithrombin therapy in **NSTEMI** with fondaparinux
+- Nitrates in NSTEMI/[[Full/Acute Coronary Syndrome|Acute Coronary Syndrome]] - GNT spray
+
+*PCI* gold standard treatment and must be within 2 hours otherwise *thrombolysis*  within 12 hours
+- With tissue plasminogen activator (tPA)
+- An ECG should be performed 90 minutes following thrombolysis to assess whether there has been a greater than 50% resolution in the ST elevation
+- if there has not been adequate resolution then rescue PCI is superior to repeat thrombolysis
+
+
+Antithrombin therapy in **NSTEMI** with fondaparinux who are not a high bleeding risk
 
 Unstable patients immediately get an angio otherwise for NSTEMI calculate GRACE score:
 - **_3% or less_** is considered **_low risk_**
 - **_Above 3%_** is considered **_medium_** to **_high risk_**
 
 Patients at **_medium_** or **_high risk_** are considered for early **_angiography_** with **_PCI_** (within 72 hours). 
-Factors in GRACE score is age HR systolic BP and associated symptoms
+Factors in GRACE score is:
+-  age
+- heart rate, blood pressure
+- cardiac (Killip class) and renal function (serum creatinine)
+- cardiac arrest on presentation
+- ECG findings
+- troponin levels
 
 Post MI 6A's:
 - [[Pearls/Aspirin|Aspirin]] 75mg indefinitely
@@ -105,6 +116,11 @@ Post MI 6A's:
 - ACE inhibitor as high as tolerated
 - [[Pearls/Atenolol|Atenolol]] or another beta blocker
 - Aldosterone antagonist in those with [[Full/Heart Failure]]
+
+### Glycaemic Control 
+
+- Dose adjusted insulin infusion with regular monitoring of blood glucose level - titrate to < 11.0 mmol/l
+
 
 ## Complications/red Flags
 

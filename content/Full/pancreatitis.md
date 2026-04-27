@@ -85,13 +85,19 @@ Exclusionary tests:
 
 ## Management
 
+|Severity|Organ failure|Local complications|
+|---|---|---|
+|Mild|No|No|
+|Moderately severe|No or transient (<48 hours)|Possible|
+|Severe|Persistent (>48 hours)|Possible|
+
 #### Acute
 - Resus ABCDE
-- IV fluids 
-- Nil by mouth
+- IV fluids - aggressive early hydration, aim for a urine output of > 0.5mls/kg/hr
+- Enteral nutrition should be offered to anyone with moderate/severe presentations within 72 hours
 - Treatment of gallstones (ERCP)
 - Antibiotics if abscess
-- Analgesia
+- **Analgesia**
 
 #### Chronic
 - Abstinence from alcohol and smoking

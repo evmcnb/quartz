@@ -2,7 +2,7 @@
 tags: []
 title: Palliative Care
 date: 
-date modified: Wednesday, January 7th 2026, 3:16:23 pm
+date modified: Monday, April 20th 2026, 1:39:50 pm
 date created: Saturday, August 23rd 2025, 10:18:03 am
 ---
 
@@ -175,6 +175,8 @@ Mechanism-based prescribing:
 | Raised ICP       | Cerebral cortex            | Histamine             | Dexamethasone, Cyclizine                             |                                                                                                                                                                                   |
 | All else fails   | Multiple                   | Multiple              | Levomethpromazine                                    | Parkinson's, very sedating                                                                                                                                                        |
 If anticipatory nausea is the clear cause, a short acting benzo can be useful. If benzos contra-indcicated, go for cyclizine. 
+
+Hiccups in palliative care - chlorpromazine or haloperidol
 
 ### Laxatives
 

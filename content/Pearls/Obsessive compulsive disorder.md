@@ -2,7 +2,7 @@
 tags: [Paediatrics, Psychiatry]
 title: Obsessive compulsive disorder
 date: 2023-09-27
-date modified: Tuesday, January 27th 2026, 4:44:12 pm
+date modified: Tuesday, April 21st 2026, 10:31:01 am
 date created: Thursday, January 22nd 2026, 5:09:25 pm
 aliases: [OCD]
 ---
@@ -10,7 +10,16 @@ Can be both or either presence of obsessions or compulsions. Can cause significa
 
 **Obsession** - unwanted intrusive though, image or urge that repeatedly enters the person's mind.
 
-**Complulsions** - repetitive behaviours or mental acts that the person feels driven to perform 
+**Compulsions** - repetitive behaviours or mental acts that the person feels driven to perform 
+
+| Delusion                              | Obsession               |
+| ------------------------------------- | ----------------------- |
+| Belief                                | Intrusive thought       |
+| Not perceived as untrue or irrational | Perceived as irrational |
+| May be distressing                    | Usually distressing     |
+| Doesn't change                        | Relieved by compulsion  |
+| Not resisted                          | Resisted                |
+| Psychotic                             | Anxiety                 |
 
 Risk factors:
 - Family history

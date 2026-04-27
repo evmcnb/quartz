@@ -2,7 +2,8 @@
 tags: [Psychiatry]
 title: Post-traumatic Stress Disorder
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Tuesday, April 21st 2026, 11:14:06 am
+date created: Monday, March 30th 2026, 2:49:34 pm
 ---
 Can develop in people following a traumatic event. Symptoms have been present for more than 1 month
 

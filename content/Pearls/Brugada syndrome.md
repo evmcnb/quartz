@@ -16,7 +16,7 @@ Autosomal dominant cardiovascular disease which may present with sudden cardiac 
 **Management**
 
 Avoid things that can precipitate ventricular arrhythmias: 
-- fevers
+- **fevers**
 - alcohol
 - flecanide
 - [[Pearls/Lithium|Lithium]]

@@ -47,8 +47,9 @@ Diagnosing pulmonary fibrosis involves various tests to assess lung function and
 ![[z_attachments/Pasted image 20240311200431.png|475]] 
 
 - **Spirometry** may be normal or show a restrictive pattern 
-	- **_FEV1_** and **_FVC_** are **_equally reduced_** 
+	- **_FEV1_** and **_FVC_** are **_equally reduced_**
 	- [[snippets/FEV1:FVC ratio|FEV1:FVC ratio]] **greater than 70%**
+	- Transfer factor for Carbon Monoxide (TLCO) is **reduced**
 - **High-Resolution CT Scan (HRCT):** typical "ground glass" appearance
 - **Lung Biopsy:** A tissue sample from the lung to confirm the presence of fibrosis and determine its cause.
 

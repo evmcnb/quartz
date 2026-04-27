@@ -2,7 +2,7 @@
 tags: [Neonatology, OBGYN]
 title: Congenital Conditions
 date: 2023-09-27
-date modified: Thursday, December 18th 2025, 4:09:45 pm
+date modified: Saturday, April 25th 2026, 4:07:25 pm
 date created: Thursday, December 18th 2025, 3:54:06 pm
 ---
 
@@ -20,10 +20,10 @@ Risk of:
 
 ## TORCH Conditions
 
-- TOxoplasmosis
-- Rubella
-- Cytomegalovirus
-- Herpes Simplex (and varicella zoster)
+- TOxoplasmosis - intracranial calcifications & chorioretinitis
+- Rubella - sensorineural hearing loss & cataracts
+- Cytomegalovirus - periventricular calcifications
+- Herpes Simplex - meningoencephalitis (and varicella zoster) 
 - other infections: zika...syphilis, HIV, parvovirus 
 
 

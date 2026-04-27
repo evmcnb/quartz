@@ -4,6 +4,8 @@ date created: Sunday, January 21th 2024, 12:53:13 PM
 date modified: Tuesday, September 23rd 2025, 8:30:54 pm
 tags: ['Haematology']
 ---
+Transfuse blood when **Hb <70** or **massive haemorrhage**
+
 
 Red Blood Cells
 

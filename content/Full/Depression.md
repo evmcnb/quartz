@@ -2,10 +2,10 @@
 tags: [Psychiatry]
 title: Depression
 date: 2024-02-09
-date modified: Friday, February 6th 2026, 4:25:23 pm
+date modified: Tuesday, April 21st 2026, 4:04:36 pm
 date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
-Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia).
+Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia) for at least 2 weeks.
 
 At least partially due to a disturbance in serotonin (5-HT). 
 
@@ -53,6 +53,7 @@ Important to conduct -
 >- The presence of symptoms for at least 2 weeks (this may be less if depression is severe)
 >- The symptoms are not attributable to other organic or substance causes (e.g. normal bereavement)
 >- The symptoms impair daily function and cause significant distress
+>- The number of symptoms determines severity
 
 **To rule out organic causes:**
 - FBC - macrocytic anaemia 
@@ -78,15 +79,19 @@ Management is based on the bio-psycho-social model.
 
 - Guided self-help
 - SSRI the first-line anti-depressant
-- Exercise/mindfulness
+- Exercise/mindfulness/behavioral activation 
 - CBT
 
 ##### More Severe
 
 - A combination of individual CBT **and** an antidepressant (SSRI, SNRI or another based on previous treatment)
 
+**Escalation**
+1. If 1 SSRI doesn't work try another SSRI 
+2. If that doesn't work try something different (SNRI, mirtazapine, venlafaxine)
+3. If that doesn't work look at combining with [[Pearls/Antipsychotics|Antipsychotics]] or other drugs
 
-**\*** although not routinely offered unless that is the patients preference. Need a past history of moderate or severe depression or mild depression that has been resistance to treatment
+
 
 ## Complications/red Flags
 

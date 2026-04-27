@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: "Down's syndrome"
 date: 2023-09-27
-date modified: Monday, March 9th 2026, 3:33:58 pm
+date modified: Wednesday, April 22nd 2026, 10:28:30 am
 date created: Saturday, December 20th 2025, 4:10:32 pm
 ---
 
@@ -10,7 +10,7 @@ Trisomy 21. Results in characteristic dysmorphic features and predisposes to var
 
 ![[z_attachments/Pasted image 20251220161207.png|450]]
 
-- Hypotonia
+- Hypotonia - correlates with level of disability in later life
 - Brachycephaly
 - Short neck
 - Short stature

@@ -53,17 +53,17 @@ Physical exam generally unreliable as similar to dermatitis
 
 > [!tldr] 2-level DVT Well's Score
 > |**Clinical feature**|**Points**|
-|---|---|
-|Active cancer (treatment ongoing, within 6 months, or palliative)|1|
-|Paralysis, paresis or recent plaster immobilisation of the lower extremities|1|
-|Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia|1|
-|Localised tenderness along the distribution of the deep venous system|1|
-|Entire leg swollen|1|
-|Calf swelling at least 3 cm larger than asymptomatic side|1|
-|Pitting oedema confined to the symptomatic leg|1|
-|Collateral superficial veins (non-varicose)|1|
-|Previously documented DVT|1|
-|An alternative diagnosis is at least as likely as DVT|-2|
+> |---|---|
+> |Active cancer (treatment ongoing, within 6 months, or palliative)|1|
+> |Paralysis, paresis or recent plaster immobilisation of the lower extremities|1|
+> |Recently bedridden for 3 days or more or major surgery within 12 weeks requiring general or regional anaesthesia|1|
+> |Localised tenderness along the distribution of the deep venous system|1|
+> |Entire leg swollen|1|
+> |Calf swelling at least 3 cm larger than asymptomatic side|1|
+> |Pitting oedema confined to the symptomatic leg|1|
+> |Collateral superficial veins (non-varicose)|1|
+> |Previously documented DVT|1|
+> |An alternative diagnosis is at least as likely as DVT|-2|
 
 
 ## Management

@@ -15,8 +15,9 @@ Continuous assessment for patients is required to monitor stability - monitor fo
 #### Shockable rhythms (VF/pulseless VT)
 
 1. One shock followed by 2 minutes of CPR on repeat. If the arrest was witnessed and are already monitored they should initially receive **3 successive shocks instead**.  Normal CPR cycle would then follow.
-2. Adrenaline 1mg 1:10,000 IV and amiodarone 300mg IV are given once compressions restart following the shocks.
-3. Give adrenaline bolus every 3-5 minutes
+2. **After shock 3:** Adrenaline 1mg 1:10,000 IV and amiodarone 300mg IV
+3. **After shock 5:** Adrenaline 1mg 1:10,000 IV and amiodarone 150mg IV
+4. **Repeat**: Give adrenaline bolus every 3-5 minutes
 
 
 #### Non-shockable rhythms (PEA/asystole)

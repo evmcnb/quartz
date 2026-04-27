@@ -80,10 +80,7 @@ Send bloods for:
 - **D** – **D**rugs (stop **_anticoagulants_** and **_NSAIDs_**)
 
 
-There are some additional steps if **_oesophageal varices_** are suspected (e.g., in patients with liver cirrhosis):
-
-- **_Terlipressin_**
-- **_Broad spectrum antibiotics_**
+There are some additional steps if **_oesophageal varices_** are suspected (e.g., in patients with liver cirrhosis): [[Variceal haemorrhage]]
 
 **_Non-variceal bleeding_** can be treated in various ways, such as with **_clips_** or **_thermal coagulation_**. **_Variceal band ligation_** is used to treat bleeding **_oesophageal varices_**.
 

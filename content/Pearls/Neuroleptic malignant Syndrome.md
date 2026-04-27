@@ -2,10 +2,11 @@
 title: Neuroleptic malignant Syndrome
 tags: [Psychiatry, Neurology]
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Monday, April 20th 2026, 4:15:49 pm
+date created: Monday, March 30th 2026, 2:49:32 pm
 ---
 
-Rare but dangerous condition seen in those taking [[Pearls/Antipsychotics|Antipsychotic]] medications. Mortality of **up to 10%**. May also occur with dopaminergic drugs (such as [[Pearls/Levodopa|Levodopa]]) for [[Full/Parkinson's disease|Parkinson's disease]] - usually when suddenly stopped or reduced
+Rare but dangerous condition seen in those taking [[Pearls/Antipsychotics|Antipsychotic]] medications due to **extreme dopamine deficiency**. Mortality of **up to 10%**. May also occur with dopaminergic drugs (such as [[Pearls/Levodopa|Levodopa]]) for [[Full/Parkinson's disease|Parkinson's disease]] - usually when suddenly stopped or reduced
 
 Theory is that the dopamine blockade induced by antipsychotics triggers massive glutamine release and subsequent neurotoxicity and muscle damage. 
 

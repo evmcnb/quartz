@@ -2,10 +2,10 @@
 tags: [Psychiatry]
 title: Generalised anxiety disorder
 date: 2024-03-19
-date modified: Thursday, January 22nd 2026, 5:09:22 pm
+date modified: Tuesday, April 21st 2026, 10:10:34 am
 date created: Tuesday, November 25th 2025, 8:19:58 pm
-aliases: []
 ---
+Excessive and disproportional anxiety and worry that negatively impacts the person’s everyday activity. Symptoms should be persistent, occurring most days for **_at least six months_**
 
 **Trait anxiety** - An individuals tendency to experience anxiety in response to stressors
 
@@ -28,6 +28,18 @@ A combination of high trait anxiety and a critical mass of psychosocial stressor
 > - Not be a manifestation of another health condition or effects of substance/medication
 
 
+#### Phobias
+
+I guess come under here - extreme fear of situations or things. 
+
+**_Agoraphobia_** is a fear of situations in which they may be unable to escape if something goes wrong. For example, this could be a fear of busy places, public transport, or anywhere outside their home.
+
+**_Social phobia_** involves a fear of social situations (also called **_social anxiety disorder_**).
+
+1. Establish is treatment is needed
+2. Low intensity interventions
+3. CBT with graded therapy 
+
 ## Generalised anxiety disorder
 
 Persistent "free-floating" not restricted to any circumstance or excessive worrying focused on multiple everyday events
@@ -49,6 +61,11 @@ Common features of **generalised anxiety disorder** include:
 > - 15-21 indicates severe anxiety
 
 
+### Panic Attack
+
+Sudden intense onset physical and emotional symptoms of anxiety. Come on within minutes and resolve within 10 minutes 
+- **Physical** - tension, palpitations, tremors, sweating, dry mouth, chest pain, shortness of breath, dizziness and nausea
+- **Emotional** - panic, fear, danger, depersonalisation (feeling separated or detached) and loss of control.
 
 ## Management
 

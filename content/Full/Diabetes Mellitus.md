@@ -59,6 +59,7 @@ Life style modification. metformin + combination with other drug possibly
 Targets:
 - **_48 mmol/mol_** for new type 2 diabetics
 - **_53 mmol/mol_** for patients requiring more than one antidiabetic medication
+- ***58 mmol/mol*** - intensify medications & lifestyle advice
 
 
 The **_HbA1c_** is measured **_every 3 to 6 months_** until under control and stable
@@ -67,41 +68,42 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
 
 ##### First line
 
-![[z_attachments/Pasted image 20251002174414.png]]
-
-
  -  **Metformin**: A biguanide - $\uparrow$ insulin sensitivity + decreases liver glucose production (may help weight). 
 	 - Avoid if eGFR is <36. 
 	 - GI symptom side effects (can switch to modified release) + *risk of lactic acidosis when in AKI*. 
 
-(some recommendations to consider as first line treatment)
 - **SGLT2i** - sodium glucose co-transpoter 2 inhibitor. Blocks the reabsorption of glucose in kidneys - wee out sugar. _eg Empagliflozin_
-	- Once settled on metformin and the patients has cardiovascular risk (pre-existing or Q-risk score >10%) add SGLT2i. 
+	- Should be started once **metformin is at maximum tolerated dose**
 	- They **_can_** cause **_hypoglycaemia_** when used with insulin or sulfonylureas.
 	- Reduces cardiovascular risk, lowers HbA1c, lowers BP improves features of heart failure
 	- Increases frequency of urinary tract infections and genital thrush and rarely **risk of DKA** (even with a moderately increased glucose). Rare risk of necrotising fasciitis of the genitalia or perineums
 
+**Specific scenarios**
+- History of cardiovascular disease $\rightarrow$ subcutaneous semaglutide (GLP-1) should be added to two core drugs
+- Early onset T2DM (<40) $\rightarrow$ consider adding a GLP-1 receptor agonist to two core drugs
+- [[Full/Chronic Kidney Disease|Chronic Kidney Disease]] (eGFR 20-30) 
+	- meformin is contraindicated
+	- dapagliflozin or empagliflozin (a glitazone) and
+	- a DPP-4 inhibitor
+- [[Full/Chronic Kidney Disease|Chronic Kidney Disease]] (eGFR <20)
+	- both core drugs contraindicated
+	- only a DPP-4 inhibitor
+- People with frailty $\rightarrow$ only add on SGLT2i if the level of frailty does not increase the risk of volume depletion or hypotension
 ##### Second line 
 
-![[z_attachments/Pasted image 20251002174443.png]]
+ **DPP4 inhibitors/gliptins**  is the standard second step
+ - _eg sitagliptin_ 
+- block enzyme which destroys the hormone incretin (stimulates a decrease in blood glucose levels) 
+- few side effects (headaches, rarely pancreatitis)
 
-Add one of the following:
-- **DPP4 inhibitors/gliptins** - block enzyme which destroys the hormone incretin (stimulates a decrease in blood glucose levels) _eg sitagliptin_ - few side effects (headaches, rarely pancreatitis)
+**If DPP4 contraindicated or not tolerated/effective:**
 - **Glitazone** - $\uparrow$ insulin sensitivity, LFTs needed every 8 weeks - **do not use in patient with [[Full/Heart Failure]]** _eg pioglitazone_
 	- Decreases the liver production of glucose
 	- Side effects of: weight gain, heart failure, bone fractures, bladder cancers
 - **Sulfonyurea** - $\uparrow$ insulin secretion but increased cardiovascular morbidity and mortality - promote weight gain _eg Gliclazide_
-- **GLP-1 Mimetics**: incretin analogues - suppress appetite. Weight loss effect 
 
 
 ##### Third Line Therapy
-
-If a patient does not achieve control on dual therapy then the following options are possible:  
-- metformin + DPP-4 inhibitor + sulfonylurea
-- metformin + pioglitazone + sulfonylurea
-- metformin + (pioglitazone or sulfonylurea or DPP-4 inhibitor) + SGLT-2 if certain NICE criteria are met
-- insulin-based treatment
-
 
 ###### Insulin
 
@@ -150,7 +152,7 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 >- if on [[Pearls/Insulin|Insulin]] therapy, do not stop treatment, as above
 > - monitor blood glucose more frequently as necessary
 
-**[[Full/Essential hypertension]] and [[Full/Chronic Kidney Disease]]** - ACEi 
+**[[Full/Essential hypertension]] and [[Full/Chronic Kidney Disease]]** - ACEi. Blood pressure targets are the same
 
 **Erectile dysfunction** - sildenafil or tadalafil
 

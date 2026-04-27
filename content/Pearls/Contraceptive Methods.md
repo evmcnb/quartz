@@ -2,12 +2,21 @@
 tags: [OBGYN]
 title: Contraceptive Methods
 date: 2023-09-27
-date modified: Friday, January 9th 2026, 1:26:59 pm
+date modified: Saturday, April 25th 2026, 3:24:45 pm
 date created: Wednesday, December 31st 2025, 2:43:01 pm
 ---
 
 All methods of contraception can be quick started at any time in the menstrual cycle if it is reasonably certain that there is no risk the woman could be pregnant
 
+### Pearl Index
+
+Measure to calculate the failure rate of a contraceptive representing the number of unintended pregnancies per 100 woman years exposed: 
+
+$$
+PI = \frac{\text{Number of accidental pregnancies} \times 100 \text{ women} \times 12 \text{ months}}{\text{Total months of exposure}}
+$$
+
+If 100 women use a contraceptive method for 1 year (12 months) and 2 become pregnant the Pearl Index would be 2. 
 
 | Contraceptive                                | Method of action                                                               | Notes                                                                                               | Perfect failure rate | Typical failure rate |
 | -------------------------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- | -------------------- | -------------------- |

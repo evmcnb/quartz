@@ -31,12 +31,13 @@ Determined by size of air leak and speed at which it occurs
 
 ## Signs
 
-Diagnosis can be made on signs in server cases
+Diagnosis can be made on signs in severe cases
 
 - Deviated trachea (tension)
 - Reduced breath sounds on the side
 - Hypoxia
 - Hyper-resonant to percussion
+- Decreased vocal resonance
 
 ## Diagnostic Tests
 

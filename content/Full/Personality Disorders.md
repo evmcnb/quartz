@@ -2,7 +2,8 @@
 tags: [Psychiatry, Paediatrics]
 title: Personality Disorders
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Tuesday, April 21st 2026, 3:30:16 pm
+date created: Wednesday, February 4th 2026, 10:56:57 am
 ---
 
 New ICD-11 classifications shifted to definitions based on severity and specific problems. The majority of patients will still be diagnosed based on the old classification:
@@ -57,7 +58,11 @@ Anankastia
 - Preoccupation with orderliness, control and perfectionism
 - May be rigid, stubborn and excessively focused on rules and details
 
-Borderline pattern - an additional qualifier for those showing emotional instability, intense and unstable relationships 
+Borderline pattern/emotionally unstable personality disorder - an additional qualifier for those showing emotional instability, intense and unstable relationships 
+
+> [!question] Splitting phenomenon
+> Viewing relationships at extremes of good and bad
+
 
 ### Management
 

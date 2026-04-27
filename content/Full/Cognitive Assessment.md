@@ -1,11 +1,8 @@
 ---
-tags:
-  - Neurology
-  - Examination
-  - OSCE
+tags: [Neurology, Examination, OSCE]
 title: Cognitive Assessment
 date created: Saturday, November 4th 2023, 5:59:46 pm
-date modified: 2024-03-11
+date modified: Tuesday, April 21st 2026, 2:32:58 pm
 date: 2023-11-04
 ---
 
@@ -29,6 +26,7 @@ Never ask a yes/no closed question - only questions where the patient must gener
 #### Prepare Informant
 
 - If this is the first time the assessment is done the correct answers to some of the questions may need to be verified by the informant
+- Tests vary by language - needs to be conducted in first language.  
 
 ## Domains
 
@@ -65,17 +63,29 @@ Construction/Praxis:
 
 #### Screening tests
 
-- AMTS – MBChB Leeds screening test of choice – see Appendix 1.
+- **AMTS** – MBChB Leeds screening test of choice 
 - You should be able to use this from memory.
+
+| QUESTIONS                                            | SCORING RULES                                                        |
+| ---------------------------------------------------- | -------------------------------------------------------------------- |
+| How old are you?                                     | Score for exact age only                                             |
+| What is your date of birth?                          | Only date and month needed                                           |
+| What is the year now?                                | Score for exact year only                                            |
+| What is the time of day?                             | Score if within 1 hr of correct time                                 |
+| Where are we? What is this building?                 | Score for exact place name (e.g. ‘hospital’ insufficient)            |
+| Who is the current monarch?                          | Score only for current monarch                                       |
+| What is the date of the 1st World War?               | Score for year of start or finish                                    |
+| Can you count backwards from 20-1?                   | Score if no mistakes or any mistakes corrected spontaneously         |
+| Can you tell me what these 2 people do for a living? | Score if recognises role of 2 people correctly e.g. doctor and nurse |
+| Can you remember the address I gave you?             | Score for exact recall only                                          |
+
 
 Also in use:
 
-- GPCOG – widely used in primary care.
-- 6-CIT – frequently used in primary care
-- MoCA – free to use screening tool available on the internet.
-- MMSE – previously free with widespread usage but now officially copyrighted.
-
-*You should look at these tests, so that you understand what a score might indicate if you see it reported in a letter or case notes.
+- 4AT - screen for delirium in older adults
+- MoCA - for mild cognitive impairment and early [[Full/Dementias|Dementias]]
+- MMSE – detecting general cognitive impairment and tracking the progression of established dementia
+- ACE-III - used for formal diagnostic progress of dementia.
 
 ## Results
 
@@ -90,19 +100,6 @@ Screening test scores always out of maximum, even if they don’t complete all t
 Consider reasons for reduced performance: eyesight/visual problems, hearing problems, physical illness, mental illness, delirium, and dementia.
 
 REMEMBER: Testing picks up deficits NOT diagnosis and you need to put any test result in context with rest of history and examination.
-
-|QUESTIONS|SCORING RULES|
-|---|---|
-|How old are you?|Score for exact age only|
-|What is your date of birth?|Only date and month needed|
-|What is the year now?|Score for exact year only|
-|What is the time of day?|Score if within 1 hr of correct time|
-|Where are we? What is this building?|Score for exact place name (e.g. ‘hospital’ insufficient)|
-|Who is the current monarch?|Score only for current monarch|
-|What is the date of the 1st World War?|Score for year of start or finish|
-|Can you count backwards from 20-1?|Score if no mistakes or any mistakes corrected spontaneously|
-|Can you tell me what these 2 people do for a living?|Score if recognises role of 2 people correctly e.g. doctor and nurse|
-|Can you remember the address I gave you?|Score for exact recall only|
 
 ## To Complete the Exam
 

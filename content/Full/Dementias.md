@@ -2,22 +2,22 @@
 tags: [Neurology, Geriatrics]
 title: Dementias
 date created: Wednesday, October 18th 2023, 1:38:15 pm
-date modified: Thursday, April 9th 2026, 10:14:33 am
+date modified: Tuesday, April 21st 2026, 12:10:04 pm
 date: 2024-01-23
 ---
 
-| Type of Dementia            | Common Symptoms                                                                                                               | Pathology                                                                                     | Risk Factors                                                                                                                                                          | Treatment/Management                                                                                                                                                                                                             |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alzheimer's Disease**     | Amnesia, aphasia, agnosia, aprexia, associated behaviours (self neglect, personality changes, disinhibitions), steady decilne | Amyloid plaques, neurofibrillary tangles in the brain                                         | Age, family history, genetics (Apolipoprotein E4 variant, [[Pearls/Down's syndrome\|Down's syndrome]]), head injuries, cardiovascular disease, diabetes               | Medications (e.g., donepezil, rivastigmine) to slow progression, cognitive and behavioural therapies, lifestyle modifications (e.g., physical and mental activities, healthy diet, social engagement). Memantine in severe cases |
-| **Vascular Dementia**       | Problems with reasoning, planning, memory. Step wise decline as more microclots                                               | Reduced blood flow to the brain, often after a [[Full/Stroke]] or other cardiovascular issues | [[Full/Essential hypertension]], diabetes, smoking, high cholesterol, heart disease, [[Full/Stroke]], transient ischemic attacks (TIAs), [[Full/Atrial Fibrillation]] | Blood pressure management, cholesterol control, diabetes management, lifestyle changes (e.g., exercise, diet), cognitive rehabilitation                                                                                          |
-| **Lewy Body Dementia**      | Fluctuating cognition, visual hallucinations + Parkinsonism (in Parkinson's Dementia, Parkinsonism first + primarily)         | Lewy bodies (abnormal protein deposits), cognitive and motor symptoms                         | Age, family history, [[Full/Parkinson's disease]], REM sleep behavior disorder                                                                                        | Medications for symptoms (e.g., cholinesterase inhibitors), physical therapy, occupational therapy, support for both the person and caregivers. No antipsychotics                                                                |
-| **Frontotemporal Dementia** | Abrupt personality and behavior changes (loss of empathy, sexual disinhibition) language problems, constructional apraxia     | Abnormal protein deposits in the frontal and temporal lobes                                   | Genetic mutations (in some cases), family history                                                                                                                     | Behavioral and symptom management, speech and language therapy, cognitive rehabilitation, supportive care.<br>Strong association with [[Full/Motor Neurone Syndrome\|ALS]]. ? Use for SSRIs                                      |
+| Type of Dementia            | Common Symptoms                                                                                                                               | Pathology                                                                                     | Risk Factors                                                                                                                                                          | Treatment/Management                                                                                                                                                                                                             |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alzheimer's Disease**     | Amnesia, aphasia, agnosia, aprexia, associated behaviours (self neglect, personality changes, disinhibitions), steady decilne                 | Amyloid plaques, neurofibrillary tangles in the brain                                         | Age, family history, genetics (Apolipoprotein E4 variant, [[Pearls/Down's syndrome\|Down's syndrome]]), head injuries, cardiovascular disease, diabetes               | Medications (e.g., donepezil, rivastigmine) to slow progression, cognitive and behavioural therapies, lifestyle modifications (e.g., physical and mental activities, healthy diet, social engagement). Memantine in severe cases |
+| **Vascular Dementia**       | Problems with reasoning, planning, memory. Step wise decline as more microclots                                                               | Reduced blood flow to the brain, often after a [[Full/Stroke]] or other cardiovascular issues | [[Full/Essential hypertension]], diabetes, smoking, high cholesterol, heart disease, [[Full/Stroke]], transient ischemic attacks (TIAs), [[Full/Atrial Fibrillation]] | Blood pressure management, cholesterol control, diabetes management, lifestyle changes (e.g., exercise, diet), cognitive rehabilitation                                                                                          |
+| **Lewy Body Dementia**      | Fluctuating cognition, visual hallucinations, small children/pets+ Parkinsonism (in Parkinson's Dementia, Parkinsonism first + primarily)<br> | Lewy bodies (abnormal protein deposits), cognitive and motor symptoms                         | Age, family history, [[Full/Parkinson's disease]], REM sleep behavior disorder                                                                                        | Medications for symptoms (e.g., cholinesterase inhibitors rivastigmine really good), physical therapy, occupational therapy, support for both the person and caregivers. No antipsychotics                                       |
+| **Frontotemporal Dementia** | Abrupt personality and behavior changes first (loss of empathy, sexual disinhibition) language problems, constructional apraxia.              | Abnormal protein deposits in the frontal and temporal lobes                                   | Genetic mutations (in some cases), family history                                                                                                                     | Behavioral and symptom management, speech and language therapy, cognitive rehabilitation, supportive care.<br>Strong association with [[Full/Motor Neurone Syndrome\|ALS]]. ? Use for SSRIs                                      |
 
 
 ### Causes/Factors
 1. **Alzheimer's Disease**: Abnormal protein accumulation (amyloid plaques, tau tangles) - slow progression
 2. **Vascular Dementia**: Impaired blood flow to the brain due to [[Full/Stroke]] or other vascular issues.
-3. **Lewy Body Dementia**: Presence of abnormal protein deposits (alpha-synuclein) in the brain.- often associated with [[Full/Parkinson's disease]]. No anti-psychotics ^5b78b4
+3. **Lewy Body Dementia**: Presence of abnormal protein deposits (alpha-synuclein) in the brain.- often associated with [[Full/Parkinson's disease]]. Memory first/same time as Parkinsonian symptoms, otherwise Parkinson's Dementia. **No anti-psychotics**. Levadopa makes hallucinations worse
 4. **Frontotemporal Dementia**: Degeneration of frontal and temporal lobes of the brain.
 
 #### Pseudodementias
@@ -45,6 +45,18 @@ Mimic the symptoms of dementia
 4. **Blood tests:** FBC, U&E, LFTs, calcium, glucose, ESR/CRP, TFTs, vitamin B12 and folate to rule out reversible causes.
 5. **Urine dip/MS&C:** elderly patients can become very confused and forgetful with a bad UTI
 
+
+> [!note] Things to rule out 
+> - **D**rugs/delirium
+> - **E**motions (depression)
+> - **M**etabolic disorders
+> - **E**ye/ear impairment
+> - **N**utritional disorders 
+> - **T**umours/toxins/trauma
+> - **I**nfections
+> - **A**lcohol
+
+
 ### Management
 
 Referred to memory clinics
@@ -61,7 +73,7 @@ Referred to memory clinics
 ##### BPSD
 Behavioural and psychological symptoms of dementia - can be detained under the MHA 
 
-Looks normal - physical function retained but personality changes
+Looks normal - physical function retained but personality changes. Basically the same disease process as [[Full/Delirium|Delirium]]. Same reversible causes. 
 
 **Behavioural**
 - Agitation 
@@ -74,3 +86,9 @@ Looks normal - physical function retained but personality changes
 - Delusion
 - [[Full/Depression]]
 - Anxiety 
+
+
+**Management**
+1. PINCH ME
+2. SSRIs
+3. Risperidone short term - only used as a last resort. Triples the risk of a stroke. 

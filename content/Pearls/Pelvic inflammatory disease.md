@@ -29,6 +29,18 @@ Usually the result of ascending infection from the endocervix
 - Screen for Chlamydia and Gonorrhoea
 - Leukocytes/pus on cervix 
 
+
+> [!tldr] Vaginal Swab Differences
+>
+ > |**Feature**|**High Vaginal Swab (HVS)**|**Vulvovaginal Swab (VVS)**|
+ > |---|---|---|
+> |**Primary Target**|[[Pearls/Bacterial vaginosis]], [[Pearls/Vaginal candidiasis]], [[Pearls/Trichomoniasis]], [[Group B Strep]]|STI screening ([[Pearls/Chlamydia]], [[Pearls/Gonorrhoea]])|
+> |**Lab Method**|Culture and Microscopy (growing the bacteria)|NAAT / PCR (detecting bacterial DNA)|
+> |**Collection Method**|Clinician-taken|Usually self-taken|
+> |**Speculum Required?**|Yes|No|
+> |**Location**|High up in the vagina, near the cervix|Lower vagina and vulva|
+
+
 Clinical diagnoses takes priority over any tests 
 
 **Management**

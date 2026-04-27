@@ -14,7 +14,7 @@ OSCE stations could sneakily ask you write up a drug chart for a dehydrated pati
 ## MAND
 
 - **M**etformin - dehydration increases the risk of lactic acidosis
-- **A**CEi/**A**RBs - impair kidney function
+- **A**CEi/**A**RBs - impair kidney function. **NOT ASPIRIN AT 75mg - WILL NOT IMPACT KIDNEY FUNCTION**
 - **N**SAIDs - impair kidney function, may cause fluid retention (that are not at cardioprotective doses)
 - **D**iuretics - worsen dehydration
 

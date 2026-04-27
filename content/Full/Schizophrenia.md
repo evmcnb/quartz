@@ -2,20 +2,25 @@
 tags: [Psychiatry]
 title: Schizophrenia
 date:
-date modified: Monday, March 9th 2026, 10:26:41 am
+date modified: Monday, April 20th 2026, 3:50:51 pm
 date created: Friday, February 6th 2026, 4:57:46 pm
 ---
 
-Severe [[Pearls/Psychotic Disorders|psychotic disorder]]. Presents between the ages 15-30, earlier in men.
+Severe [[Pearls/Psychotic Disorders|psychotic disorder]] basically chronic [[Pearls/Psychosis|Psychosis]]. Presents between the ages 15-30, earlier in men.
 - Psychosis <6 months: Schizophreniform disorder
 - Psychosis 6 months+: **Schizophrenia**
 - Psychosis + depression and mania: Schizoaffective disorder 
+![[z_attachments/Psych diffs(3).png]]
+
 
 > Schizophrenia is a condition that affects how the brain processes information. Normally, the brain is very good at understanding reality, deciding what is important and what is not, and organising thoughts in a structured way. With schizophrenia, the brain struggles to understand the world, makes mistakes in deciding what information is important and organises thoughts in a confused way. This can lead to strong beliefs that do not fit with reality, called delusions. They may also experience voices that are not there, called hallucinations. The disorganised thoughts can lead to unusual speech and behaviours, which is called thought disorder. When these symptoms occur, it is called psychosis.
 
 ## Causes/Factors
 
 - Family history - MZ twins so big genetic component
+- Male 
+- Age 15-25
+- 2nd generation immigrant
 - **Very rare in those under 10**
 
 #### Poor prognostic indicators
@@ -69,6 +74,13 @@ Delusional perceptions - a 2 stage process:
 2. CBT should be offered to all patients
 3. Close attention to cardiovascular risk modification due to antipsychotic medication
 
+Early intervention with [[Pearls/Antipsychotics|Antipsychotics]] can reduce the risk of relapse by 1/3 
+
 ## Complications/red Flags
+
+- 1/3 recover
+- 1/3 have relapsing remitting symptoms
+- 1/3 have chronic symptoms
+
 
 - Approx 10% complete suicide

@@ -1,10 +1,9 @@
 ---
-title: "Osteomalacia"
+title: Osteomalacia
 date created: Monday, March 04th 2024, 02:41:28 PM
 date modified: 2024-03-04 14:41:28.685512+00
 tags: ['Rheumatology', 'Nephrology', 'Geriatrics', 'Orthopaedics']
 ---
-
 
 
 Defective [[Pearls/Bone|Bone]] mineralisation causes "soft" bones due to insufficient vitamin D. The same process causes rickets in children.

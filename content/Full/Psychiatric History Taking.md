@@ -2,7 +2,7 @@
 tags: [Psychiatry, OSCE]
 title: Psychiatric History Taking
 date created: Friday, January 19th 2024, 9:50:27 am
-date modified: Tuesday, February 24th 2026, 2:11:04 pm
+date modified: Monday, April 20th 2026, 10:36:57 am
 date: 2024-01-19
 ---
 Table to fill out in your mind for a psychological condition. 
@@ -79,7 +79,7 @@ Episodes of mania and hypomania are part of the diagnostic criteria for [[Full/B
 - "Have you noticed any change in your mood or energy levels?"
 - "Can you describe the change"
 
-Other symptoms assocated with mania/hypomania include:
+Other symptoms associated with mania/hypomania include:
 - Increased self-esteem
 - Reduced social inhibitions
 - Over-familiarity
@@ -147,7 +147,7 @@ Thoughts, images, or impulses that are recurrent and intrusive. They enter the m
 
 Compulsions are repetitive mental processes or physical acts a patient feels compelled to perform due to an obsession or rule to attempt to reduce the distress and anxiety associated with them. 
 
-These two symptoms are characteristic of [[Obsessive-compulsive disorder]] but can occur in other illnesses. 
+These two symptoms are characteristic of [[Pearls/Obsessive compulsive disorder|Obsessive compulsive disorder]] but can occur in other illnesses. 
 
 - "Do you get repeat unpleasant thoughts or images coming into your mind"
 - "Do you ever feel that you need to repeatedly check things you have already done?"
@@ -179,23 +179,22 @@ The patient uses the control of food to cope with feelings and/or other situatio
 ## ICE + Summarise
 
 
-### Past psychiatric history, existing diagnosis and previous treatments
+> [!success] Ask history chronologically
+> Makes it easier not to forget anything. Start with birth, family + history, school, pre-morbid personality
 
+## Past History
+
+### Past psychiatric history
+
+Existing diagnosis and previous treatments
 - _“Have you ever experienced symptoms like this before?”_
 - _“Have you ever had any problems with your mental health before?”_
 
-### Past contact with mental health services
+#### Past contact with mental health services
 
 For previous contact with mental health services, you should explore whether this has been through **primary care**, the **community mental health team**, or the **crisis team/home treatment** team.
 
-## Forensic history
-
-A **forensic history** helps to formulate a **risk assessment** and may give clues to help with diagnosis. 
-
-- _“Have you ever had any contact with the police?”_
-- _“If yes, what happened? Were you charged?”_
-- _“Have you spent any time in prison?”_
-## Past medical history
+### Past medical history
 
 Ask if the patient has any **medical** **conditions**: 
 
@@ -207,12 +206,25 @@ Some medical conditions are also **risk factors** for mental health disorders,
 
 Additionally, some medical conditions will **affect treatment options**. For example, cardiovascular, renal, or hepatic disorders are often contraindications for psychiatric medication.
 
+### Forensic history
+
+A **forensic history** helps to formulate a **risk assessment** and may give clues to help with diagnosis. 
+
+- _“Have you ever had any contact with the police?”_
+- _“If yes, what happened? Were you charged?”_
+- _“Have you spent any time in prison?”_
+
+## Family History
+
+- Family history of psychiatric or physical disease
+- History of family dynamics
+- About about **childhood and school, education and occupation**
+- Birth & developmental milestones history? 
+- Ask about **relationships**
+
 ## Drug history + allergies, family history, personal history 
 
 - Prescribed or over the counter medication
-- Family history of psychiatric or physical disease
-- About about **childhood and school, education and occupation**
-- Ask about **relationships**
 
 ### Pre-morbid personality
 
@@ -221,12 +233,27 @@ How the patient was before the morbidity. Asking the patient directly or from a 
 - **Emotional** traits: would they describe themselves as happy or sad? Do they experience mood swings? How do they manage anger?
 - **Cognitive** traits: how is their self-esteem? Are they a confident person? Do they see themselves as an optimist or pessimist? Are they naturally suspicious of others? How do they cope with decision-making?
 - **Behavioural** traits: would they describe themselves as an introvert or extrovert? Would they say they are impulsive? Do they enjoy socialising?
-
 ## Social history
 
 - Living circumstances - who they live with, children at home, homeless
+- Job - stresses, enjoying
 - Can they carry out activities of daily living?
 - Smoking and **alcohol** - frequency, type and volume
+
+### Substance Use
+
+- What? Drugs/alcohol/gambling/smoking
+- How much?
+- How do they fund it?
+- Psych-social impact
+- What do they think about oi
+
+## Risk assessment
+
+- Thoughts of self-harm
+- Feels like can talk to people around them
+- Thoughts of harming other people
+- Able to carry out normal activities
 
 ## Insight
 
@@ -236,9 +263,9 @@ Some examples of questions which can be used to **assess insight** include:
 
 - _“What do you think the cause of the problem is?”_
 - _“Do you think you have a problem at the moment?”_
-- _“Do you feel you need help with your problem?”_
+- _“Do you feel you need help with your problem? What do your family/friends think?”_
 
-## To Complete the Exam
+## To Complete the History 
 
 - **Summarise** your findings.
 - **Explain** to the patient that the examination is now **finished**.

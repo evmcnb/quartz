@@ -9,7 +9,8 @@ tags: ['Oncology', 'Haematology']
 
 Rapid growth and accumulation of immature lymphocytes
 
-* Most common type of leukaemia in children
+* Most common type of leukaemia in children. 
+* Better survival rates in children aged 1-10 at diagnosis 
 * Similar symptoms to AML
 
 Treatment philosophy:

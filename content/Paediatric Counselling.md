@@ -2,7 +2,8 @@
 tags: [OSCE, Paediatrics]
 title: Paediatric Counselling
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Monday, April 20th 2026, 9:30:00 am
+date created: Wednesday, April 15th 2026, 12:12:56 pm
 ---
 - **Acknowledge the child:** Even if the child is a plastic doll or absent, ask the parent about them. "How is little Leo doing today?"
 - **ICE is mandatory:** Ideas, Concerns, and Expectations. A parent might be worried about meningitis when the child just has a simple cold. If you don't ask, you can't reassure them.

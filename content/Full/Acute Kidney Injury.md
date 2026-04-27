@@ -76,6 +76,30 @@ Electrolyte abnormalities:
 - Ultrasound if suspected obstruction
 - Biopsy
 
+
+> [!success] Acute tubular necrosis vs. prerenal uraemia
+> Prerenal uraemia - kidneys hold on to sodium to preserve volume
+> 
+> | |**Pre-renal uraemia ('azotemia')**|**Acute tubular necrosis**|
+|---|---|---|
+|Urine sodium|< 20 mmol/L|> 40 mmol/L|
+|Urine osmolality|> 500 mOsm/kg|< 350 mOsm/kg|
+|Fractional sodium excretion*|< 1%|> 1%|
+|Response to fluid challenge|Good|Poor|
+|Serum urea:creatinine ratio|Raised|Normal|
+|Fractional urea excretion**|< 35%|>35%|
+|Urine:plasma osmolality|> 1.5|< 1.1|
+|Urine:plasma urea|> 10:1|< 8:1|
+|Specific gravity|> 1020|< 1010|
+|Urine|Normal/ 'bland' sediment|Brown granular casts|
+>
+> **Divide by 10 Trick**
+> 1. Look at the **creatinine** level. 
+> 2. Divide it by 10.
+> 3. Compare that number to the **Urea** level.
+ 4. **The Rule:** If the **Urea is higher** than (Creatinine ÷ 10), it points toward a **prerenal** cause of Acute Kidney Injury (AKI).**
+
+
 ## Management
 
 - Manage underlying cause of AKI

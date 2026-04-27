@@ -1,11 +1,20 @@
 ---
 title: Substance Misuse Disorder
 date created: Tuesday, March 19th 2024, 02:29:29 PM
-date modified: Friday, April 3rd 2026, 5:01:30 pm
+date modified: Thursday, April 23rd 2026, 10:33:40 am
 tags: ['Acute', 'Psychiatry']
 ---
 
 Mesolimbic pathway (reward) wit primary neurotransmitter dopamine. Key structures involved are ventral tegmental area, nucleus accumbens, amygdala and prefrontal cortex.
+
+
+
+> [!success] Addiction Syndrome Triad
+> - Strong internal drive with impaired control
+> - Primary/salience
+> - Persistent use despite harm
+
+
 
 ![[z_attachments/Pasted image 20260206163529.png|525]]
 
@@ -26,6 +35,11 @@ Mesolimbic pathway (reward) wit primary neurotransmitter dopamine. Key structure
 
 Outpatient [[Full/Counselling]] (addiction clinic), long-term therapeutic communities, etc
 
+> [!warning] Mental Capacity/Health Act
+> Cannot use addiction as a mental health justification for best interests or sectioning
+
+
+
 ## [[Pearls/Alcohol Dependence]]
 
 Anything up to 14 units a week spread over 3 days or more is okay. Need to differentiate from hazardous drinking, harmful drinking, and alcohol dependence.
@@ -44,9 +58,9 @@ Prophylactic oral thiamine should be given if they are malnourished or have live
 CNS depressants - overdoses can cause [[Full/Respiratory Failure]] and death
 
 * Main intervention if opioid detox with methadone reduction
-* Alternative to this is buprenorphine reduction
+* Alternative to this is buprenorphine reduction harder to overdose on
 * [[Full/Counselling]] and rehab
-* Supervised methadone prescription. If more than 5 dose are missed reassessment and reinduction of treatment are necessary
+* Supervised methadone prescription. If more than 3-5 dose are missed reassessment and reinduction of treatment are necessary. 
 
 ## Benzodiazepines
 

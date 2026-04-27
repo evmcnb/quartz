@@ -5,7 +5,7 @@ date:
 date modified: Tuesday, September 23rd 2025, 8:27:37 pm
 date created: Monday, September 22nd 2025, 10:02:37 pm
 ---
-Oncological emergency due to turnover of high cell mass malignancies resulting in severe metabolic derangement.
+Oncological emergency due to turnover of high cell mass malignancies resulting in severe metabolic derangement. Usually in aggressive malignancies 
 
 Chemotherapy for rapidly proliferating tumours (leukaemia, [[Pearls/Lymphoma|Lymphoma]], myeloma) leads to cell death add ↑urate, K+, phosphate and ↓calcium.
 
@@ -39,7 +39,7 @@ Prevent with hydration and uricolytics eg rasburicase, allpurinol
 **Electrolytes**
 - Hyperkalaemia
 - Hyperphosphataemia
-- Hypocalcaemia
+- **Hypo**calcaemia
 - Hyperuricaemia
 - High creatinine and urea consistent with renal impairment
 - Low HCO3 consistent with metabolic acidosis +/- hyperlactemia

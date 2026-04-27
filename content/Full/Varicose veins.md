@@ -1,7 +1,5 @@
 ---
-tags:
-  - Cardiovascular
-  - Surgery
+tags: [Cardiovascular, Surgery]
 title: Varicose veins
 date created: Tuesday, October 17th 2023, 4:33:58 pm
 date modified: 2024-03-11

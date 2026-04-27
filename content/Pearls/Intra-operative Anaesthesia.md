@@ -2,7 +2,7 @@
 tags: [Anaesthetics, Surgery, OSCE]
 title: Intra-operative Anaesthesia
 date: 2023-09-27
-date modified: Monday, November 24th 2025, 11:02:18 am
+date modified: Wednesday, April 22nd 2026, 11:32:54 am
 date created: Tuesday, November 4th 2025, 10:14:54 am
 ---
 
@@ -54,6 +54,7 @@ Always preoxygenate and confirm ability to ventilate before administering. Both 
 Depolarising (acetylcholinesterase agonist):
 - Suxamethonium (1 -1.5mg/kg) - 30-45 seconds to effect, RSI 
 	- Can lead to muscle pains, fasciculations, hyperkalaemia, rise in ICP, IOP and gastric pressure 
+	- Suxamethonium apnoea aka pseudocholinesterase deficiency
 	- Can cause malignant hyperthermia
 
 Non-depolarising (postsynaptic nicotinic acetylcholine receptors agonist) - slow onset and variable duration but with less side effects

@@ -21,9 +21,11 @@ Causes
 - tubal damage 15%
 - other causes 15%
 
-Basic investigations
+ Investigations - starting routine progressing to rarer
 - Semen analysis
-- Serum progesterone on **day 21** - to see if ovulation has occurred 
+- Proof of ovulation: serum progesterone **7 days prior** to next period - to see if ovulation has occurred (day 21 for 28 day cycle)
+- Proof of normal uterus: pelvic scan
+- Proof of tubal potency: laparoscopy and dye
 
 |**Level**|**Interpretation**|
 |---|---|
