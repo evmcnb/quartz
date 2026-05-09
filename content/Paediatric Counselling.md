@@ -2,7 +2,7 @@
 tags: [OSCE, Paediatrics]
 title: Paediatric Counselling
 date: 2023-09-27
-date modified: Monday, April 20th 2026, 9:30:00 am
+date modified: Tuesday, May 5th 2026, 1:44:50 pm
 date created: Wednesday, April 15th 2026, 12:12:56 pm
 ---
 - **Acknowledge the child:** Even if the child is a plastic doll or absent, ask the parent about them. "How is little Leo doing today?"
@@ -80,29 +80,55 @@ Spacer should be washed once a month to air dry and replace once a year
 7. The highest reading should be used as the final result
 
 
-### Constipation
+## Constipation
 Explaining the "poo cycle," diet/hydration advice, disimpaction regime and how to use maintenance laxatives (like Macrogol/Movicol) long-term without creating dependency.
 
 
-### Feeding Advice
+## Feeding Advice
 Counselling a mother on breastfeeding challenges (mastitis, latching) or explaining the transition to solid foods (weaning)
 
 - WHO suggests to start weaning at 6 months (with pureed veg/fruit)
 - Don't start weaning breast milk/formula until at least 8 months
 - Don't add sugar or honey to foods
 - Advice against cows milk until 12 months
+- High calorie, high fat diet
+- Feed when interested in food - not when very hungry tho 
 
-### Immunisations
+## Immunisations
 Addressing vaccine hesitancy
 
 - Address concerns, listen to what they're saying
 - Brief overview of disease of interest
-- What we're concerned about enough to warrent a vaccine
+- What we're concerned about enough to warrant a vaccine
 - Long term effects of not vaccination 
 - Shown to be safe and effective
 - List the potential complications
 
-### Safe Sleeping
+| Disease        | To Prevent?                                                          |
+| -------------- | -------------------------------------------------------------------- |
+| Diphtheria     | Cardiomyopathy, neuropathy, death                                    |
+| Tetanus        | Tetanus, death                                                       |
+| Pertussis      | [[Full/Cerebral Palsy\|Cerebral Palsy]] due to hypoxia, death        |
+| HIB            | [[Full/Meningitis\|Meningitis]], [[Full/Epiglottitis\|Epiglottitis]] |
+| Poliomyelitis  | Limb deformity, resp problems                                        |
+| Rotavirus      | Gastroenteritis, death                                               |
+| Mumps          | Infertility                                                          |
+| Measle         | SSPE, death                                                          |
+| Rubella        | Congenital rubella syndrome                                          |
+| Pneumococcal   | Pneumonia, meningitis, death                                         |
+| Meningitis B/C | Meningitis, neuro-disability, death                                  |
+
+What are the contraindications:
+- Severe allergic reaction to previous dose
+- Known allergy to specific ingredient
+
+Precaution in those having a mild illness or can delay if needed. No live vaccines in severely immunocompromised.  
+
+What are the risks:
+- Sore arm, fatigue headache, low-grade temp - shows the immune system is working
+- Rare: [[Pearls/Guillain-Barre Syndrome|Guillain-Barre Syndrome]] syndrome or [[Pearls/Myocarditis|Myocarditis]] depending on the vaccine 2 in 1,000,000
+
+## Safe Sleeping
 Counselling on the prevention of SIDS (Sudden Infant Death Syndrome) — feet to foot, clear cot, appropriate temperature, sleeping on the back.
 
 - **A**lone: Baby should sleep in their own cot or Moses basket, not with parents on a sofa/chair.
@@ -113,7 +139,9 @@ Counselling on the prevention of SIDS (Sudden Infant Death Syndrome) — feet to
 - **Temperature:** Maintain 16–20°C room temperature; keep head uncovered.
 - **Smoke-free:** Avoid smoking during pregnancy and after birth.
 
-### Nocturnal Enuresis
+Links to The Lullaby Trust
+
+## Nocturnal Enuresis
 Reassuring parents that it's common, advising on fluid intake, reward charts, and potentially explaining enuresis alarms.
 
 - Last fluid 1-2 hours before bed 

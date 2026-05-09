@@ -2,7 +2,7 @@
 tags: [OBGYN, Paediatrics]
 title: Birth Injuries
 date: 2023-09-27
-date modified: Thursday, December 18th 2025, 2:22:57 pm
+date modified: Tuesday, May 5th 2026, 1:59:14 pm
 date created: Thursday, December 18th 2025, 2:07:50 pm
 ---
 
@@ -13,6 +13,12 @@ Oedema of the subcutaneous tissue on the scalp. Caused by pressure to a specific
 Soft and diffuse swelling across the suture lines. 
 
 Does not require any treatment and will resolve within a few days
+
+
+> [!tip] How to tell the difference
+> Caput SuccaDAYneum (Crosses Sutures) - resolves within a few days  
+> 
+> CephalohaematoMONTH (doesn't cross sutures) - resolves within a few months
 
 ### Cephalohaematoma
 

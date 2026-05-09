@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Depression
 date: 2024-02-09
-date modified: Tuesday, April 21st 2026, 4:04:36 pm
+date modified: Wednesday, May 6th 2026, 12:57:00 pm
 date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
 Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia) for at least 2 weeks.
@@ -77,7 +77,7 @@ Management is based on the bio-psycho-social model.
 
 ##### Less Severe
 
-- Guided self-help
+ - Guided self-help
 - SSRI the first-line anti-depressant
 - Exercise/mindfulness/behavioral activation 
 - CBT

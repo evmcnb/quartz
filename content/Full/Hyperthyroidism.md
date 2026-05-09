@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Hyperthyroidism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 16th 2025, 5:59:58 pm
+date modified: Thursday, May 7th 2026, 10:30:37 am
 aliases: [Thyrotoxicosis]
 date: 2024-01-14
 ---
@@ -65,12 +65,13 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 	1. The [[Pearls/Carbimazole|Carbimazole]] started at 40mg OD and titrated down to maintain euthyroid
 	2. A higher dose blocks all production and [[Pearls/Levothyroxine|Levothyroxine]] is added and titrated to effect
 	3. Risk of agranulocytosis (urgent FBC required if signs of infection) and **acute [[Full/pancreatitis]]**
+C for congential abnormalities don't use in first trimester
 
 >[!warning]
 >
 >The MHRA issued a warning in 2019 about the risk of acute [[Full/pancreatitis]] in patients taking [[Pearls/Carbimazole|Carbimazole]]. In exams, look out for a patient on [[Pearls/Carbimazole|Carbimazole]] presenting with symptoms of [[Full/pancreatitis]] (e.g., severe epigastric pain radiating to the back).
 
-- **Propylthiouracil** 200-400mg is second line and works in the same way. Small risk of severe liver reaction. 
+- **Propylthiouracil** 200-400mg is second line and works in the same way. Small risk of severe liver reaction. **P** for pregnancy, first line.
 
 **Both can cause agranulocytosis** - this makes people vulnerable to infection. A **[[Pearls/Sore throat|Sore throat]]** is a key presenting feature. Need an urgent FBC and aggressive treatment. 
 
@@ -79,7 +80,7 @@ Hyperthyroidism is **increased thyroid hormone synthesis and secretion** from th
 **Surgery is definitive option** - removing the whole thyroid gland and starting life-long [[Pearls/Levothyroxine|Levothyroxine]] 
 ## Complications/Red Flags
 
-- **Thyroid Storm:** It is a rare and more severe presentation of hyperthyroidism with **_fever_**, **_tachycardia_** and **_delirium_**. It can be life-threatening and requires admission for monitoring.
+- **Thyroid Storm:** It is a rare and more severe presentation of hyperthyroidism with **_fever_**, **_tachycardia_** and **_delirium_**. It can be life-threatening and requires admission for monitoring. IV propanolol first line
 - **[[Full/osteoporosis]]:** Long-term hyperthyroidism can lead to [[Pearls/Bone|Bone]] loss and an increased risk of fractures.
 - **Heart Problems:** Untreated hyperthyroidism can strain the heart, leading to heart rhythm abnormalities and potential [[Full/Heart Failure]].
 - **[[Full/Pregnancy]] Complications:** Hyperthyroidism during [[Full/Pregnancy]] requires careful management to prevent harm to both the mother and the baby.

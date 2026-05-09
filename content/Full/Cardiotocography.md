@@ -2,7 +2,7 @@
 tags: [OBGYN, OSCE]
 title: Cardiotocography
 date: 2023-09-27
-date modified: Tuesday, January 6th 2026, 1:58:40 pm
+date modified: Tuesday, May 5th 2026, 4:05:10 pm
 date created: Tuesday, December 30th 2025, 1:10:15 pm
 aliases: [CTG]
 ---
@@ -31,6 +31,10 @@ You need to determine if the pregnancy is high or low risk [[Full/Pregnancy#Risk
 - [[Full/Pre-eclampsia]]
 - Meconium-stained liqour (sign of fetal distress)
 - Needing oxytocin to induce/progress
+- VBAC
+- T1/2DM 
+- Prolonged pregnancy 41+ weeks
+- Breech presentation
 
 
 ## Contractions

@@ -10,3 +10,16 @@ date created: Thursday, April 23rd 2026, 12:49:58 pm
 | [[Pearls/Down's syndrome\|Down's syndrome]]                     | ↓                 | ↓                     | ↑                             | ↑         |
 | [[Pearls/Identifying Chromosomal Disorders\|Edward's syndrome]] | ↓                 | ↓                     | ↓                             | ↔         |
 | **Neural tube defects**                                         | ↑                 | ↔                     | ↔                             | ↔         |
+
+Causes of $\uparrow$ aFP
+- omphalocele 
+- meningocele
+- anencephaly 
+- gastroschisis
+- multiple pregnancy
+
+Causes of $\downarrow$ aFP
+- Down's 
+- [[Pearls/Gestational Diabetes|Gestational Diabetes]]
+- Edwards
+- Maternal obesity 

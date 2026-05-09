@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology, OBGYN]
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, January 11th 2026, 6:38:49 pm
+date modified: Thursday, May 7th 2026, 9:46:18 am
 date: 2023-09-18
 ---
 
@@ -14,7 +14,7 @@ Pregnant women should receive the same investigations and treatments as non-preg
 
 | System         | Normal pregnancy                                                                                                                                                                                                            | Consider pathology                                                                            |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Cardiovascular | a fall in BP before week 20 (rises back up)<br><br> Increased HR, SV & CO ![](z_attachments/wkJ9EMo.png)                                                                                                                    | persistent BP >140/90 might indicate [[Full/Pre-eclampsia]]                                        |
+| Cardiovascular | a fall in BP before week 20 (rises back up)<br><br> Increased HR, SV & CO ![](z_attachments/wkJ9EMo.png)                                                                                                                    | persistent BP >140/90 might indicate [[Full/Pre-eclampsia]]                                   |
 | Respiratory    | Compensated respiratory alkalosis <br><br> No change in PEFR or VC <br><br> Altered chemoreceptor sensitivity + $\uparrow$ $O_2$ consumption -> $\uparrow$ RR + 10%                                                         | Serum bicarb <18 mmol/L <br><br> Decreased PEFR <br><br> RR <20/min                           |
 | Renal          | $\uparrow$ renal perfusion, GFR, protein excretion <br> $\downarrow$ urea, creatinine <br><br> bladder capacity decreases <br><br> RAAS increased in 1st trimester - smooth muscle dilation <br><br> increased risk of UTIs | Creatinine >85 $\micro$mol/L (eGRF not valid in pregnancy)                                    |
 | GI             | lower oesophageal pressure <br><br> altered appetite <br><br> decrease in motility <br><br> $\uparrow$ water reabsorption <br><br> constipation, nausea, heartburn                                                          |                                                                                               |

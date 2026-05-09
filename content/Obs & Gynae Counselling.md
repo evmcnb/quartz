@@ -1,8 +1,9 @@
 ---
-tags: []
+tags: [OBGYN, OSCE]
 title: Obs & Gynae Counselling
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Wednesday, April 29th 2026, 9:51:44 am
+date created: Monday, April 20th 2026, 8:48:24 am
 ---
 ## [[Pearls/Gestational Diabetes|Gestational Diabetes]]
 

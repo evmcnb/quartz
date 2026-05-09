@@ -1,7 +1,7 @@
 ---
 title: Ascites
 date created: Saturday, March 09th 2024, 04:58:38 PM
-date modified: Saturday, August 30th 2025, 11:07:30 am
+date modified: Saturday, May 2nd 2026, 10:36:48 am
 tags: ['Gastroenterology', 'Hepatology']
 ---
 

@@ -2,7 +2,7 @@
 tags: [Acute, OSCE]
 title: RRAPID Conditions and Management
 date: 2024-04-27
-date modified: Friday, December 5th 2025, 9:55:20 am
+date modified: Saturday, May 2nd 2026, 1:35:03 pm
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 
@@ -68,7 +68,7 @@ Acute problems caused by [[pulmonary oedema]]
 
 **STOP AKI**
 - Sepsis - complete 6 if suspected cause of AKI
-- Toxins - gentamicin, NSADs, iodine contrast
+- Toxins - gentamicin, NSAIDs, iodine contrast
 - Optimise - blood pressure and volume status
 - Prevent - treat complications - acidosis, hyperkalaemia, pulmonary oedema
 
@@ -244,7 +244,7 @@ ECG changes:
 - loss of P waves
 - broad QRS
 
-All patients with severe hyperkalaemia or with ECG changes should have emergency treatment:
+All patients with severe/symptomatic hyperkalaemia or with ECG changes should have emergency treatment:
 - IV calcium gluconate - stabilise myocardium
 - Insulin/dextrose infusion - shift potassium into cells
 - Other - salbutamol nebs 

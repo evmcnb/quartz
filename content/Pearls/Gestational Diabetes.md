@@ -2,13 +2,13 @@
 tags: [Endocrinology, OBGYN]
 title: Gestational Diabetes
 date: 2023-09-27
-date modified: Friday, February 6th 2026, 3:01:30 pm
+date modified: Wednesday, May 6th 2026, 3:24:34 pm
 date created: Monday, December 29th 2025, 3:46:50 pm
 ---
 
 Complicates up to 1 in 20 pregnancies - 2nd most common after hypertension 
 
-Most significant immediate complication is a large for date fetus and macrosomia. Has implications for birth, mostly shoulder dystocia. 
+Most significant immediate complication is a large for date fetus and macrosomia. Has implications for birth, mostly shoulder dystocia. Also insulin, which is increased in diabetic mothers, inhibits surfactant production and maturation of the fetal lungs.
 
 Anyone with risk factors should be screen with an oral glucose tolerance test at 24-28 weeks gestation:
 - **Unexplained stillbirth in a previous pregnancy**

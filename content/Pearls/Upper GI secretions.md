@@ -1,7 +1,7 @@
 ---
 title: Upper GI secretions
 date created: Thursday, March 14th 2024, 12:32:23 PM
-date modified: Sunday, October 26th 2025, 11:18:05 am
+date modified: Saturday, May 2nd 2026, 11:20:09 am
 tags: ['Gastroenterology']
 ---
 
@@ -22,14 +22,15 @@ tags: ['Gastroenterology']
 
 ## Absorptions
 
-| What | Where |
-| --- | --- |
-| Carbohydrates | Small intestine |
-| Proteins | Small intestine |
-| Lipids | Small intestine |
-| Fat soluble vitamins | Small intestine |
+| What                   | Where           |
+| ---------------------- | --------------- |
+| Carbohydrates          | Small intestine |
+| Proteins               | Small intestine |
+| Lipids                 | Small intestine |
+| Fat soluble vitamins   | Small intestine |
 | Water soluble vitamins | Small intestine |
-| B12 | Ileum |
-| Bile salts | Ileum |
-| Iron | Duodenum |
+| B12                    | Ileum           |
+| Bile salts             | Ileum           |
+| Iron                   | Duodenum        |
 
+[[Full/Crohn's Disease|Crohn's Disease]] can cause targeted absorption issues

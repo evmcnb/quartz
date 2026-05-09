@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: pneumothorax
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, October 19th 2025, 1:15:40 pm
+date modified: Saturday, May 9th 2026, 4:49:30 pm
 aliases: [Pneumothorax]
 date: 2024-01-14
 ---
@@ -46,8 +46,11 @@ Diagnosis can be made on signs in severe cases
 
 ## Management
 
+![[z_attachments/Pasted image 20260502103328.png|474]]
 
-If no symptoms (_no significant pain or breathlessness and no physiological compromise_) $\rightarrow$  conservative care **regardless of size** (review every 2-4 days as an outpatient)
+If no symptoms with spontaneous pneumothorax (_no significant pain or breathlessness and no physiological compromise_) $\rightarrow$  conservative care **regardless of size** 
+- **Primary** (no pre-existing resp disease) reviewed every 2-4 days as an outpatient
+- **Secondary** (existing resp disease) monitored as an inpatient 
 
 If symptomatic assess for high risk characteristics:
 - haemodynamic compromise (suggesting a tension pneumothorax)
@@ -59,11 +62,25 @@ If symptomatic assess for high risk characteristics:
 
 If not high risk - can either do needle aspiration, ambulatory device or conservative management
 
+The pneumothorax needs to be large enough (or positioned) to safely decompress:
+- >2 cm laterally or apically on CXR
+- Any size on CT which can be safely assessed
+
 **Chest drain** if high risk features are present (daily review as an inpatient, remove drain when resolved)
 
+### Tension pneumothorax
+
+Can cause a PEA cardiac arrest
+
+Should ideally be diagnosed clinically
+- immediate decompression
+- needle thoracostomy is most commonly performed in the 5th intercostal space at the mid-axillary line on the affected side using a large-bore cannula
+- chest drain afterwards and admission
 
 
 ## Complications
+
+Persistent air leak or recurrent episodes → consider referral for VATS to allow for mechanical/chemical pleurodesis +/- bullectomy
 
 - Pleurodesis (sticking lung to chest wall) may be used if there is a significant risk of repeat episodes
 
@@ -77,3 +94,5 @@ Fitness to fly
   
 Scuba diving  
 - the BTS guidelines state: _'Diving should be permanently avoided unless the patient has undergone bilateral surgical pleurectomy and has normal lung function and chest CT scan postoperatively.'_
+
+

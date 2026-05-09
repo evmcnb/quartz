@@ -2,7 +2,7 @@
 tags: [Oncology, Surgery, OBGYN]
 title: Breast carcinoma
 date created: Tuesday, February 20th 2024, 3:09:44 pm
-date modified: Friday, September 26th 2025, 4:17:36 pm
+date modified: Friday, May 8th 2026, 8:22:51 pm
 date: 2024-02-23
 ---
 
@@ -134,6 +134,8 @@ All patients are discussed with the **_multidisciplinary team_** (**_MDT_**) f
 
 Typically either wide local excision or mastectomy
 
+In women with breast cancer and no palpable lymphadenopathy, if a pre-operative axillary ultrasound is negative then they should have a sentinel node biopsy to assess the nodal burden
+
 |**Mastectomy**|**Wide Local Excision**|
 |---|---|
 |Multifocal tumour|Solitary lesion|
@@ -161,7 +163,7 @@ Typically either wide local excision or mastectomy
 >|3.5 to 5.4|70%|
 > |>5.4|50%|
 
-**Radiotherapy**
+**Radiotherapy** - Whole breast radiotherapy is recommended after a woman has had a wide-local excision as this may reduce the risk of recurrence by around two-thirds
 
 **Chemotherapy**
 - **_Neoadjuvant therapy_** – intended to shrink the tumour before surgery

@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Vaginal candidiasis
 date: 2023-09-27
-date modified: Sunday, January 11th 2026, 5:59:15 pm
+date modified: Saturday, May 2nd 2026, 10:09:12 am
 aliases: [Vaginal thrush]
 date created: Friday, January 2nd 2026, 12:23:12 pm
 ---
@@ -12,7 +12,8 @@ Very common condition.
 - 20% other species
 
 Most have no risk factors. However some can make it more likely:
-- [[Full/Diabetes Mellitus|Diabetes Mellitus]]
+- [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]
+- [[Full/Diabetes Mellitus|Diabetes Mellitus]] - poorly controlle 
 - Anti-biotics/steroids
 - Pregnancy
 - Immunosuppresion

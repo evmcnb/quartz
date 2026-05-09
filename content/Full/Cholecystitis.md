@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Surgery]
 title: Cholecystitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Saturday, May 9th 2026, 3:57:26 pm
 date: 2024-02-23
 ---
 Acute cholecystitis refers to the **acute inflammation** of the **gallbladder**, with 90% of cases being **secondary to gallstones**.
@@ -16,6 +16,7 @@ Gallstone blockage
 - Obesity
 - Smoking
 - low fibre intake
+- Co-amoxiclav
 
 ## Symptoms
 
@@ -35,7 +36,7 @@ Gallstone blockage
 
 ## Diagnostic Tests
 
-- WCC, FBC, CRP, LFTs
+- WCC, FBC, CRP, LFTs - **Liver function tests are typically normal in patients with acute cholecystitis**
 - USS (and/or CT/MRI abdo)
 
 - magnetic resonance cholangiopancreatography (MRCP)

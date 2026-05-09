@@ -2,7 +2,7 @@
 tags: [Paediatrics]
 title: Developmental Milestones
 date: 2023-09-27
-date modified: Monday, February 23rd 2026, 9:39:33 am
+date modified: Saturday, May 2nd 2026, 11:54:06 am
 date created: Friday, December 5th 2025, 5:07:41 pm
 ---
 
@@ -81,6 +81,17 @@ Look at the number of letters for each sound
 |Competent with spoon, doesn't spill with cup|2 years|
 |Uses spoon and fork|3 years|
 |Uses knife and fork|5 years|
+## Reflexes
+
+| **Reflex**                                | **What It Looks Like**                                                                                                                              | **When It Typically Disappears** |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **Rooting Reflex**                        | When the corner of the baby's mouth or cheek is stroked, they turn their head and open their mouth to "root" for a breast or bottle.                | **4 months** (becomes voluntary) |
+| **Moro (Startle) Reflex**                 | In response to a sudden sound or movement, the baby throws back their head, extends their arms and legs, cries, and then pulls their limbs back in. | **4 to 6 months**                |
+| **Palmar Grasp**                          | When an object is placed in the baby's palm, their fingers curl around it tightly.                                                                  | **5 to 6 months**                |
+| **Asymmetric Tonic Neck (Fencer's Pose)** | When the baby's head is turned to one side, the arm on that side stretches out, and the opposite arm bends at the elbow.                            | **5 to 7 months**                |
+| **Plantar Grasp**                         | When the sole of the foot is stroked just below the toes, the toes curl downward.                                                                   | **9 to 12 months**               |
+| **Babinski Reflex**                       | When the bottom of the foot is stroked firmly from heel to toe, the big toe bends backward and the other toes fan out.                              | **1 to 2 years**                 |
+
 ## Red flags
 
 There are certain red flags for things that would suggest there is a problem:
@@ -93,3 +104,5 @@ There are certain red flags for things that would suggest there is a problem:
 - Not running by 2 years
 - No words by 18 months
 - No interest in others by 12 months
+
+

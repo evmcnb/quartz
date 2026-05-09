@@ -1,7 +1,7 @@
 ---
-title: "Hyperparathyroid"
+title: Hyperparathyroid
 date created: Monday, March 04th 2024, 02:48:36 PM
-date modified: 2024-05-11 13:19:36.3347+01
+date modified: Thursday, May 7th 2026, 9:50:28 am
 tags: ['Endocrinology']
 ---
 
@@ -22,6 +22,7 @@ Polydipsia, polyuria and [[Full/Essential hypertension]] are common too. Other i
 
 * Uncontrolled parathyroid hormone production by a **tumour** of the parathyroid gland - leading to [[Pearls/Hypercalcaemia|Hypercalcaemia]]
 * Treatment is to remove the tumour surgically
+* Causes pepperpot skull
 
 ## Secondary
 
@@ -34,7 +35,7 @@ Polydipsia, polyuria and [[Full/Essential hypertension]] are common too. Other i
 
 ## Tertiary
 
-***Increased calcium, increased PTH***
+***Increased/normal calcium, increased PTH***
 
 * Gland hyperplasia from chronic secondary hyperparathyroidism
 * With recent treatment of vitamin D replacement

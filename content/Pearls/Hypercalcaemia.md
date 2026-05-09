@@ -1,7 +1,7 @@
 ---
 title: Hypercalcaemia
 date created: Sunday, January 21th 2024, 01:34:13 PM
-date modified: Thursday, October 2nd 2025, 3:05:24 pm
+date modified: Friday, May 8th 2026, 6:40:18 pm
 tags: [Endocrinology, Oncology, Acute]
 ---
 
@@ -39,7 +39,7 @@ tags: [Endocrinology, Oncology, Acute]
 #### Expanded: 
 
 Mild
-* Polyuria, polydipsia
+* **Polyuria, polydipsia**
 * Mood disturbance
 * Nausea, fatigue constipation
 * Anorexia

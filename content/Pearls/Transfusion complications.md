@@ -1,7 +1,7 @@
 ---
-title: "Transfusion complications"
+title: Transfusion complications
 date created: Sunday, January 21th 2024, 12:55:13 PM
-date modified: 2024-01-21 12:55:13.569169+00
+date modified: Saturday, May 2nd 2026, 10:20:36 am
 tags: ['Acute', 'Haematology']
 ---
 

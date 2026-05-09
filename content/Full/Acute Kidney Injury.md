@@ -5,12 +5,12 @@ date created: Tuesday, August 1st 2023, 5:40:21 pm
 date modified: Sunday, October 26th 2025, 1:43:02 pm
 date: 2023-09-18
 ---
-
-Previously known as acute renal failure.
-Usually doesn't occur in isolation
+Any of the following define an AKI: 
+- ↑ creatinine > 26µmol/L in 48 hours
+- ↑ creatinine > 50% in 7 days
+- ↓ urine output < 0.5ml/kg/hr for more than 6 hours
 
 **Stages**
-
 
 | Stage | Creatinine                                                                | Urine Output              |
 | ----- | ------------------------------------------------------------------------- | ------------------------- |
@@ -81,23 +81,23 @@ Electrolyte abnormalities:
 > Prerenal uraemia - kidneys hold on to sodium to preserve volume
 > 
 > | |**Pre-renal uraemia ('azotemia')**|**Acute tubular necrosis**|
-|---|---|---|
-|Urine sodium|< 20 mmol/L|> 40 mmol/L|
-|Urine osmolality|> 500 mOsm/kg|< 350 mOsm/kg|
-|Fractional sodium excretion*|< 1%|> 1%|
-|Response to fluid challenge|Good|Poor|
-|Serum urea:creatinine ratio|Raised|Normal|
-|Fractional urea excretion**|< 35%|>35%|
-|Urine:plasma osmolality|> 1.5|< 1.1|
-|Urine:plasma urea|> 10:1|< 8:1|
-|Specific gravity|> 1020|< 1010|
-|Urine|Normal/ 'bland' sediment|Brown granular casts|
+> |---|---|---|
+> |Urine sodium|< 20 mmol/L|> 40 mmol/L|
+> |Urine osmolality|> 500 mOsm/kg|< 350 mOsm/kg|
+> |Fractional sodium excretion*|< 1%|> 1%|
+> |Response to fluid challenge|Good|Poor|
+> |Serum urea:creatinine ratio|Raised|Normal|
+> |Fractional urea excretion**|< 35%|>35%|
+> |Urine:plasma osmolality|> 1.5|< 1.1|
+> |Urine:plasma urea|> 10:1|< 8:1|
+> |Specific gravity|> 1020|< 1010|
+> |Urine|Normal/ 'bland' sediment|Muddy brown granular casts|
 >
 > **Divide by 10 Trick**
 > 1. Look at the **creatinine** level. 
 > 2. Divide it by 10.
 > 3. Compare that number to the **Urea** level.
- 4. **The Rule:** If the **Urea is higher** than (Creatinine ÷ 10), it points toward a **prerenal** cause of Acute Kidney Injury (AKI).**
+ >4. **The Rule:** If the **Urea is higher** than (Creatinine ÷ 10), it points toward a **prerenal** cause of Acute Kidney Injury (AKI).**
 
 
 ## Management
@@ -108,6 +108,17 @@ Electrolyte abnormalities:
   - pH <7.1
   - high urea
 - ? catheterise for accurate fluid balance 
+
+|Usually safe to continue in AKI|Should be stopped in AKI as may worsen renal function|May have to be stopped in AKI as increased risk of toxicity (but doesn't usually worsen AKI itself)|
+|---|---|---|
+|• Paracetamol  <br>• Warfarin  <br>• Statins  <br>• Aspirin (at a cardioprotective dose of 75mg od)  <br>• Clopidogrel  <br>• Beta-blockers|• NSAIDs (except if aspirin at cardiac dose e.g. 75mg od)  <br>• Aminoglycosides  <br>• ACE inhibitors  <br>• Angiotensin II receptor antagonists  <br>• Diuretics|• Metformin  <br>• Lithium  <br>• Digoxin|
+
+> [!warning] Criteria for referral for renal replacement therapy
+> - **A**cidosis pH <7.2
+> - **E**lectrolyte imbalance – resist hyperkalaemia
+> - **I**ntoxication – drugs or poisons
+> - **O**edema – refractory pulmonary oedema
+> - **U**raemia – encephalopathy or pericarditis
 
 ## Complications/red Flags
 
@@ -129,9 +140,3 @@ Electrolyte abnormalities:
 **Therapy-resistant fluid overload**
 
 
-**Criteria for referral for renal** **replacement therapy**
-- Acidosis pH <7.2
-- Electrolyte imbalance – resist hyperkalaemia
-- Intoxication – drugs or poisons
-- Oedema – refractory pulmonary oedema
-- Uraemia – encephalopathy or pericarditis

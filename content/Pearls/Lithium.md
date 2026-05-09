@@ -1,7 +1,7 @@
 ---
 title: Lithium
 date created: Tuesday, November 25th 2025, 8:19:41 pm
-date modified: Monday, April 20th 2026, 3:34:35 pm
+date modified: Saturday, May 2nd 2026, 11:51:03 am
 tags: ['Drug']
 ---
 Mood stabiliser used in [[Full/Bipolar disorder|Bipolar disorder]]. Has a very narrow therapeutic range (0.4-1.0 mmol/L) and a long plasma half-life being excreted primarily by the kidneys.
@@ -10,8 +10,12 @@ Mood stabiliser used in [[Full/Bipolar disorder|Bipolar disorder]]. Has a very n
 
 ### Side effects
 
-
+Common:
 - Nausea/vomiting, diarrhoea
+- Polyuria and polydipsia
+- Weight gain
+
+Serious:
 * Can cause visual disturbances
 * Can cause [[Full/Hypothyroidism|Hypothyroidism]]
 * Can exacerbate [[Pearls/Psoriasis|Psoriasis]]
@@ -21,24 +25,29 @@ Mood stabiliser used in [[Full/Bipolar disorder|Bipolar disorder]]. Has a very n
 * **leucocytosis**
 * Idiopathic cranial hypertension
 
+### Lifestyle
 
+- Need to keep well hydrated at all costs
+- If they have D&V/other fluid loss illness need to seek medical attention
+- If they go to a hot country - need to be very mindful of hydration
 
 ### Interactions 
 
 * Non-steroidal anti-inflammatory drugs (NSAIDs) decrease renal excretion of lithium, thus increasing plasma levels, leading to toxicity.
 * Angiotensin-converting-enzyme inhibitors (ACE-I) and diuretics also increase the risk of lithium toxicity due to renal dysfunction. Therefore, their use is contraindicated with lithium.
 
-
 ### Level checking
 
 - Need to wait 12 hours since last dose to check blood levels
 - One week after a dose change and weekly until levels are stable 
 - Once stable 3 monthly levels bloods
-- TFTs and U&Es 6 monthly
+- Body weight, calcium, TFTs and U&Es 6 monthly. 
 
 ### Toxicity
 
-- Coarse tremors 
+**Need to counsel patients around this**
+
+- Coarse tremors (becomes coarser with higher levels)
 - nausea
 - vomiting
 - confusion

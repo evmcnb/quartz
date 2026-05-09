@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 2nd 2025, 4:51:07 pm
+date modified: Tuesday, May 5th 2026, 11:36:32 am
 date: 2024-01-31
 ---
 
@@ -64,6 +64,7 @@ Diastolic:
 - Tachycardia
 - Hypotension
 - Cachexia (loss of skeletal muscle)
+- 3rd heart sound (dilated cardio)
 
 ## Diagnostic Tests
 
@@ -81,14 +82,14 @@ Initial:
 
 
 > [!success] 5 Key Pillars of Systolic Management
-> ACEi and Beta blockers first line.
->- **A** – **A**CE/ARB inhibitor (e.g., **_ramipril_**, losartan) titrated as high as tolerated - removal of excess fluid (ARB if ACEi not tolerated, e.g. dry cough)
->- **M** – **M**ineralcorticoid receptor antagonist (aldosterone antagonist) when symptoms are not controlled with ACE and $\beta$-blockers (e.g., **_spironolactone_** or **_eplerenone_**)
+> ACEi and Beta blockers first line for HFrEF.
+>- **A** – **A**CE/ARB inhibitor (e.g., **_ramipril_**, losartan) titrated as high as tolerated - removal of excess fluid (ARB if ACEi not tolerated, e.g. dry cough). Need appropriate eGFR and K+ levels 
+>- **M** – **M**ineralcorticoid receptor antagonist (aldosterone antagonist) when symptoms are not controlled with ACE and $\beta$-blockers (e.g., **_spironolactone_** or **_eplerenone_**). Can also cause hyperkalaemia
 >- **B** – **B**eta blocker (e.g., **_bisoprolol_** (good for reactive airways), metoprolol succinate, carvedilol ($\alpha$ & $\beta$ effects)) titrated as high as tolerated - decreases heart rate and increases force of contraction 
 >- **L** – **L**oop diuretics (e.g., **_furosemide_** or **_bumetanide_**) - no **prognostic** benefit only symptomatic 
 >
 >Newly added but also essential:
->- SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin. eGFR >20 to give
+>- SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin. eGFR >20 to give. Critical for both systolic and diastolic failure
 
 U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause [[Pearls/Hyperkalaemia|Hyperkalaemia]]
 
@@ -98,11 +99,16 @@ U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all 
 - Cardiac resynchronisation therapy - sync both chambers back to increase EF 
 
 
-
 > [!warning] Diastolic Management
 > No concrete management for the management - need to **treat the underlying disorder**
 > - Some new evidence that MRA decreases hospitalisations but not mortality benefits
 > - SGLT2i $\downarrow$ cardiovascular death 
+
+
+### Acute management
+
+In acute heart failure with hypotension, inotropes (e.g. dobutamine) be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock
+
 
 Surgical - heart transplant can be considered
 

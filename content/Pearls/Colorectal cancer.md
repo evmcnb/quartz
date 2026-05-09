@@ -1,7 +1,7 @@
 ---
 title: Colorectal cancer
 date created: Sunday, January 21th 2024, 03:52:24 PM
-date modified: Monday, September 29th 2025, 11:00:31 am
+date modified: Friday, May 8th 2026, 8:39:51 pm
 tags: ['Gastroenterology', 'Oncology']
 ---
 
@@ -34,3 +34,14 @@ Bad - fat/red meat, [[Full/Obesity]], alcohol, either IBD
 
 Look specifically at the amount of human haemoglobin in the stool - very good specificity and sensitivity. If negative review diagnosis and consider alternative
 
+
+**Management**
+
+![[z_attachments/Pasted image 20260508203029.png|530]]
+
+- <5cm from anal verge - AP resection  
+- >5cm from anal verge - anterior resection  
+- 5-10cm from anal verge - low anterior resection  
+- >10cm from anal verge - high anterior resection  
+- lower 1/3 of rectum - low anterior resection  
+- upper 2/3 rectum - high anterior resection

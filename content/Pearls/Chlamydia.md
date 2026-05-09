@@ -47,4 +47,11 @@ Contacts of confirmed cases should be offered treatment prior to the diagnostic 
 - Infertility
 - Reactive arthritis 
 
+**Pregnancy complications:** 
+- cervicitis
+- preterm labour
+- low birth weight
+- increased risk of neonatal infections.
+
+
 Screening program is open to all men and women aged 15-24

@@ -2,7 +2,7 @@
 tags: [Paediatrics, Dermatology]
 title: erythema nodosum
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Thursday, May 7th 2026, 10:39:01 am
 date: 2023-09-18
 ---
 

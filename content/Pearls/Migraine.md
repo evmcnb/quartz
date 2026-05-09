@@ -2,7 +2,7 @@
 tags: [Neurology]
 title: Migraine
 date: 2023-09-27
-date modified: Saturday, December 6th 2025, 11:51:10 am
+date modified: Tuesday, May 5th 2026, 1:47:41 pm
 date created: Saturday, December 6th 2025, 11:39:45 am
 ---
 
@@ -44,11 +44,12 @@ date created: Saturday, December 6th 2025, 11:39:45 am
 ##### Acute
 - Combination therapy: oral triptan + NSAID/paracetamol. For young people consider a nasal triptan instead.
 - If not effective offer metaclopramide/prochlorperazine to speed up gastric emptying. 
+- If resistant to 2 different triptans: **Rimegepant**
 
 
 ##### Prophylaxis 
 
 Should be given once migraines are having a significant impact on quality of life and daily function. So frequently (more than 1 a week) or long duration. 
-1. Propanolol 
+1. Propanolol - contraindicated in those with asthma
 2. Topiramate - avoid in women of child bearing age, teratogenic 
 3. Amitriptyline 

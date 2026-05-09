@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Psychiatry]
 title: Psychiatric Assessment
 date: ""
 date modified: Monday, April 20th 2026, 11:05:21 am

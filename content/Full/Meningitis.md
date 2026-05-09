@@ -2,7 +2,7 @@
 tags: [Neurology]
 title: Meningitis
 date:
-date modified: Tuesday, January 27th 2026, 5:53:04 pm
+date modified: Saturday, May 2nd 2026, 10:57:53 am
 date created: Thursday, November 20th 2025, 8:37:07 pm
 ---
 
@@ -61,7 +61,7 @@ There are two ***special tests*** you can perform to look for meningeal irritati
 5. (acyclovir used in severe cases)
 
 
-CT scan is not normally indicated unless there are signs of $\uparrow$ ICP
+CT scan is not normally indicated **unless** there are signs of $\uparrow$ ICP
 
 > [!info] When to NOT to wait for LP 
 > - signs of severe sepsis or a rapidly evolving rash

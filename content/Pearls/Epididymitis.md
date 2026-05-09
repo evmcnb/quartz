@@ -1,7 +1,7 @@
 ---
 title: Epididymitis
 date created: Friday, January 2nd 2026, 12:39:24 pm
-date modified: Friday, January 2nd 2026, 12:47:27 pm
+date modified: Tuesday, April 28th 2026, 11:06:18 am
 tags: [Urology]
 date: 2023-09-27
 aliases: [Epididymo-orchitis]
@@ -10,7 +10,7 @@ aliases: [Epididymo-orchitis]
 Common caused by local spread of STIs. 
 - Chlamydia trachomatis
 - Neisseria gonorrhoeae
-- E.col in older adults with low-risk sexual history
+- E.col or Kleb pneumoniae in older adults with low-risk sexual history
 
 
 **Features**:

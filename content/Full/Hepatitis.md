@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Hepatitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, January 2nd 2026, 1:20:15 pm
+date modified: Thursday, April 30th 2026, 1:02:53 pm
 date: 2023-09-18
 ---
 
@@ -39,7 +39,7 @@ Hepatitis E
 
 - Most common acute hepatitis
 - Consumption of raw/undercooked pork, boar, venison and shellfish
-- Mild and short term
+- Mild and short term - unless pregnant then 💀
 
 Alcoholic hepatitis
 
@@ -79,6 +79,7 @@ Autoimmune hepatitis
 ## Management
 
 Mostly symptomatic relief
+- ? steroids to limit inflamtion
 
 ## Complications/red Flags
 

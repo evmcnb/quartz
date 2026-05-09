@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Bipolar disorder
 date: 2024-01-19
-date modified: Monday, March 30th 2026, 4:24:23 pm
+date modified: Saturday, May 2nd 2026, 11:46:37 am
 date created: Tuesday, November 25th 2025, 8:19:45 pm
 ---
 
@@ -10,7 +10,7 @@ Recurrent episodes of mania/hypomania then depression. Two types of bipolar diso
 - Type 1: mania and depression (most common)
 - Type 2: hypomania and depression
 
-Typically develops in the late teen years
+Typically develops in the late teen years. 
 
 > [!info] What is mania/hypomania?
 > Both relate to abnormally elevated mood or irritability

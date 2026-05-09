@@ -48,6 +48,6 @@ NASH or fibrosis:
 
 - Control risk factors
 - Avoid alcohol consumption
-- Address cardiovascular risk of death
+- Address cardiovascular risk of death - hypertension, diabetes
 
 ## Complications/red Flags

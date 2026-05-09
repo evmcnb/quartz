@@ -2,7 +2,7 @@
 title: Mental Health Act
 tags: [Psychiatry, OSCE]
 date: 2023-09-27
-date modified: Thursday, April 23rd 2026, 10:19:48 am
+date modified: Saturday, May 2nd 2026, 1:56:37 pm
 date created: Monday, March 30th 2026, 2:49:32 pm
 ---
 
@@ -51,7 +51,7 @@ Used for someone who will not be admitted voluntarily. Patients who are under th
 
 #### Section 5
 
-Just a holding power. No rights to treatment. If not accepting treatment, assess [[Mental Capacity Act|capacity]]. No right to appeal. **Cannot be used in A&E**. Need to get a MHA assessment from psychiatry within the 72 hours. 
+Just a holding power. No rights to treatment. If not accepting treatment, assess [[Pearls/Mental Capacity Act|capacity]]. No right to appeal. **Cannot be used in A&E**. Need to get a MHA assessment from psychiatry within the 72 hours. 
 
 - **Section 5(2)**: a patient who is a voluntary patient in hospital can be legally detained by a single doctor for 72 hours 
 - **Section 5(4)**: a patient who is a voluntary patient in hospital can be legally detained by a single mental health nurse for 6 hours 

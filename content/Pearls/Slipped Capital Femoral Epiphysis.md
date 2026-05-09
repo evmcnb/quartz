@@ -2,7 +2,7 @@
 tags: [Paediatrics, Orthopaedics]
 title: Slipped Capital Femoral Epiphysis
 date: 2023-09-27
-date modified: Tuesday, February 24th 2026, 9:27:20 am
+date modified: Tuesday, May 5th 2026, 1:53:54 pm
 date created: Tuesday, October 28th 2025, 2:39:06 pm
 ---
 

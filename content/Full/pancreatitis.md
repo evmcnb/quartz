@@ -2,7 +2,7 @@
 tags: [Surgery, Endocrinology]
 title: pancreatitis
 date created: Wednesday, October 11th 2023, 2:06:18 pm
-date modified: Sunday, October 26th 2025, 11:50:23 am
+date modified: Saturday, May 9th 2026, 3:46:45 pm
 date: 2024-01-14
 ---
 Acute - gland reverts to normal if underlying cause removed 
@@ -112,3 +112,4 @@ Exclusionary tests:
 - Necrosis of pancreas
 - Pseudocyst can develop 4 weeks after
 - Chronic pancreatitis
+- ARDS

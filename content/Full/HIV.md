@@ -44,13 +44,26 @@ Testing for HIV in asymptomatic patients should be done at 4 & 12 weeks after po
 - PrEP / PEP - pre/post exposure prophylaxis
 - HAART - combination therapy
 
-Prophylactic co-trimoxazole is given to all HIV patients with a CD4 count under 200 to protect against pneumocystis jirovecii 
+Prophylactic co-trimoxazole is given to all HIV patients with a CD4 count under 200 to protect against **pneumocystis jirovecii** 
 
 Yearly cervical smears are commended due to increased risk of [[Pearls/Human Papilloma virus Infection|Human Papilloma virus Infection]]
 
 Live vaccines should be avoided, but the rest be kept up to date
 
 ## Complications/red Flags
+
+### AIDS-defining illness
+
+- _Pneumocystis jiroveci_ (PCP) - bilateral interstitial pulmonary infiltrates, **exercise induced desaturation**
+- Kaposi's sarcoma - HHV-8 (human herpes virus 8) purple papules/plaques on the skin
+- Burkitt lymphoma (aggressive) - due to EBV infection/activation
+- Oral/oesophageal thrust (candidasis) - oesophageal associated with lower CD4 count
+- Aspergillosis
+- Cryptococcosis
+- Cryptosporidiosis
+
+
+
 
 #### Preventing transmission to infants
 

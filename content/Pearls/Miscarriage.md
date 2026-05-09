@@ -44,6 +44,7 @@ First line involves waiting 7-14 days for the miscarriage to complete spontaneou
 > - Increased risk of haemorrhage 
 > - Evidence of infection
 > - Previous adverse/traumatic pregnancy
+> - Bleeding disorders
 
 #### Medical Management
 
@@ -56,6 +57,11 @@ Women should be offered anti-emetics and pain relief
 
 **Incomplete miscarriage**
 - Single dose of misoprostol 600 mcg
+
+
+> [!note] Past medical history of Von Willebrand disease/Bleeding disorders 
+> NICE guidelines published in 2018, **vaginal misoprostol** is most appropriate as the patients past medical history of coagulopathy is a contra-indication to expectant management, but not medical management.
+
 
 **A pregnancy test should be performed at 3 weeks**
 

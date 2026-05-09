@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [Psychiatry]
 title: Cognitive behavioral therapy
 date: 2023-09-27
 date modified: Tuesday, April 21st 2026, 9:51:42 am

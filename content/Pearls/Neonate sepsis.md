@@ -6,7 +6,7 @@ tags: [Acute, Neonatology]
 ---
 
 Serious infection in the blood within the first 28 days of life. Categorised as:
-* Early onset first 72 hour - [[Group B Strep]]/E coli., colonised during delivery, prolonged SROM
+* Early onset first 72 hour - [[Pearls/Group B Strep]]/E coli., colonised during delivery, prolonged SROM
 * Late onset after 72h - hospital acquired pathogens: _Staphylococcus epidermidis_ and _Staphylococcus aureus_
 
 Account for 10% of all neonatal mortality and must be promptly identified and managed. 

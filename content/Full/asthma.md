@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, March 25th 2026, 5:30:25 pm
+date modified: Wednesday, May 6th 2026, 3:58:35 pm
 aliases: [Asthma]
 date: 2024-01-14
 ---
@@ -11,6 +11,7 @@ date: 2024-01-14
 - Characterised by _episodes_ of dyspnoea, cough, wheeze
 - Reversible airway obstruction and bronchospasm
 - Inflammatory disorder reduces air flow rate
+- Type I hypersensitivity reaction
 
 New 2024 asthma algorithm:
 
@@ -78,7 +79,7 @@ see [[Pearls/Asthma Pharmacology]] for drug details
 
 ##### Step 1
 - A low dose ICS/formoterol combination inhaler taken **PRN** for symptomatic relief (AIR) therapy
-- If the patient is highly symptomatic (regular nocturnal waking) or with a severe exacerbation start treatment with low dose **MART** (maintenance and reliever)
+- If the patient is highly symptomatic (regular nocturnal waking) or with a severe exacerbation start treatment with low dose **MART** (the same inhaler just taken regularly)
 - Treat acute symptoms as appropriate (e.g. course of oral corticosteroids)
 
 ##### Step 2

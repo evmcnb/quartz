@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Sunday, March 8th 2026, 4:43:01 pm
+date modified: Thursday, April 30th 2026, 12:53:51 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -54,7 +54,7 @@ Main principles of management
 - correction of electrolyte disturbance
     - serum potassium is often high on admission despite total body potassium being low
     - this often falls quickly following treatment with insulin resulting in hypokalaemia
-    - potassium may therefore need to be added to the replacement fluids
+    - potassium may therefore need to be added to the replacement fluids (**if potassium normal range 40 mmol/l**, if low senior advice)
     - if the rate of potassium infusion is greater than 20 mmol/hour then cardiac monitoring may be required
 - long-acting insulin should be continued, short-acting insulin should be stopped
 

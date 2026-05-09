@@ -2,7 +2,7 @@
 tags: [Urology]
 title: Benign Prostatic Hyperplasia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 16th 2025, 5:27:43 pm
+date modified: Friday, May 8th 2026, 6:51:57 pm
 date: 2024-03-11
 ---
 
@@ -51,6 +51,13 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 > - [[Pearls/Urinary Tract Infections|Urinary Tract Infections]]
 > - Vigorous exercise (cycling especially)
 > - Recent ejaculation or prostate stimulation
+>   
+> Therefore for the test to be valid need to wait until after:
+>  - 6 weeks of a prostate biopsy
+> - 4 weeks following a proven urinary infection
+> - 1 week of digital rectal examination
+> - 48 hours of vigorous exercise
+> - 48 hours of ejaculation
 
 ^a09e56
 

@@ -1,7 +1,7 @@
 ---
 title: Headaches
 date created: Friday, February 23th 2024, 02:24:12 PM
-date modified: Saturday, December 6th 2025, 11:39:45 am
+date modified: Saturday, May 2nd 2026, 10:40:31 am
 tags: ['Neurology']
 ---
 
@@ -24,6 +24,6 @@ Headache is a very common symptom but there are some which should be investigate
 - New-onset neurological deficit/cognitive dysfunction $\rightarrow$ structural pathology e.g. [[Full/Stroke|Stroke]]
 - Recent trauma (within the past 3 months) $\rightarrow$ [[Full/Intracranial venous thrombosis|Intracranial venous thrombosis]] & other brain bleeds
 - Linked with a cough/valsalva exercise $\rightarrow$ $\uparrow$ ICP until proven otherwise (LP contraindicated)
-- Orthostatic headache $\rightarrow$ $\downarrow$ ICP or other causes
+- Orthostatic headache $\rightarrow$ $\downarrow$ ICP or other causes. Caffeine + fluids for low pressure headache after LP
 - Other symptoms suggestive of giant cell arteritis or acute narrow-angle glaucoma
 - Any changes to aura or characteristics of the headache

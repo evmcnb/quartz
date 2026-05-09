@@ -1,10 +1,8 @@
 ---
-tags:
-  - Gastroenterology
-  - Surgery
+tags: [Gastroenterology, Surgery]
 title: Acute cholangitis
 date created: Friday, February 23rd 2024, 12:26:59 pm
-date modified: 2024-03-11
+date modified: Wednesday, May 6th 2026, 12:59:43 pm
 date: 2024-02-23
 ---
 

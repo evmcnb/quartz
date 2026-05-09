@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Minimal change disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 9th 2026, 11:43:20 am
+date modified: Thursday, May 7th 2026, 1:01:05 pm
 date: 2023-09-18
 ---
 **Most common cause of [[Pearls/Glomerulonephritis|Glomerulonephritis]] in children**
@@ -61,4 +61,4 @@ Immunosuppressive Drugs: For cases not responding to steroids.****
 
 - **Risk of Infection:** Immunosuppressive medications can increase susceptibility to infections.
 - **Thrombosis:** Increased risk of blood clots due to hyperlipidemia and loss of protein C.
-- **Relapses:** MCD can recur after periods of remission. 80% of patients will have on relapse. Can be steroid dependent or resistant 
+- **Relapses:** MCD can recur after periods of remission. 70% of patients will have on relapse. Can be steroid dependent or resistant 

@@ -26,7 +26,7 @@ Most experts agree that the main cause of chronic bronchitis is cigarette smokin
 
 ## Symptoms
 
-- Productive cough
+- Productive cough - white sputum 
 - Wheezing
 - Dyspnoea
 
@@ -41,3 +41,16 @@ Most experts agree that the main cause of chronic bronchitis is cigarette smokin
 - Spirometry: $FEV_1 < 80\%$ predicted, $FEV_1/FVC$ **ratio <0.7**
 - CXR: hyperinflation, large central pulmonary arteries
 - ABG: $\downarrow PaCO_2 \pm$ hypercapnia $\rightarrow$ **respiratory alkalosis**
+- Acute: **raised CRP**
+
+## Management
+
+- Analgesia
+- Good fluid intake
+
+**Antibiotics if**:
+- Systemically unwell
+- Pre-existing co-morbidities
+- CRP >100
+
+Oral doxycycline: 200mg on the first day, then 100mg once daily for 4 days

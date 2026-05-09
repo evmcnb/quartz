@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Alcohol-related Liver Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, August 24th 2025, 4:16:11 pm
+date modified: Saturday, May 2nd 2026, 10:36:36 am
 date: 2023-09-18
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: Tricyclic antidepressant overdose
 date created: Sunday, January 21th 2024, 11:18:37 AM
-date modified: Tuesday, April 21st 2026, 4:10:26 pm
+date modified: Saturday, May 2nd 2026, 10:05:26 am
 tags: ['Acute', 'Psychiatry']
 ---
 
-
+**OR FOR ANY [[Pearls/Anticholinergic drugs]]**
 
 * TCA examples: amitriptyline, clomipramine, dosulepin, imipramine, lofepramine and nortriptyline
 

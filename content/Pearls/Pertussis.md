@@ -1,7 +1,7 @@
 ---
 title: Pertussis
 date created: Sunday, January 21th 2024, 12:49:37 PM
-date modified: Friday, March 20th 2026, 11:48:18 am
+date modified: Saturday, May 2nd 2026, 11:00:18 am
 tags: ['Respiratory', 'Paediatrics']
 ---
 
@@ -34,3 +34,5 @@ Diagnosis
 - Household contacts should be offered prophylaxis
 - School exclusion: until 48 hours after starting antibiotics (or 21 days from symptom onset)
 	- Women who are between 16-32 weeks pregnant will be offered the vaccine.
+
+Childhood whooping cough can lead to the development of [[Pearls/Bronchiectasis|Bronchiectasis]]

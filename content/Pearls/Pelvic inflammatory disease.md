@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Pelvic inflammatory disease
 date: 2023-09-27
-date modified: Saturday, January 10th 2026, 4:53:04 pm
+date modified: Saturday, May 2nd 2026, 10:20:29 am
 date created: Friday, January 2nd 2026, 1:03:11 pm
 ---
 
@@ -34,7 +34,7 @@ Usually the result of ascending infection from the endocervix
 >
  > |**Feature**|**High Vaginal Swab (HVS)**|**Vulvovaginal Swab (VVS)**|
  > |---|---|---|
-> |**Primary Target**|[[Pearls/Bacterial vaginosis]], [[Pearls/Vaginal candidiasis]], [[Pearls/Trichomoniasis]], [[Group B Strep]]|STI screening ([[Pearls/Chlamydia]], [[Pearls/Gonorrhoea]])|
+> |**Primary Target**|[[Pearls/Bacterial vaginosis]], [[Pearls/Vaginal candidiasis]], [[Pearls/Trichomoniasis]], [[Pearls/Group B Strep]]|STI screening ([[Pearls/Chlamydia]], [[Pearls/Gonorrhoea]])|
 > |**Lab Method**|Culture and Microscopy (growing the bacteria)|NAAT / PCR (detecting bacterial DNA)|
 > |**Collection Method**|Clinician-taken|Usually self-taken|
 > |**Speculum Required?**|Yes|No|
@@ -49,7 +49,7 @@ Due the the difficulty in making an accurate diagnosis and the potential complic
 - STAT IM ceftriaxone 1g, then 14 days of oral doxycycline 100mg + oral metronidazole 400mg
 - Alternative: oral ofloxacin + oral metronidazole 
 
-No sex until the patient and their partner has been treated.
+The same regime for an acute presentation. No sex until the patient and their partner has been treated.
 
 In mild cases of PID, [[Pearls/Intrauterine contraceptive device|Intrauterine contraceptive devices]] may be left in. But removal should be considered for better short term clinical outcomes
 

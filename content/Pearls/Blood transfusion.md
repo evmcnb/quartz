@@ -1,10 +1,12 @@
 ---
 title: Blood transfusion
 date created: Sunday, January 21th 2024, 12:53:13 PM
-date modified: Tuesday, September 23rd 2025, 8:30:54 pm
+date modified: Saturday, May 2nd 2026, 10:26:23 am
 tags: ['Haematology']
 ---
-Transfuse blood when **Hb <70** or **massive haemorrhage**
+Transfuse blood when **Hb <70** or **massive haemorrhage**.
+- STAT in urgent cases
+- 90 mins per unit in non-urgent scenarios 
 
 
 Red Blood Cells

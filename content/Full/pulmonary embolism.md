@@ -2,7 +2,7 @@
 tags: [Respiratory, Cardiovascular]
 title: pulmonary embolism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, January 6th 2026, 2:15:00 pm
+date modified: Saturday, May 2nd 2026, 11:29:42 am
 date: 2023-09-18
 ---
 
@@ -43,7 +43,7 @@ May also have signs and symptoms of [[Full/Deep Vein Thrombosis#Symptoms|DVT]]
 - CXR - is usually **normal** in a pulmonary embolism but is required to rule out other pathology.
 
 ### Wells score
-- 4+ perform a CTPA or alternative
+- 4+ perform a CTPA or alternative, if negative proximal leg scan
 - <4 perform a D-dimer and if positive get a CTPA
 
 - CTPA - 1st line diagnostic

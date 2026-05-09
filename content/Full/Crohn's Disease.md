@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: "Crohn's Disease"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, March 20th 2026, 11:29:52 am
+date modified: Saturday, May 2nd 2026, 11:10:24 am
 date: 2023-09-18
 ---
 
@@ -110,3 +110,4 @@ Usually limited to treating isolated disease (resecting the distal ileum) or tre
 - small [[Pearls/Bowel Obstruction|Bowel Obstruction]]
 - toxic dilation
 - for rest see diagram
+- Terminal ileitis can lead to altered bile salt absorption increasing the risk of gallstone formation

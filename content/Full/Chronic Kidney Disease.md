@@ -2,13 +2,15 @@
 tags: [Nephrology]
 title: Chronic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, October 20th 2025, 4:37:18 pm
+date modified: Thursday, May 7th 2026, 5:06:00 pm
 date: 2023-11-12
 ---
 
 - Abnormalities of kidney function or structure present on at least 2 occasions **>3 months apart**.
 - Unlikely to be reversible
-- CKD replaces the term chronic renal failure.
+- Only diagnose stages 1 & 2 if supporting evidence to accompany eGFR
+
+To tell the difference between CKD and [[Full/Acute Kidney Injury|Acute Kidney Injury]] look at the calcium. Hypocalcaemia is an indication that kidney disease is chronic and not acute 
 
 5 Stages dependent upon eGFR and albumin/creatine ratio (ACR)
 
@@ -49,7 +51,7 @@ A diagnosis can be made when there are consistent results **_over three months_*
 Things to check:
 - Proteinuria - urine albumin: creatinine ratio 
 - Haematuria - urine dip or microscopy 
-- Renal US
+- Renal US - small bilateral kidneys 
 - BP for hypertension
 - HbA1c for diabetes
 - Lipid profile for hypercholesterolaemia 
@@ -82,10 +84,29 @@ Treat the underlying causes:
 - Tolvaptan (for [[Full/Polycystic Kidney Disease]])
 
 
-**Medications** to help slow disease progression/complications
-- ACEi/ARB - offered to all with an ACR > 30
-- SGLT-2i - specifically dapagliflozin esp in those with diabetes with ACR > 22.6
-- [[Pearls/Statins|Statin]] - primary prevention
+### ACEi/ARB
+
+**_ACE inhibitors_** are offered to all patients with:
+- Diabetes plus a urine ACR above 3 mg/mmol
+- Hypertension plus a urine ACR above 30 mg/mmol
+- All patients with a urine ACR above 70 mg/mmol
+
+
+### SGLT-2i
+
+**_Dapagliflozin_** is the SGLT-2 inhibitor licensed for CKD. It is **_offered_** to patients with:
+- Diabetes plus a urine ACR above 30 mg/mmol
+
+Considered in those with:
+- Diabetes plus a urine ACR or 3-30 mg/mmol
+- Non-diabetics with an ACR of 22.6 mg/mmol or above
+
+### Other medications to consider
+
+- [[Pearls/Statins|Atorvastatin 20mg]] - primary prevention of CVS risk
+- Sodium bicarbonate to treat metabolic acidosis
+- Iron and EPO for anaemia
+- Vitamin D, phosphate low diet +/- binders for bone disease
 
 
 ## Complications/red Flags
@@ -93,12 +114,12 @@ Treat the underlying causes:
 - Increased risk of other outcomes
   - [[Full/Coronary Artery Disease]]
   - [[Full/Acute Kidney Injury]]
-  - [[Pearls/Anaemia|Anaemia]] - iron and EPO 
+  - [[Pearls/Anaemia|Anaemia]] - normocytic normochromic
   - [[Full/Essential hypertension]]
 
 ### Renal bone disease
 
-- High phosphate - reduced excretion from the kidneys 
+- High phosphate - reduced excretion from the kidneys. ****
 - Low vitamin D - lack of metabolism 
 - Low serum calcium - active vitamin D is essential for calcium reabsorption in the intestines
 
@@ -111,6 +132,6 @@ The low calcium leads to secondary [[Pearls/Hyperparathyroid|Hyperparathyroid]].
 
 **Management**
 - Low phosphate diet
-- Phosphate binders
+- Phosphate binders - sevelamer
 - Active vitamin D supplementation
 - Adequate calcium intake

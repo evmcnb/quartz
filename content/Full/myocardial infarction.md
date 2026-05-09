@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, April 15th 2026, 12:12:58 pm
+date modified: Saturday, May 9th 2026, 3:12:47 pm
 date: 2023-11-12
 ---
 
@@ -45,7 +45,7 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 - Anxiety
 - Vomiting
 - Sweatiness
-- Possible $\uparrow HR, \downarrow BP$
+- HR decreased in posterior MI
 
 ## Diagnostic Tests
 
@@ -61,7 +61,6 @@ Subendocardial myocardium is relatively poorly perfused under normal conditions.
 
 
 - ECG - ST elevation (STEMI), T-wave inversion, ST [[Full/Depression]] (NSTEMI) - [[Full/ECG Lead Placement & Interpretation]]
-- Bloods - raised troponin (repeat after 3 hours), cardiac enzymes, creatine kinase for NSTEMI
 - Echo to see area of reduced contraction
 - Coronary angio to show which artery is blocked
 
@@ -77,22 +76,41 @@ Rise in ST of 2mm in the chest leads or 1mm in the limb or new left BBB treated 
 > ![[z_attachments/Pasted image 20260409102143.png|400]]
 
 
+### Troponin
+
+Required to diagnose a NSTEMI - **not required to diagnose STEMI**
+- Baseline troponin on admission
+- 3 hour troponin
+
+A rising or high troponin indicates a NSTEMI in the context of [[Full/Acute Coronary Syndrome|Acute Coronary Syndrome]] 
+
 ## Management
 
-Acute:
+### STEMI
 
+Acute:
 - Aspirin 300 mg
 - Ticagrelor 180mg. [[Pearls/Clopidogrel|Clopidogrel]]/prasugrel if high bleeding risk, or prasugrel if having angiography.
 - Unfractinated heparin usually given for patients who are going to have a PCI. Alternative with LMWH
-
-
-- Nitrates in NSTEMI/[[Full/Acute Coronary Syndrome|Acute Coronary Syndrome]] - GNT spray
+- Nitrates - GNT spray
+- Morphine (IV) $\pm$ [[Pearls/Metoclopramide|Metoclopramide]] for pain and nausea
 
 *PCI* gold standard treatment and must be within 2 hours otherwise *thrombolysis*  within 12 hours
-- With tissue plasminogen activator (tPA)
+
+#### PCI
+
+- Pasugrel (+ aspirin as above) given 
+- Radial access
+- Drug-eluting stent
+- Unfractionated heparin with bailout GPI (whatever that means)
+
+#### Thrombolysis 
+
+- **Alteplase and fondaparinux** + ticagrelor after the procedure 
 - An ECG should be performed 90 minutes following thrombolysis to assess whether there has been a greater than 50% resolution in the ST elevation
 - if there has not been adequate resolution then rescue PCI is superior to repeat thrombolysis
 
+### NSTEMI
 
 Antithrombin therapy in **NSTEMI** with fondaparinux who are not a high bleeding risk
 
@@ -124,6 +142,8 @@ Post MI 6A's:
 
 ## Complications/red Flags
 
+Severe chest pain a few hours post-PCI suggests that procedure has failed and that the myocardial ischaemia is ongoing -> ? CABG or back to cath-lab
+
 >[!warning] Dressler’s Syndrome
 > - 2-3 weeks after an MI
 > - Localised immune reponse that causes a pericarditits
@@ -131,7 +151,7 @@ Post MI 6A's:
 > - Global ST elevation and TWI, pericardial effusion and raised CRP and ESR
 > - Management is with NSAIDs and in severe cases steroids ± pericardiocentesis 
 
-- [[Full/Arrhythmias]] - most common complication
+- [[Full/Arrhythmias]] - most common complication (VF, AV block )
 - [[Pearls/Pericarditis]]
 - [[Cardiac Tamponade]]
 - LV/RV failure

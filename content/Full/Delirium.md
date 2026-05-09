@@ -2,7 +2,7 @@
 tags: [Neurology, Geriatrics]
 title: Delirium
 date: 2024-01-19
-date modified: Friday, February 6th 2026, 4:33:09 pm
+date modified: Wednesday, April 29th 2026, 10:41:12 am
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 
@@ -79,6 +79,10 @@ Assessment of capacity is important
 - **Environmental Support**: Maintain a quiet, well-lit environment to reduce confusion.
 - **Challenging Behaviour**: Frustration is natural if you cannot effectively communicate needs. Medication is an option as a last resort after communication tactics have failed. 
 - **Communication**: Always try to *redirect* patients rather than decieve etc. 
+
+**Medications:**
+- Haloperidol first line in those without dementia
+- Lorazepam in those with Parkinsonism 
 
 ## Complications/Red Flags
 

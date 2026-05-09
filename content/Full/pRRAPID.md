@@ -2,7 +2,7 @@
 tags: [Acute, Paediatrics]
 title: pRRAPID
 date:
-date modified: Friday, March 6th 2026, 9:53:19 am
+date modified: Tuesday, May 5th 2026, 2:11:12 pm
 date created: Monday, February 23rd 2026, 10:11:04 am
 ---
 
@@ -30,6 +30,17 @@ date created: Monday, February 23rd 2026, 10:11:04 am
 | **Blood pressure Systolic mmHg**     | 80-90      | 85-95         | 85-100      | 90-100         | 100-140        |
 | **Temperature (define if oral etc)** | 35-37oC    |               |             |                | 36-37.5 oC     |
 | **Saturations**                      | 94-98%     |               |             |                |                |
+
+
+> [!warning] Threshold for admission of <3 month old
+> Any infant <3 months with a fever automatically requires admission for assessment:
+> - Full blood count
+> - Blood culture
+> - C-reactive protein
+> - Urine testing for urinary tract infection
+> - Chest radiograph only if respiratory signs are present
+> - Stool culture, if diarrhoea is present
+
 
 ## Initial steps
 

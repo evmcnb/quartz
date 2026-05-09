@@ -4,7 +4,7 @@ title: Variceal haemorrhage
 date: 2023-09-27
 date modified: 2025-04-23
 ---
-Patients with [[Pearls/Cirrhosis|Cirrhosis]] are at risk of developing [[Portal hypertension]]. Oesophageal varices are a high risk complication due to rupture and uncontrolled bleeding
+Patients with [[Pearls/Cirrhosis|Cirrhosis]] are at risk of developing [[Pearls/Portal hypertension]]. Oesophageal varices are a high risk complication due to rupture and uncontrolled bleeding
 
 ### Acute management
 

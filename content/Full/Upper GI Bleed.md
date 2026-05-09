@@ -2,7 +2,7 @@
 tags: [Acute, Gastroenterology, Symptom]
 title: Upper GI Bleed
 date: 
-date modified: Sunday, October 26th 2025, 11:31:46 am
+date modified: Saturday, May 9th 2026, 3:53:11 pm
 date created: Sunday, October 26th 2025, 11:18:05 am
 ---
  
@@ -80,9 +80,10 @@ Send bloods for:
 - **D** – **D**rugs (stop **_anticoagulants_** and **_NSAIDs_**)
 
 
-There are some additional steps if **_oesophageal varices_** are suspected (e.g., in patients with liver cirrhosis): [[Variceal haemorrhage]]
+There are some additional steps if **_oesophageal varices_** are suspected (e.g., in patients with liver cirrhosis): [[Pearls/Variceal haemorrhage]]
 
 **_Non-variceal bleeding_** can be treated in various ways, such as with **_clips_** or **_thermal coagulation_**. **_Variceal band ligation_** is used to treat bleeding **_oesophageal varices_**.
 
-In non-variceal bleeding, do not give a PPI until after endoscopy. 
+**In non-variceal bleeding, do not give a PPI until after endoscopy.** 
 
+Surgery is indicated in patients with ongoing acute bleeding despite repeated endoscopic therapy

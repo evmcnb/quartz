@@ -40,20 +40,30 @@ Used to assess whether induction of [[Full/Labour]] will be required:
 >  - Intravenous oxytocin infusion 
 
 
-**Membrane Sweep**
+**Membrane Sweep** - outpatient
+- Requires the cervix already be slightly dilated
 - Involves the examining finger passing through the cervix to rotate against the wall of the uterus to separate the chorionic membrane from the decidua
 - Can be done by a midwife at the antenatal clinic. Woman are typically offered this at the 40- and 41- week antenatal visit
 - **Regarded as an adjunct** prior to formal labour induction.
+- MAU if water breaks or heavy bleeding
 
-**Prostaglandins** - misoprostol (oral), dinoprostone (vaginal)
-- Stimulate contraction of the uterine muscles
-- Also have a role in ripening the cervix
+**Prostaglandins** - 
+- Start when the cervix is unfavourable 
+- Misoprostol (oral), dinoprostone (vaginal)
+- Ripening the cervix primary role but can also help stimulate uterine contractions 
+- Some risk of uterine hyperstimulation
+
+**Artificial rupture of membranes**
+- Once the cervix is favourable and partially open, and the baby's head is well engaged in the pelvis ARM can occur
+- Long plastic tool with a hook to break the amniotic sac
+- Deliver within 24 hours to reduce risk of [[Full/Chorioamnionitis|Chorioamnionitis]]
 
 **Oxytocin infusion**
+- Usually after an AROM
 - Stimulate contraction of the uterine muscles
-- Also have a role in ripening the cervix
+- Risk of uterine hyperstimulation
 
-**Amniotomy**
+
 
 ### Complications
 

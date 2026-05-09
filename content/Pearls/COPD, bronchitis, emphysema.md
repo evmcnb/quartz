@@ -1,26 +1,26 @@
 ---
-title: "COPD, bronchitis, emphysema"
+title: COPD, bronchitis, emphysema
 date created: Saturday, January 20th 2024, 12:15:43 AM
 date modified: 2024-04-06 16:02:42.438227+01
 tags: ['Respiratory']
 ---
 
 
-## [Bronchitis](https://notes.nosos.co.uk/bronchitis)
+## [[Full/bronchitis|bronchitis]]
 
 * Inflammation of the bronchials - chronic form is part of COPD
 * Acute form usually caused by virus in children (Haemophilus influenzae in bacterial)
 
 * Mainly inflammation that causes airway narrowing
 
-## [Emphysema](https://notes.nosos.co.uk/emphysema)
+## [[Full/emphysema|emphysema]]]
 
 * Damage to alveoli by breaking down walls between them
 * Destruction of elastic fibres
 
 ---
 
-## [COPD](https://notes.nosos.co.uk/COPD)
+## [[Full/COPD|COPD]]
 
 Combination of **chronic [[Full/bronchitis]]** and **[[Full/emphysema]]**
 

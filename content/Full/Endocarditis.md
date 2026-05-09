@@ -2,7 +2,7 @@
 tags: [Cardiovascular, InfectiousDisease, "Incomplete"]
 title: Endocarditis
 date created: Wednesday, November 1st 2023, 1:29:07 pm
-date modified: Tuesday, September 23rd 2025, 8:33:27 pm
+date modified: Thursday, May 7th 2026, 5:36:36 pm
 aliases: [Infective endocarditis]
 date: 2023-11-01
 ---
@@ -18,6 +18,7 @@ Fever + new murmur = infective endocarditis until proven otherwise
 **Organisms** - most common
 - Strep viridans (subacute)
 - Staph aureus (most common amongst IVDU)
+- Staph epidermidis if <2 months post surgery 
 - Strep bovis
 - Chlamydia
 - Candida

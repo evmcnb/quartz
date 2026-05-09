@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, March 6th 2026, 10:56:59 am
+date modified: Thursday, May 7th 2026, 9:14:30 am
 date: 2024-01-14
 ---
 
@@ -53,13 +53,17 @@ Pre-diabetes is described as an HbA1c of 42-47 mmol/mol
 #### Type 1
 Usually basal bolus injections (once or twice daily long acting insulin + premeal quick acting insulin). Need to judge carbohydrate intake and aware of blood glucose lowering in exercise. Possible insulin pump.
 
+If not monitored by a pump, need to check glucose before each meal and before bed. 
+
+Patients with type I diabetes and a BMI > 25 should be considered for **metformin** in addition to insulin
+
 #### Type 2
 Life style modification. metformin + combination with other drug possibly
 
 Targets:
 - **_48 mmol/mol_** for new type 2 diabetics
-- **_53 mmol/mol_** for patients requiring more than one antidiabetic medication
-- ***58 mmol/mol*** - intensify medications & lifestyle advice
+- **_53 mmol/mol_** for patients on medications that can cause hypos
+- at ***58 mmol/mol*** - intensify medications & lifestyle advice
 
 
 The **_HbA1c_** is measured **_every 3 to 6 months_** until under control and stable
@@ -68,9 +72,10 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
 
 ##### First line
 
- -  **Metformin**: A biguanide - $\uparrow$ insulin sensitivity + decreases liver glucose production (may help weight). 
+ -  **Metformin**: A biguanide - $\uparrow$ insulin sensitivity + decreases liver glucose production (may help weight). Should be started on modified release 
 	 - Avoid if eGFR is <36. 
-	 - GI symptom side effects (can switch to modified release) + *risk of lactic acidosis when in AKI*. 
+	 - *risk of lactic acidosis when in AKI*. 
+	 - Change dosing to one tablet before sunrise and 2 after sunset in Ramadan 
 
 - **SGLT2i** - sodium glucose co-transpoter 2 inhibitor. Blocks the reabsorption of glucose in kidneys - wee out sugar. _eg Empagliflozin_
 	- Should be started once **metformin is at maximum tolerated dose**
@@ -100,7 +105,7 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
 - **Glitazone** - $\uparrow$ insulin sensitivity, LFTs needed every 8 weeks - **do not use in patient with [[Full/Heart Failure]]** _eg pioglitazone_
 	- Decreases the liver production of glucose
 	- Side effects of: weight gain, heart failure, bone fractures, bladder cancers
-- **Sulfonyurea** - $\uparrow$ insulin secretion but increased cardiovascular morbidity and mortality - promote weight gain _eg Gliclazide_
+- **Sulfonyurea** - $\uparrow$ insulin secretion but increased cardiovascular morbidity and mortality, **risk of hypos** - promote weight gain _eg Gliclazide_
 
 
 ##### Third Line Therapy
@@ -152,7 +157,7 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 >- if on [[Pearls/Insulin|Insulin]] therapy, do not stop treatment, as above
 > - monitor blood glucose more frequently as necessary
 
-**[[Full/Essential hypertension]] and [[Full/Chronic Kidney Disease]]** - ACEi. Blood pressure targets are the same
+**[[Full/Essential hypertension]] and [[Full/Chronic Kidney Disease]]** - ACEi. Blood pressure targets are the samepressure targets are the same
 
 **Erectile dysfunction** - sildenafil or tadalafil
 

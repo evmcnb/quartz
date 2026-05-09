@@ -1,7 +1,7 @@
 ---
 title: Fluid prescriptions
 date created: Friday, February 16th 2024, 11:57:32 AM
-date modified: Tuesday, March 17th 2026, 8:52:37 am
+date modified: Wednesday, April 29th 2026, 9:20:55 am
 tags: ['Drug']
 ---
 
@@ -22,7 +22,7 @@ If correcting potassium, the maximum rate of infusion via a peripheral line is 1
 - 50 ml/kg/day for the next 10kg
 - 20 ml/kg/day subsequently
 
-0.9% saline with 5% glucose $\pm$ potassium. 
+0.9% saline with 5% glucose $\pm$ potassium (1 mmol/kg/day). 
 
 There is **no need** to subtract the resuscitation boluses from the total 24-hour fluid requirements.
 
@@ -49,6 +49,9 @@ If not responsive to fluids inotropes (increased heart contractility) or vasopre
 
 - Fluid bolus of 10ml/kg and assess response
 - Above 60ml/kg total consider vasopressors 
+
+**Hypoglycaemia** - 2 ml/kg of 10% dextrose
+
 
 #### Colloids
 

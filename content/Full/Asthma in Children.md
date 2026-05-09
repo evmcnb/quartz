@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Asthma in Children
 date:
-date modified: Friday, March 27th 2026, 4:03:23 pm
+date modified: Wednesday, May 6th 2026, 3:45:34 pm
 date created: Wednesday, December 3rd 2025, 11:01:02 am
 ---
 Re
@@ -53,13 +53,11 @@ Children under 5 with suspected asthma are treated until they are 5 years old, a
 
 #### Children under 5
 
-Initial management:
-- Regular low-dose ICS 
-- Short acting B2 agonist - salbutamol PRN 
+Suspected asthma in children < 5: 8 to 12 week trial of twice-daily paediatric low-dose ICS as maintenance therapy + SABA as required
 
 Treatment escalation: 
 1. Regular moderate dose ICS
-2. Oral leukotriene receptor antagonist (montelukast)
+2. Oral leukotriene receptor antagonist (montelukast, can cause nightmares in children)
 
 #### Children 5-11
 
@@ -155,4 +153,12 @@ If not responding to treatment:
 
 Low threshold to intubate a patient with life-threatening asthma. 
 
-Discharge is considered when the patient is stable on four hourly inhalers. 
+
+### Step down
+
+Discharge is considered when the patient is stable on four hourly inhalers. First 4 puffs 6 hourly, then 2 puffs. 
+- Continue oral pred started in hospital for 3-5 days
+- Add on a regular ICS 
+- Optimize home environment
+- Safety net around puffs and when to return
+

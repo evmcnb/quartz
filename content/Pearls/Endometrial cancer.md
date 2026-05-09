@@ -1,7 +1,7 @@
 ---
 title: Endometrial cancer
 date created: Sunday, January 21th 2024, 12:44:02 PM
-date modified: Friday, February 6th 2026, 3:45:53 pm
+date modified: Saturday, May 2nd 2026, 10:16:22 am
 tags: [OBGYN]
 date:
 aliases: [Uterine cancer]
@@ -24,7 +24,7 @@ aliases: [Uterine cancer]
 
 Unopposed oestrogen stimulates the endometrial cells and increases the risk of endometrial hyperplasia and cancer. 
 
-- Nullparity
+- **Nullparity**
 - Early menarche
 - Late menopause
 - Oestrogen only hormone replacement

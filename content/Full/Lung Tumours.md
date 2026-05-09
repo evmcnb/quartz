@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Lung Tumours
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, September 29th 2025, 9:56:16 am
+date modified: Friday, May 8th 2026, 6:44:26 pm
 date: 2024-02-23
 aliases: [Lung cancer, Lung carcinoma]
 ---
@@ -34,7 +34,7 @@ Carcinoma of the bronchus - second most common cancer in UK, only 5% cured
 	- Central  
 	- Cavitating  
 	- Clubbing  
-	- hyperCalcemia (from parathyroid hormone-related protein secretion)
+	- hyperCalcemia (from **parathyroid hormone-related protein secretion**)
 
 ###### Adenocarcinoma
 
@@ -145,6 +145,12 @@ SCLC (stage V)
   ![|375](z_attachments/375-2.png)
 
 ## Management
+
+##### Small cell management 
+
+- sensitive to chemotherapy
+- adjuvant radiotherapy
+- ? prophylactic cranial irradiation to prevent brain mets 
 
 ##### Non-small cell management
 - only 20% suitable for surgery

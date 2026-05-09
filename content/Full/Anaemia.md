@@ -2,7 +2,7 @@
 tags: [Haematology]
 title: Anaemia
 date created: Friday, November 10th 2023, 1:52:37 pm
-date modified: Monday, December 29th 2025, 1:51:38 pm
+date modified: Saturday, May 2nd 2026, 2:21:13 pm
 date: 2023-11-10
 ---
 
@@ -47,6 +47,21 @@ Can be caused by low red cell mass or increased plasma volume
 These do not fit into the above classification as it may be normo- or macrocytic (if there are reticulocytes)
 - $\downarrow$ haptoglobin
 - $\uparrow$ bilirubin - so patients often slightly jaundice
+
+> [!Info] Warm vs Cold Autoimmune Haemolytic Anaemia (AIHA)
+> **Warm AIHA** (IgG-mediated, binds at ~37°C)
+> - Extravascular haemolysis (spleen)
+> - Causes: idiopathic, SLE, lymphoma/CLL, methyldopa
+> - Direct antiglobulin test (DAT/Coombs) positive for IgG ± C3
+> - Treatment: steroids first-line, then rituximab/immunosuppression, splenectomy
+> 
+> **Cold AIHA** (IgM-mediated, binds at <4°C)
+> - Intravascular haemolysis (complement activation)
+> - Causes: idiopathic, *Mycoplasma pneumoniae*, EBV, lymphoma
+> - DAT positive for C3 only
+> - Often presents with acrocyanosis/Raynaud-like symptoms in cold
+> - Treatment: keep warm, treat underlying cause, rituximab (steroids less effective than in warm)
+
 ## Symptoms
 
 - **Fatigue:** Feeling tired or weak.
@@ -61,6 +76,7 @@ These do not fit into the above classification as it may be normo- or macrocytic
 - **Pale Conjunctiva and Palms:** Visible paleness of the conjunctiva (the white part of the eyes) and palms.
 - **Rapid Heart Rate:** Tachycardia may occur to compensate for reduced oxygen-carrying capacity.
 - **Angular cheilitis:** Ulceration at the side of the mouth - iron deficiency anaemia. Also a feature of B12 and B2 deficiency
+- **Murmur:** hyperviscosity of the blood leads to turbulent flow and thus a murmur 
 
 ## Diagnostic Tests
 

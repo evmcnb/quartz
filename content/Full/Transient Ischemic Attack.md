@@ -2,7 +2,7 @@
 tags: [Neurology, Cardiovascular]
 title: Transient Ischemic Attack
 date created: Wednesday, October 4th 2023, 12:34:39 pm
-date modified: Thursday, October 2nd 2025, 5:42:43 pm
+date modified: Saturday, May 9th 2026, 3:00:12 pm
 date: 2023-10-05
 ---
 Ischaemic usually embolic neurological event with symptoms that resolve within 24hr
@@ -30,7 +30,14 @@ Specific to the arterial territory involved
 ## Management
 
 - **Control cardiovascular risk factors** 
-- Antiplatelet drugs - 300mg [[Pearls/Aspirin|Aspirin]] OD for 2 weeks, then switch to 75mg [[Pearls/Clopidogrel|Clopidogrel]]
+
+For those with a low bleeding risk: 
+- clopidogrel (initial dose 300 mg followed by 75 mg od) + aspirin (initial dose 300 mg followed by 75 mg od for 21 days) followed by monotherapy with clopidogrel 75 mg od
+- ticagrelor + clopidogrel is an alternative
+
+| Resolved TIA symptoms, awaiting specialist review within 24 hours | Reviewed by specialist, initial 21 days when at high risk of further events | Long-term secondary prevention after 21 days |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------- |
+| Aspirin                                                           | Aspirin + Clopidogrel                                                       | Clopidogrel                                  |
 
 - Driving is prohibited for at least 1 month afterwards
 

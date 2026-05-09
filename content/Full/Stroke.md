@@ -2,7 +2,7 @@
 tags: [Neurology, Cardiovascular]
 title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, October 22nd 2025, 5:13:10 pm
+date modified: Saturday, May 9th 2026, 3:02:41 pm
 date: Thursday, October 2nd 2025, 5:42:00 pm
 ---
 
@@ -122,17 +122,24 @@ Perfusion imaging (CT/MRI) needed if considering treatment beyond 6 hours.
 
 ##### Contraindications to Thrombolysis
 
+Blood pressure should be lowered to 185/110 mmHg before thrombolysis.
+
 |Absolute|Relative|
 |---|---|
 |- Previous intracranial haemorrhage  <br>- Seizure at onset of stroke  <br>- Intracranial neoplasm  <br>- Suspected subarachnoid haemorrhage  <br>- Stroke or traumatic brain injury in preceding 3 months  <br>- Lumbar puncture in preceding 7 days  <br>- Gastrointestinal haemorrhage in preceding 3 weeks  <br>- Active bleeding  <br>- Oesophageal varices  <br>- Uncontrolled hypertension >200/120mmHg|- Pregnancy  <br>- Concurrent anticoagulation (INR >1.7)  <br>- Haemorrhagic diathesis  <br>- Active diabetic haemorrhagic retinopathy  <br>- Suspected intracardiac thrombus  <br>- Major surgery / trauma in the preceding 2 weeks|
 
 
-
 #### Secondary prevention 
 
-- Clopidogrel 75mg OD, Aspirin 75mg OD second-line if clopidogrel is contraindicated
-- Anticoagulation (AF) Start after 14 days (Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement)
+- 2 weeks of aspirin 300mg - risk of hemorrhagic transformation 
+- Then lifelong clopidogrel 75mg OD
+	- Aspirin 75mg OD second-line if clopidogrel is contraindicated
+- Anticoagulation (AF), start after 14 days (Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement)
 - 80mg atorvastatin, if cholesterol >3.5 mmol/L (delay 48h if needed)
+
+| **Stroke Severity**           | **Immediate Acute Phase(Upon exclusion of haemorrhage via imaging)** | **Short-Term Acute Management (Initial high-risk window)**     | **Long-Term Secondary Prevention (Maintenance phase)** |
+| ----------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
+| **Moderate to Severe Stroke** | **Aspirin**<br>_(300 mg loading dose)_                               | **Aspirin**<br>_(300 mg daily for 14 days or until discharge)_ | **Clopidogrel**<br>_(75 mg once daily)_                |
 
 Carotid endarterectomy is recommend if the patient has suffered a stroke or TIA in the carotid territory and is not severely disabled  
 - should only be considered if the stenosis > 50% according to North American Symptomatic Carotid Endarterectomy Trial (NASCET) criteria (& symptomatic?)

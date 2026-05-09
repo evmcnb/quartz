@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Polycystic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, March 27th 2026, 2:11:42 pm
+date modified: Thursday, May 7th 2026, 12:57:11 pm
 date: 2023-11-12
 ---
 
@@ -13,7 +13,7 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 - PKD1/2 mutation
 - Small change - present as adults
 - Rarely any symptoms with child with the condition. Most cases present between 30 to 60 y/o
-- May have liver cysts, berry aneurysms, heart valve problems
+- May have liver cysts, **berry aneurysms**, heart valve problems
 - Cysts can also develop in liver and pancreas
 
 #### Autosomal Recessive (ARPKD)

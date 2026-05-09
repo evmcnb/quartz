@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Liver Cirrhosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, August 24th 2025, 4:34:54 pm
+date modified: Saturday, May 2nd 2026, 10:38:32 am
 date: 2023-09-18
 ---
 
@@ -59,7 +59,7 @@ Hepatic failure - Coagulopathy - Encephalopathy - Hypoalbuminaemia
 > - **V**olume (ascites) - spironolactone/furosemide 5:2 ratio, paracentesis (given with 25% albumin every 4L)
 > - **I**nfection (SBP) -  ceftriaxone, albumin 1.5g/kg/day going down to 1.0g/kg/day. Lifelong prophylaxis after any episode (trimethoprim, sulfamethoxazole, ciprofloxacin). Discontinue PPIs
 > - **B**leeding (varices) - acute: oesophageal varices, give **terlipressin and co-amoxiclav** , endoscopy, NO BETA BLOCKERS. Chronic: beta blockers (propranolol) , goal HR 55-60. If unable to tolerate BB variceal ligation
-> - **E**ncephalopathy - most common decompensating event. Lactulose (2-3 BM/day) then + rifaximin. Must rule out: infection, dehydration, hypokalemia (increases renal ammoniagenesis), bleeding
+> - **E**ncephalopathy - most common decompensating event. Lactulose (2-3 BM/day) $\pm$ rifaximin. Must rule out: infection, dehydration, hypokalemia (increases renal ammoniagenesis), bleeding
 > - **S**creening - 6 month RUQ US for HCC. EGD for every 3 years. Hep A/B vaccinations. MELD score >10 consider transplant 
 
 

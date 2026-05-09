@@ -1,7 +1,7 @@
 ---
 title: Multiple myeloma
 date created: Sunday, January 21th 2024, 12:57:54 PM
-date modified: Friday, September 26th 2025, 4:44:27 pm
+date modified: Friday, May 8th 2026, 7:46:35 pm
 tags: ['Oncology', 'Haematology']
 ---
 
@@ -10,6 +10,8 @@ tags: ['Oncology', 'Haematology']
 Plasma cell proliferation usually in older people - incurable but very treatable
 
 ---
+
+Bone pain, renal impairment, high total protein
 
 ### **CRAB** features:
 

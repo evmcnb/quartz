@@ -1,7 +1,7 @@
 ---
 title: Neonatal Jaundice
 date created: Thursday, December 18th 2025, 2:35:53 pm
-date modified: Thursday, December 18th 2025, 2:45:09 pm
+date modified: Wednesday, May 6th 2026, 1:03:42 pm
 tags: [Paediatrics, Hepatology]
 date: 2023-09-27
 ---
@@ -31,6 +31,14 @@ Can be split into increased production and decreased clearance:
 
 Breast-fed infants are more likely to have jaundice. Lots of different reasons but the benefits of breastfeeding outweight risks of jaundice. 
 
+## Investigations
+
+- FBC and blood film for [[Pearls/polycythaemia|polycythaemia]] or [[Pearls/Anaemia|Anaemia]]
+- Conjugated bilirubin ([[Pearls/Biliary Atresia|Biliary Atresia]])
+- Blood type testing
+- Direct Coombs Test (haemolytic disease)
+- TFTs ([[Pearls/Hypothyroidism in Children|Hypothyroidism in Children]])
+- [[Pearls/G6PD deficiency|G6PD]] levels
 
 ## Management
 

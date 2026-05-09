@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Shoulder dystocia
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 3:59:28 pm
+date modified: Saturday, May 2nd 2026, 10:15:57 am
 date created: Tuesday, December 30th 2025, 3:48:35 pm
 ---
 
@@ -28,7 +28,9 @@ Definative management with **McRoberts' manoeuvre**:
 
 Next after this is suprapubic pressure - putting force on the posterior aspect of the baby's anterior shoulder to encourage it down and under the pubic symphysis
 
-An episiotomy will not relieve the bony obstruction but is sometimes used to allow for better access for internal manoeuvres (not included here see zero to finals)
+An episiotomy will not relieve the bony obstruction but is sometimes used to allow for better access for internal manoeuvres:
+1. Rubin's II manoeuvre
+2. Wood’s screw manoeuvre
 
 #### Complications 
 

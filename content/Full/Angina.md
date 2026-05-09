@@ -2,11 +2,18 @@
 tags: [Cardiovascular]
 title: Angina
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, December 1st 2025, 5:47:26 pm
+date modified: Saturday, May 9th 2026, 3:44:36 pm
 date: 2023-11-12
 ---
 
-Pain due to partial blockage of a coronary vessel. Can be stable or unstable
+Pain due to partial blockage of a coronary vessel. Defined by:
+1. constricting discomfort in the front of the chest, or in the neck, shoulders, jaw or arms
+2. precipitated by physical exertion
+3. relieved by rest or GTN in about 5 minutes
+
+Typical angina: patients with all 3 features 
+Atypical angina: patients with 2 of the above features 
+
 
 - **stable angina** (more common) – attacks have a trigger (such as stress or exercise) and stop within a few minutes of resting
 - **unstable angina** (more serious) – attacks are more unpredictable (they may not have a trigger) and can continue despite resting ^1f93a5
@@ -51,7 +58,7 @@ Some people develop unstable angina after having stable angina.
 
 #### Medical Management
 
-All prescribed sublingual glyceryl trinitrate to abort angina attacks
+All prescribed sublingual glyceryl trinitrate to abort angina attacks and aspirin 
 
  Either a beta-blocker or CCB first line based on patient choice and contradictions
 -  If CCB used as monotherapy, should be verapamil or diltiazem. If used in combination with a beta-blocker then use a longer-acting dihydropyridine CCB (amlodipine, MR nifedipine)

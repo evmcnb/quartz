@@ -1,19 +1,19 @@
 ---
-title: "Furosemide"
-date created: 2024-04-08 17:41:00.079363+01
-date modified: 2024-04-19 11:00:56.502712+01
+title: Furosemide
+date created: Tuesday, November 25th 2025, 8:20:01 pm
+date modified: Thursday, May 7th 2026, 7:08:06 pm
 tags: ['Drug', 'Cardiovascular']
 ---
 
 
-| **Drug Class**         | Loop diuretic                                                                                                                                                                                                                                     |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Mechanism**          | * Inhibits Na/K/2Cl pump in **ascending loop of Henle** * Inhibits reabsorption of Na, K and water leading to their loss                                                                                                                          |
-| **Typical Dose**       | 20-40mg PO OD, taken in morning                                                                                                                                                                                                                   |
-| **Indications**        | * Oedema secondary to LVF/HF * Oliguria secondary to renal failure                                                                                                                                                                                |
-| **Contra-indications** | * Hypovolaemia/dehydration * Severe hypokalaemia/hyponatraemia * Comatose states                                                                                                                                                                  |
-| **Side-effects**       | OH DANG O - ototoxicity H - hypokalemia D - dehydration A - allergy N - nephritis G - [[Full/gout]]                                                                                                                                                    |
+| **Drug Class**         | Loop diuretic                                                                                                                                                                                                                                                          |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Mechanism**          | * Inhibits Na/K/2Cl pump in **ascending loop of Henle** * Inhibits reabsorption of Na, K and water leading to their loss.                                                                                                                                              |
+| **Typical Dose**       | 20-40mg PO OD, taken in morning                                                                                                                                                                                                                                        |
+| **Indications**        | * Oedema secondary to LVF/HF * Oliguria secondary to renal failure                                                                                                                                                                                                     |
+| **Contra-indications** | * Hypovolaemia/dehydration * Severe hypokalaemia/hyponatraemia * Comatose states                                                                                                                                                                                       |
+| **Side-effects**       | OH DANG O - ototoxicity H - hypokalemia D - dehydration A - allergy N - nephritis G - [[Full/gout]]<br><br>Overuse causes hyaline casts to be seen on microscopy                                                                                                       |
 | **Interactions**       | * Antibiotics: ↑ risk of ototoxicity associated with aminoglycosides, colistin and aminoglycosides <br>* [[Pearls/Digoxin]]: furosemide-induced hypokalaemia, increased effects of [[Pearls/Digoxin]]<br>* [[Pearls/Lithium]] ↓ excretion - so higher risk of toxicity |
-| **Elimination**        |                                                                                                                                                                                                                                                   |
-| **Additional Notes**   | Loop diuretics more effective that thiazide                                                                                                                                                                                                       |
+| **Elimination**        |                                                                                                                                                                                                                                                                        |
+| **Additional Notes**   | Loop diuretics more effective that thiazide                                                                                                                                                                                                                            |
 

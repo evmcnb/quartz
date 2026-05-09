@@ -2,7 +2,7 @@
 tags: [Psychiatry, Drug]
 title: Antipsychotics
 date: 2023-09-27
-date modified: Tuesday, April 21st 2026, 9:09:21 am
+date modified: Thursday, April 30th 2026, 11:29:56 am
 date created: Friday, February 6th 2026, 5:09:49 pm
 ---
 Used in the management of schizophrenia and other forms of psychosis, mania and agitation. Divided into typical (first generation) and atypical (second generation)
@@ -60,3 +60,12 @@ High risk of relapse if stopped before 6 months. After a first episode should be
 | Blood pressure                                                                                            | - baseline<br>- frequently during dose titration                                                                        |
 | Electrocardiogram                                                                                         | - baseline                                                                                                              |
 | Cardiovascular risk assessment                                                                            | - annually                                                                                                              |
+
+### Overdose 
+
+- CNS depression 
+- Hypotension
+- Tachycardia
+- QTc prolongation 
+
+Supportive treatment with fluids and activated charcoal.

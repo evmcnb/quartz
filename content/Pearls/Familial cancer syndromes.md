@@ -1,7 +1,7 @@
 ---
 title: Familial cancer syndromes
 date created: Tuesday, January 23th 2024, 03:09:39 PM
-date modified: Wednesday, January 7th 2026, 9:37:04 am
+date modified: Friday, May 8th 2026, 6:23:56 pm
 tags: ['Oncology', 'Genetics']
 ---
 
@@ -19,6 +19,16 @@ tags: ['Oncology', 'Genetics']
 * Autosomal dominant
 * 100% risk of bowel adenoma
 * Total proctocolectomy if any polyps over 1cm
+
+### **Gardners syndrome**  
+
+- Autosomal dominant familial colorectal polyposis
+- Multiple colonic polyps
+- Extra colonic diseases include: skull osteoma, thyroid cancer and epidermoid cysts
+- Desmoid tumours are seen in 15%
+- Mutation of APC gene located on chromosome 5
+- Due to colonic polyps most patients will undergo colectomy to reduce risk of colorectal cancer
+- Now considered a variant of familial adenomatous polyposis coli
 
 ## Hereidtary Nonpolyposis Colorectal Cancer (Lynch syndrome)
 
@@ -50,12 +60,3 @@ Two successive affected generations.
 One or more colon cancers diagnosed under age 50 years.  
 Familial adenomatous polyposis (FAP) has been excluded.  
   
-### **Gardners syndrome**  
-
-- Autosomal dominant familial colorectal polyposis
-- Multiple colonic polyps
-- Extra colonic diseases include: skull osteoma, thyroid cancer and epidermoid cysts
-- Desmoid tumours are seen in 15%
-- Mutation of APC gene located on chromosome 5
-- Due to colonic polyps most patients will undergo colectomy to reduce risk of colorectal cancer
-- Now considered a variant of familial adenomatous polyposis coli

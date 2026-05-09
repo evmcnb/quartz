@@ -21,7 +21,7 @@ Clinical diagnosis
 Offer STI screening
 
 The majority clear without intervention within 1-2 years. But usually too long for more patients - combination of treatments usually used. 
-- Topical podophyllum for multiple non-keratinised warts 
-- Cryotherapy for solitary keratinised warts
+- **Topical podophyllum** for multiple non-keratinised warts 
+- Cryotherapy for solitary keratinised warts 
 - Imiquimod cream second line 
 - Cryotherapy in pregnancy

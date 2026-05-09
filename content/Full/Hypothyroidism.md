@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Hypothyroidism
 date created: Sunday, September 24th 2023, 5:31:12 pm
-date modified: Thursday, October 2nd 2025, 5:11:11 pm
+date modified: Thursday, May 7th 2026, 9:44:08 am
 date: 2023-09-27
 ---
 
@@ -46,6 +46,8 @@ Diagnosing hypothyroidism involves blood tests, including:
 - **Thyroid Function Tests:** Measuring levels of thyroid hormones (T3 and T4) and thyroid-stimulating hormone (TSH).
 - **Antithyroid Antibody Test:** To check for autoimmune causes.
 - **Thyroid Ultrasound:** Imaging to assess thyroid gland size and structure.
+- Euvolaemic hyponatraemia
+
 
 ## Management
 

@@ -1,7 +1,7 @@
 ---
 title: Pancreatic cancer
 date created: Sunday, January 21th 2024, 04:05:50 PM
-date modified: Tuesday, September 23rd 2025, 8:43:52 pm
+date modified: Friday, May 8th 2026, 7:16:23 pm
 tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 ---
 
@@ -23,6 +23,7 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 * Painless obstructive [[Pearls/Jaundice|Jaundice]] - tumour compresses on bile duct
 * Steatorrhea
 * New onset diabetes or worsening of glycaemic control
+* "Double duct" sign - simultaneous dilatation of the common bile and pancreatic ducts
 
 
 The other presenting features for pancreatic cancer can be vague:

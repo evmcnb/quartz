@@ -24,5 +24,5 @@ Sickle cells are fragile and haemolyse, occluding small blood vessels causing in
 - Investigate any event that may be precipitating the crisis e.g. infection 
 
 **Long term management**
-- Hydroxyurea - increases HbF levels, prophylactic
+- Daily oral hydroxycarbamide - increases HbF levels, prophylactic
 - Pneumococcal vaccine every 5 years (hyposplenism)

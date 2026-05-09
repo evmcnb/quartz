@@ -126,6 +126,10 @@ Delay is when the active second stage lasts over:
 
 ![[z_attachments/Pasted image 20260105133221.png|400]]
 
+
+> [!tldr] OP/OA babies
+> Contents
+
 ### Stage 3
 
 **Physiological management** - when the placenta is delivered by maternal effort without medications or cord traction

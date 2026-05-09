@@ -4,18 +4,14 @@ date created: Friday, March 08th 2024, 03:00:14 PM
 date modified: Monday, October 6th 2025, 12:58:39 pm
 tags: ['Endocrinology', 'Nephrology']
 ---
-
+In patients with diabetes, **microalbuminuria** (30-300 mg/day) is an early sign of diabetic nephropathy, but standard **urine dipstick** tests typically only detect proteinuria >300 mg/day
 
 
 Complication of poorly controlled diabetes.
 
-![Mesangial cell - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Renal_corpuscle-en.svg/468px-Renal_corpuscle-en.svg.png)
-
 Diffuse glomerulosclerosis - thickening of the basement membrane
 
 Nodular sclerosis - increase in mesangial matrix
-
-![Nodular glomerulosclerosis](https://www.brown.edu/Courses/Digital_Path/systemic_path/renal/R15.jpg)
 
 Manage with sugar control and ACEi/ARBs
 

@@ -2,7 +2,7 @@
 tags: [Acute, OSCE, Anaesthetics]
 title: Pre-Operative Assessment and Care
 date: 2023-09-27
-date modified: Sunday, November 23rd 2025, 2:37:31 pm
+date modified: Saturday, May 9th 2026, 3:49:12 pm
 date created: Tuesday, November 4th 2025, 9:24:42 am
 ---
 
@@ -37,7 +37,7 @@ All types of anaesthetisa alter normal body physiology to some degree. This may 
 	- Any issues? PONV, difficult airway, ICU/HDU stay
 	- Any family history of problems with anaesthetics? 
 		- *Suxamethonium apnoea*, takes ages to break down. 
-		- *Malignant hyperthermia*, anaesthetic emergency
+		- *Malignant hyperthermia*, autosomal dominant, anaesthetic emergency. Caused by suxamethonium and inhaled agents (sevoflurane, isoflurane, desflurane)
 - Presenting complaint
 	- If trauma - mechanism. Head/neck injury (manipulated a lot during airway management)? Other injury
 	- Cardiovascular component (LOC without warning)

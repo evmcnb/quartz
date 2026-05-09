@@ -2,7 +2,7 @@
 tags: [Urology, Paediatrics]
 title: Vesicoureteral reflux
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Tuesday, May 5th 2026, 2:03:42 pm
 date: 2023-09-18
 ---
 
@@ -37,7 +37,7 @@ Usually asymptomatic + children "grow out of it"
 
 ## Diagnostic Tests
 
-1. Micturating cystourethrogram
+1. Micturating cystourethrogram - first line
 2. DMSA scan (nuclear tracer) look for renal scarring - upper and lower pole and associated with cortical thining
 
 ## Management

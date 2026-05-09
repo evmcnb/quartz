@@ -2,13 +2,13 @@
 tags: [Anaesthetics, Surgery, OSCE]
 title: Intra-operative Anaesthesia
 date: 2023-09-27
-date modified: Wednesday, April 22nd 2026, 11:32:54 am
+date modified: Thursday, May 7th 2026, 6:46:32 pm
 date created: Tuesday, November 4th 2025, 10:14:54 am
 ---
 
 Three main types:
 - General
-- Regional
+- Regionalcentral sulcus
 - Local
 
 **Balanced anaesthesia**
@@ -30,7 +30,7 @@ IV agents - lasts 4-10 minutes:
 	- More rapid onset
 	- Contraindicated in porphyria
 - Etomidate - cardio-stable agent (0.2 - 0.3mg/kg)
-	- Causes adreno-cortical suppression
+	- Causes **adreno-cortical** suppression
 	- Use in patients with heart failure
 - Ketamine - not commonly used as induction agent (1 - 1.5 mg/kg)
 	- Increases HR & BP - useful in pre-hospital trauma 

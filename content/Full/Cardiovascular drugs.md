@@ -2,11 +2,11 @@
 tags: [Cardiovascular]
 title: Cardiovascular drugs
 date created: Thursday, October 26th 2023, 11:57:16 am
-date modified: Tuesday, October 14th 2025, 3:26:56 pm
+date modified: Tuesday, May 5th 2026, 11:36:35 am
 aliases: [Cardio drugs]
 date: 2024-01-19
 ---
-
+[Tags](https://notes.nosos.co.uk/tags)
 ## Anti-platelet
 
 - **_Aspirin_** - prevents production of thromboxane A2 inhibiting platelet aggregation. Used in low doses (75mg/day PO) for secondary prevention following [[Full/myocardial infarction]], [[Full/Transient Ischemic Attack]] and [[Full/Stroke]]. Also used for patients with [[Full/Angina]] or [[Full/peripheral vascular disease]]. Also an NSAID and may worsen GI symptoms.  
@@ -84,6 +84,7 @@ date: 2024-01-19
 - [[Full/Angina]], [[Full/Heart Failure]] and off licence in autonomic tachycardia syndromes
 - CI in acute [[Full/myocardial infarction]], long QT, bradycardia.
 - Many drug interactions including with calcium antagonists
+- Contraindicated when HR >75 or EF <35%
 
 ## [[Pearls/Statins]]
 

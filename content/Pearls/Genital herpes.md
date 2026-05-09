@@ -21,7 +21,7 @@ Investigations:
 
 
 **Management**
-- Oral aciclovir 
+- Oral aciclovir for primary/severe secondary
 - Conservative management: saline bathing, analgesia, topical anaesthetic agents
 
 Recurrent/severe hepers: oral antiviral therapy for 6-12 months

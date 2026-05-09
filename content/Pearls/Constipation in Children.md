@@ -5,7 +5,7 @@ date: 2023-09-27
 date modified: Tuesday, February 24th 2026, 10:57:28 am
 date created: Saturday, December 6th 2025, 11:51:09 am
 ---
-Quantify degree of constipation: [[Bristol Stool Chart]]
+Quantify degree of constipation: [[Pearls/Bristol Stool Chart]]
 
 
 Primary constipation - no underlying physical cause other than lifestyle and environmental factors.

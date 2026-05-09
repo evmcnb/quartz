@@ -2,7 +2,7 @@
 tags: [InfectiousDisease, Neurology, OBGYN]
 title: Syphilis
 date: 
-date modified: Thursday, January 8th 2026, 12:25:27 pm
+date modified: Thursday, April 30th 2026, 12:45:04 pm
 date created: Wednesday, November 5th 2025, 2:59:43 pm
 ---
 
@@ -54,12 +54,15 @@ Serological tests can be divided into:
     - based upon the reactivity of serum from infected patients to a cardiolipin-cholesterol-lecithin antigen
     - assesses the quantity of antibodies being produced
     - becomes negative after treatment
-    - examples include: rapid plasma reagin (RPR) and Venereal Disease Research Laboratory (VDRL)
+    - Rapid plasma reagin (RPR) (number of times a sample needs to be diluted to become undetectable). **A rise by 4-fold or more in a previously infected patient either indicates no treatment response or reinfection.**
+    -  Venereal Disease Research Laboratory (VDRL)
 - treponemal-specific tests
     - generally more complex and expensive but specific for syphilis
     - qualitative only and are reported as 'reactive' or 'non-reactive'
     - examples include: TP-EIA (_T. pallidum_ enzyme immunoassay), TPHA (_T. pallidum_ HaemAgglutination test)
     - the TP-EIA test has become increasingly popular in recent years
+    - Can be negative in reinfection
+    - T-pallidum particle agglutination (TPPA) test is a specific test for syphilis and often remains positive in patients who have been previously infected.
 
 Can also be seen on microscopy
 
