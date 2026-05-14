@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 9th 2026, 3:12:47 pm
+date modified: Tuesday, May 12th 2026, 3:01:15 pm
 date: 2023-11-12
 ---
 
@@ -95,10 +95,11 @@ Acute:
 - Nitrates - GNT spray
 - Morphine (IV) $\pm$ [[Pearls/Metoclopramide|Metoclopramide]] for pain and nausea
 
-*PCI* gold standard treatment and must be within 2 hours otherwise *thrombolysis*  within 12 hours
+*PCI* gold standard treatment and must be within 2 hours otherwise *thrombolysis* within 12 hours
 
 #### PCI
 
+Gold-standard if symptoms first started within the last 12 hours.
 - Pasugrel (+ aspirin as above) given 
 - Radial access
 - Drug-eluting stent
@@ -108,7 +109,7 @@ Acute:
 
 - **Alteplase and fondaparinux** + ticagrelor after the procedure 
 - An ECG should be performed 90 minutes following thrombolysis to assess whether there has been a greater than 50% resolution in the ST elevation
-- if there has not been adequate resolution then rescue PCI is superior to repeat thrombolysis
+- if there has not been adequate resolution then **rescue PCI** is superior to repeat thrombolysis
 
 ### NSTEMI
 
@@ -155,3 +156,13 @@ Severe chest pain a few hours post-PCI suggests that procedure has failed and th
 - [[Pearls/Pericarditis]]
 - [[Cardiac Tamponade]]
 - LV/RV failure
+
+
+### Prognostic factors
+
+| **Killip class** | **Features**                    | **30 day mortality** |
+| ---------------- | ------------------------------- | -------------------- |
+| I                | No clinical signs heart failure | 6%                   |
+| II               | Lung crackles, S3               | 17%                  |
+| III              | Frank pulmonary oedema          | 38%                  |
+| IV               | Cardiogenic shock               | 81%                  |

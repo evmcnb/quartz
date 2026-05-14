@@ -26,9 +26,9 @@ M0: no mets, M1: mets
 
 ## Causes/Factors
 
+- FH - BRCA1/2 **highest relative risk factor**
 - Male%
 - Ethnicity
-- FH - BRCA1/2
 - Pesticide exposure
 - Increasing age
 - First degree relative with the condition
@@ -93,6 +93,7 @@ Rare
 	- Similar survival to surgery. However, radiation proctitis and rectal malignancy are late problems. 
 	- Brachytherapy is a modification allowing internal radiotherapy.
 	- increased risk of bladder, colon, and rectal cancer following radiotherapy for prostate cancer
+	- Can experience erectile dysfunction 
 - **Surgery** - Radical prostatectomy
 	- As well as the prostate the obturator nodes are also removed to complement the staging process. 
 	- Erectile dysfunction is a common side effect.

@@ -2,10 +2,10 @@
 tags: [Endocrinology]
 title: Hypoglycaemia
 date created: Thursday, January 11th 2024, 1:43:54 pm
-date modified: Monday, December 8th 2025, 5:53:33 pm
+date modified: Thursday, May 14th 2026, 7:18:20 pm
 date: 2024-01-11
 ---
-Commonest endocrine emergency
+Commonest endocrine emergency. Acute state of **excess** insulin
 
 Plasma glucose <3 mmol/L (but 4 is the floor to start treatment)
 
@@ -42,7 +42,7 @@ Neuroglycopenic:
 - Confusion
 - Drowsiness
 - Visual trouble
-- Sizures
+- Seizures
 - Coma
 - Mutism
 - Personality change
@@ -50,9 +50,17 @@ Neuroglycopenic:
 
 ## Signs
 
+Blood glucose concentrations <3.3 mmol/L cause autonomic symptoms due to the release of glucagon and adrenaline
+
 - **Pale Skin:** Skin may appear pale and cool.
 - **Rapid Heartbeat:** Increased heart rate is a common sign.
 - **Dilated Pupils:** Pupils may dilate in response to low blood sugar.
+
+Blood glucose concentrations below <2.8 mmol/L cause neuroglycopenic symptoms due to inadequate glucose supply to the brain:
+- Weakness
+- Vision changes
+- Confusion
+- Dizziness
 
 ## Diagnostic Tests
 
@@ -74,12 +82,21 @@ Symptoms or signs of hypoglycaemia + $\downarrow$ plasma glucose + resolution of
 - Excess ketones
 	- Alcohol, pituitary insufficiency, [[Full/Addison's Disease]]
 
+|Insulin Level|C-peptide Level|Interpretation|Potential Causes|
+|---|---|---|---|
+|High|High|Endogenous insulin production|Insulinoma, Sulfonylurea use/abuse|
+|High|Low|Exogenous insulin administration|Exogenous insulin overdose, Factitious disorder|
+|Low|Low|Non-insulin-related cause|Alcohol-induced hypoglycaemia, Critical illness (e.g., sepsis), Adrenal insufficiency, Growth hormone deficiency, Fasting/starvation|
 
 ## Management
 
-- **Oral Glucose:** Consuming a source of glucose, such as fruit juice or candy. If events frequent advise many high starch meals. 
-- **Glucagon Injection:** In severe cases, a glucagon injection may be administered.
-- **Adjustment of Medications:** Modifying diabetes medications and [[Pearls/Insulin|Insulin]] dosages as needed.
+1. Quick acting carbohydrate - oral glucose 10-20g
+2. If the patient is unable to swallow with no access: IM/SC glucagon (**not in alcoholic liver disease patients**)
+3. IV 20% dextrose through a large vein, ~1ml/kg
+
+Recheck Blood Glucose: After 10-15 minutes, reassess blood glucose levels to ensure they have risen above 4.0 mmol/L.​
+
+Follow Up with Longer-Acting Carbohydrates: Once normal levels are restored, consume a snack or meal containing complex carbohydrates to maintain glucose stability.
 
 ## Complications/red Flags
 

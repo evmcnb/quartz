@@ -18,7 +18,7 @@ Red Blood Cells
 
 Platelets
 
-* Stored at room temperature for up to 5 days - higher risk of infection
+* Stored at room temperature for up to 5 days - **higher risk of infection**
 * Used to treat/prevent thrombocytopenia or platelet dysfunction
 
 Fresh Frozen Plasma

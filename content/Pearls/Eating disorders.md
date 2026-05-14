@@ -59,7 +59,13 @@ Features include:
 - Hypothermia
 - Mood changes
 - Metabolic disturbances - Na+, K+, Ca++ $\rightarrow$ arrhythmias, kidney stones, fluid balance issues
-- Hypoglycaemia - always check. Some association with T1DM who use insulin to loose weight
+- Hypoglycaemia - always check. Impaired glucose tolerance. Some association with T1DM who use insulin to loose weight
+- Hypercholesterolaemia, hypercarotinaemia
+
+| FSH          | LH           | Oestrogens   | Testosterone | Cortisol   | GH         |
+| ------------ | ------------ | ------------ | ------------ | ---------- | ---------- |
+| $\downarrow$ | $\downarrow$ | $\downarrow$ | $\downarrow$ | $\uparrow$ | $\uparrow$ |
+
 
 Has the **highest mortality** of any psychiatric condition. Up to 5-20% of patients will eventually die because of the disorder despite treatment. 
 - 50% recover
@@ -89,7 +95,7 @@ The person typically feels a loss of control. Not a restrictive condition and th
 - Becoming uncomfortably full 
 - Eating in a dazed state
 
-### Avoidant-Restrictive Food IntakeDisorder
+### Avoidant-Restrictive Food Intake Disorder
 
 Avoidance/restriction of food leading to insufficient quantitity or variety of food to meet nutritional reqiuirements 
 **Not motivated by preoccupation with body weight or shapes:**

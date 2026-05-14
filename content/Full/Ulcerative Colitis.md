@@ -69,6 +69,11 @@ Extraintestinal signs:
 
 
 ![[Full/Crohn's Disease#Diagnostic Tests]]
+
+Severity can be determined by the Truelove and Witts' severity index:
+
+![[z_attachments/Pasted image 20260509205332.png]]
+
 ## Management
 
 ![|650](z_attachments/650.png)
@@ -78,8 +83,8 @@ Extraintestinal signs:
 
 ##### Mild to moderate acute
 
-- Aminosalicylate (mesalazine) - 1st line
-- Corticosteroids (prednisolone) - 2nd line
+- Rectal then oral aminosalicylate (mesalazine) - 1st line
+- Corticosteroids (prednisolone) - 2nd line after 4 weeks
 
 ##### Severe acute
 

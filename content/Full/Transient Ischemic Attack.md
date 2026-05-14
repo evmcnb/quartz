@@ -2,10 +2,10 @@
 tags: [Neurology, Cardiovascular]
 title: Transient Ischemic Attack
 date created: Wednesday, October 4th 2023, 12:34:39 pm
-date modified: Saturday, May 9th 2026, 3:00:12 pm
+date modified: Thursday, May 14th 2026, 12:08:28 pm
 date: 2023-10-05
 ---
-Ischaemic usually embolic neurological event with symptoms that resolve within 24hr
+Ischaemic usually embolic neurological event with symptoms that resolve within 24hr - definition based on **lack of ischemic changes on CT**
 
 **Without intervention 1 in 12 patients subsequently have a [[Full/Stroke]] within a week**
 
@@ -21,11 +21,13 @@ Specific to the arterial territory involved
 
 ## Diagnostic Tests
 
-- CT/MRI - within 24 hours of assessment 
-- Echo
+1. CT/MRI - within 24 hours of assessment 
+2. Carotid doppler (everyone) $\pm$ angiography later
+3. Echo (if AF/other cardiac causes)
+
 - FBC, ESR, U&Es, glucose, lipids,
 - ECG
-- Carotid doppler $\pm$ angiography
+
 
 ## Management
 

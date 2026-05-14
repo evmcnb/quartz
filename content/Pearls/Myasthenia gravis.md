@@ -30,6 +30,9 @@ The key feature is muscle fatiguability - muscles become progressively **weake
 - antibodies to acetylcholine receptors
 - Tensilon test: IV edrophonium reduces muscle weakness temporarily - not commonly used any more due to the risk of cardiac arrhythmia
 
+> [!info] Respiratory Function
+> Neuromuscular disorders result in a restrictive pattern on pulmonary function tests
+
 ### Management
 
 - long-acting acetylcholinesterase inhibitors

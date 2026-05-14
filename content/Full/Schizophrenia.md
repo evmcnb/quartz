@@ -2,14 +2,15 @@
 tags: [Psychiatry]
 title: Schizophrenia
 date:
-date modified: Monday, April 20th 2026, 3:50:51 pm
+date modified: Wednesday, May 13th 2026, 5:32:36 pm
 date created: Friday, February 6th 2026, 4:57:46 pm
 ---
 
 Severe [[Pearls/Psychotic Disorders|psychotic disorder]] basically chronic [[Pearls/Psychosis|Psychosis]]. Presents between the ages 15-30, earlier in men.
-- Psychosis <6 months: Schizophreniform disorder
-- Psychosis 6 months+: **Schizophrenia**
+- **Symptoms lasting at least 1 month** (active phase): Schizophrenia
 - Psychosis + depression and mania: Schizoaffective disorder 
+
+
 ![[z_attachments/Psych diffs(3).png]]
 
 
@@ -22,6 +23,9 @@ Severe [[Pearls/Psychotic Disorders|psychotic disorder]] basically chronic [[Pea
 - Age 15-25
 - 2nd generation immigrant
 - **Very rare in those under 10**
+
+> [!danger] Mental Health History
+> In a history you **MUST** ask about family history and drug use. These are the core risk factors
 
 #### Poor prognostic indicators
 

@@ -23,11 +23,11 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 - Spicy foods 
 
 **Bleeding risk from ulcer**
-- NSAIDs
-- [[Pearls/Aspirin|Aspirin]]
+- NSAIDs - continue low dose aspirin
 - [[Pearls/Anticoagulants|Anticoagulants]]
 - Steroids
 - SSRIs 
+- **Bisphosphonates**
 ## Presentation
 
 - Epigastric discomfort

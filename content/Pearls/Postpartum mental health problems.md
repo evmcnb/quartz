@@ -8,8 +8,8 @@ date created: Wednesday, December 31st 2025, 12:31:51 pm
 ---
 
 Spectrum of illness:
-- **Baby blues** - seen in 60-70% of women in the first week or so after birth
-- **Postnatal depression** seen in 10% of women with peak at 3 months after birth
+- **Baby blues** - seen in 60-70% of women in the **first week** or so after birth
+- **Postnatal depression** seen in 10% of women with peak at **3 months** after birth
 - **Puerperal psychosis** seen in about 1 in 10,000 women starting within 2 weeks after birth
 
 **Edinburgh Postnatal Depression Scale** may be used to screen - > 90% sensitivity and specificity

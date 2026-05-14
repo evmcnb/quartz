@@ -7,6 +7,7 @@ tags: ['Drug']
 
 
 Dependant
+- **Warfarin**
 * **[[Pearls/Phenytoin|Phenytoin]]**
 * **Theophylline**
 * **[[Pearls/Carbamazepine|Carbamazepine]]**

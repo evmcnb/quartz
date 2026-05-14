@@ -14,7 +14,7 @@ date modified: 2025-04-23
 | [[Pearls/Benzodiazepine overdose\|Benzodiazepine overdose]]                  | Flumazenil                                                                                  |
 | Beta blockers                                                                | Glucagon for heart failure or cardiogenic shock<br><br>Atropine for symptomatic bradycardia |
 | Calcium channel blockers                                                     | Calcium chloride or calcium gluconate                                                       |
-| Cocaine                                                                      | Diazepam                                                                                    |
+| Cocaine                                                                      | IV diazepam                                                                                 |
 | Cyanide                                                                      | Dicobalt edetate                                                                            |
 | Methanol (e.g., solvents or fuels)<br><br>Ethylene glycol (e.g., antifreeze) | Fomepizole or ethanol (alcohol)                                                             |
 | Carbon monoxide                                                              | 100% oxygen                                                                                 |

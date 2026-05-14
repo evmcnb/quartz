@@ -33,3 +33,7 @@ Increased risk of:
 - [[Pearls/Birth Injuries#Facial paralysis|Facial nerve palsy]] with forceps
 
 Rarely some nerve injuries for the mother - [[Full/Upper and Lower Limb Neurological Exam|lower limb neurological exam]] if this is the case
+
+
+> [!danger] When to convert to LSCS
+> If there is no foetal descent following 3 pulls in an instrumental delivery, the procedure should be stopped and a LSCS performed.

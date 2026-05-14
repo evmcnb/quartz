@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Surgery]
 title: Cholecystitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 9th 2026, 3:57:26 pm
+date modified: Tuesday, May 12th 2026, 2:45:18 pm
 date: 2024-02-23
 ---
 Acute cholecystitis refers to the **acute inflammation** of the **gallbladder**, with 90% of cases being **secondary to gallstones**.
@@ -44,7 +44,7 @@ Gallstone blockage
 
 ## Management
 
-Patients are usually systemically unwell and require hospital admission for oral/IV antibiotics and surgery within 7 days of diagnosis
+Patients are usually systemically unwell and require hospital admission for oral/IV antibiotics and surgery within 1 week of diagnosis
 - antibiotics
 - Laparoscopic cholecystectomy
 

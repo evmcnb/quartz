@@ -128,7 +128,7 @@ Delay is when the active second stage lasts over:
 
 
 > [!tldr] OP/OA babies
-> Contents
+> A OP baby may spontaneously rotate to OA. If needed, forceps are associated with better outcomes to assist with this
 
 ### Stage 3
 

@@ -2,7 +2,7 @@
 tags: [Paediatrics, Psychiatry]
 title: Obsessive compulsive disorder
 date: 2023-09-27
-date modified: Tuesday, April 21st 2026, 10:31:01 am
+date modified: Monday, May 11th 2026, 11:58:11 am
 date created: Thursday, January 22nd 2026, 5:09:25 pm
 aliases: [OCD]
 ---
@@ -31,5 +31,5 @@ Risk factors:
 
 Need to classify impairment to mild, moderate severe:
 - Mild: CBT and exposure and response prevention (ERP). If fails offer course of SSRI
-- Moderate: choice of SSRI (fluoxetine) or clomipramine or more intensive CBT including ERP.
+- Moderate: choice of SSRI (fluoxetine) or clomipramine (dry mouth and weight gain) or more intensive CBT including ERP.
 - Severe: Refer to secondary care mental health team for assessment. Offer the above while waiting for assessment

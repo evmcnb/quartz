@@ -21,7 +21,7 @@ The initial **_thyrotoxic phase_** involves:
 - Raised inflammatory markers (CRP and ESR)
 - Globally reduced uptake of iodine-131
 
-It is a self-limiting condition, and supportive treatment is usually all that is necessary. This may involve:
+It is a self-limiting condition, and **supportive treatment** is usually all that is necessary. This may involve:
 
 - **_NSAIDs_** for symptoms of pain and inflammation 
 - **_Beta blockers_** for the symptoms of [[Pearls/Hyperthyroidism|Hyperthyroidism]]

@@ -1,10 +1,8 @@
 ---
-tags:
-  - Neurology
-  - Cardiovascular
+tags: [Neurology, Cardiovascular]
 title: Extradural haematoma
 date created: Wednesday, October 4th 2023, 4:29:12 pm
-date modified: 2024-03-11
+date modified: Thursday, May 14th 2026, 12:10:04 pm
 date: 2023-10-05
 ---
 Beware deteriorating consciousness after any head injury that initially produced no LOC or after initial drowsiness seems to have resolved. This lucid interval pattern is typical of extradural bleeds

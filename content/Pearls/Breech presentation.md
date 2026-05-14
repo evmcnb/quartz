@@ -8,6 +8,12 @@ date created: Monday, December 29th 2025, 4:39:27 pm
 
 When the presenting part of the fetus is the legs and bottom. This is opposed top the **cephalic presentation** where the head is the presenting part.
 
+Risk factors:
+- Prematurity
+- Multiple gestations
+- Uterine anomalies ([[Pearls/Fibroids|Fibroids]])
+- Abnormal amniotic fluid levels (poly/oligo)
+
 Most babies at breech before 36 weeks turn spontaneously so no intervention is often needed. 
 ##### Types of Breech
 

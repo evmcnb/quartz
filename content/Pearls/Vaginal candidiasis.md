@@ -29,7 +29,7 @@ Can be a **clinical diagnosis** - high vaginal swab is not routinely indicated.
 **Management**:
 - Avoid local irritants - tight fitting clothes, scented products etc
 - Oral fluconazole 150mg single dose
-- Clotrimazole 500mg intravaginal pessary as a single dose if cannot take fluconazole (e.g. pregnancy)
+- Clotrimazole 500mg intravaginal pessary as a single dose if cannot take fluconazole (e.g. **pregnancy**, risk of congenital malformations)
 - If there are vulval symptoms, consider adding topical imidazole
 
 If pregnant, then only local treatments may be used. 

@@ -7,7 +7,9 @@ date created: Saturday, December 27th 2025, 12:08:05 pm
 ---
 
 ##### Nutritional supplements
-- Folic acid 400 mcg should be given from before conception until 12 weeks - reduces the risk of neural tube defects. Some may require higher doses (women who take anti-epileptics or have [[Pearls/Sickle Cell Disease|Sickle Cell Disease]])
+- Folic acid 400 mcg should be given from before conception until 12 weeks - reduces the risk of neural tube defects. 
+- Some may require higher doses (women who take anti-epileptics or have [[Pearls/Sickle Cell Disease|Sickle Cell Disease]])
+- Those with a 25 < BMI < 30 can take 400 mcg **outside this range** 5mg
 - Women with folate deficiency are started on folic acid 5mg daily.
 - Iron supplementation should **not** be offered routinely
 - Vitamin A supplementation might be teratogenic (intake above 700 mcg). Liver is high in vitamina A so should be avoided

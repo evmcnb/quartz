@@ -8,7 +8,7 @@ tags: ['Endocrinology']
 
 Diabetes typically leads to sensory loss and not motor loss
 
-* Autonomic - sweating
+* Autonomic - sweating, gastroparesis (domperidone to treat)
 * Somatic - movement
 * Sensory - decreased sensation in stocking distribution
 

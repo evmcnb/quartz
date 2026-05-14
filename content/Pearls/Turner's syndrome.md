@@ -19,6 +19,7 @@ Features:
 - Coarctation of the aorta (systolic murmur) -  *The aorta does a sharp TURN in turners*
 - Bicuspid aortic valve
 - Horse-shoe kidneys 
+- Increased risk of [[Pearls/The Hemophilias|The Hemophilias]] due to genetics
 
 
 Somatotropin, or recombinant human growth hormone can help with growth

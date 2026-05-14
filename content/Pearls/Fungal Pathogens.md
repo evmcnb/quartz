@@ -1,5 +1,5 @@
 ---
-title: "Fungal Pathogens"
+title: Fungal Pathogens
 date created: Saturday, January 20th 2024, 12:08:55 AM
 date modified: 2024-01-20 00:09:44.415473+00
 tags: ['InfectiousDisease']

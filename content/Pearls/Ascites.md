@@ -6,8 +6,9 @@ tags: ['Gastroenterology', 'Hepatology']
 ---
 
 * **Sodium and water retention** - peripheral arterial vasodilation which causes a reduction in BV. This reduction activates the RAAS promoting retention
-* **Portal hypertension** - local hydrostatic pressure leading to increase hepatic and splanchnic production of lymph and transduction of fluid into the peritoneal cavity. A high SAAG gradient (> 11g/L) indicates portal hypertension
+* **Portal hypertension** - local hydrostatic pressure leading to increase hepatic and splanchnic production of lymph and transduction of fluid into the peritoneal cavity. A high SAAG gradient (> 11g/L) indicates portal hypertension ([[Full/Alcohol-related Liver Disease|Alcohol-related Liver Disease]], [[Full/Non-alcoholic Fatty Liver Disease|Non-alcoholic Fatty Liver Disease]])
 * **Low serum albumin** (due to poor liver function) further reduces plasma oncotic pressure
+* [[Full/Ovarian Tumours|Ovarian cancer]] causes ascites with low SAAG. 
 
 
 |                |                                                                                                                                                                                               |
@@ -18,9 +19,9 @@ tags: ['Gastroenterology', 'Hepatology']
 
 Urine sodium rarely exceeds 5mmol/24hr and extrarenal sites account for ≈ 30mmol/24hr. Under these circumstances a normal sodium intake of 120-200mmol results in a positive sodium balance of 90-170mmol (600-1300mL of fluid retained)
 
-Aim to reduce sodium intake and increase renal excretion
+Aim to **reduce sodium intake** and increase renal excretion
 
-* Dietary sodium restriction
+* Dietary **sodium restriction**
 * Main drugs contain significant amount of sodium (if they are in a salt form) esp antacids and antibiotics. Sodium retaining drugs include NSAIDs and corticosteroids
 * Diuretics - spironolactone 100mg daily - aim to produce a net loss of 700ml fluid a day
 

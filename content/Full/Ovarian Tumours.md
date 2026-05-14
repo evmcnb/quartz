@@ -133,3 +133,7 @@ All pateints managed through gynaecological oncology MDT. Definitive treatment:
 Targeted therapies used for maintenance: 
 - PARP-inhibitors – in patients with BRCA mutations
 - VEGF inhibitors – in selected patients with stage 4 disease
+
+## Complications
+
+- If peritoneal masses, can cause [[Pearls/Ascites|Ascites]] with low serum ascites albumin gradient (SAAG). 

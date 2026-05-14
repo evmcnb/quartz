@@ -2,8 +2,7 @@
 title: ECG Lead Placement & Interpretation
 date created: Saturday, October 14th 2023, 9:07:50 pm
 date modified: 2024-03-11
-tags:
-  - Cardiovascular
+tags: [Cardiovascular]
 date: 2024-01-14
 ---
 
@@ -188,6 +187,7 @@ Torsades de pointes
 
 #### Digoxin effect
 
+Hockey stick appearance, biphasic T waves, U waves, PR prolongation
 ![[z_attachments/Pasted image 20231014222212.png]] ^20b905
 
 #### Left Ventricular Hypertrophy

@@ -23,7 +23,7 @@ Causes
 
  Investigations - starting routine progressing to rarer
 - Semen analysis
-- Proof of ovulation: serum progesterone **7 days prior** to next period - to see if ovulation has occurred (day 21 for 28 day cycle)
+- Proof of ovulation: serum **progesterone** **7 days prior** to next period - to see if ovulation has occurred (day 21 for 28 day cycle)
 - Proof of normal uterus: pelvic scan
 - Proof of tubal potency: laparoscopy and dye
 

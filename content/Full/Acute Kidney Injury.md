@@ -22,35 +22,70 @@ Any of the following define an AKI:
 
 Lots of risk factors like age 75+, [[Full/Diabetes Mellitus]], [[Full/Heart Failure]], etc
 
-**Pre-renal** - something causes $\downarrow$ BP
+##### **Pre-renal** - something causes $\downarrow$ BP
 
-- vomiting
-- Diarrhoea
-- Diuretics
-- Haemorrhage
-- Burns
-- Renal Artery Stenosis
+|Cause|Common triggers|Symptoms|Examination|Urine|Key labs / findings|
+|---|---|---|---|---|---|
+|Hypovolaemia|Haemorrhage, vomiting, diarrhoea, burns, diuretics|Thirst, dizziness, oliguria, weakness|↓BP, postural hypotension, tachycardia, dry mucosae, ↓skin turgor, sunken eyes|Oliguria; Na <20 mmol/L; FeNa <1%; SG >1.020; dark, concentrated|↑Urea:Cr ratio (>100:1); ↑haematocrit; responds to fluid challenge|
+|Cardiorenal syndrome|Heart failure, cardiogenic shock, post-MI|Dyspnoea, orthopnoea, fatigue, oedema|↑JVP, S3 gallop, bilateral crackles, peripheral oedema, ↓CO|Oliguria; FeNa <1%; Na <20; concentrated|↑BNP/NT-proBNP; ↑troponin; CXR: pulmonary oedema; ECHO: ↓EF|
+|Hepatorenal syndrome|Decompensated cirrhosis, acute liver failure|Jaundice, abdominal distension, confusion (encephalopathy)|Ascites, caput medusae, spider naevi, palmar erythema, asterixis, jaundice|Oliguria; FeNa <1%; very Na-avid; bland urine|↑Bilirubin, ↑INR, ↓albumin; no improvement with volume alone; exclude other causes|
+|NSAID / ACEi / ARB|Drugs in setting of low effective circulating volume|Often asymptomatic; oliguria|May be euvolaemic or hypovolaemic|FeNa <1%; concentrated|Reversible on drug withdrawal; ↑K⁺ with ACEi/ARB; especially risky with triple whammy (ACEi + ARB/diuretic + NSAID)|
 
-**Intrinsic** - something within the kidney
 
-- **NSAIDS**
-- Nephrotoxins
-- [[Full/Glomerulonephritis]]
-- Vascular
+
+
+##### **Intrinsic** - something within the kidney
+
+**Tubular**
+
+| Cause                        | Common triggers                                                                                         | Symptoms                                                                                | Examination                                                                  | Urine                                                                                                  | Key labs / findings                                                                             |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| Acute tubular necrosis (ATN) | Prolonged ischaemia (any pre-renal cause); aminoglycosides, contrast, cisplatin, myoglobin, haemoglobin | Oliguria (or non-oliguric); nausea; fluid overload if severe. Normal anion gap acidosis | Variable; may be euvolaemic; signs of precipitant (e.g. sepsis, hypotension) | Muddy brown granular casts; renal tubular epithelial cells; FeNa >2%; Na >40; isosthenuria (SG ~1.010) | Classic three phases: oliguric → diuretic → recovery. ↑FENa; urine:plasma osm ~1:1              |
+| Rhabdomyolysis               | Trauma, prolonged immobilisation, statins, alcohol, seizures, extreme exercise                          | Muscle pain, weakness, dark "coca-cola" urine, oliguria                                 | Muscle tenderness, swelling; compartment syndrome features                   | Dipstick +ve for blood; no RBCs on microscopy; myoglobinuria; granular casts                           | ↑↑CK (>1000 U/L; often >10,000); ↑K⁺, ↑phosphate, ↓Ca²⁺ (early), ↑Ca²⁺ (late); ↑uric acid; ↑LDH |
+| Contrast nephropathy         | IV iodinated contrast in high-risk patients (CKD, DM, elderly, dehydration)                             | Usually asymptomatic; rise in Cr 24–72 h post-contrast                                  | No specific signs                                                            | Granular casts; FeNa may be <1% initially                                                              | Cr peaks at 3–5 days, usually returns to baseline by 7–10 days; ↓GFR                            |
+
+
+
+**Interstitial**
+
+|Cause|Common triggers|Symptoms|Examination|Urine|Key labs / findings|
+|---|---|---|---|---|---|
+|Acute interstitial nephritis (AIN)|Drugs (penicillins, NSAIDs, PPIs, sulfonamides, rifampicin); infections; autoimmune (sarcoid, SLE)|Flank pain, fever, rash (classic triad in only ~10%); oliguria|Fever; maculopapular rash; flank tenderness; no specific signs in drug-induced|WBC casts; eosinophiluria (not reliable); sterile pyuria; mild proteinuria; haematuria|↑Eosinophils in blood; FeNa >1%; ↑IgE; renal biopsy gold standard (interstitial lymphocytes/eosinophils); resolves with drug withdrawal ± steroids|
+
+**Glomerular**
+
+|Cause|Common triggers|Symptoms|Examination|Urine|Key labs / findings|
+|---|---|---|---|---|---|
+|Rapidly progressive GN (RPGN)|Anti-GBM (Goodpasture), ANCA vasculitis (GPA, MPA), immune-complex (post-strep, IgA, SLE, cryoglobulinaemia)|Haematuria, frothy urine, oedema, hypertension; haemoptysis (Goodpasture/GPA); systemic features (rash, arthralgia, sinusitis)|Hypertension; oedema; signs of systemic vasculitis (purpura, saddle-nose deformity, episcleritis)|RBC casts; dysmorphic RBCs; nephritic ± nephrotic range proteinuria; haematuria|Anti-GBM Ab; ANCA (cANCA/PR3, pANCA/MPO); ↓C3/C4 (lupus, post-strep); ANA/anti-dsDNA; ASO titre; cryoglobulins; renal biopsy: crescents|
+
+**Vascular**
+
+|Cause|Common triggers|Symptoms|Examination|Urine|Key labs / findings|
+|---|---|---|---|---|---|
+|Thrombotic microangiopathy (TMA)HUS / TTP|HUS: STEC (E. coli O157:H7), pneumococcal; TTP: ADAMTS13 deficiency; atypical HUS: complement dysregulation|Bloody diarrhoea (STEC-HUS); purpura; neurological sx (TTP); oliguria|Pallor, jaundice, petechiae/purpura, neurological signs (TTP); hypertension|Haematuria; mild proteinuria; haemoglobinuria|Microangiopathic haemolytic anaemia (↑LDH, ↓haptoglobin, schistocytes); thrombocytopaenia; ↑Cr; Coombs negative; ↓ADAMTS13 (TTP)|
+|Renal artery occlusion / RAS|Thromboembolism, aortic dissection, bilateral renal artery stenosis (with ACEi/ARB)|Acute flank/abdominal pain; nausea; hypertension|Abdominal bruit; hypertension; signs of embolic source (AF, endocarditis)|Proteinuria; haematuria; FeNa variable|↑LDH; ↑AST; ↑CRP; CT angiography diagnostic; renal USS: ↓Doppler flow|
+|Malignant hypertension|Uncontrolled/untreated hypertension|Severe headache, visual disturbance, chest pain, oliguria|BP >180/120; papilloedema; retinal flame haemorrhages; hypertensive encephalopathy|Proteinuria; haematuria; haemoglobinuria; occasional casts|Microangiopathic features; ↑Cr; ↑LDH; ECG: LVH; Echo: LVH, ↓EF|
+
+
+
 
 **Post-renal**
 
-- Kidney stones
-- Tumours
-- Retroperitoneal fibrosis
+|Cause|Common triggers|Symptoms|Examination|Urine|Key labs / findings|
+|---|---|---|---|---|---|
+|Urinary tract obstruction|BPH, prostate/cervical/bladder cancer, retroperitoneal fibrosis, bilateral ureteric stones, pelvic malignancy, neurogenic bladder|Suprapubic pain, loin-to-groin pain (stones), haematuria, LUTS (hesitancy, poor flow, frequency), oliguria or anuria; paradoxical polyuria can occur|Palpable bladder (if lower tract); palpable kidneys (hydronephrosis); PR: enlarged/hard prostate; pelvic mass|Variable — may be normal; haematuria; FeNa often >1% in established obstruction; may have WBCs (infection)|Renal USS: hydronephrosis ± hydroureter (first-line imaging); post-void residual >300 mL; ↑K⁺, ↑Cr; p|
 
 
-| **Medications**                                                                                                                   | **Nephrotoxic effect** | **Mechanism**                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------- |
-| **ACE inhibitors**<br><br>**Angiotensin receptor blockers (ARBs)**<br><br>**Cyclosporin**<br><br>**NSAIDs**<br><br>**Tacrolimus** | GFR alteration         | Affect the vascular tone of the afferent and efferent arterioles, altering interglomerular blood flow |
-| **Aminoglycosides**<br><br>**Amphotericin B**<br><br>**Cisplatin**                                                                | Tubular cell toxicity  | Direct toxicity to the epithelial cells of the proximal convoluted tubules                            |
-| **NSAIDs**<br><br>**Rifampin**                                                                                                    | Interstitial nephritis | Inflammatory reaction within the interstitium of the kidney                                           |
-| **Acyclovir**<br><br>**Ampicillin**                                                                                               | Crystal nephropathy    | Can result in precipitates of insoluble crystals                                                      |
+> [!important] Important Medications
+> 
+> 
+> | **Medications**                                                                                                                   | **Nephrotoxic effect** | **Mechanism**                                                                                         |
+> | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------- |
+> | **ACE inhibitors**<br><br>**Angiotensin receptor blockers (ARBs)**<br><br>**Cyclosporin**<br><br>**NSAIDs**<br><br>**Tacrolimus** | GFR alteration         | Affect the vascular tone of the afferent and efferent arterioles, altering interglomerular blood flow |
+> | **Aminoglycosides**<br><br>**Amphotericin B**<br><br>**Cisplatin**                                                                | Tubular cell toxicity  | Direct toxicity to the epithelial cells of the proximal convoluted tubules                            |
+> | **NSAIDs**<br><br>**Rifampin**                                                                                                    | Interstitial nephritis | Inflammatory reaction within the interstitium of the kidney                                           |
+> | **Acyclovir**<br><br>**Ampicillin**                                                                                               | Crystal nephropathy    | Can result in precipitates of insoluble crystals                                                      |
+
 
 ## Clinical Presentation
 

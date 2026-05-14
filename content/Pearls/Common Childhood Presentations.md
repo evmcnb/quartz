@@ -2,7 +2,7 @@
 tags: [Paediatrics]
 title: Common Childhood Presentations
 date: 2023-09-27
-date modified: Sunday, March 8th 2026, 6:00:51 pm
+date modified: Wednesday, May 13th 2026, 5:38:06 pm
 date created: Sunday, March 8th 2026, 4:55:38 pm
 ---
 |                                      | **Infant** | **1-2 years** | 2-5 years** | **5-12 years** | **Adolescent** |

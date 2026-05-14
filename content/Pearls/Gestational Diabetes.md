@@ -15,6 +15,7 @@ Anyone with risk factors should be screen with an oral glucose tolerance test at
 - BMI >30 
 - Previous gestational diabetes
 - Previous macrosomic baby weighing 4.5kg or above 
+- 1st degree relative with diabetes
 
 Thresholds for diagnosis:
 - Fasting glucose $\geq$ 5.6 mmol/L

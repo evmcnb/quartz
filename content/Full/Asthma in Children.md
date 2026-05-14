@@ -118,7 +118,6 @@ MDI technique with a spacer:
 | SpO2 > 92%  <br>No clinical features of severe asthma | SpO2 < 92%  <br>Too breathless to talk or feed  <br>Heart rate > **140/min**  <br>Respiratory rate > **40/min**  <br>Use of accessory neck muscles | SpO2 <92%  <br>Silent chest  <br>Poor respiratory effort  <br>Agitation  <br>Altered consciousness  <br>Cyanosis |
 
 #### Children 5+ 
-and adults
 
 | **Moderate attack**                                                                         | **Severe attack**                                                                                                                                                                                                              | **Life-threatening attack**                                                                                                             |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
@@ -138,6 +137,11 @@ Steroid therapy
 - should be given to all children with an asthma exacerbation
 - treatment should be given for 3-5 days
 
+|**Age**|**Dose as per BTS**|**Dose as per cBNF**|
+|---|---|---|
+|2 - 5 years|20 mg od|1-2 mg/kg od (max 40mg)|
+|> 5 years|30 - 40 mg od|1-2 mg/kg od (max 40mg)|
+
 #### Severe to Life-threatening
 
 Same principles as adults. 
@@ -156,7 +160,7 @@ Low threshold to intubate a patient with life-threatening asthma.
 
 ### Step down
 
-Discharge is considered when the patient is stable on four hourly inhalers. First 4 puffs 6 hourly, then 2 puffs. 
+Discharge is considered when the patient is stable on four hourly inhalers and PEF should be >75% of best or predicted. First 4 puffs 6 hourly, then 2 puffs. 
 - Continue oral pred started in hospital for 3-5 days
 - Add on a regular ICS 
 - Optimize home environment

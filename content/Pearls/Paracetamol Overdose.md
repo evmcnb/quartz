@@ -1,5 +1,5 @@
 ---
-title: "Paracetamol Overdose"
+title: Paracetamol Overdose
 date created: 2024-04-16 20:18:23.037061+01
 date modified: 2024-04-16 20:18:23.044057+01
 tags: ['Hepatology', 'Drug']
@@ -14,6 +14,7 @@ tags: ['Hepatology', 'Drug']
 * Falling pH
 * ↑ creatinine
 * normal ALP and other factors not for hepatocyte damage
+* **respiratory alkalosis**
 
 N-acetylcystine dose: 150 mg/kg over 1 hour, then 50 mg/kg over 4 hours, then 100mg/kg over 16 hours
 

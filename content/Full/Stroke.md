@@ -2,7 +2,7 @@
 tags: [Neurology, Cardiovascular]
 title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 9th 2026, 3:02:41 pm
+date modified: Thursday, May 14th 2026, 1:20:36 pm
 date: Thursday, October 2nd 2025, 5:42:00 pm
 ---
 
@@ -113,8 +113,8 @@ For more on stroke localisation: [[Pearls/Stroke symptoms per artery|Stroke symp
 #### Definitive treatment 
 
 Proximal anterior circulation, proximal posterior circulation (PCA, Basilar). (ie. Large vessel occlusion):
-- Within 4.5hrs = thrombectomy + thrombolysis (alteplase or tenecteplase)
-- Within 6-24hrs AND potential to salvage brain tissue = thrombectomy alone  
+- Within 4.5hrs = **thrombectomy + thrombolysis** (alteplase or tenecteplase)
+- **Thrombectomy alone**, ideally within  6hrs, but within 24hrs IF potential to salvage brain tissue = 
 - Wake up stroke (unknown onset) = thrombectomy alone  
 
 Perfusion imaging (CT/MRI) needed if considering treatment beyond 6 hours.
@@ -133,7 +133,8 @@ Blood pressure should be lowered to 185/110 mmHg before thrombolysis.
 
 - 2 weeks of aspirin 300mg - risk of hemorrhagic transformation 
 - Then lifelong clopidogrel 75mg OD
-	- Aspirin 75mg OD second-line if clopidogrel is contraindicated
+	- **Second-line:** Aspirin 75mg plus modified-release dipyridamole 200mg BD (if clopidogrel is contraindicated or not tolerated)  
+	- **Third-line:** Aspirin 75mg alone (if both clopidogrel AND the combination are not tolerated)
 - Anticoagulation (AF), start after 14 days (Chad2Vasc2 score vs ORBIT - no guidelines just clinical judgement)
 - 80mg atorvastatin, if cholesterol >3.5 mmol/L (delay 48h if needed)
 
@@ -163,6 +164,11 @@ For haemorrhagic confirmed :
 - Monitor mood
 - Drugs - High dose statins: , anticoagulation in AF: DOAC, [[Pearls/Anti-platelets|Anti-platelets]], anti-diabetics 
 - Do not drive for 1 month
+
+
+> [!tldr] Barthel Index
+> The Barthel index is a scale that measures disability or dependence in activities of daily living in stroke patients
+
 
 ## Specific Strokes
 

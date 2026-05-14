@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 7th 2026, 9:14:30 am
+date modified: Thursday, May 14th 2026, 7:22:20 pm
 date: 2024-01-14
 ---
 
@@ -164,7 +164,7 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 **Microvascular**
 
 - [[Full/Diabetic eye disease]] - regular eye test
-- Neuropathy - regular foot exam / nerve conduction. There are four options for **_neuropathic pain_** (e.g., [[Pearls/Diabetic neuropathy|Diabetic neuropathy]]):
+- [[Pearls/Diabetic neuropathy|Diabetic neuropathy]] - regular foot exam / nerve conduction. There are four options for **_neuropathic pain_** (e.g., [[Pearls/Diabetic neuropathy|Diabetic neuropathy]]):
 	- **_Amitriptyline_** – a tricyclic antidepressant
 	- **_Duloxetine_** – an SNRI antidepressant
 	- **_Gabapentin_** – an anticonvulsant
@@ -180,13 +180,15 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 
 ### Hyperosmolar hyperglycaemic state 
 
-Rare but potentially fatal complication. 
+Rare but potentially fatal complication. **Relative** insulin deficiency - enough to supress fat breakdown (no ketones) but not enough to control the severe hyperglycaemia 
 
 **Hyperosmolality** - water loss leading to very concentration blood
 **Hyperglycaemia** - with the absence of key tones - different from [[Full/Diabetic ketoacidosis]]
 
 - Presentation: polyuria + polydipsia, weight loss, dehydration, tachycardia, hypotension, confusion
 - Medical emergency - escalate. **Treat with IV fluids**
+
+
 
 ### Diabetes in Children
 

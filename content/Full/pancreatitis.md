@@ -2,7 +2,7 @@
 tags: [Surgery, Endocrinology]
 title: pancreatitis
 date created: Wednesday, October 11th 2023, 2:06:18 pm
-date modified: Saturday, May 9th 2026, 3:46:45 pm
+date modified: Thursday, May 14th 2026, 7:05:59 pm
 date: 2024-01-14
 ---
 Acute - gland reverts to normal if underlying cause removed 
@@ -27,7 +27,7 @@ Chronic - irreversible loss of tissue
 *  Mild - swollen gland with fat necrosis
 - Severe - swollen, necrotic gland and haemorrhage (Grey Turner's and Cullen's sign)
 - Pseudocysts (full of pancreatic juice)
-- Drugs - [[Pearls/Furosemide|Furosemide]], [[Pearls/Thiazide diuretics|Thiazide diuretics]], azathioprine 
+- Drugs - azathioprine, mesalazine, didanosine, bendroflumethiazide, [[Pearls/Furosemide|Furosemide]], pentamidine, sodium valproate
 
 
 Chronic pancreatitis results in fibrosis and reduced function. Alcohol is the most common cause. 
@@ -37,7 +37,20 @@ Chronic pancreatitis results in fibrosis and reduced function. Alcohol is the mo
 
 Gallstones (50%), alcohol (25%), idiopathic (10%)
 
-![[z_attachments/Pasted image 20231011141201.png|450]]
+**I GET SMASHED**
+- **I**diopathic
+
+- **G**allstones
+- **E**thanol
+- **T**rauma
+
+- **S**teroids
+- **M**umps (other viruses include Coxsackie B)
+- **A**utoimmune (e.g. polyarteritis nodosa), **A**scaris infection
+- **S**corpion venom
+- **H**ypertriglyceridaemia, **H**yperchylomicronaemia, **H**ypercalcaemia, **H**ypothermia
+- **E**RCP
+- **D**rugs (azathioprine, mesalazine, didanosine, bendroflumethiazide, furosemide, pentamidine, sodium valproate)
 
 ## Symptoms
 

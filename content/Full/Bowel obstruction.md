@@ -2,7 +2,7 @@
 tags: [Surgery, Acute]
 title: Bowel obstruction
 date created: Friday, February 16th 2024, 3:42:32 pm
-date modified: Tuesday, February 24th 2026, 9:12:04 am
+date modified: Thursday, May 14th 2026, 2:26:51 pm
 date: 2024-02-16
 ---
 Small bowel obstruction is more common
@@ -40,12 +40,16 @@ Might occur with:
 - Absolute constipation and lack of flactulence
 - "Tinkling" bowel sounds may be heard in early obstruction
 
+
 ## Investigations
+
+**CT is gold-standard**
 
 - Abdo XR
 	- Large bowel touch the peripheries and have lines that **do not** go completely across the bowel (haustra)
 	- Small bowel usually don't extend to the peripheries but have lines that **do** extend the full length (valvulae conniventes)
 - Erect chest XR - to check for pneumoperitoneum (bowel perforation)
+- Bloods - can cause a raised amylase. Need to exclude [[Full/pancreatitis|pancreatitis]] 
 
 Small [[Pearls/Bowel Obstruction|Bowel Obstruction]] (coiled-spring appearance)
 

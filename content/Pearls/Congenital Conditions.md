@@ -89,3 +89,11 @@ In pregnancy it can lead to **_congenital Zika syndrome_**, which involves:
 - **_Other intracranial abnormalities_**, such as **_ventriculomegaly_** and **_cerebellar atrophy_**
 
 Pregnant women who may have contracted the Zika virus can be tested with **_viral PCR_** and **_antibodies to the Zika virus_**. Women with a positive result should be referred to fetal medicine to monitor the pregnancy. There is no treatment for the virus.
+
+
+## Diaphragmatic Hernia
+
+![[z_attachments/Pasted image 20260509210025.png|461]]
+
+- Needs NICU support - intubated 
+- Surgery to correct

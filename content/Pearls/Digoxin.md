@@ -1,5 +1,5 @@
 ---
-title: "Digoxin"
+title: Digoxin
 date created: 2024-04-08 18:43:45.590972+01
 date modified: 2024-05-16 13:36:15.862127+01
 tags: ['Cardiovascular', 'Drug']

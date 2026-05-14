@@ -30,6 +30,11 @@ Clinical features:
 - fetal heart: absent/distressed
 - coagulation problems 
 
+
+> [!info] Point to remember
+> Placental abruption has a spectrum of severity. It can be possible to not be bleeding a whole lot and be hemodynamically well!
+
+
 ### Management: 
 
 - Fetus alive and distressed: **immediate C-section**

@@ -2,7 +2,7 @@
 tags: [Neurology]
 title: Meningitis
 date:
-date modified: Saturday, May 2nd 2026, 10:57:53 am
+date modified: Thursday, May 14th 2026, 1:52:40 pm
 date created: Thursday, November 20th 2025, 8:37:07 pm
 ---
 
@@ -73,7 +73,7 @@ CT scan is not normally indicated **unless** there are signs of $\uparrow$ ICP
 
 Bacterial causes - medical emergency. See guidelines for specifics:
 - IM Benpen in GP
-- When in hospital - if <3 months or >50 years = IV ceftriaxone + amox (for listeria cover)
+- When in hospital - if <3 months or >60 years = IV ceftriaxone + amox (for listeria cover)
 - Otherwise in **hospital** IV ceftriaxone
 
 
@@ -105,3 +105,7 @@ Hearing loss is the most common complication
 ### Contact Tracing
 
 Contact trace all close contacts within 7 days and offer oral [[Pearls/Ciprofloxacin|Ciprofloxacin]] usually or rifampicin
+
+Benzyl – P – enicillin --> Pre-hospital treatment (e.g. GP)  
+Cefo – T – axime --> T - reatment  
+Ci – Pro– floxacin --> Pro - phylaxis

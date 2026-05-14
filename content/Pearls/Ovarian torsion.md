@@ -25,4 +25,4 @@ Partial or complete torsion of the ovary on its supporting ligaments that may co
 
 Ultrasound shows **whirlpool sign**
 
-Laparoscopy for diagnosis and treatment
+Laparoscopy **gold-standard** for diagnosis and treatment

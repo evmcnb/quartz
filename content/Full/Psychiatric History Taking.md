@@ -95,7 +95,7 @@ Collateral history is also very useful to know how they've changed
 
 Anxiety is an unpleasant physical and psychological set of symptoms that occur in response to a potential/uncertain threat. 
 
-There are several anxiety disorders, including [[Full/Generalised anxiety disorder]], specific phobias and panic disorder.
+There are several anxiety disorders, including [[Full/Anxiety Disorders]], specific phobias and panic disorder.
 
 - "Have you been worrying a lot about things recently?"
 - "Are you always anxious or does it happen at certain times?"

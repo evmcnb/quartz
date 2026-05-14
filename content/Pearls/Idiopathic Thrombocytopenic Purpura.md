@@ -14,6 +14,8 @@ Immune mediated reduction in the platelet count - type II hypersensitivity react
 > - Bruising
 > - Petechial or purpuric rash
 
+Often preceeded by a viral illness ([[Full/Infectious Mononucleosis|Infectious Mononucleosis]])
+
 Urgent FBC to investigate - low platelet with all other values normal. Other causes of thrombocytopenia should be excluded e.g. HIT and leukaemia 
 
 Usually no treatment required and 70% will spontaneously recover within 3 months. If actively bleeding or severely low:

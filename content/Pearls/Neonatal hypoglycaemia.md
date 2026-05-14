@@ -2,7 +2,7 @@
 tags: [Endocrinology, Paediatrics, Neonatology]
 title: Neonatal hypoglycaemia
 date: 2023-09-27
-date modified: Friday, March 6th 2026, 10:42:35 am
+date modified: Thursday, May 14th 2026, 7:14:59 pm
 date created: Friday, March 6th 2026, 10:40:32 am
 ---
 <2.6 mmol/L 
@@ -16,4 +16,4 @@ Management depends on the severity of the hypoglycaemia and if the newborn is sy
     - monitor blood glucose
 - symptomatic or very low blood glucose
     - admit to the neonatal unit
-    - intravenous infusion of 10% dextrose
+    - intravenous infusion of 10% dextrose ~2ml/kg

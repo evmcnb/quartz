@@ -58,7 +58,7 @@ Most common form of breast cancer in the UK - around 1 in 8 lifetime risk for wo
 - Multiple others
 ## Causes/Factors
 
-- Family history - first degree (BRCA1/2 gene)
+- Family history - first degree (BRCA1/2 gene, always heterozygous, prevalence in general population 0.001 per 1000)
 	- BRCA1 gene on chromosome 17
 		- Around 70% will develop breast cancer by 80
 		- Around 50% will develop [[Full/Ovarian Tumours|Ovarian Tumours]]
@@ -170,9 +170,9 @@ In women with breast cancer and no palpable lymphadenopathy, if a pre-operative 
 - **_Adjuvant chemotherapy_** – given after surgery to reduce recurrence
 - **_Treatment_** of metastatic or recurrent breast cancer
 
-**Drug treatment**
-- Tamoxifen for premenopausal 
-- Aromatase inhibitors for post 
+##### **Drug treatment** - adjuvant therapy only
+- Tamoxifen for premenopausal (partial oestrogen receptor antagonism)
+- Aromatase inhibitors for post (inhibition of peripheral oestrogen synthesis)
 
 ER positive
 - Fulvestrant (selective ER down regulator )

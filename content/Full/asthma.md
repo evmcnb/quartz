@@ -62,9 +62,9 @@ Children aged 5-16:
 - Then **_peak flow diary twice daily for 2 weeks_**
 - Then **_skin prick testing to house dust mite_** or **_bloods for total IgE and eosinophil count_**
 
-
 - ABG: $\downarrow PaO_2$ but also $\downarrow PaCO_2$ (hyperventilation)- \*\*if $\uparrow PaCO_2$ failing respiratory
 - Spirometry: decreased $FEV_1/FVC$ ratio
+- Normal/raised total gas transfer with raised transfer coefficient
 
 
 | **Moderate**                                                                                 | **Severe**                                                                                              | **Life-threatening**                                                                                                                                                                             |
@@ -151,6 +151,8 @@ See [[Full/RRAPID Conditions and Management#Full/asthma Asthma|here]]
 
 Transferring adults and children aged 12 years and over with uncontrolled asthma from other treatment pathways
 
+Adults with asthma who are poorly controlled on SABA prn + regularly ICS → regular low-dose regular ICS/formoterol combination inhaler (MART therapy)
+
 |Current treatment|Consider changing to|
 |---|---|
 |Regular low-dose ICS plus as-needed SABA|Low-dose MART|
@@ -163,3 +165,7 @@ Transferring adults and children aged 12 years and over with uncontrolled asthma
 |Regular moderate-dose ICS/LABA combination inhaler and LTRA or LAMA, or both, plus as-needed SABA|Moderate-dose MART, +/- LTRA, +/- LAMA|
 |Any regimen including high-dose ICS|Refer to asthma specialist|
 |**Note:** When changing from a regimen containing an LTRA or a LAMA, or both, to MART, consider whether to stop or continue the LAMA and/or LTRA based on the degree of benefit achieved when first introduced.|   |
+
+## Step-down treatment
+
+In the step-down treatment of asthma, aim for a reduction of 25-50% in the dose of inhaled corticosteroids

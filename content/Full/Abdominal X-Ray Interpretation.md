@@ -112,7 +112,13 @@ Rigler’s sign
 Features on XR include:
 
 - **Thumbprinting:** mucosal thickening of the haustra due to inflammation and oedema causing them to appear like thumbprints projecting into the lumen.
-- **Lead-pipe (featureless) colon:** loss of normal haustral markings secondary to chronic colitis.
+
+![[z_attachments/Pasted image 20260509204415.png|465]]
+
+- **Lead-pipe (featureless) colon:** loss of normal haustral markings secondary to chronic colitis ([[Full/Ulcerative Colitis|Ulcerative Colitis]]).
+
+![[z_attachments/Pasted image 20260509204502.png|430]]
+
 - **Toxic megacolon:** colonic dilatation without obstruction associated with colitis.
 
 ![|400](https://geekymedics.com/wp-content/uploads/2016/05/AXR-Toxic-Megacolon.jpg)

@@ -27,6 +27,6 @@ The first line investigation for this is a plasma aldosterone/renin ratio, which
 Management with a MRA - spironolactone, eplerenone
 
 Treat the underlying cause:
-- Bilateral idiopathic adrenal hyperplasia is the most common cause
+- **Bilateral idiopathic adrenal hyperplasia** is the most common cause
 - Stent renal artery if stenosed
 - Remove the adrenal if adenoma 20-30%.

@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Thursday, April 30th 2026, 12:53:51 pm
+date modified: Thursday, May 14th 2026, 1:33:19 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -46,7 +46,7 @@ Main principles of management
 
 - fluid replacement
     - most patients with DKA are deplete around 5-8 litres
-    - isotonic saline is used initially, even if the patient is severely acidotic
+    - isotonic saline is used initially, even if the patient is severely acidotic (no potassium)
     - please see an example fluid regime below.
 - insulin
     - an intravenous infusion should be started at 0.1 unit/kg/hour
@@ -101,6 +101,9 @@ A fixed rate insulin infusion (0.05-0.1 units/kg/hour) is started 1-2 hours afte
 - **Cerebral oedema** - look for reduced GCS 
 - Aspiration [[Full/pneumonia]] 
 - Hypo -kalacemia, -magnesaemia and -phosphataemia
+
+> [!warning] Senior escalation 
+> if the ketonaemia and acidosis have not been resolved within 24 hours then the patient should be reviewed by a senior endocrinologist
 
 - Plasma glucose is usually high but not always especially if [[Pearls/Insulin|Insulin]] continued
 - High WCC may be present without an infection 

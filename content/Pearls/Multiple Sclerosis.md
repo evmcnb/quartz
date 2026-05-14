@@ -1,7 +1,7 @@
 ---
-title: "Multiple Sclerosis"
+title: Multiple Sclerosis
 date created: Friday, February 23th 2024, 02:17:45 PM
-date modified: 2024-02-23 14:17:45.090769+00
+date modified: Tuesday, May 12th 2026, 2:28:00 pm
 tags: ['Neurology']
 ---
 
@@ -21,7 +21,7 @@ Episodes of neurological dysfunction including sensory disturbances, and coordin
 
 [[Full/Optic neuritis]] is the most common presentation of multiple sclerosis. Other eye issues/movements may be present
 
-Based on clinical symptoms supported by MRI and CSF
+Based on clinical symptoms supported by MRI and CSF. Gadolinium enhancing plaques of demyelination are the radiological and pathological hallmark on MRI
 
 * Disease modifying drugs - lots of immunomodulators
 * High dose steroids for relapses

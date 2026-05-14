@@ -2,7 +2,7 @@
 tags: [Surgery]
 title: Aortic aneurysm
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-date modified: Sunday, October 26th 2025, 11:10:41 am
+date modified: Thursday, May 14th 2026, 1:31:31 pm
 date: 2024-02-17
 ---
 
@@ -29,10 +29,12 @@ Two main types: Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA) and Thoracic
   - Often asymptomatic.
   - Abdominal or back pain.
   - Pulsatile abdominal mass.
+  - Infrarenal aorta most common
 - **Thoracic Aortic [[Pearls/Aneurysm|Aneurysm]] (TAA)**:
   - Chest or back pain.
   - Shortness of breath.
   - Hoarseness or difficulty swallowing.
+  - ascending aorta most common
 
 
 **Rupture**:

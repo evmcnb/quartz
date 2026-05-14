@@ -1,7 +1,7 @@
 ---
-title: "Laser photocoagulation"
-date created: 2024-04-11 17:58:22.828746+01
-date modified: 2024-04-11 17:58:22.834512+01
+title: Laser photocoagulation
+date created: Tuesday, November 25th 2025, 8:19:34 pm
+date modified: Tuesday, May 12th 2026, 2:45:20 pm
 tags: ['Ophthalmology']
 ---
 
