@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 5th 2026, 11:36:32 am
+date modified: Tuesday, May 19th 2026, 4:47:11 pm
 date: 2024-01-31
 ---
 
@@ -94,7 +94,7 @@ Initial:
 U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause [[Pearls/Hyperkalaemia|Hyperkalaemia]]
 
 **Other mortality benefits**:
-- Iron replacement -  FAIR-HF trial if ferritin <100 or ferritin <300 & transferrin sat <20%
+- **IV Iron** replacement -  FAIR-HF trial if ferritin <100 or ferritin <300 & transferrin sat <20%
 - ICD if <35% after 3 months therapy for ischemic, 6 for non-ischaemic
 - Cardiac resynchronisation therapy - sync both chambers back to increase EF 
 

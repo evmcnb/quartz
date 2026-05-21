@@ -1,7 +1,7 @@
 ---
-title: "Paracetamol"
-date created: 2024-04-13 16:45:20.496262+01
-date modified: 2024-04-13 16:45:20.502089+01
+title: Paracetamol
+date created: Tuesday, November 25th 2025, 8:19:42 pm
+date modified: Tuesday, May 19th 2026, 2:55:04 pm
 tags: ['Drug']
 ---
 

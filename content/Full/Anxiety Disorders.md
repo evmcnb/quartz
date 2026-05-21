@@ -39,7 +39,7 @@ I guess come under here - extreme fear of situations or things.
 
 1. Establish is treatment is needed
 2. Low intensity interventions
-3. CBT with graded therapy 
+3. CBT with graded exposure  
 
 ## Generalised anxiety disorder
 
@@ -62,12 +62,10 @@ Common features of **generalised anxiety disorder** include:
 > - 15-21 indicates severe anxiety
 
 
-
-
 ### Panic Attack
 
 Sudden intense onset physical and emotional symptoms of anxiety. Come on within minutes and resolve within 10 minutes 
-- **Physical** - tension, palpitations, tremors, sweating, dry mouth, chest pain, shortness of breath, dizziness and nausea
+- **Physical** - tension, palpitations, tremors, sweating, dry mouth, chest pain, shortness of breath, dizziness and nausea. Can cause **hypocalcaemia** with a **respiratory alkalosis**
 - **Emotional** - panic, fear, danger, depersonalisation (feeling separated or detached) and loss of control.
 
 #### Panic Disorder

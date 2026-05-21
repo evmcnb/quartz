@@ -2,7 +2,7 @@
 tags: [Neurology, Cardiovascular]
 title: Subarachnoid haemorrhage
 date created: Wednesday, October 4th 2023, 2:33:39 pm
-date modified: Thursday, May 14th 2026, 12:08:38 pm
+date modified: Friday, May 15th 2026, 4:53:30 pm
 date: 2023-10-05
 ---
 Bleeding into the space between the arachnoid membrane and the pia mater - **subarachnoid**
@@ -44,6 +44,10 @@ Refer all confirmed SAH to neurosurgery
 Surgery: endovascular coiling vs surgical clipping depends on location of [[Pearls/Aneurysm|Aneurysm]], but coiling is preferred
 
 ## Complications/red Flags
+
+
+> [!danger] Can cause SIADH
+> [[Pearls/Syndrome of Inappropriate Antidiuretic Hormone|Syndrome of Inappropriate Antidiuretic Hormone]] is a common consequence of subarachnoid haemorrhage
 
 - Rebleeding is the commonest cause of death and occurs in 20% 
 - Vasospasm leading to cerebral ischaemia may cause permanent CNS deficit and commonest cause of morbidity

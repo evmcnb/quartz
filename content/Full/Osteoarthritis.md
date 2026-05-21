@@ -2,7 +2,7 @@
 tags: [Rheumatology, MSK]
 title: Osteoarthritis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 16th 2025, 5:18:45 pm
+date modified: Tuesday, May 19th 2026, 5:30:05 pm
 date: 2023-11-29
 ---
 
@@ -31,11 +31,12 @@ Affects weight bearing joints
 - Bouchard's nodes (PIP joint)
 - Crepitus over joint 
 - Inflammation around the joint
+- Carpometacarpal involvement
 
 ## Symptoms
 
 - Increasing pain over months/years
-- Siffness and reduced range of movement 
+- Siffness and reduced range of movement (especially base of thumb)
 - Referred pain to the joint below
 - Reduced power due to muscle wastage from reduced use
 

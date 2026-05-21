@@ -22,7 +22,7 @@ If any neurological features are present then spinal cord compression must be su
 
 ### Neoplastic spinal cord compression
 
-Spinal cord compression is an oncological emergency and affects up to 5% of cancer patients. Extradural compression accounts for the majority of cases, usually due to vertebral body metastases. 
+Spinal cord compression is an oncological emergency and affects up to 5% of cancer patients. Extradural compression accounts for the majority of cases, usually due to vertebral body metastases. If they have a history of cancer can suspect it too
 
 - Sensory loss and numbness
 - Neurological signs depend on the level of the lesion.

@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Gastro-oesophageal reflux disease
 date created: Tuesday, February 13th 2024, 1:02:56 pm
-date modified: Thursday, October 2nd 2025, 4:32:31 pm
+date modified: Tuesday, May 19th 2026, 1:24:57 pm
 date: 2024-02-16
 aliases: [GORD, Dyspepsia]
 ---
@@ -49,6 +49,8 @@ Indications for upper GI endoscopy (to rule out red flags):
 - dysphagia
 - relapsing symptoms
 - weight loss
+**Stop PPI 2 weeks before endoscopy**
+
 
 - 24hr oesophageal pH monitoring - gold standard test
 

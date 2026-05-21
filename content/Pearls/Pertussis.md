@@ -1,7 +1,7 @@
 ---
 title: Pertussis
 date created: Sunday, January 21th 2024, 12:49:37 PM
-date modified: Saturday, May 2nd 2026, 11:00:18 am
+date modified: Monday, May 18th 2026, 9:28:56 am
 tags: ['Respiratory', 'Paediatrics']
 ---
 
@@ -19,7 +19,9 @@ Whooping cough should be suspected if a person has an acute cough that has laste
 >- Paroxysmal cough.
 >- Inspiratory whoop.
 >- Post-tussive vomiting.
->- Undiagnosed apnoeic attacks in young infants.
+>- Undiagnosed **apnoeic attacks** in young infants.
+
+Infants may present with apnoeas rather than the classic whoop.
 
 Diagnosis  
 - per nasal swab culture for _Bordetella pertussis_ - may take several days or weeks to come back

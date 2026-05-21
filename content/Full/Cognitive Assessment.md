@@ -84,7 +84,7 @@ Also in use:
 
 - 4AT - screen for delirium in older adults
 - MoCA - for mild cognitive impairment and early [[Full/Dementias|Dementias]]
-- MMSE – detecting general cognitive impairment and tracking the progression of established dementia
+- MMSE – detecting general cognitive impairment and tracking the progression of established dementia. Not recommended by NICE
 - ACE-III - used for formal diagnostic progress of dementia.
 
 ## Results

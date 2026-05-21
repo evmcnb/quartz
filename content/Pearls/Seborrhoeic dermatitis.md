@@ -2,7 +2,8 @@
 title: Seborrhoeic dermatitis
 tags: [Dermatology, Paediatrics]
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Wednesday, May 20th 2026, 12:49:23 pm
+date created: Friday, February 6th 2026, 1:47:15 pm
 ---
 Chronic dermatitis caused by Malassezia furfur. Common condition.
 

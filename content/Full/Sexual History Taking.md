@@ -122,15 +122,15 @@ I need to ask you these sensitive questions so that I know what tests are needed
 Need to ask when their last sexual health screen was. 
 ## Risk assessment
 
-Often done due to the population seen. Risk of HIV and other BBVs. Risk factors for BBVs include:
-- Partners from countries where HIV and hepatitis viruses have a high prevalence
-- Sex between cisgender men or transgender woman
-- Current or past use of injecting drugs
-- Recreational drug use during sex
-- Sex with someone living with HIV (if they don't have an undetectable viral load) or hepatitis?
-- Sex work
-- Sex with more than >10 partners in 12 months
-- Post-sexual assault
+
+### HIM-VAS
+
+- **H**IV/Hepatitis - sex with someone living with HIV/hepatitis
+- **I**VDU - current or past use of injecting drugs
+- **M**SM - cisgender men or transgender woman
+- **V**accination (HPV, Hep B)
+- **A**broad - from countries where HIV and hepatitis viruses have a high prevalence
+- **S**ex-worker or sex with more than >10 partners in 12 months
 
 *These are questions we ask everyone about the risk of viruses in the blood*
 
@@ -142,7 +142,7 @@ Often done due to the population seen. Risk of HIV and other BBVs. Risk factors 
 #### Domestic violence/safety
 
 - Was that sex that you wanted to have
-- Have you got any worrie sabout biolence in your relationship
+- Have you got any worries about violence in your relationship
 - Will you be able to talk about this infection to your partner 
 
 #### Vaccination History

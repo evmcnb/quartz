@@ -2,7 +2,7 @@
 tags: [Neurology, Cardiovascular]
 title: Stroke
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 14th 2026, 1:20:36 pm
+date modified: Thursday, May 14th 2026, 8:05:58 pm
 date: Thursday, October 2nd 2025, 5:42:00 pm
 ---
 
@@ -86,6 +86,10 @@ For more on stroke localisation: [[Pearls/Stroke symptoms per artery|Stroke symp
 | Speech Disturbance | +1 |
 | Visual field defect | +1 |
 \>1 stroke possible 
+
+##### NIHSS
+
+Quantifies stroke severity and monitors for neurological changes over time. Basically mini-neuro test. 
 
 ## Diagnostic Tests
 

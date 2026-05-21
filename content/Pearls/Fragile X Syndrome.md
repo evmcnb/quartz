@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: Fragile X Syndrome
 date: 2023-09-27
-date modified: Wednesday, April 22nd 2026, 10:38:06 am
+date modified: Monday, May 18th 2026, 11:57:02 am
 date created: Saturday, December 20th 2025, 4:42:28 pm
 ---
 
@@ -12,13 +12,14 @@ Caused by a CGG trinucleotide repeat expansion on the X chromosome. Shows antici
 
 ### Features
 
-- Learning difficulties
+- **Learning difficulties**
 - Large low set ears, long thing face, high arched palate
 - Macroorchidism 
-- Macrocephaly
+- **Macrocephaly**
 - Hypotonia
 - Autism is more common
 - [[Pearls/Mitral valve disease|Mitral valve prolapse]]
+- Joint laxity
 
 Diagnosis  
 - can be made antenatally by chorionic villus sampling or amniocentesis

@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Liver Cirrhosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 2nd 2026, 10:38:32 am
+date modified: Tuesday, May 19th 2026, 3:44:32 pm
 date: 2023-09-18
 ---
 
@@ -18,7 +18,7 @@ Irreversible scarring of the liver.
 - [[Full/Alcohol-related Liver Disease]]
 - [[Full/Hepatitis#^b362b5]]
 - [[Pearls/Wilson's disease]]
-- [[Hemochromatosis]]
+- [[Pearls/Haemochromatosis|Haemochromatosis]]
 - [[Full/Alpha-1 antitrypsin deficiency]]
 - [[Full/Non-alcoholic Fatty Liver Disease]]
 

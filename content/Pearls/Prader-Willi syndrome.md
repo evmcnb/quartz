@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: Prader-Willi syndrome
 date: 2023-09-27
-date modified: Saturday, December 27th 2025, 12:01:13 pm
+date modified: Monday, May 18th 2026, 12:34:41 pm
 date created: Saturday, December 20th 2025, 4:49:56 pm
 ---
 
@@ -23,3 +23,4 @@ Features
 - learning difficulties
 - **childhood obesity**
 - behavioural problems in adolescence
+- [[Pearls/Neonate sepsis|Neonate sepsis]]

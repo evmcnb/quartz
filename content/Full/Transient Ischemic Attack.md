@@ -2,10 +2,10 @@
 tags: [Neurology, Cardiovascular]
 title: Transient Ischemic Attack
 date created: Wednesday, October 4th 2023, 12:34:39 pm
-date modified: Thursday, May 14th 2026, 12:08:28 pm
+date modified: Tuesday, May 19th 2026, 3:10:00 pm
 date: 2023-10-05
 ---
-Ischaemic usually embolic neurological event with symptoms that resolve within 24hr - definition based on **lack of ischemic changes on CT**
+Ischaemic usually embolic neurological event ~~with symptoms that resolve within 24hr~~ - *new definition* based on **lack of ischemic changes on CT** (a transient episode of neurologic dysfunction caused by focal brain, spinal cord, or retinal ischaemia, without acute infarction)
 
 **Without intervention 1 in 12 patients subsequently have a [[Full/Stroke]] within a week**
 

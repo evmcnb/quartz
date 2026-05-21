@@ -1,7 +1,7 @@
 ---
-title: "Peptic ulcer disease"
+title: Peptic ulcer disease
 date created: Sunday, January 21th 2024, 02:47:24 PM
-date modified: 2024-01-21 14:47:24.624417+00
+date modified: Friday, May 15th 2026, 2:14:29 pm
 tags: ['Gastroenterology']
 ---
 
@@ -15,5 +15,5 @@ Localised defect extending at least into submucosa
 Complications
 
 * Haemorrhage - acute and/or chronic [[Pearls/Anaemia|Anaemia]]
-* Perforation - peritonitis/ penetration into adjacent organ (liver,..)
+* Perforation - peritonitis/ penetration into adjacent organ (liver,..). CXR initial investigation, then ? endoscopy 
 * Stricturing - hour-glass deformity

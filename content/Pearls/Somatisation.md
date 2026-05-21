@@ -1,5 +1,5 @@
 ---
-title: "Somatisation"
+title: Somatisation
 date created: Tuesday, March 19th 2024, 12:44:35 PM
 date modified: 2024-03-19 12:44:35.542629+00
 tags: ['Psychiatry']
@@ -22,7 +22,7 @@ Can be very frustrating for patients are all the tests return as normal but they
 
 Most people who see a doctor with bodily symptoms that are not due to physical illness are helped by talking about how their symptoms are caused and what they can do to help themselves.
 
-**Conversion Disorder**
+**Conversion Disorder (FND)**
 
 Where a person has symptoms which suggest a serious disease of the brain or nerves (a neurological disease) -
 

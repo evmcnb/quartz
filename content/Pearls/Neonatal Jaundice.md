@@ -26,6 +26,16 @@ Can be split into increased production and decreased clearance:
 > [!danger] Jaundice within 24 hours of life
 > Jaundice within 24 hours of life is pathological and requires urgent investigations and management. [[Pearls/Neonate sepsis|Neonate sepsis]] is a common cause
 
+### Rhesus hemolytic disease
+
+When the mother's immune system mistakenly attacks her fetus' RBC causing hemolysis. The mother has **Rh-negative** blood, but her baby has **Rh-positive** blood.
+
+Should be screened for in booking bloods, so no antenatal care risk factor
+
+Triad: 
+- jaundice
+- normocytic anaemia
+- positive Coombs 
 
 ### Breast Milk Jaundice
 

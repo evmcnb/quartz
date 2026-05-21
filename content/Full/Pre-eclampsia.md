@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Pre-eclampsia
 date: 2023-09-27
-date modified: Friday, February 6th 2026, 3:24:00 pm
+date modified: Sunday, May 17th 2026, 5:54:56 pm
 date created: Monday, December 29th 2025, 2:24:17 pm
 ---
 
@@ -29,6 +29,15 @@ Formal definition:
 150mg aspirin is used for prophylaxis against the development of pre-eclampsia. It is given from 12 weeks gestation until birth to women with:
 - A single **high-risk** factor
 - Two or more **moderate-risk** factors
+
+
+> [!tldr] Shocking way to remember the moderate risk factors:
+> **Fat, Old, Unlucky Virgin**:  
+Fat: BMI > 35  
+Old: Age > 40 yrs  
+Unlucky: FH/over 10 yrs between pregnancies  
+Virgin: Nulliparity
+
 ## Presentation
 
 Features of severe pre-eclampsia  

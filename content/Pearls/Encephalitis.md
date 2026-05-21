@@ -1,7 +1,7 @@
 ---
 title: Encephalitis
 date created: Friday, February 23th 2024, 02:01:10 PM
-date modified: Tuesday, January 27th 2026, 5:58:47 pm
+date modified: Wednesday, May 20th 2026, 11:20:03 am
 tags: ['Neurology']
 ---
 
@@ -14,7 +14,7 @@ Typically affects temporal and inferior frontal lobes
 * Acute onset seizures
 * Acute focal neurological deficits
 
-LP with PCR for HSV, VZV and enteroviruses, MRI and EEG
+LP with PCR for **HSV**, VZV and enteroviruses, MRI and EEG
 
 IV aciclovir should be started in all cases of suspected encephalitis
 

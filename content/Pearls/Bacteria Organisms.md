@@ -1,7 +1,7 @@
 ---
 title: Bacteria Organisms
 date created: Saturday, January 20th 2024, 12:04:40 AM
-date modified: Friday, January 2nd 2026, 12:30:08 pm
+date modified: Wednesday, May 20th 2026, 11:10:01 am
 tags: ['Antibiotic']
 ---
 
@@ -44,9 +44,9 @@ tags: ['Antibiotic']
 
 ## *Pseudomonas aeruginosa* -ve
 
-| Niche | Main Infections | Other |
-| --- | --- | --- |
-| Water | VAP, bacteraemia | Opportunistic bacillus - green pigment |
+| Niche | Main Infections                    | Other                                      |
+| ----- | ---------------------------------- | ------------------------------------------ |
+| Water | VAP, wound infections, bacteraemia | Opportunistic bacillus - **green pigment** |
 
 ## *Neisseria meningitidis* -ve
 

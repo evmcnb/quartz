@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology, OBGYN]
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 7th 2026, 9:46:18 am
+date modified: Sunday, May 17th 2026, 6:02:44 pm
 date: 2023-09-18
 ---
 
@@ -108,6 +108,16 @@ Medications will likely need to be changed. As seen above the following should b
 - ACEi
 - ARBs
 - Thiazide and thiazide-like diuretics (e.g. indapamide)
+
+
+> [!info] 
+> Pregnancy related/induced hypertension does not occur before **20 weeks**. 
+> 
+> The placenta is not formed/relied upon for blood supply up until this point. After 20 weeks the fetus grows rapidly. This is the point where placental insufficiency becomes a problem. 
+> - When the placenta becomes hypoxic it becomes stressed 
+> - It then dumps a load of cytokines and anti-angiogenic factors into the maternal blood stream
+> - When the mother's blood vessels are damaged, they constrict (causing high blood pressure) and become "leaky." This leakiness allows protein to escape through the kidneys into the urine (proteinuria) and fluid to seep into tissues (causing the sudden swelling often seen in preeclampsia).
+
 
 Medications that are considered safe: 
 - Labetalol (although other beta-blockers may have adverse effects)

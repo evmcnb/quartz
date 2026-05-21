@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: bronchitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Wednesday, May 20th 2026, 10:49:29 am
 aliases: [Bronchitis]
 date: 2024-01-14
 ---
@@ -41,10 +41,11 @@ Most experts agree that the main cause of chronic bronchitis is cigarette smokin
 - Spirometry: $FEV_1 < 80\%$ predicted, $FEV_1/FVC$ **ratio <0.7**
 - CXR: hyperinflation, large central pulmonary arteries
 - ABG: $\downarrow PaCO_2 \pm$ hypercapnia $\rightarrow$ **respiratory alkalosis**
-- Acute: **raised CRP**
+- Acute: **raised CRP**, no other signs of infection
 
 ## Management
 
+Usually self limiting
 - Analgesia
 - Good fluid intake
 

@@ -2,12 +2,13 @@
 tags: [Gastroenterology]
 title: Ulcerative Colitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, October 19th 2025, 3:49:43 pm
+date modified: Tuesday, May 19th 2026, 12:44:28 pm
 date: 2023-09-18
 ---
 
 The inflammatory bowel diseases (IBD), ulcerative colitis and [[Full/Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.
 
+![[z_attachments/Pasted image 20260519122737.png]]
 
 
 > [!success] Differentiating features of UC (**CLOSEUP**)
@@ -70,6 +71,13 @@ Extraintestinal signs:
 
 ![[Full/Crohn's Disease#Diagnostic Tests]]
 
+**Colonoscopy + biopsy** for definitive diagnosis. In acute severe avoid due to risk of perforation, flexible sigmoidoscopy
+
+**Barium enema**
+- Loss of haustrations
+- superficial ulceration ('psuedopolyps')
+- long standing disease: colon is narrow and short
+
 Severity can be determined by the Truelove and Witts' severity index:
 
 ![[z_attachments/Pasted image 20260509205332.png]]
@@ -83,21 +91,27 @@ Severity can be determined by the Truelove and Witts' severity index:
 
 ##### Mild to moderate acute
 
-- Rectal then oral aminosalicylate (mesalazine) - 1st line
-- Corticosteroids (prednisolone) - 2nd line after 4 weeks
+- Rectal mesalazine - 1st line
+- If remission not achieved within 4 weeks: oral aminosalicylate 
+- If remission still not achieved: corticosteroids (prednisolone)
 
 ##### Severe acute
 
+Treated in hospital
 - IV steroids (hydrocortisone) - 1st line
-- IV ciclosporin
+- IV ciclosporin if steroids contraindicated or no improvement after 72 hours
 - Infliximab
-- Surgery
+- Surgery last resort if unresponsive to optimal medical therapy
 
 #### Maintaining Remission
 
-- Aminosalicylate (oral mesalazine) - 1st line
-- Azathioprine
-- Mercaptopurine 
+**Mild-Moderate**
+- rectal mesalazine 
+
+**Severe or $\geq$ 2 exacerbations in the past year**
+- oral azathioprine
+- or oral mercaptopurine
+
 
 ## Complications/red Flags
 

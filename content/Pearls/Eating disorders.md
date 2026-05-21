@@ -75,7 +75,7 @@ Has the **highest mortality** of any psychiatric condition. Up to 5-20% of patie
 ### Bulimia nervosa
 
 Recurrent episodes of overeating (2+ per week for 3 months) followed by purging by inducing vomiting or taking laxatives to prevent the calories from being absorbed. Features:
-- Erosion of teeth
+- Erosion of teeth (short and rounded)
 - Swollen salivary glands
 - Mouth ulcers
 - [[Full/Gastro-oesophageal reflux disease|GORD]]

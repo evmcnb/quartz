@@ -1,0 +1,14 @@
+---
+tags: [Neurology]
+title: Localising features of focal seizures
+date: 2023-09-27
+date modified: Friday, May 15th 2026, 3:18:08 pm
+aliases: [Localising epilepsy]
+date created: Friday, May 15th 2026, 2:14:43 pm
+---
+| Location                | Typical seizure type                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Temporal lobe           | May occur with or without impairment of consciousness or awareness <br>  <br>An aura occurs in most patients  <br><br>- typically a rising epigastric sensation<br>- also psychic or experiential phenomena, such as deja vu, jamais vu<br>- less commonly hallucinations (auditory/gustatory/olfactory)<br><br>  <br>Seizures typically last around one minute  <br><br>- automatisms (e.g. lip smacking/grabbing/plucking) are common |
+| Frontal lobe (motor)    | Head/leg movements, posturing, post-ictal weakness, Jacksonian march - clonic movements travelling proximally                                                                                                                                                                                                                                                                                                                           |
+| Parietal lobe (sensory) | Paraesthesia                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Occipital lobe (visual) | Floaters/flashes                                                                                                                                                                                                                                                                                                                                                                                                                        |

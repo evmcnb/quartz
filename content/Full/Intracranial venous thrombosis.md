@@ -2,7 +2,7 @@
 tags: [Neurology, Haematology, Cardiovascular]
 title: Intracranial venous thrombosis
 date created: Thursday, October 5th 2023, 1:38:54 pm
-date modified: Sunday, January 4th 2026, 12:10:54 pm
+date modified: Tuesday, May 19th 2026, 11:05:57 am
 date: 2023-10-05
 ---
 Thrombosis of the cerebral sinuses or veins causes cerebral infarction but much rarer than arterial disease.
@@ -23,11 +23,12 @@ Most commonly sagittal sinus thrombosis (47%) or transverse sinus thrombosis (35
 
 Symptom onset is gradual - days to weeks. Features are dependant on what sinus is affected
 
+- **Cavernous sinus** - often due to spread from facial pustules or [[Full/Folliculitis]] causing headache, chemosis (swelling of eye surface membrane), odematous eyelids, proptosis, painful ophthalmoplegia, fever. Close proximity to CN 3,4&6. 
 - **Sagittal sinus** - headache, vomiting, seizures, $\downarrow$ vision, papilloedema 
 - **Transverse sinus** - headache $\pm$ mastoid pain, focal CNS signs, seizures, papilloedemaa
 - **Sigmoid sinus** - cerebellar signs, lower cranial nerve palsies
 - **Inferior petrosal sinus** - _V_ th and _VI_ th cranial nerve palsies with temporal and retro-orbital pain
-- **Cavernous sinus** - often due to spread from facial pustules or [[Full/Folliculitis]] causing headache, chemosis (swelling of eye surface membrane), odematous eyelids, proptosis, painful ophthalmoplegia, fever
+
 
 ## Cortical vein thrombosis
 
@@ -40,7 +41,7 @@ There are often an associated seizures and a "Thunderclap" headache which may co
 Exclude [[Full/Subarachnoid haemorrhage]] if there is a thunderclap headache
 
 - Thrombophilla blood screen
-- CT/MRI venography 
+- MRI venography gold standard (CT venograph alternative) 
 - LP if no increase in pressure 
 
 ## Management

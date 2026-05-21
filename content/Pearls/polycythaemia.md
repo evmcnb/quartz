@@ -14,7 +14,7 @@ Relative cause:
 - Stress: Gaisbock syndrome
 
 Primary  
-- polycythaemia rubra vera (blood cancer). JAK2 mutation. Aspirin (reduce thrombosis), venesection
+- polycythaemia rubra vera (blood cancer). JAK2 mutation. $\downarrow$ EPO, Aspirin (reduce thrombosis), venesection
 
 Secondary:
 - [[Full/COPD|COPD]]

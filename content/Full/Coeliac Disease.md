@@ -2,9 +2,12 @@
 tags: [Gastroenterology]
 title: Coeliac Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, February 24th 2026, 9:39:34 am
+date modified: Tuesday, May 19th 2026, 1:19:20 pm
 date: 2023-09-18
 ---
+
+> [!success] Stem
+> Diarrhoea + fatigue + [[Pearls/Osteomalacia|Osteomalacia]] $\rightarrow$ ? Coeliac
 
 
 Immune mediated enteropathy when ingestion of wheat, rye or barley - anything containing **gliadin**
@@ -44,7 +47,7 @@ Rarely can present with neurological symptoms:
 ## Diagnostic Tests
 
 
-***The patient must continue eating gluten while being investigated***. Tests may be false negative if the patient is gluten free.
+***The patient must continue eating gluten while being investigated (6 weeks minimum)***. Tests may be false negative if the patient is gluten free.
 
 First line blood tests:
 - **_Anti-tissue transglutaminase antibodies_** (**_anti-TTG_**) - to look for Coaeliac
@@ -75,6 +78,7 @@ Lifelong gluten free diet. Some notable foods which are gluten-free include:
 - rice
 - potatoes
 - corn (maize)
+- quinoa
 
 ### Vaccination
 Patients with coeliac disease often have a degree of **functional hyposplenism**
@@ -87,4 +91,4 @@ Patients with coeliac disease often have a degree of **functional hyposplenism*
 - [[Pearls/Anaemia|Anaemia]]
 - [[Pearls/Dermatitis Herpetiformis|Dermatitis Herpetiformis]]
 - Osteopenia/porosis
-- Enteropathy-associated T cell lymphoma (EATL)
+- Enteropathy-associated T cell lymphoma (EATL), a type of [[Non-Hodgkin lymphoma]]

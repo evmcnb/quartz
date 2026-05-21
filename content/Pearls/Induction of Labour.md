@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Induction of Labour
 date: 2023-09-27
-date modified: Monday, January 5th 2026, 12:41:16 pm
+date modified: Monday, May 18th 2026, 9:17:34 am
 date created: Tuesday, December 30th 2025, 11:34:28 am
 ---
 
@@ -27,7 +27,8 @@ Used to assess whether induction of [[Full/Labour]] will be required:
 |**Cervical dilation**|<1 cm|1-2 cm|3-4 cm|>5 cm|
 |**Fetal station**|-3|-2|-1, 0|+1,+2|
 
-- A score of < 5 indicates that labour is unlikely to start without induction
+- A score of $\leq$ 6 indicates that labour is unlikely to start without induction (membrane sweep + prostaglandins)
+- A score of 7 indicates amniotomy + oxytocin if needed
 - A score of $\geq$ 8 indicates a high chance of spontaneous labour, or response to interventions made to induce it 
 
 ### Management

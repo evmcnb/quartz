@@ -2,7 +2,7 @@
 tags: [ENT, Respiratory]
 title: Otitis Externa
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Wednesday, May 20th 2026, 2:05:36 pm
 date: 2024-03-10
 ---
 
@@ -33,7 +33,10 @@ Ear canal is the only skin-lined cul-de-sac in the body
 
 ## Symptoms
 
-- Inflammation of the external ear canal presenting with a combination of otalgia, pruritus and non-mucoid ear discharge
+
+- pain on palpation of the tragus
+- itching
+- discharge and hearing loss
 
 ## Diagnostic Tests
 
@@ -43,17 +46,21 @@ Ear canal is the only skin-lined cul-de-sac in the body
 
 ## Management
 
-- Topical antibiotic
+- Topical antibiotic + topical steroid
 - [[Pearls/Gentamicin|Gentamicin]]
 - Corticosteroid
 
 ## Complications/red Flags
 
+
+> [!danger] Referral Criteria
+> Non-resolving otitis externa with worsening pain should be referred urgently to ENT
+
 - Pseudomonas bacteria causing a necrotising OE -> life threatening
 
-Malignant otitis externa - infection has spread to the **temporal [[Pearls/Bone|Bone]]**. Additional risk factors are diabetes, [[Pearls/Immunosuppression|Immunosuppression]], [[Full/HIV]]. Can lead to:
+Malignant otitis externa - infection has spread to the **temporal [[Pearls/Bone|Bone]]**. Additional risk factors are **diabetes**, [[Pearls/Immunosuppression|Immunosuppression]], [[Full/HIV]]. Can lead to:
 - facial nerve damage
 - cranial nerve involvement
-- [[Pearls/Meningitis|Meningitis]]
+- [[Full/Meningitis|Meningitis]]
 - intracranial thrombosis
 - death

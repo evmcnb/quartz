@@ -12,7 +12,7 @@ Mood stabiliser used in [[Full/Bipolar disorder|Bipolar disorder]]. Has a very n
 
 Common:
 - Nausea/vomiting, diarrhoea
-- Polyuria and polydipsia
+- Polyuria and polydipsia (Nephrogenic [[Diabetes insipidus]])
 - Weight gain
 
 Serious:

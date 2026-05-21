@@ -1,7 +1,7 @@
 ---
 title: "Conn's syndrome"
 date created: Sunday, January 21th 2024, 01:29:16 PM
-date modified: Monday, December 8th 2025, 6:16:37 pm
+date modified: Wednesday, May 20th 2026, 10:26:01 am
 tags: [Endocrinology]
 aliases: [Hyperaldosteronism]
 ---
@@ -22,7 +22,6 @@ Via the RAAS - renal retion of H2O and Na+ so high blood pressure, headache and 
 The first line investigation for this is a plasma aldosterone/renin ratio, which should show **high aldosterone** levels alongside **low renin** levels.
 
 > [!danger] Most common cause of **secondary** hypertension
-
 
 Management with a MRA - spironolactone, eplerenone
 

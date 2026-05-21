@@ -15,15 +15,19 @@ tags: ['Neurology']
 ### Red Flags
 
 Headache is a very common symptom but there are some which should be investigated more than others:
+- Headaches worse in the morning
+- Linked with a cough/valsalva exercise (straining) $\rightarrow$ $\uparrow$ ICP until proven otherwise (LP contraindicated)
+- With vomiting without any other cause $\rightarrow$ new bleed or $\uparrow$ ICP causing mechanism
+- Orthostatic headache $\rightarrow$ $\downarrow$ ICP or other causes. Caffeine + fluids for low pressure headache after LP
+- Recent trauma (within the past 3 months) $\rightarrow$ [[Full/Intracranial venous thrombosis|Intracranial venous thrombosis]] & other brain bleeds
+- New-onset neurological deficit/cognitive dysfunction $\rightarrow$ structural pathology e.g. [[Full/Stroke|Stroke]]
+
 - Headaches in immunocompromised patients $\rightarrow$ weird toxoplasmosis infection or something 
 - <20 with a history of malignancy $\rightarrow$ brain mets/other $\uparrow$ ICP cause
 - History of brain mets $\rightarrow$ $\uparrow$ ICP 
-- With vomiting without any other cause $\rightarrow$ new bleed or $\uparrow$ ICP causing mechanism
 - Worsening headache with fever $\rightarrow$ [[Pearls/Meningitis|Meningitis]]
 - Sudden onset thunderclap headache $\rightarrow$ [[Full/Subarachnoid haemorrhage|Subarachnoid haemorrhage]]
-- New-onset neurological deficit/cognitive dysfunction $\rightarrow$ structural pathology e.g. [[Full/Stroke|Stroke]]
-- Recent trauma (within the past 3 months) $\rightarrow$ [[Full/Intracranial venous thrombosis|Intracranial venous thrombosis]] & other brain bleeds
-- Linked with a cough/valsalva exercise $\rightarrow$ $\uparrow$ ICP until proven otherwise (LP contraindicated)
-- Orthostatic headache $\rightarrow$ $\downarrow$ ICP or other causes. Caffeine + fluids for low pressure headache after LP
+
+
 - Other symptoms suggestive of giant cell arteritis or acute narrow-angle glaucoma
 - Any changes to aura or characteristics of the headache

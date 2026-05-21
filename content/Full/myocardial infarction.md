@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 12th 2026, 3:01:15 pm
+date modified: Friday, May 15th 2026, 3:22:39 pm
 date: 2023-11-12
 ---
 
@@ -130,7 +130,7 @@ Factors in GRACE score is:
 
 Post MI 6A's:
 - [[Pearls/Aspirin|Aspirin]] 75mg indefinitely
-- Another Anti-platelet - ticagrelor or [[Pearls/Clopidogrel|Clopidogrel]] for 12 months
+- Another Anti-platelet - ticagrelor or [[Pearls/Clopidogrel|Clopidogrel]] for 12 months. Clop if high risk of bleeding
 - Atorvastatin 80mg once daily
 - ACE inhibitor as high as tolerated
 - [[Pearls/Atenolol|Atenolol]] or another beta blocker

@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Peptic ulcers
 date created: Friday, February 16th 2024, 3:21:32 pm
-date modified: Monday, September 29th 2025, 9:41:07 am
+date modified: Tuesday, May 19th 2026, 11:25:04 am
 date: 2024-02-16
 ---
  ![[z_attachments/Pasted image 20240216152202.png|475]]
@@ -41,6 +41,7 @@ Factors that disrupt the mucus barrier or increase stomach acid increase the ris
 > [!tip] Gastric vs duodenal ulcers differentiating history
 > - Eating typically worsens the pain of gastric ulcers - so patients tend to lose weight due to the fear of pain on eating
 > - Duodenal ulcer pain tends to improve after eating so weight stays the same or increases 
+> - Duodenal ulcers 95% caused by [[Pearls/H. pylori eradication|H. pylori]]
 
 ## Investigations
 

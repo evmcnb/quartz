@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Bronchiolitis
 date: 2024-02-09
-date modified: Tuesday, February 24th 2026, 1:42:08 pm
+date modified: Monday, May 18th 2026, 11:51:45 am
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Infection of the bronchioles
@@ -15,6 +15,7 @@ Infection of the bronchioles
 - Occurs in children under 1 - **most common in children under 6 months old**
 - Ex-premature babies
 - More serious if bronchopulmonary dysplasia, congenital heart disease or cystic fibrosis 
+- [[Pearls/Down's syndrome|Down's syndrome]] has been shown to worsen episodes
 ## Symptoms
 
 - Coryzal symptoms - running/snotting nose, sneezing, mucus in throat and watery eyes 
@@ -65,7 +66,7 @@ Most infants can be manage at home with advice about when to seek further attent
 
 ### In hospital 
 Typically patients only require supportive management 
-- Ensure adequate intake - orally, via NG or IV fluids. Important to avoid overfeeding as **this will restrict breathing**
+- Ensure adequate intake - NG early $\pm$ IV fluids. Important to avoid overfeeding as **this will restrict breathing**
 - Saline nasal drops and suctioning to remove secretions - particularly prior to feeding
 - [[Pearls/Oxygen|Oxygen]] - titrate up to 92%
 - Ventilatory if required - step-wise progression

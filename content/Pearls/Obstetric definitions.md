@@ -12,7 +12,7 @@ date created: Saturday, December 27th 2025, 11:48:06 am
 - 5+0 refers to 5 weeks GA
 - 13+6 refers to 13 weeks and 6 days
 
-**Estimated date of delivery (EDD)** - the estimated date of delivery (date at 40 weeks gestation)
+**Estimated date of delivery (EDD)** - the estimated date of delivery (date at 40 weeks gestation). EDD = LMP + 1 year - 3 months + 7 days
 
 The timeline for each pregnancy depends on the start date of the LMP. This determine sthe GA and the EDD of the pregnancy. After the booking scan, the GA is more accurately assessed and the EDD is updated accordingly.
 

@@ -1,8 +1,8 @@
 ---
 title: Septic Arthritis
 date created: Sunday, January 21th 2024, 02:43:13 PM
-date modified: 2024-02-23 13:24:38.774387+00
-tags: ['Acute', 'Orthopaedics']
+date modified: Monday, May 18th 2026, 9:23:19 am
+tags: [Acute, Orthopaedics, Paediatrics]
 ---
 
 Usually bacterial infection of joint.
@@ -13,7 +13,7 @@ Usually bacterial infection of joint.
 
 *S. aureus, Streps, Haemphilus, N. gonorrhoeae, E coli*
 
-Red hot, swollen joint with a limited range of motion. The **Kocher** criteria for the diagnosis of septic arthritis:  
+Red hot, swollen joint with a limited range of motion. The **Kocher** **criteria** for the diagnosis of septic arthritis in children:  
 - fever >38.5 degrees C
 - non-weight bearing
 - raised ESR

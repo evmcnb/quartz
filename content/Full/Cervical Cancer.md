@@ -63,7 +63,7 @@ Moved to a HPV first screen, if the cells test negative for HPV the smear is neg
 - HPV positive with abnormal cytology - refer for colposcopy
 - Inadequate sample - repeat the smear after at least 3 months 
 
-- If 3 serial positive HPV results but normal cytology - refer for colposcopy (patient not clearing HPV)
+- If **2 serial** positive HPV results but normal cytology - refer for colposcopy (patient not clearing HPV)
 
 There are some notable exceptions to the program:
 - Women with HIV are screened **annually**

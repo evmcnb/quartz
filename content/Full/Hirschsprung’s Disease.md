@@ -10,7 +10,7 @@ Congenital condition where the ganglion cells of the enteric nervous system are 
 
 ![[z_attachments/Pasted image 20251206135141.png|475]]
 
-
+In contrast to CF where the meconium is very thick, there is often an sudden release of gas (positive "squirt sign" or "blast sign") on DRE.
 ## Causes/Factors
 
 - 3x more common in males

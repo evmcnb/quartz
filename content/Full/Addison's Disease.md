@@ -2,7 +2,7 @@
 tags: [Endocrinology, Rheumatology]
 title: "Addison's Disease"
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-date modified: Monday, December 8th 2025, 6:11:54 pm
+date modified: Wednesday, May 20th 2026, 10:25:31 am
 date: 2023-11-01
 ---
 
@@ -20,7 +20,7 @@ More common than Addison's
 Secondary:  
 - pituitary adenoma   
 - pituitary surgery  
-- radiotherapt  
+- radiotherapy
 - Sheehans' syndrome  
 - Trauma
 

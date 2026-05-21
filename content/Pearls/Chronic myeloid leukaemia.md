@@ -1,10 +1,10 @@
 ---
-title: "Chronic myeloid leukaemia"
+title: Chronic myeloid leukaemia
 date created: Sunday, January 21th 2024, 12:57:12 PM
-date modified: 2024-03-04 14:11:25.115329+00
+date modified: Friday, May 15th 2026, 2:44:41 pm
 tags: ['Oncology', 'Haematology']
 ---
-
+	
 
 
 * ***Chronic phase***

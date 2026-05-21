@@ -2,15 +2,15 @@
 tags: [OBGYN]
 title: Pelvic inflammatory disease
 date: 2023-09-27
-date modified: Saturday, May 2nd 2026, 10:20:29 am
+date modified: Wednesday, May 20th 2026, 10:24:42 am
 date created: Friday, January 2nd 2026, 1:03:11 pm
 ---
 
 Used to describe infection and inflammation of the the female pelvic organs including: uterus, fallopian tubes, ovaries and surrounding periotoneum.
 
 Usually the result of ascending infection from the endocervix 
-- [[Pearls/Chlamydia]]
-- [[Pearls/Gonorrhoea]]
+- [[Pearls/Chlamydia]] (most common) - subacute onset of symptoms
+- [[Pearls/Gonorrhoea]] - more acute onset 
 - Mycoplasma genitalium - [[Pearls/Non-gonococcal urethritis]]
 - Mycoplasma hominis
 

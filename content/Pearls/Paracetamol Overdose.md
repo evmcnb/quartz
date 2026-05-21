@@ -1,7 +1,7 @@
 ---
 title: Paracetamol Overdose
-date created: 2024-04-16 20:18:23.037061+01
-date modified: 2024-04-16 20:18:23.044057+01
+date created: Tuesday, November 25th 2025, 8:19:44 pm
+date modified: Tuesday, May 19th 2026, 2:57:30 pm
 tags: ['Hepatology', 'Drug']
 ---
 
@@ -19,6 +19,8 @@ tags: ['Hepatology', 'Drug']
 N-acetylcystine dose: 150 mg/kg over 1 hour, then 50 mg/kg over 4 hours, then 100mg/kg over 16 hours
 
 Delay in giving [[Pearls/Paracetamol|Paracetamol]] due to risk of anaphylaxis when glutathione stores are not yet depleted (I believe)
+
+High risk of liver failure if chronic alcohol, HIV, anorexia or P450 inducers
 
 ### Treatment pathway
 

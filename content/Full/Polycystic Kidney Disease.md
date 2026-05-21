@@ -19,7 +19,7 @@ Polycystic kidney disease is an inherited condition that causes small fluid-fill
 #### Autosomal Recessive (ARPKD)
 
 - Affected in womb - often picked up on antenatal scans with oligohydramnios (reduced amniotic fluid volume due to low urine output)
-	- [[Pearls/Potter syndrome]] can result
+	- [[Pearls/Potter sequence]] can result
 - PKHD1 gene mutation - renal tubules and bile duct defects
 - Under developed lungs
 - 1/3 die in first month of birth due to a respiratory disease

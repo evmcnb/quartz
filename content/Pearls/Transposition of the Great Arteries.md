@@ -6,7 +6,7 @@ date modified: Friday, March 27th 2026, 2:18:28 pm
 date created: Friday, March 27th 2026, 1:49:42 pm
 ---
 
-Cyanotic congenital heart disease. Children of diabetic mothers are at an increased risk of TGA.
+Cyanotic congenital heart disease. Children of pre-existing diabetic mothers are at an increased risk of TGA (i.e. **not gestational diabetes**).
 
 Clinical features  
 - cyanosis

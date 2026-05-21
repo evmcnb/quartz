@@ -1,11 +1,9 @@
 ---
-tags:
-  - Respiratory
+tags: [Respiratory]
 title: bronchiectasis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
-aliases:
-  - Bronchiectasis
+date modified: Wednesday, May 20th 2026, 11:12:45 am
+aliases: [Bronchiectasis]
 date: 2024-01-14
 ---
 
@@ -34,11 +32,13 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 ## Diagnostic Tests
 
 - Sputum culture
-- CXR/high res CT to assess extent - signet ring sign - bronchioles larger than arteries (abnormal)
+- High res CT to assess extent - signet ring sign - bronchioles larger than arteries (abnormal)
   ![|425](z_attachments/425.png)
 
 - ABG ($\downarrow PaO_2, \uparrow PaCO_2$)
+- CXR - tram-line appearance
 
+![[z_attachments/Pasted image 20260520111036.png|417]]
 ## Management
 
 - Airway clearance techniques & mucolytics

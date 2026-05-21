@@ -1,7 +1,7 @@
 ---
 title: Unstable Patients
 date created: Sunday, January 21th 2024, 11:38:59 AM
-date modified: Thursday, November 27th 2025, 6:03:52 pm
+date modified: Wednesday, May 20th 2026, 10:39:12 am
 tags: [Acute, Cardiovascular]
 aliases: [Unstable Patients, Advanced Life Support, Intermediate Life Support, Ventricular Arrhythmias]
 linter-yaml-title-alias: Unstable Patients
@@ -38,6 +38,7 @@ Hypokalemia is the most important cause of ventricular tachycardia followed by 
 
 ##### Atrial fib
 
+- Consider AF with a BBB
 - Control rate with beta-blocker
 - Consider digoxin or amiodarone if evidence of heart failure
 - Anticoagulate if duration > 48 h
@@ -64,8 +65,9 @@ Hypokalemia is the most important cause of ventricular tachycardia followed by 
 
 If one step is unsuccessful move onto the next 
 1. Vagal manoeuvres
-2. Give adenosine 6mg $\rightarrow$ 12mg $\rightarrow$ 18mg
+2. Give adenosine 6mg $\rightarrow$ 12mg $\rightarrow$ 18mg - **contraindicated in asthma, skip straight to below**
 3. Verapamil or beta-blocker
+
 
 
 `If either of the regular complex arrythmia's treatments are unsucessful move to synchronised cardioversion`

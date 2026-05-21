@@ -2,7 +2,7 @@
 tags: [OBGYN, Oncology]
 title: Molar pregnancy
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 2:43:01 pm
+date modified: Sunday, May 17th 2026, 6:45:15 pm
 aliases: [Hydatidiform mole]
 date created: Wednesday, December 31st 2025, 2:34:26 pm
 ---
@@ -16,8 +16,8 @@ Molar pregnancy behaves like a normal pregnancy but:
 - More severe morning sickness
 - Vaginal bleeding
 - Increased enlargement of the uterus
-- Abnormally high b-hCG
-- [[Full/Hyperthyroidism|Thyrotoxicosis]]
+- Abnormally high b-hCG. The structure of the hormone is similar to TSH, so causes:
+	- [[Full/Hyperthyroidism|Thyrotoxicosis]] (high T3/4, low TSH)
 
 Ultrasound can show a characteristic **snowstorm appearance**
 

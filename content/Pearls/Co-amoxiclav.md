@@ -1,7 +1,7 @@
 ---
-title: "Co-amoxiclav"
-date created: 2024-04-05 15:35:37.211646+01
-date modified: 2024-04-05 15:35:37.217657+01
+title: Co-amoxiclav
+date created: Tuesday, November 25th 2025, 8:19:37 pm
+date modified: Thursday, May 14th 2026, 7:42:25 pm
 tags: ['Antibiotic', 'Drug']
 ---
 

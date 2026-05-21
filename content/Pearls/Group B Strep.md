@@ -16,6 +16,6 @@ Most common cause of early-onset [[Pearls/Neonate sepsis|Neonate sepsis]]. Scree
 ### Management
 
 - Antibiotic of choice is usually benzylpenicillin
-- Women who had GBS in a previous pregnancy should be offered **IV antibiotics** OR testing in late pregnancy and then antibiotics if still positive (35-37 weeks)
+- Women who had GBS in a previous pregnancy should be offered **IV benzylpenicillin** OR testing in late pregnancy and then antibiotics if still positive (35-37 weeks)
 - IV antibiotics given in pre-term labour regardless of their GBS status
 - Women with pyrexia during labour should also be given 

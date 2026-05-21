@@ -80,7 +80,7 @@ Should ideally be diagnosed clinically
 
 ## Complications
 
-Persistent air leak or recurrent episodes → consider referral for VATS to allow for mechanical/chemical pleurodesis +/- bullectomy
+Persistent air leak or recurrent episodes → consider referral for VATS (thoracic surgery) to allow for mechanical/chemical pleurodesis +/- bullectomy
 
 - Pleurodesis (sticking lung to chest wall) may be used if there is a significant risk of repeat episodes
 

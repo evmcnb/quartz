@@ -2,13 +2,13 @@
 tags: [Gastroenterology]
 title: "Crohn's Disease"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 2nd 2026, 11:10:24 am
+date modified: Tuesday, May 19th 2026, 1:35:39 pm
 date: 2023-09-18
 ---
 
 The inflammatory bowel diseases (IBD), [[Full/Ulcerative Colitis]] and Crohn's disease are chronic autoimmune relapsing and remitting inflammation of the intestine.
 
-Can effect any part of GI tract from mouth to anus
+Can effect any part of GI tract from mouth to anus, most common in terminal ileum
 Crohn’s is also associated with **_strictures_** and **_fistulas_**.
 More difficult to manage due to this
 
@@ -66,7 +66,7 @@ Extraintestinal signs:
 	- TFT for hyperthyroidism as a cause of diarrhoea
 	- Anti-TTG  to rule out coeliac as a differential 
 - Full colonoscopy or sigmoidoscopy $\rightarrow$ biopsy
-- Crypt abcesses on histology
+- Crypt abcesses on histology + $\uparrow$ goblet cells
 - AXR - no feacal shadows, mucosal thickening/islands
 
 ## Management
@@ -96,6 +96,8 @@ First line for maintaining remission:
 - azathioprine
 - mercaptopurine
 
+Need to check **thiopurine methyltransferase (TPMT) activity*** before starting
+
 Methotrexate is an alternative when first line options are unsuitable
 
 
@@ -104,6 +106,8 @@ Methotrexate is an alternative when first line options are unsuitable
 Usually limited to treating isolated disease (resecting the distal ileum) or treating complications: 
 
 ![](z_attachments/B10dLH6.png)
+
+MRI is the investigation of choice for suspected perianal fistulae 
 
 ## Complications/red Flags
 

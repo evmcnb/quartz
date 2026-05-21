@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Hyperthyroidism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 7th 2026, 10:30:37 am
+date modified: Tuesday, May 19th 2026, 2:54:59 pm
 aliases: [Thyrotoxicosis]
 date: 2024-01-14
 ---
@@ -80,7 +80,7 @@ C for congential abnormalities don't use in first trimester
 **Surgery is definitive option** - removing the whole thyroid gland and starting life-long [[Pearls/Levothyroxine|Levothyroxine]] 
 ## Complications/Red Flags
 
-- **Thyroid Storm:** It is a rare and more severe presentation of hyperthyroidism with **_fever_**, **_tachycardia_** and **_delirium_**. It can be life-threatening and requires admission for monitoring. IV propanolol first line
+- **Thyroid Storm:** It is a rare and more severe presentation of hyperthyroidism with **_fever_**, **_tachycardia_** and **_delirium_**. It can be life-threatening and requires admission for monitoring. IV propanolol first line (then propylthiouracil and hydrocortisone)
 - **[[Full/osteoporosis]]:** Long-term hyperthyroidism can lead to [[Pearls/Bone|Bone]] loss and an increased risk of fractures.
 - **Heart Problems:** Untreated hyperthyroidism can strain the heart, leading to heart rhythm abnormalities and potential [[Full/Heart Failure]].
 - **[[Full/Pregnancy]] Complications:** Hyperthyroidism during [[Full/Pregnancy]] requires careful management to prevent harm to both the mother and the baby.

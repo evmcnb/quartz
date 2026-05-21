@@ -1,7 +1,7 @@
 ---
 title: Amlodipine
 date created: Tuesday, November 25th 2025, 8:19:49 pm
-date modified: Thursday, May 7th 2026, 7:23:48 pm
+date modified: Wednesday, May 20th 2026, 10:47:57 am
 tags: ['Drug']
 ---
 
@@ -13,7 +13,7 @@ tags: ['Drug']
 | **Typical Dose**       | 5mg to up 10mg                                                                                                                                                                                                                        |
 | **Indications**        | * [[Full/Angina]] * HTN                                                                                                                                                                                                               |
 | **Contra-indications** | * Cardiogenic shock * Significant [[Full/Aortic Stenosis]] * Unstable [[Full/Angina]]                                                                                                                                                 |
-| **Side-effects**       | **Ankle oedema**, abdominal pain, nausea, decreased intestinal motility (constipation), gingival hyperplasia                                                                                                                          |
+| **Side-effects**       | **Ankle oedema**, abdominal pain, nausea, decreased intestinal motility (**constipation**), gingival hyperplasia                                                                                                                      |
 | **Interactions**       | * P450 stuff                                                                                                                                                                                                                          |
 | **Elimination**        |                                                                                                                                                                                                                                       |
 | **Additional Notes**   |                                                                                                                                                                                                                                       |

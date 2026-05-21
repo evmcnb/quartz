@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Angina
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 9th 2026, 3:44:36 pm
+date modified: Tuesday, May 19th 2026, 12:11:32 pm
 date: 2023-11-12
 ---
 
@@ -39,8 +39,10 @@ Some people develop unstable angina after having stable angina.
 
 ## Diagnostic Tests
 
-- **Physical exam:** heart sounds, [[Full/Heart Failure]], blood pressure, BMI
+- **Troponin**: SHOULD NOT BE RAISED, raised $\rightarrow$  [[Full/myocardial infarction|myocardial infarction]]
 - **ECG:** usually normal - _may_ show ST [[Full/Depression]] or flat or inverted [[Pearls/T waves|T waves]]
+
+- **Physical exam:** heart sounds, [[Full/Heart Failure]], blood pressure, BMI
 - **Blood Tests:** FBC, U&Es, TFTs, lipids, HbA1C
 - **Echo and CXR** to rule out gross defects and differential diagnoses
 - **Angiography** - for typical and atypical angina if the patient _does not_ have a previous episode of proven [[Full/Coronary Artery Disease|Ischemic Heart Disease]] 

@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Acute Kidney Injury
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, October 26th 2025, 1:43:02 pm
+date modified: Tuesday, May 19th 2026, 11:07:30 am
 date: 2023-09-18
 ---
 Any of the following define an AKI: 

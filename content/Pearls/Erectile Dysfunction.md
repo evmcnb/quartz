@@ -2,7 +2,7 @@
 tags: [Endocrinology, Cardiovascular]
 title: Erectile Dysfunction
 date: 
-date modified: Thursday, October 16th 2025, 5:20:03 pm
+date modified: Tuesday, May 19th 2026, 2:15:20 pm
 date created: Tuesday, September 30th 2025, 4:10:32 pm
 ---
 
@@ -11,7 +11,7 @@ Symptoms and not a disease and may be due to multiple underlying causes
 
 ## Causes/Factors
 
-- Vasculogenic - CVD, HTN, PAD, hyperlipidaemia, T1DM, T2DM, smoking, obesity
+- Vasculogenic (most common) - CVD, HTN, PAD, hyperlipidaemia, T1DM, T2DM, smoking, obesity
 - Neurogenic - stroke, spinal cord trauma etc
 - Anatomical
 - Endocrine
@@ -51,7 +51,7 @@ Contraindicated in:
 - Degenerative retinal disorders
 
 S/Es
-- Headache
+- **Headache**
 - Flushing
 - Dizziness
 - Dyspepsia

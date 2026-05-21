@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Depression
 date: 2024-02-09
-date modified: Wednesday, May 6th 2026, 12:57:00 pm
+date modified: Tuesday, May 19th 2026, 1:09:10 pm
 date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
 Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia) for at least 2 weeks.
@@ -92,6 +92,13 @@ Management is based on the bio-psycho-social model.
 3. If that doesn't work look at combining with [[Pearls/Antipsychotics|Antipsychotics]] or other drugs
 
 
+> [!warning] Electroconvulsive therapy (ECT)
+> For patients with severe/life-threatening depression refractory to medication. The only absolute contraindication is raised ICP. 
+> 
+> Short term side effects:
+> - headache/nausea
+> - short term memory loss
+> - cardiac arrhythmias 
 
 ## Complications/red Flags
 

@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Schizophrenia
 date:
-date modified: Wednesday, May 13th 2026, 5:32:36 pm
+date modified: Sunday, May 17th 2026, 4:08:16 pm
 date created: Friday, February 6th 2026, 4:57:46 pm
 ---
 
@@ -39,7 +39,9 @@ Severe [[Pearls/Psychotic Disorders|psychotic disorder]] basically chronic [[Pea
 
 ## Features
 
-Symptoms may be divided into **auditory hallucinations, thought disorders, passivity phenomena and delusional perceptions**
+Symptoms may be divided into **auditory hallucinations, thought disorders, passivity phenomena and delusional perceptions**. 
+
+The following are all **first rank symptoms**
 
 Auditory hallucinations:
 - Two or more voices discussing the patient in the third person

@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: COPD
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, October 6th 2025, 10:17:54 am
+date modified: Wednesday, May 20th 2026, 12:01:30 pm
 date: 2023-11-16
 ---
 
@@ -142,7 +142,11 @@ Non-invasive ventilation should be considered in all patients with an acute exac
 - understand how to take the medication and are aware of associated risks and benefits
 - know when to seek help once the medication has been used
 
-
+Phosphodiesterase-4 (PDE-4) inhibitors
+- oral PDE-4 inhibitors such as roflumilast reduce the risk of COPD exacerbations in patients with severe COPD and a history of frequent COPD exacerbations
+- NICE recommend if:
+    - the disease is severe, defined as a forced expiratory volume in 1 second (FEV1) after a bronchodilator of less than 50% of predicted normal, and
+    - the person has had 2 or more exacerbations in the previous 12 months despite triple inhaled therapy with a long-acting muscarinic antagonist, a long-acting beta-2 agonist and an inhaled corticosteroid
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: Anaphylactic shock
 date created: Monday, February 26th 2024, 05:06:49 PM
-date modified: Friday, February 27th 2026, 10:15:57 am
+date modified: Friday, May 15th 2026, 2:34:00 pm
 tags: ['Acute']
 ---
 
@@ -41,3 +41,25 @@ Management
 7. If still hypotensive admission to ICU and expert help need
 
 Can additional stuff (steroids + antihistamine but adjuncts rather than treatment)
+
+
+### Discharge
+
+All timed from symptom resolution
+
+**After 2 hours of obs if**:
+- good response to a single dose of adrenaline
+- complete resolution of symptoms
+- has been given adrenaline auto-injector
+- adequate supervision following discharge
+
+**After 6 hours of obs if:**
+- 2 doses of IM adrenaline needed
+- previous biphasic reaction 
+
+**After 12 hours of obs if:**
+- severe reaction requiring >2 doses of adrenaline
+- patient has severe asthma
+- possibility of on-going reaction
+- patient presents late at night
+- patient lives in areas with difficulty accessing emergency care

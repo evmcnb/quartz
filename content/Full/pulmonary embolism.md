@@ -2,7 +2,7 @@
 tags: [Respiratory, Cardiovascular]
 title: pulmonary embolism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 2nd 2026, 11:29:42 am
+date modified: Thursday, May 14th 2026, 8:16:42 pm
 date: 2023-09-18
 ---
 
@@ -42,6 +42,12 @@ May also have signs and symptoms of [[Full/Deep Vein Thrombosis#Symptoms|DVT]]
 - normal chest exam
 - CXR - is usually **normal** in a pulmonary embolism but is required to rule out other pathology.
 
+> [!tldr] Hampton hump
+> Wedge-shaped opacification pulmonary infarction caused by acute pulmonary embolism. One of the few things seen because of a PE. 
+> 
+> ![[z_attachments/Pasted image 20260514200613.png|372]]
+> 
+
 ### Wells score
 - 4+ perform a CTPA or alternative, if negative proximal leg scan
 - <4 perform a D-dimer and if positive get a CTPA
@@ -58,10 +64,11 @@ Anticoagulation for haemodynamically stable PEs:
 - LMWH main alternative (e.g. in [[Pearls/Kidney Failure|Kidney Failure]] patients or in [[Full/Pregnancy|Pregnancy]])
 
 ==Massive PE with haemodynamic compromise== one of
-- Continuous infusion of unfractionated heparin
-- Consider thrombolysis ([[Pearls/Streptokinase|Streptokinase]], alteplase, tenecteplase) first line
-
+- Consider [[Pearls/Thrombolysis]] ([[Pearls/Streptokinase|Streptokinase]], alteplase, tenecteplase) first line
 - May consider continuous infusion of unfractionated heparin
+
+
+
 
 ## Long-Term Anticoagulation
 The options for long-term anticoagulation in VTE are a **_DOAC_**, **_warfarin_** or **_LMWH_**.

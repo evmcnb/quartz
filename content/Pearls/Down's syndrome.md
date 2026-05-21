@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: "Down's syndrome"
 date: 2023-09-27
-date modified: Wednesday, April 22nd 2026, 10:28:30 am
+date modified: Sunday, May 17th 2026, 7:36:41 pm
 date created: Saturday, December 20th 2025, 4:10:32 pm
 ---
 
@@ -45,6 +45,11 @@ The combined test is now standard:
 - Serum b-HCG + pregnancy-associated plasma protein A (PAPPA) + nuchal translucency measurement
 - Down's syndrome is suggested by $\uparrow$ b-HCG, $\downarrow$ PAPP-A and thickened nuchal translucency
 - Trisomy 18 (Edwards syndrome) and 13 (Patau syndrome) give similar results but the hCG tends to be lower
+
+
+> [!info] Increased nuchal translucency
+> It's a well known marker for chromosomal abnormalities such as Down's. But it's also associated with other fetal abnormalities, especially congenital heart defects
+
 
 If women book later in the pregnancy (15-20 weeks), the quadruple test should be offered:
 - aFP

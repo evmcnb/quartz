@@ -27,7 +27,7 @@ Increased risk with twins (more b-HCG released)
 ### Management
 
 First-line medications: 
-- Antihistamines: oral cyclizine or promethazine
+- Antihistamines: oral c**y**clizine (for h**y**peremesis) or promethazine
 - Phenothiazines: oral prochlorperazine
 - Combination of doxylamine/pyridoxine
 

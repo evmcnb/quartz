@@ -2,11 +2,11 @@
 tags: [Paediatrics, Genetics]
 title: Klinefelter syndrome
 date: 2023-09-27
-date modified: Saturday, December 20th 2025, 4:33:38 pm
+date modified: Tuesday, May 19th 2026, 11:00:54 am
 date created: Saturday, December 20th 2025, 4:33:04 pm
 ---
 
-Klinefelter's syndrome is associated with karyotype 47, XXY.  
+Klinefelter's syndrome is associated with karyotype 47, XXY (chromosomal non-non-disjunction).  
   
 Features  
 - often taller than average

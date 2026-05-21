@@ -1,6 +1,5 @@
 ---
-tags:
-  - Cardiovascular
+tags: [Cardiovascular]
 title: Pressure sores
 date created: Friday, February 23rd 2024, 10:55:08 am
 date modified: 2024-03-11
@@ -22,7 +21,7 @@ Usually occur over a bony prominence - but may be related to a medical device/ot
 ## Causes/Factors
 
 - Reduced mobility
-- Nutritional deficiency
+- **Nutritional deficiency**
 - Older age
 - Poor vascular supply to skin and soft tissues ([[Full/Diabetes Mellitus]], [[Full/peripheral vascular disease]])
 

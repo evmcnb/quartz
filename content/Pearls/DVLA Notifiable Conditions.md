@@ -1,11 +1,21 @@
 ---
 title: DVLA Notifiable Conditions
 date created: Monday, October 6th 2025, 9:47:04 am
-date modified: Monday, October 13th 2025, 7:15:26 pm
+date modified: Wednesday, May 20th 2026, 12:04:18 pm
 tags: [Neurology, Endocrinology, Cardiovascular, Psychiatry]
 ---
 
 Patients need to notify the DVLA themselves, but if they refuse to do so doctors can break confidentiality
+
+| Condition/Note                       | Group 1 Details                            | Group 2 Details                                  |
+| :----------------------------------- | :----------------------------------------- | :----------------------------------------------- |
+| **Epilepsy**                         | Seizure 12 months                          | Can't drive                                      |
+| **TIA (Transient Ischaemic Attack)** | 1 month; depends on recovery               | Can't drive; notify DVLA; may re-license         |
+| **Angina**                           | Depends on symptoms                        | Stop; 6 weeks symptom free                       |
+| **ACS (Acute Coronary Syndrome)**    | Stop 1-4 weeks                             | Stop; DVLA reassess 6/52                         |
+| **HF (Heart Failure)**               | NYHA class 4 can't drive                   | EF <40% or NYHF 3                                |
+| **AF (Atrial Fibrillation)**         | Only if incapacitating                     | Stop; notify DVLA                                |
+| **Diabetes**                         | Multiple hypoglycaemia; regular BM testing | Main risks around hypoglycaemia, insulin, vision |
 
 ## Neurology
 

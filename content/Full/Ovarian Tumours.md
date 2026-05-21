@@ -98,7 +98,7 @@ Often with non-specific symptoms. In older women, keep the threshold for investi
 An ovarian mass may press on the **_obturator nerve_** and cause referred **_hip_** or **_groin pain_**. The obturator nerve passes along the inside of the pelvic, lateral to the ovaries, where an ovarian mass can compress it.
 
 > [!info] Referral Criteria
->Refer to 2WW if physical exam reveals **ascites, pelvic mass or abdominal mass**. Carry out further investigation (CA125) in those over 50 with:
+>Refer to 2WW if physical exam reveals **ascites, pelvic mass or abdominal mass**. Carry out further investigation (CA125 + USS) in those over 50 with:
 >- New symptoms of IBS/change in bowel habit
 >- Abdominal bloating
 >- Early satiety 
@@ -111,6 +111,8 @@ An ovarian mass may press on the **_obturator nerve_** and cause referred **_
 The initial investigations in primary or secondary care are:
 - CA125 blood test (>35 IU/mL is significant)
 - Pelvic ultrasound
+If in primary care, these should be carried out before/as part of 2WW referral 
+
 
 The **_risk of malignancy index_** (**_RMI_**) estimates the risk of an ovarian mass being malignant, taking account of three things:
 - Menopausal status

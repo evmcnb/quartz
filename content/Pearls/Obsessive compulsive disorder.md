@@ -2,7 +2,7 @@
 tags: [Paediatrics, Psychiatry]
 title: Obsessive compulsive disorder
 date: 2023-09-27
-date modified: Monday, May 11th 2026, 11:58:11 am
+date modified: Wednesday, May 20th 2026, 10:22:31 am
 date created: Thursday, January 22nd 2026, 5:09:25 pm
 aliases: [OCD]
 ---
@@ -33,3 +33,5 @@ Need to classify impairment to mild, moderate severe:
 - Mild: CBT and exposure and response prevention (ERP). If fails offer course of SSRI
 - Moderate: choice of SSRI (fluoxetine) or clomipramine (dry mouth and weight gain) or more intensive CBT including ERP.
 - Severe: Refer to secondary care mental health team for assessment. Offer the above while waiting for assessment
+
+The SSRI usually requires a higher dose and a longer duration of treatment (at least 12 weeks) for an initial response

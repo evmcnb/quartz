@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Haematology]
 title: Deep Vein Thrombosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 14th 2026, 2:12:00 pm
+date modified: Thursday, May 14th 2026, 8:45:20 pm
 date: 2024-01-14
 ---
 	
@@ -65,7 +65,27 @@ Physical exam generally unreliable as similar to dermatitis
 > |Previously documented DVT|1|
 > |An alternative diagnosis is at least as likely as DVT|-2|
 
+##### If DVT is likely (Well's $\geq$ 2):
 
+1. Proximal leg vein ultrasound
+2. If -ve, D-dimer
+Both negative make the diagnosis unlikely and other diagnosis should be considered
+
+If a proximal leg vein ultrasound scan cannot be carried out within **4 hours** a **D-dimer** test should be performed and interim therapeutic **anticoagulation** (DOAC) administered whilst waiting for the proximal leg vein ultrasound scan (which should be performed within 24 hours)
+
+If the scan is negative but the D-dimer positive:
+- stop the therapeutic anticoagulation 
+- repeat proximal leg scan 6-8 days later 
+
+##### If DVT is unlikely (Well's $\leq$ 1)
+
+Perform a **D-dimer** with 4 hours. If unable, give therapeutic anticoagulation until results are in 
+- If negative, consider alternative diagnosis
+- If positive, proximal leg vein ultrasound within 4 hours
+- See above for if scan cannot be completed within 4 hours
+
+
+![[z_attachments/Pasted image 20260514202412.png]]
 ## Management
 
 

@@ -2,8 +2,9 @@
 title: Syndrome of Inappropriate Antidiuretic Hormone
 tags: [Nephrology, Endocrinology, Oncology, Drug]
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Friday, May 15th 2026, 4:55:32 pm
 aliases: [SIADH]
+date created: Monday, March 30th 2026, 2:49:33 pm
 ---
 
 Hyponatraemia secondary to the dilutional effects of excessive water retention. Patients are typically euvolemic - no signs of overt volume depletion or overload.
@@ -19,13 +20,14 @@ Hyponatraemia secondary to the dilutional effects of excessive water retention. 
 | Malignancy   | - [[Full/Lung Tumours#Small cell\|small cell lung cancer]]<br>- also: pancreas, prostate                                                                                                                                           |
 | Neurological | - [[Full/Stroke\|Stroke]]<br>- [[Full/Subarachnoid haemorrhage\|Subarachnoid haemorrhage]]<br>- [[Full/Subdural Haematoma\|Subdural Haematoma]]<br>- [[Full/Meningitis\|Meningitis]]/[[Pearls/Encephalitis\|Encephalitis]]/abscess |
 | Infections   | - [[Full/Tuberculosis\|Tuberculosis]]<br>- [[Full/pneumonia\|pneumonia]]                                                                                                                                                           |
-| Drugs        | - sulfonylureas*<br>- [[Full/Antidepressants\|SSRIs, tricyclics]]<br>- [[Pearls/Carbamazepine\|Carbamazepine]]<br>- vincristine<br>- cyclophosphamide                                                                                   |
+| Drugs        | - sulfonylureas<br>- [[Full/Antidepressants\|SSRIs, tricyclics]]<br>- [[Pearls/Carbamazepine\|Carbamazepine]]<br>- vincristine<br>- cyclophosphamide                                                                               |
 | Other causes | - positive end-expiratory pressure (PEEP)<br>- porphyrias                                                                                                                                                                          |
 
 
 Investigations  
 - Urine osmolality: inappropriately high (>100 mOsm/kg) in relation to serum osmolality, as the kidneys should normally dilute urine in the setting of low serum osmolality.
 - Urine sodium concentration: Urine sodium concentration is typically high (>40 mmol/L) due to the action of ADH on the renal tubules.
+- Serum cortisol to exclude glucocorticoid insufficiency
 
 Management  
 - correction must be done slowly to avoid precipitating [[Pearls/Central Pontine Myelinolysis]]

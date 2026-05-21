@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 14th 2026, 7:22:20 pm
+date modified: Tuesday, May 19th 2026, 3:02:59 pm
 date: 2024-01-14
 ---
 
@@ -79,12 +79,15 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
 
 - **SGLT2i** - sodium glucose co-transpoter 2 inhibitor. Blocks the reabsorption of glucose in kidneys - wee out sugar. _eg Empagliflozin_
 	- Should be started once **metformin is at maximum tolerated dose**
-	- They **_can_** cause **_hypoglycaemia_** when used with insulin or sulfonylureas.
 	- Reduces cardiovascular risk, lowers HbA1c, lowers BP improves features of heart failure
-	- Increases frequency of urinary tract infections and genital thrush and rarely **risk of DKA** (even with a moderately increased glucose). Rare risk of necrotising fasciitis of the genitalia or perineums
+	
+	- They **_can_** cause **_hypoglycaemia_** when used with insulin or sulfonylureas.
+	- Risk of [[Full/Diabetic ketoacidosis|Euglycaemic ketoacidosis]]
+	- Increases frequency of urinary tract infections and genital thrush
+	- Risk of necrotising fasciitis of the genitalia or perineums (Fournier's Gangrene)
 
 **Specific scenarios**
-- History of cardiovascular disease $\rightarrow$ subcutaneous semaglutide (GLP-1) should be added to two core drugs
+- History of cardiovascular disease $\rightarrow$ subcutaneous **semaglutide (GLP-1)** should be added to two core drugs
 - Early onset T2DM (<40) $\rightarrow$ consider adding a GLP-1 receptor agonist to two core drugs
 - [[Full/Chronic Kidney Disease|Chronic Kidney Disease]] (eGFR 20-30) 
 	- meformin is contraindicated

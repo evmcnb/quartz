@@ -1,10 +1,27 @@
 ---
 tags: [OBGYN, Haematology]
-title: Postpartum Anaemia
+title: Anaemia in Pregnancy
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 12:29:54 pm
+date modified: Sunday, May 17th 2026, 6:41:10 pm
 date created: Wednesday, December 31st 2025, 12:25:30 pm
+aliases: [Postpartum Anaemia]
 ---
+### Antenatal
+
+Pregnant women are screened for anaemia at:  
+- the booking visit (often done at 8-10 weeks), and at
+- 28 weeks
+
+| Gestation              | Cut-off   |
+| ---------------------- | --------- |
+| First trimester        | < 110 g/L |
+| Second/third trimester | < 105 g/L |
+
+oral ferrous sulfate or ferrous fumarate
+- treatment should be continued for 3 months after iron deficiency is corrected to allow iron stores to be replenished
+
+
+### Post-partum
 
 Common after delivery. Essential to optimise treatment of anaemia during pregnancy before delivery
 

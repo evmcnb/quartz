@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Thursday, May 14th 2026, 1:33:19 pm
+date modified: Thursday, May 14th 2026, 8:00:02 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -10,6 +10,10 @@ When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensit
 The combination of both acidosis and hyperglycaemia can be deadly
 
 Typically in [[Full/Diabetes Mellitus#Type 1|Type 1 DM]] very rarely in type 2 
+
+
+> [!warning] Euglycaemic acidosis
+> The same as diabetic ketoacidosis but without a raised glucose. Classically caused by SGLT2 inhibitors. 
 
 
 ## Causes/Factors
@@ -54,9 +58,9 @@ Main principles of management
 - correction of electrolyte disturbance
     - serum potassium is often high on admission despite total body potassium being low
     - this often falls quickly following treatment with insulin resulting in hypokalaemia
-    - potassium may therefore need to be added to the replacement fluids (**if potassium normal range 40 mmol/l**, if low senior advice)
+    - potassium may therefore need to be added to the replacement fluids (**if potassium normal range: 40 mmol/l**, if low senior advice)
     - if the rate of potassium infusion is greater than 20 mmol/hour then cardiac monitoring may be required
-- long-acting insulin should be continued, short-acting insulin should be stopped
+- **long-acting insulin should be continued**, short-acting insulin should be stopped
 
 
 ![[z_attachments/Screenshot 2023-11-12 at 13.30.12.png|450]]

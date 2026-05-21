@@ -61,3 +61,4 @@ For those 6 months - 3 years
 | Ultrasound within 6 weeks                                                         | No                                         | No                               | Yes                               |
 | Dimercaptosuccinic acid scintigraphy scan 4 to 6 months after the acute infection | No                                         | Yes                              | Yes                               |
 | Micturating cystourethrogram                                                      | No                                         | No                               | No                                |
+

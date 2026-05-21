@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Aortic Stenosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2025-011
+date modified: Wednesday, May 20th 2026, 10:56:20 am
 date: 2023-09-18
 ---
 
@@ -27,6 +27,7 @@ Pressure overload - high resistance low reps -> hypertrophy
 - Hard and loud ejection systolic murmur Between S1 and S2
 - Reduced pulse pressure (difference between systolic and diastolic)
 - Forceful apex beat
+- Slow rising pulse
 
 ## Diagnostic Tests
 

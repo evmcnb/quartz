@@ -2,7 +2,7 @@
 tags: [Neonatology, OBGYN]
 title: Congenital Conditions
 date: 2023-09-27
-date modified: Saturday, April 25th 2026, 4:07:25 pm
+date modified: Sunday, May 17th 2026, 5:05:51 pm
 date created: Thursday, December 18th 2025, 3:54:06 pm
 ---
 
@@ -25,6 +25,10 @@ Risk of:
 - Cytomegalovirus - periventricular calcifications
 - Herpes Simplex - meningoencephalitis (and varicella zoster) 
 - other infections: zika...syphilis, HIV, parvovirus 
+
+
+> [!tldr] Testing for TORCH in the infant
+> Previously IgM testing in the infant as *maternal IgG crosses the placenta but IgM does not*. However PCR is more widely used for better sens and spec 
 
 
 ### Toxoplasmosis 
