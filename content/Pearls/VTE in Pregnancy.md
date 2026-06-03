@@ -23,8 +23,9 @@ Common and potentially fatal. PE is the most significant cause of obstetric deat
 - Thrombophillia
 
 Start prophylaxis if: 
-- 28 weeks with 3 risk factors
-- 1st trimester if 4 or more risk factors
+- 10 days postpartum if 2 risk factors
+- 28 weeks + 6 pp with 3 risk factors
+- From 1st trimester + 6 pp if 4 or more risk factors
 
 Usual risk factors still considered
 
@@ -32,7 +33,7 @@ Usual risk factors still considered
 
 - Risk assessment at booking and after birth 
 - LMWH first line - enoxaparin, tinzaparin etc
-- Once started continued throughout the antenatal period and 6 weeks postnatally
+- **Start immediately** and continue throughout the antenatal period and **6 weeks** postnatally
 
 Temporarily stopped when the mother goes into labour, and can be started again immediately after delivery (except with postpartum haemorrhage, spinal anaesthesia and epidurals)
 

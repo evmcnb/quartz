@@ -22,6 +22,7 @@ Secondary prevention
 
 ## Adverse effects
 
+- Interacts with marcolides (clarithromycin) need to consider alternative or stop stain
 - Myopathy - with associated CK increase
 - Liver impairment - check LFTs at baseline, 3 months and 12 months. **Treatment should stop if transaminases rise to over 3x normal limit**
 - Possible increase risk of bleed in stroke patients - avoid in those with history of **intracerebral haemorrhage**

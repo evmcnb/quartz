@@ -1,7 +1,7 @@
 ---
 title: Endometriosis
 date created: Sunday, January 21th 2024, 12:40:21 PM
-date modified: Wednesday, January 7th 2026, 11:44:07 am
+date modified: Monday, May 25th 2026, 7:14:11 pm
 tags: ['OBGYN']
 ---
 
@@ -26,8 +26,12 @@ tags: ['OBGYN']
 - Ligaments
 - Bladder
 
+Investigation  
+- **laparoscopy is the gold-standard investigation**
+- there is little role for investigation in primary care (e.g. ultrasound)- if the symptoms are significant the patient should be referred for a definitive diagnosis
+
 Management depends on clinical features - poor correlation between laparoscopic findings and severity of symptoms. 
-- NSAIDs $\pm$ paracetamol 
+- NSAIDs (including mefanamic acid) $\pm$ paracetamol 
 - If analgesia doesn't help, hormonal therapies such as [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]
 	- Dienogest - progestogen licensed for endometriosis
 	- Mirena IUS

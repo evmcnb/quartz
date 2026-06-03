@@ -2,7 +2,7 @@
 tags: [Anaesthetics, Surgery, OSCE]
 title: Intra-operative Anaesthesia
 date: 2023-09-27
-date modified: Thursday, May 7th 2026, 6:46:32 pm
+date modified: Sunday, May 31st 2026, 11:10:10 am
 date created: Tuesday, November 4th 2025, 10:14:54 am
 ---
 
@@ -24,6 +24,7 @@ IV agents - lasts 4-10 minutes:
 	- Good suppression of airway reflexes - easy igel
 	- Causes pain on injection & invol movements
 	- Marked drop in BP 
+	- Anti-emetic properties (GABA agonist)
 - Thiopentone - mainly used for RSI (4 -  5mg/kg)
 	- Barbiturate - anti-epileptic properties
 	- Drop in BP but rise in HR
@@ -56,6 +57,8 @@ Depolarising (acetylcholinesterase agonist):
 	- Can lead to muscle pains, fasciculations, hyperkalaemia, rise in ICP, IOP and gastric pressure 
 	- Suxamethonium apnoea aka pseudocholinesterase deficiency
 	- Can cause malignant hyperthermia
+	- Ccontraindicated for patients with penetrating eye injuries or acute narrow angle glaucoma (increases intra-ocular pressure)
+
 
 Non-depolarising (postsynaptic nicotinic acetylcholine receptors agonist) - slow onset and variable duration but with less side effects
 - Short-acting: mivacurium 

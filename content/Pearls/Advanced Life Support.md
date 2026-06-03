@@ -1,7 +1,7 @@
 ---
 title: Unstable Patients
 date created: Sunday, January 21th 2024, 11:38:59 AM
-date modified: Wednesday, May 20th 2026, 10:39:12 am
+date modified: Monday, June 1st 2026, 12:36:05 pm
 tags: [Acute, Cardiovascular]
 aliases: [Unstable Patients, Advanced Life Support, Intermediate Life Support, Ventricular Arrhythmias]
 linter-yaml-title-alias: Unstable Patients
@@ -19,6 +19,9 @@ Continuous assessment for patients is required to monitor stability - monitor fo
 3. **After shock 5:** Adrenaline 1mg 1:10,000 IV and amiodarone 150mg IV
 4. **Repeat**: Give adrenaline bolus every 3-5 minutes
 
+
+> [!info] Synchronization
+> Any rhythm with a pulse should be synced. DC cardioversion is synchronised to the R wave to minimise the risk of inducing ventricular fibrillation.
 
 #### Non-shockable rhythms (PEA/asystole)
 

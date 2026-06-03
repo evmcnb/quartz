@@ -1,11 +1,11 @@
 ---
 title: Encephalitis
 date created: Friday, February 23th 2024, 02:01:10 PM
-date modified: Wednesday, May 20th 2026, 11:20:03 am
+date modified: Friday, May 29th 2026, 2:07:21 pm
 tags: ['Neurology']
 ---
 
-Inflammation of the brain usually viral - HSV-1 95% (HSV-2 in neonates from genital herpes contracted during birth). Other viruses such as polio, mumps rubella and measles can be causative too **ask about vaccinations**
+Inflammation of the brain usually viral - HSV-1 95% (HSV-2 in neonates from genital herpes contracted during birth, ill-defined hypodense areas in the bilateral temporal lobes and inferior frontal lobes on CT). Other viruses such as polio, mumps rubella and measles can be causative too **ask about vaccinations**
 
 Typically affects temporal and inferior frontal lobes
 * Fever

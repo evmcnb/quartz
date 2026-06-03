@@ -2,7 +2,8 @@
 tags: [Paediatrics, Haematology]
 title: Idiopathic Thrombocytopenic Purpura
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Friday, May 29th 2026, 11:58:50 am
+date created: Wednesday, February 4th 2026, 10:57:01 am
 ---
 
 Immune mediated reduction in the platelet count - type II hypersensitivity reactions
@@ -16,7 +17,8 @@ Immune mediated reduction in the platelet count - type II hypersensitivity react
 
 Often preceeded by a viral illness ([[Full/Infectious Mononucleosis|Infectious Mononucleosis]])
 
-Urgent FBC to investigate - low platelet with all other values normal. Other causes of thrombocytopenia should be excluded e.g. HIT and leukaemia 
+Urgent FBC to investigate - low platelet with all other values normal. Other causes of thrombocytopenia should be excluded e.g. heparin induced thrombocytopenia (HIT) and leukaemia 
+- Very important to check with senior about platelets in these patients. They are typically in a pro-thrombotic state, so giving platelets can precipitate thromboembolic events
 
 Usually no treatment required and 70% will spontaneously recover within 3 months. If actively bleeding or severely low:
 - Oral prednisolone (80% respond)

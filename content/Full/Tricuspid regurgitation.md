@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Tricuspid regurgitation
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, December 20th 2025, 4:37:22 pm
+date modified: Friday, May 29th 2026, 2:00:02 pm
 date: 2023-09-27
 ---
 
@@ -25,3 +25,4 @@ Incompetent tricuspid valve
 - Pulsatile liver
 - Peripheral oedema
 - [[Pearls/Ascites|Ascites]]
+- Parasternal left heave

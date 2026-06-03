@@ -13,6 +13,8 @@ Causes vomiting via a number of different pathways
 
 Vomiting triggers the release of aldosterone to try and increase the blood pressure. Aldosterone enhances the reabsorption of sodium and water in the kidneys at the expense of potassium excretion.
 
+Can therefore also cause **hypernatremia** from the dehydration
+
 ## Metabolic Alkalosis
 
 Vomiting leads to the loss of acid - leading to alkalosis. Metabolic alkalosis prompts the kidneys to excrete bicarbonate to restore acid-base balance. As kidneys excrete bicarbonate potassium is also excreted.
@@ -20,4 +22,6 @@ Vomiting leads to the loss of acid - leading to alkalosis. Metabolic alkalosis p
 ## Gastric Fluid
 
 Gastric fluid itself contains a little potassium which would contribute to the hypokalaemia
+
+
 

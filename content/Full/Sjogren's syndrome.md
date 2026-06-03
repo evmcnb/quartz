@@ -1,10 +1,8 @@
 ---
-tags:
-  - Rheumatology
-  - ENT
+tags: [Rheumatology, ENT]
 title: "Sjogren's syndrome"
 date created: Saturday, October 7th 2023, 4:44:55 pm
-date modified: 2024-04-21
+date modified: Friday, May 29th 2026, 6:18:19 pm
 date: 2023-10-12
 ---
 Chronic autoimmune disorder - inflammation and dysfunction of the exocrine glands, primarily the salivary and lacrimal glands. 
@@ -58,3 +56,4 @@ Treatment of Sjögren's Syndrome aims to relieve symptoms and prevent complicati
 - **Increased Infection Risk:** Due to reduced saliva's protective properties.
 - **Dental Problems:** Increased risk of tooth decay and gum disease.
 - **Organ Involvement:** Sjögren's can affect other organs, including the lungs, kidneys, and nervous system.
+- **Lymphoma**: increased risk of lymphoid malignancies

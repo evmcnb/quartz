@@ -9,3 +9,4 @@ tags: ['Neurology']
 
 * Long intracranial course of abducens (CN VI) makes it suseptible to damage early in increased ICP
 * Innervates lateral rectus so the affected eye turns medially and is unable to abduct properly.
+- Cushing's triad - **hypertension, bradycardia, and irregular breathing** with widening pulse pressure

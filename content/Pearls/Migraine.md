@@ -2,7 +2,7 @@
 tags: [Neurology]
 title: Migraine
 date: 2023-09-27
-date modified: Tuesday, May 5th 2026, 1:47:41 pm
+date modified: Monday, June 1st 2026, 1:01:43 pm
 date created: Saturday, December 6th 2025, 11:39:45 am
 ---
 
@@ -46,6 +46,10 @@ date created: Saturday, December 6th 2025, 11:39:45 am
 - If not effective offer metaclopramide/prochlorperazine to speed up gastric emptying. 
 - If resistant to 2 different triptans: **Rimegepant**
 
+
+> [!danger] Triptans
+> - Can cause coronary vasospasm - contraindicated in [[Full/Coronary Artery Disease|Ischemic Heart Disease]]
+> - Serotonin antagonist - cannot co-prescribe with SSRIs 
 
 ##### Prophylaxis 
 

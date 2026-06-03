@@ -44,7 +44,7 @@ Digital vaginal examination should not be performed before ultrasound - may prov
 - No need to limit activity unless they bleed
 
 If still present at 32 weeks and grade I/II scan every 2 weeks. Final ultrasound at 36-37 weeks to determine the method of delivery 
-- Elective delivery should be offered between 36+0 and 37+6 weeks of gestation for women with a major placenta praevia to reduce the risk of emergency C-section
+- Elective LSCS should be offered between 36+0 and 37+6 weeks of gestation for women with a major placenta praevia to reduce the risk of emergency C-section
 - If grade I then a trial of vaginal delivery may be offered
 
 If a woman with known placenta praevia goes into labour prior to the elective C-section, an emergency C-section should be performed, regardless of the currently bleeding status. 

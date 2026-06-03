@@ -2,7 +2,7 @@
 tags: [Neurology]
 title: Meningitis
 date:
-date modified: Thursday, May 14th 2026, 1:52:40 pm
+date modified: Monday, June 1st 2026, 10:58:24 am
 date created: Thursday, November 20th 2025, 8:37:07 pm
 ---
 
@@ -18,11 +18,11 @@ date created: Thursday, November 20th 2025, 8:37:07 pm
 
 ## Causes/Factors
 
-* ***Neisseria meningitidis***
-* ***Streptococcus pneumoniae*** (***pneumococcus***)
-* ***Haemophilus influenzae***
-* ***Group B streptococcus*** (***GBS***) (particularly in neonates as GBS may colonise the vagina)
-* ***Listeria monocytogenes*** (particularly in neonates)
+* ***Neisseria meningitidis*** (#1 cause in the UK)
+- Streptococcus pneumoniae
+- Haemophilus influenzae
+- Group B streptococcus (GBS) (particularly in neonates as GBS may colonise the vagina)
+- Listeria monocytogenes (particularly in neonates)
 
 Viral causes tend to be milder and only require supportive treatment. Aciclovir can be used in confirmed cases:
 
@@ -64,7 +64,7 @@ There are two ***special tests*** you can perform to look for meningeal irritati
 CT scan is not normally indicated **unless** there are signs of $\uparrow$ ICP
 
 > [!info] When to NOT to wait for LP 
-> - signs of severe sepsis or a rapidly evolving rash
+> - signs of severe sepsis or a rapidly evolving rash (sign of DIC, thus $\uparrow$ bleeding risk)
 > - severe cardiorespiratory compromise
 > - significant bleeding risk
 > - signs of raised ICP (focal neurology, papilloedema, continuous/uncontrolled seizures, GCS < 9)

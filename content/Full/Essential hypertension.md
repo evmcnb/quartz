@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Essential hypertension
 date created: Tuesday, October 17th 2023, 4:07:47 pm
-date modified: Monday, November 10th 2025, 12:50:45 pm
+date modified: Thursday, May 28th 2026, 3:36:11 pm
 aliases: [hypertension, Hypertension]
 date: 2024-01-14
 ---
@@ -41,15 +41,21 @@ _Secondary_ hypertension can be due to **ROPED**:
 - 24h BP monitoring 
 - Fasting glucose and cholesterol to check for CVD risk factors
 
+| **Stage**                | **Criteria**                                                                                    |
+| ------------------------ | ----------------------------------------------------------------------------------------------- |
+| **Stage 1 hypertension** | Clinic BP >= 140/90 mmHg and subsequent ABPM daytime average or HBPM average BP >= 135/85 mmHg  |
+| **Stage 2 hypertension** | Clinic BP >= 160/100 mmHg and subsequent ABPM daytime average or HBPM average BP >= 150/95 mmHg |
+| **Severe hypertension**  | Clinic systolic BP >= 180 mmHg, or clinic diastolic BP >= 120 mmHg                              |
+
 ## Management
 
-Treat all >160/100. For those at 140/90 treatment treat if < 80 years of age AND any of the following apply; 
-- target organ damage
-- established cardiovascular disease
-- renal disease
-- diabetes
-- 10-year cardiovascular risk equivalent to 10% or greater
-
+- Medicate all with ABPM/HBPM >= 150/95 mmHg (i.e. stage 2 hypertension) regardless of age 
+- If ABPM/HBPM >= 135/85 mmHg and age <80, medicate if the following are present:
+	- target organ damage
+	- established cardiovascular disease
+	- renal disease
+	- diabetes
+	- 10-year cardiovascular risk equivalent to 10% or greater
 
 **Treatment targets**
 
@@ -83,6 +89,10 @@ Treat all >160/100. For those at 140/90 treatment treat if < 80 years of age AND
 
 ## Complications/red Flags
 
-Malignant hypertension (systolic >180) - oral therapy unless encephalopathy or cardiac failure. Aim for controlled BP reduction over days not hours. Avoid sudden drops in BP as cerebral autoregulation is poor. Bed rest + [[Pearls/Atenolol|Atenolol]] or long-acting CCBs
+Malignant hypertension (BP > 180/120) $\rightarrow$ same day specialist referral
+- oral therapy unless encephalopathy or cardiac failure. 
+- Aim for controlled BP reduction over days not hours. 
+- Avoid sudden drops in BP as cerebral autoregulation is poor. 
+- Bed rest + [[Pearls/Atenolol|Atenolol]] or long-acting CCBs
 
 If encephalopathy monitor with arterial probe and look at guidance for IV medications needed. 

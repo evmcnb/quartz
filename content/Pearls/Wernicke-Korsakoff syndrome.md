@@ -1,9 +1,14 @@
 ---
 title: Wernicke-Korsakoff syndrome
 date created: Tuesday, March 19th 2024, 02:21:02 PM
-date modified: Friday, February 6th 2026, 4:54:43 pm
+date modified: Monday, June 1st 2026, 11:19:21 am
 tags: ['Gastroenterology', 'Neurology', 'Psychiatry']
 ---
+
+> [!success] Wernicke's encephalopathy $\rightarrow$ Korsakoff's
+> Confusion + ataxia + ophthalmoplegia = Wernicke's
+> ...if left untreated...
+> Confusion + ataxia + ophthalmoplegia + confabulations = Korsakoff's
 
 
 Alcohol **prevents the absorption of thiamine** by blocking thiamine pyrophosphate synthetase, resulting in thiamine deficiency.

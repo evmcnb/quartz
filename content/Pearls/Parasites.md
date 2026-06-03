@@ -1,7 +1,7 @@
 ---
 title: Parasites
 date created: Saturday, January 20th 2024, 12:11:17 AM
-date modified: Friday, March 6th 2026, 10:04:20 am
+date modified: Monday, June 1st 2026, 5:44:10 pm
 tags: ['InfectiousDisease']
 ---
 
@@ -49,10 +49,10 @@ Can form liver or lung cysts
 ## Malaria
 
 P. knowlesi, P. falciparum, P. ovale, P. vivax, P. malariae
-
+***Fever in the returning traveller is malaria until proven otherwise***
 * Distribution - sub-Saharan Africa/mosquito living
 * Life cycle - indirect via female Anopheles
-* Clinical - [[Pearls/Anaemia|Anaemia]], bleeding, DIC, confusion, [[Full/Hypoglycaemia]], fevers
+* Clinical - [[Pearls/Anaemia|Anaemia]], bleeding, DIC, confusion, [[Full/Hypoglycaemia]], cyclical fevers
 * Diagnosis - blood film microsopy, PCR and serolgoy
 * Treatment - Quinones,
 

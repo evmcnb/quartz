@@ -1,7 +1,7 @@
 ---
 title: Lithium
 date created: Tuesday, November 25th 2025, 8:19:41 pm
-date modified: Saturday, May 2nd 2026, 11:51:03 am
+date modified: Friday, May 29th 2026, 1:53:24 pm
 tags: ['Drug']
 ---
 Mood stabiliser used in [[Full/Bipolar disorder|Bipolar disorder]]. Has a very narrow therapeutic range (0.4-1.0 mmol/L) and a long plasma half-life being excreted primarily by the kidneys.
@@ -14,6 +14,7 @@ Common:
 - Nausea/vomiting, diarrhoea
 - Polyuria and polydipsia (Nephrogenic [[Diabetes insipidus]])
 - Weight gain
+- Fine tremour in chronic treatment
 
 Serious:
 * Can cause visual disturbances
@@ -47,7 +48,7 @@ Serious:
 
 **Need to counsel patients around this**
 
-- Coarse tremors (becomes coarser with higher levels)
+- **Coarse tremors** (becomes coarser with higher levels)
 - nausea
 - vomiting
 - confusion

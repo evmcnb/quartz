@@ -1,7 +1,5 @@
 ---
-tags:
-  - Drug
-  - Antibiotic
+tags: [Drug, Antibiotic]
 title: Bacterial protein synthesis inhibitors
 date created: Friday, September 29th 2023, 11:20:24 am
 date modified: 2024-03-11
@@ -20,6 +18,7 @@ _Gentamicin, Tobramycin, Amikacin_
 _Azithromycin, clarithromycin, erythromycin_
 - Gram +ve cocci, syphilis, chlamydia
 - Not enterococci or staphylococci
+- Interact with [[Pearls/Statins|Statins]] need to withhold 
 - Cytochrome P450 inhibitor (less with azithromycin)
 	- $\uparrow$ warfarin
 	- rhabdomyolysis with statins

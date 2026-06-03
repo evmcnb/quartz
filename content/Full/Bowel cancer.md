@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Oncology]
 title: Bowel cancer
 date: 2024-04-21
-date modified: Monday, September 29th 2025, 11:03:40 am
+date modified: Friday, May 29th 2026, 6:32:14 pm
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Bowel cancer usually refers to cancer of the colon or rectum. Small bowel and anal cancers are less common.
@@ -40,7 +40,7 @@ Faecal immunochemical tests (**_FIT_**) look very specifically for the amount o
 
 
 > [!warning] Using FIT to guide referral
-> Any patient with the following should get a FIT test. If positive, they should be referred for 2WW:
+> Any patient with the following should get a **FIT test first**. If positive, they should be referred for 2WW:
 > - an abdominal mass
 > - a change in bowel habit
 > - with [[Pearls/Anaemia|iron deficiency anaemia]] 

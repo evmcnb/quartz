@@ -2,7 +2,7 @@
 tags: [Neonatology, Paediatrics]
 title: Patent ductus arteriosus
 date: 2023-09-27
-date modified: Wednesday, May 20th 2026, 12:26:40 pm
+date modified: Thursday, May 28th 2026, 2:20:37 pm
 date created: Monday, December 1st 2025, 7:36:36 pm
 ---
 
@@ -13,7 +13,7 @@ date created: Monday, December 1st 2025, 7:36:36 pm
 Features: 
 - Left subclavicular thrill
 - **Continuous machinery murmur**
-- Large volume, bounding, collapsing pulse
+- **Collapsing pulse** (large volume, bounding)
 - Wide pulse pressure
 - Heaving apex beat
 

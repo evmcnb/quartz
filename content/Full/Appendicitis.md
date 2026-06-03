@@ -2,11 +2,12 @@
 tags: [Surgery, Gastroenterology]
 title: Appendicitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, March 2nd 2026, 12:24:23 pm
+date modified: Tuesday, May 26th 2026, 12:34:28 pm
 date: 2024-02-16
 ---
 
 Most common surgical emergency - highest incidence between 10-20 y/os
+
 
 ## Causes/Factors
 
@@ -30,11 +31,13 @@ Other:
 - Tachycardia, fever - mild. Higher temperatures are more typical of [[Pearls/Mesenteric adenitis]]
 - Mcburney's point - between umbilicus and right iliac fossa
 - Rovsing's sign - push on left iliac fossa and pain exhibits itself on right
+- Psoas sign - resistance against lifting right leg upward exhibits the pain
 
 ## Diagnostic Tests
 
 - FBC, U&Es, WCC, CRP - neutrophil-predominant leucocytosis is seen in 80-90%
 - US/CT if unclear
+- Urine analysis - no nitrites 
 - **Pregnancy test** - to rule out ectopic pregnancy 
 - Groin and scrotal exam check for incarcerated hernia or testicular torsion
 - PARKS score in children
@@ -55,11 +58,22 @@ Low threshold for admission for pregnant women, infants, young people and elderl
 
 ### Appendicitis in Children
 
-Appendicitis is one of the most common acute surgical problems facing children. Diagnosis is often made difficult by a presentation which is far from the classically history of:  
+Appendicitis is one of the most common acute surgical problems facing children. Diagnosis is often made difficult by a presentation which is far from the classical history. 
 
-- central abdominal pain which later radiates to the right iliac fossa
-- low-grade pyrexia
-- minimal vomiting
+Typically:
+1. Vomiting same time or before the pain
+2. Poor localisation
+3. Behavioural signs - profound lethargy, irritability, and a refusal to eat
+4. Diarrhoea - need to differentiate from [[Full/Viral gastroenteritis|Viral gastroenteritis]]
+
+
+> [!info] How to differentiate from [[Full/Viral gastroenteritis|Viral gastroenteritis]]
+> 1. **Movement** - in appendicitis the child will lie flat and still, may be restless in gastroenteritis trying to get comfortable. Hop on one leg to test
+> 2. **Pain** - pain will be constant and progressive. In GE may be colicy and cramping
+> 3. **Diarrhoea** - smaller volumes in appendicitis
+> 4. **Appetite** - total anorexia in appendicitis
+> 5. **Vomiting** - only a few times in appendicitis
+
 
 Children who are younger or have a retrocaecal/pelvic appendix are more likely to present in an atypical way  
   

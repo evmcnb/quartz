@@ -2,7 +2,8 @@
 tags: [Drug, Psychiatry]
 title: Treatment of Overdose
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Friday, May 29th 2026, 2:11:18 pm
+date created: Monday, March 30th 2026, 2:49:33 pm
 ---
 **_Activated charcoal_** may be given within one hour of overdose of various substances to reduce the absorption (e.g., aspirin, SSRIs, tricyclic antidepressants, antipsychotic drugs, benzodiazepines and quinine).
 
@@ -18,3 +19,4 @@ date modified: 2025-04-23
 | Cyanide                                                                      | Dicobalt edetate                                                                            |
 | Methanol (e.g., solvents or fuels)<br><br>Ethylene glycol (e.g., antifreeze) | Fomepizole or ethanol (alcohol)                                                             |
 | Carbon monoxide                                                              | 100% oxygen                                                                                 |
+| Digoxin                                                                      | Digibind (antibodies)                                                                       |

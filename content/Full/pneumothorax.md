@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: pneumothorax
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 9th 2026, 4:49:30 pm
+date modified: Friday, May 29th 2026, 5:17:11 pm
 aliases: [Pneumothorax]
 date: 2024-01-14
 ---
@@ -79,6 +79,8 @@ Should ideally be diagnosed clinically
 
 
 ## Complications
+
+Over rapid aspiration/drainage of pneumothorax can result in re-expansion pulmonary oedema
 
 Persistent air leak or recurrent episodes → consider referral for VATS (thoracic surgery) to allow for mechanical/chemical pleurodesis +/- bullectomy
 

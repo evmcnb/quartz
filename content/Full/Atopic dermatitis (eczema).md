@@ -2,7 +2,7 @@
 tags: [Dermatology, Incomplete]
 title: Atopic dermatitis (eczema)
 date created: Wednesday, November 29th 2023, 1:00:52 pm
-date modified: Wednesday, February 4th 2026, 11:00:36 am
+date modified: Monday, June 1st 2026, 6:30:04 pm
 date: 2024-03-11
 ---
 
@@ -32,7 +32,7 @@ Atopy - triad of dermatitis/eczema, [[Full/asthma]] and allergic rhinitis (hay f
 - Dry itchy skin rash on flexor surfaces 
 - Itchiness worse at night (no distractions)
 
-Infants: rash on face & scalp 
+Infants: rash on face, scalp and possibly extensor surfaces
 Children: flexor surfaces
 
 ## Signs
@@ -59,13 +59,22 @@ Systemic
 ### Children
 
 Hydrocortisone & betamethasone - 1-2 times a day thinly applied
+- avoid irritants
+- simple emollients
+    - large quantities should be prescribed (e.g. 250g / week), roughly in a ratio of with topical steroids of 10:1
+    - if a topical steroid is also being used the emollient should be applied first followed by waiting at least 30 minutes before applying the topical steroid
+    - creams soak into the skin faster than ointments
+    - emollients can become contaminated with bacteria - fingers should not be inserted into pots (many brands have pump dispensers)
+- topical steroids
+- wet wrapping
+    - large amounts of emollient (and sometimes topical steroids) applied under wet bandages
+- in severe cases, oral ciclosporin may be used
 
 **Antihistamines**
 1-23 months - 1mg BD
 2-5 years - 1mg QDS
 6-11 - 2mg QDS
 12-17 - 4mg QDS
-
 
 ### Adults
 

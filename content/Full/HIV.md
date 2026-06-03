@@ -2,7 +2,7 @@
 tags: [InfectiousDisease]
 title: HIV
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, January 2nd 2026, 5:05:09 pm
+date modified: Monday, June 1st 2026, 11:19:52 am
 date: 2023-09-18
 ---
 #### Stages
@@ -54,6 +54,7 @@ Live vaccines should be avoided, but the rest be kept up to date
 
 ### AIDS-defining illness
 
+Check compliance with ART as these shouldn't occur otherwise
 - _Pneumocystis jiroveci_ (PCP) - bilateral interstitial pulmonary infiltrates, **exercise induced desaturation**
 - Kaposi's sarcoma - HHV-8 (human herpes virus 8) purple papules/plaques on the skin
 - Burkitt lymphoma (aggressive) - due to EBV infection/activation

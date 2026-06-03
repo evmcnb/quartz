@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 19th 2026, 3:02:59 pm
+date modified: Monday, June 1st 2026, 6:16:39 pm
 date: 2024-01-14
 ---
 
@@ -50,13 +50,22 @@ Pre-diabetes is described as an HbA1c of 42-47 mmol/mol
 
 ## Management
 
+HbA1c should be monitored every 3-6 months
+
 #### Type 1
 Usually basal bolus injections (once or twice daily long acting insulin + premeal quick acting insulin). Need to judge carbohydrate intake and aware of blood glucose lowering in exercise. Possible insulin pump.
 
 If not monitored by a pump, need to check glucose before each meal and before bed. 
 
+Blood glucose targets  
+- 5-7 mmol/l on waking and
+- 4-7 mmol/l before meals at other times of the day
+
 Patients with type I diabetes and a BMI > 25 should be considered for **metformin** in addition to insulin
 
+A general HbA1c target of 48 mmol/mol (6.5%) should be used. Increase insulin doses to achieve this.
+
+Repeat HbA1c every 3-6 months
 #### Type 2
 Life style modification. metformin + combination with other drug possibly
 
@@ -89,6 +98,7 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
 **Specific scenarios**
 - History of cardiovascular disease $\rightarrow$ subcutaneous **semaglutide (GLP-1)** should be added to two core drugs
 - Early onset T2DM (<40) $\rightarrow$ consider adding a GLP-1 receptor agonist to two core drugs
+- BMI ≥30 kg/m² consider adding a GLP-1 receptor agonist to two core drugs
 - [[Full/Chronic Kidney Disease|Chronic Kidney Disease]] (eGFR 20-30) 
 	- meformin is contraindicated
 	- dapagliflozin or empagliflozin (a glitazone) and
@@ -162,9 +172,8 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 
 **[[Full/Essential hypertension]] and [[Full/Chronic Kidney Disease]]** - ACEi. Blood pressure targets are the samepressure targets are the same
 
-**Erectile dysfunction** - sildenafil or tadalafil
 
-**Microvascular**
+##### Microvascular
 
 - [[Full/Diabetic eye disease]] - regular eye test
 - [[Pearls/Diabetic neuropathy|Diabetic neuropathy]] - regular foot exam / nerve conduction. There are four options for **_neuropathic pain_** (e.g., [[Pearls/Diabetic neuropathy|Diabetic neuropathy]]):
@@ -173,8 +182,10 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 	- **_Gabapentin_** – an anticonvulsant
 	- **_Pregabalin_** – an anticonvulsant
 - Nephropathy - urine test for albumin - [[Full/Chronic Kidney Disease]]
+- **Erectile dysfunction** - sildenafil or tadalafil
+- **Gastroparesis** - abdominal pain, unstable sugar levels, possible B12 deficiency. Add metoclopramide
 
-**Macrovascular**
+##### Macrovascular
 
 - [[Full/myocardial infarction]]
 - [[Full/Stroke]]
@@ -183,12 +194,12 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 
 ### Hyperosmolar hyperglycaemic state 
 
-Rare but potentially fatal complication. **Relative** insulin deficiency - enough to supress fat breakdown (no ketones) but not enough to control the severe hyperglycaemia 
+Rare but potentially fatal complication. **Relative** insulin deficiency - enough to supress fat breakdown (no ketones) but not enough to control the severe hyperglycaemia. Thus a **lack of an acidemia**
 
 **Hyperosmolality** - water loss leading to very concentration blood
 **Hyperglycaemia** - with the absence of key tones - different from [[Full/Diabetic ketoacidosis]]
 
-- Presentation: polyuria + polydipsia, weight loss, dehydration, tachycardia, hypotension, confusion
+- Presentation: polyuria + polydipsia, weight loss, dehydration, tachycardia, hypotension, confusion, significantly raised serum osmolarity (> 320 mosmol/kg)
 - Medical emergency - escalate. **Treat with IV fluids**
 
 

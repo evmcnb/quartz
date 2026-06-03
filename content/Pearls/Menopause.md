@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Menopause
 date: 2023-09-27
-date modified: Wednesday, January 7th 2026, 9:53:56 am
+date modified: Friday, May 29th 2026, 5:49:51 pm
 date created: Sunday, January 4th 2026, 2:53:38 pm
 ---
 
@@ -21,14 +21,14 @@ Average age of 51 years old. Symptoms start in the climacteric period (before) c
 #### Management
 
 ##### HRT
-Cannot give unopposed oestrogen, so oral or transdermal combined HRT is given if the women has a uterus. Symptoms typically last 2-5 years
+Cannot give unopposed oestrogen, so oral or transdermal combined HRT is given if the women has a uterus. Symptoms typically last 2-5 years. If not technically menopausal yet, go cyclical otherwise continuous.
 
 Can also give [[Pearls/Intrauterine contraceptive device|Mirena Coil]]
 
 Treatment with HRT has some risks:
 - [[Full/Deep Vein Thrombosis|Deep Vein Thrombosis]] slight increased risk with **oral** HRT. No increased with with **transdermal** HRT
 - Slightly increased risk with oral HRT
-- Breast cancer increased risk with all combined HRT, although the mortality from breast cancer is not raised
+- Breast cancer increased risk with progestogen, although the mortality from breast cancer is not raised
 - Ovarian cancer: increased risk with all HRT 
 - Heard disease: oral HRT started 10 years after the menopause
 

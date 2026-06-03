@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Surgery, Acute]
 title: Aortic Dissection
 date: 
-date modified: Tuesday, December 2nd 2025, 9:54:13 am
+date modified: Monday, June 1st 2026, 12:36:45 pm
 date created: Wednesday, November 19th 2025, 9:45:46 pm
 ---
  
@@ -11,14 +11,14 @@ Aortic dissection refers to when a break or tear forms in the inner layer of the
 
 **The Stanford system:**
 
-- **_Type A_** – affects the ascending aorta, before the brachiocephalic artery
-- **_Type B_** – affects the descending aorta, after the left subclavian artery
+- **_Type A_** – affects the ascending aorta, before the brachiocephalic artery. AHHHH get them to surgery
+- **_Type B_** – affects the descending aorta, after the left subclavian artery. Beta blocker (IV labetalol and bed rest)
 
 ![[z_attachments/M4-Fig-1-Thoracic-Aortic-Dissection-Aortic-dissection-classification.png|550]]
 
 ## Causes/Factors
 
-Same risk factors as [[Full/peripheral vascular disease#Causes/Factors|peripheral vascular disease]].
+Same risk factors as [[Full/peripheral vascular disease#Causes/Factors|peripheral vascular disease]]. **Hypertension biggest risk**
 
 Other conditions that increase the risk: 
 - Bicuspid aortic valve
@@ -33,12 +33,15 @@ Other conditions that increase the risk:
 - Ripping chest to back pain
 - Hypertension
 - Differences in pulses between the arms (>20 mmHg is significant)
-- Radial pulse deficit 
+- Radial pulse deficit* 
 - Diastolic murmur
 - Chest and abdo pain 
 
 Depending on where the dissection is any organ that branches off the aorta can be affected. Kidneys, liver etc
 
+\*A pulse deficit may be seen:  
+- weak or absent carotid, brachial, or femoral pulse
+- variation in arm BP
 ## Investigations
 
 - CT-A initial investigation

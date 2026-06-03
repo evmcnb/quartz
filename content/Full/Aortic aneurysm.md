@@ -2,7 +2,7 @@
 tags: [Surgery]
 title: Aortic aneurysm
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-date modified: Thursday, May 14th 2026, 1:31:31 pm
+date modified: Monday, June 1st 2026, 12:43:11 pm
 date: 2024-02-17
 ---
 
@@ -17,7 +17,9 @@ Two main types: Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA) and Thoracic
 > - Back or abdominal pain
 
 ## Causes/Factors
-- **Atherosclerosis**: Common cause, leading to weakening of the arterial wall. Strong smoking history
+
+- **Smoking** - most important risk factor
+- **Atherosclerosis**: Common cause, leading to weakening of the arterial wall.
 - **Genetic Factors**: Family history of aortic aneurysms.
 - **[[Full/Essential hypertension]]**: Prolonged high blood pressure contributing to aortic wall stress.
 - **Connective Tissue Disorders**: Conditions like [[Pearls/Marfan's syndrome]].
@@ -64,10 +66,13 @@ Two main types: Abdominal Aortic [[Pearls/Aneurysm|Aneurysm]] (AAA) and Thoracic
 
 #### Screening
 
-Small AAA – 3-4.4cm – yearly
-Medium – 4.5-5.4 cm – every 3 months
-Large AAA - >5.5cm – surgery recommended
+Starts with a single abdominal ultrasound for those aged >65
 
+- Small AAA – 3-4.4cm – yearly
+- Medium – 4.5-5.4 cm – every 3 months
+- Large AAA - >5.5cm – surgery recommended
+
+If any symptoms need to refer for immediate endovascular repair
 #### Acute
 - A-E
 - Urgently transferred to specialist vascular centre

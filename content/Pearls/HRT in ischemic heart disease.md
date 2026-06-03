@@ -1,7 +1,7 @@
 ---
-title: "HRT in ischemic heart disease"
+title: HRT in ischemic heart disease
 date created: Sunday, March 10th 2024, 02:31:58 PM
-date modified: 2024-03-10 14:31:58.385234+00
+date modified: Monday, May 25th 2026, 6:26:52 pm
 tags: ['Cardiovascular']
 ---
 

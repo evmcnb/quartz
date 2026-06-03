@@ -1,17 +1,17 @@
 ---
 tags: [Dermatology, InfectiousDisease]
-title: Management
+title: Cutaneous fungal infection
 date created: Thursday, December 21st 2023, 5:07:02 pm
-date modified: 2024-03-11
+date modified: Tuesday, May 26th 2026, 5:21:36 pm
 date: 2024-01-11
 ---
-## Dermatophytosis
+### Dermatophytosis
 
 Dermatophytes digest **keratin** and so can cause infection of skin and keratiniszed structures - hair & nails. Tinea corporis, pedis, capitis, unguium
 
 ![[z_attachments/Pasted image 20231221172534.png|525]]
 
-#### Causes
+##### Causes
 
 - **Dermatophyte Fungi:** Trichophyton, Microsporum, and Epidermophyton.
 - **Warm and Moist Environments:** Fungi thrive in warm, humid conditions.
@@ -19,7 +19,7 @@ Dermatophytes digest **keratin** and so can cause infection of skin and keratini
 - **Immunocompromised State:** Weakened immune system increases susceptibility.
 - **Poor Hygiene:** Lack of proper skin and nail hygiene.
 
-#### Clinical Presentations
+##### Clinical Presentations
 
 - **Tinea Corporis (Ringworm):** Circular, red, scaly lesions.
 - **Tinea Cruris (Jock Itch):** Rash in the groin area, extending to inner thighs.
@@ -27,27 +27,27 @@ Dermatophytes digest **keratin** and so can cause infection of skin and keratini
 - **Tinea Capitis:** Scalp involvement causing hair loss and scaling.
 - **Tinea Unguium (Onychomycosis):** Fungal nail infection, causing discoloration and thickening.
 
-## Superficial candidiasis
+### Superficial candidiasis
 
 Usually commensal in mouth, vagina and GI tract
 
-#### Causes 
+##### Causes 
 
 - [[Pearls/Immunosuppression|Immunosuppression]] (steroid inhalers)
 - Antibiotic treatment (opportunistic)
 
-#### Clinical Presentation
+##### Clinical Presentation
 
 - **Oropharyngeal:** white patches on erythematous background (plaque).
 - **Skin:** usually in folds interdigital (intertrigo)
 
-## Malassezia
+### Malassezia
 
 Commensals of greasy skin
 
-#### Presentation:
+##### Presentation:
 
-- **Pityriasis versicolor:** scaly hypo/hyperpigmented rash with scaling
+- **Pityriasis versicolor:** scaly hypo/hyperpigmented rash with scaling. **Ketoconazole 2% shampoo**
 
 ![[z_attachments/Pasted image 20231221172622.png|400]]
 
@@ -61,14 +61,14 @@ Sometimes difficult to differentiate with [[Full/Acne vulgaris]]
 ![[z_attachments/Pasted image 20231221172713.png|275]]
 
 
-# Management
+## Management
 
 1. **Topical Antifungals:** (e.g., Clotrimazole, Miconazole) for localized infections.
 2. **Oral Antifungals:** (e.g., Terbinafine, [[Pearls/Fluconazole|Fluconazole]]) for extensive or severe infections.
 3. **Proper Hygiene:** Keep affected areas clean and dry; avoid shared items.
 4. **Address Contributing Factors:** Control moisture, especially in sweating-prone areas.
 
-# Complications/Red Flags
+## Complications/Red Flags
 
 - **Secondary Bacterial Infection:** Scratching may lead to bacterial superinfection.
 - **Chronic or Recurrent Infections:** Suggest potential underlying factors.

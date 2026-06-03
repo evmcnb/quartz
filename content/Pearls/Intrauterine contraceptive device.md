@@ -20,6 +20,7 @@ Risk of expulsion around 1 in 20 and most likely to occur within the first 3 mon
 - Effective for 5 years, if they have copper on the arms as well as the stem, can be effective for 10 years
 - Make periods heavier, longer and more painful 
 - Contraindicated in [[Pearls/Wilson's disease|Wilson's disease]]
+- The copper intrauterine device can be inserted for emergency contraception within 5 days after the first unprotected sexual intercourse in a cycle, or within 5 days of the earliest estimated date of ovulation, whichever is later
 
 ### IUS
 

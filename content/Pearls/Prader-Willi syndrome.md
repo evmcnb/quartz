@@ -2,7 +2,7 @@
 tags: [Paediatrics, Genetics]
 title: Prader-Willi syndrome
 date: 2023-09-27
-date modified: Monday, May 18th 2026, 12:34:41 pm
+date modified: Monday, June 1st 2026, 6:32:54 pm
 date created: Saturday, December 20th 2025, 4:49:56 pm
 ---
 
@@ -16,7 +16,7 @@ This may be due to:
 
 
 Features  
-- hypotonia during infancy
+- **hypotonia during infancy**
 - dysmorphic features
 - short stature
 - hypogonadism and infertility

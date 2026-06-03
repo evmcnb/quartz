@@ -1,7 +1,7 @@
 ---
 title: Ovarian Tumours
 date created: Sunday, January 21th 2024, 12:45:50 PM
-date modified: Friday, January 9th 2026, 1:58:30 pm
+date modified: Monday, May 25th 2026, 7:40:08 pm
 tags: [Oncology, OBGYN]
 aliases: [Ovarian cysts, Ovarian cancer]
 ---
@@ -127,7 +127,7 @@ Women under 40 years with a **_complex ovarian mass_** require tumour markers 
 
 **Diagnostic laparoscopy** is key for ovarian cancer. Allows direct visualisation of the pelvis, peritoneal surfaces and diaphragm.
 
-All pateints managed through gynaecological oncology MDT. Definitive treatment: 
+All patients managed through gynaecological oncology MDT. Definitive treatment: 
 - Primary cytoreductive surgery - total abdominal hysterectomy, bilateral salpingo-oophorectomy, omentectomy
 - Followed by platinum based chemotherapy
 - Where primary debulking is unlikely, neoadjuvant chemotherapy is given first. 

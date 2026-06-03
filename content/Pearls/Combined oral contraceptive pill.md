@@ -1,7 +1,7 @@
 ---
 title: Combined oral contraceptive pill
 date created: Wednesday, December 31st 2025, 2:44:53 pm
-date modified: Thursday, January 8th 2026, 4:35:47 pm
+date modified: Monday, June 1st 2026, 10:46:52 am
 tags: [OBGYN, OSCE]
 date: 2023-09-27
 ---
@@ -25,8 +25,8 @@ Harms/benefits:
 - Rapid return of fertility after stopping
 - Small risk of blood clots
 - Very small risk of heart attacks and strokes
-- Increased risk of breast cancer and cervical cancer
-- Decreased risk of endometrial, ovarian and colon cancer
+- Increased risk of breast cancer and cervical cancer (the cancers that are **screened for**)
+- Decreased risk of (colon), endometrial, and ovarian cancer (CEO pneumonic)
 - Improvement in premenstrual symptoms 
 
 **Advice on taking the pill**:

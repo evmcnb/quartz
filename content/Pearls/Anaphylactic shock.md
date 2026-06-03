@@ -1,7 +1,7 @@
 ---
 title: Anaphylactic shock
 date created: Monday, February 26th 2024, 05:06:49 PM
-date modified: Friday, May 15th 2026, 2:34:00 pm
+date modified: Friday, May 29th 2026, 2:31:37 pm
 tags: ['Acute']
 ---
 
@@ -27,7 +27,7 @@ Management
 
 1. Secure the airway - 100% O2
 2. Remove cause
-3. **Adrenaline IM 1:1000 - repeat dose every 5 min if needed** as guided by BP, pulse, and respiratory function until better.
+3. **Adrenaline IM 1:1000 - repeat dose every 5 min if needed** as guided by BP, pulse, and respiratory function until better. IM adrenaline should be injected in the anterolateral aspect of the middle third of the thigh
 
 | Group           | Dose           |
 | --------------- | -------------- |

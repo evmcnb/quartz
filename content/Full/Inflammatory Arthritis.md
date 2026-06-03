@@ -2,7 +2,7 @@
 tags: [Rheumatology]
 title: Inflammatory Arthritis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, May 20th 2026, 10:50:02 am
+date modified: Friday, May 29th 2026, 6:01:05 pm
 date: 2024-01-14
 ---
 
@@ -66,6 +66,8 @@ Extra-articular:
 - Dactylitis & nail changes (onycholysis)
 - Increased CV risk
   ![|250](z_attachments/250.png)
+
+
 
 #### Axial Spondylarthritis
 

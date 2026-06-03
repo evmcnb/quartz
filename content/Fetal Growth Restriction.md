@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Fetal Growth Restriction
 date: 2023-09-27
-date modified: Sunday, May 17th 2026, 5:41:22 pm
+date modified: Tuesday, May 26th 2026, 10:57:23 am
 aliases: [Intrauterine growth restriction, IUGR]
 date created: Sunday, May 17th 2026, 5:00:22 pm
 ---

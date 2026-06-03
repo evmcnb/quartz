@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology, OBGYN]
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Sunday, May 17th 2026, 6:02:44 pm
+date modified: Monday, June 1st 2026, 10:50:03 am
 date: 2023-09-18
 ---
 
@@ -12,13 +12,13 @@ Pregnant women should receive the same investigations and treatments as non-preg
 
 ## Physiological Changes
 
-| System         | Normal pregnancy                                                                                                                                                                                                            | Consider pathology                                                                            |
-| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Cardiovascular | a fall in BP before week 20 (rises back up)<br><br> Increased HR, SV & CO ![](z_attachments/wkJ9EMo.png)                                                                                                                    | persistent BP >140/90 might indicate [[Full/Pre-eclampsia]]                                   |
-| Respiratory    | Compensated respiratory alkalosis <br><br> No change in PEFR or VC <br><br> Altered chemoreceptor sensitivity + $\uparrow$ $O_2$ consumption -> $\uparrow$ RR + 10%                                                         | Serum bicarb <18 mmol/L <br><br> Decreased PEFR <br><br> RR <20/min                           |
-| Renal          | $\uparrow$ renal perfusion, GFR, protein excretion <br> $\downarrow$ urea, creatinine <br><br> bladder capacity decreases <br><br> RAAS increased in 1st trimester - smooth muscle dilation <br><br> increased risk of UTIs | Creatinine >85 $\micro$mol/L (eGRF not valid in pregnancy)                                    |
-| GI             | lower oesophageal pressure <br><br> altered appetite <br><br> decrease in motility <br><br> $\uparrow$ water reabsorption <br><br> constipation, nausea, heartburn                                                          |                                                                                               |
-| Haematology    | Decreased clot lysis (reduced protein S, APC resistance, increased plasminogen activator inhibitors)<br> Increased clot formation (increased factors I, V, VII, VIII, IX, X, XII)                                           | Hb Ranges:<br>Booking bloods: >110 g/L<br>28 weeks gestation >105 g/L<br>Post partum >100 g/L |
+| System         | Normal pregnancy                                                                                                                                                                                                                          | Consider pathology                                                                               |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Cardiovascular | a fall in BP before week 20 (rises back up)<br><br> Increased HR, SV & CO ![](z_attachments/wkJ9EMo.png)<br><br> The resulting signs include: ejection systolic murmur, a forceful apex beat, peripheral oedema, and a third heart sound. | persistent BP >140/90 might indicate [[Full/Pre-eclampsia]]                                      |
+| Respiratory    | Compensated respiratory alkalosis <br><br> No change in PEFR or VC <br><br> Altered chemoreceptor sensitivity + $\uparrow$ $O_2$ consumption -> $\uparrow$ RR + 10%                                                                       | Serum bicarb <18 mmol/L <br><br> Decreased PEFR <br><br> RR <20/min<br><br> [[pulmonary oedema]] |
+| Renal          | $\uparrow$ renal perfusion, GFR, protein excretion <br> $\downarrow$ urea, creatinine <br><br> bladder capacity decreases <br><br> RAAS increased in 1st trimester - smooth muscle dilation <br><br> increased risk of UTIs               | Creatinine >85 $\micro$mol/L (eGRF not valid in pregnancy)                                       |
+| GI             | lower oesophageal pressure <br><br> altered appetite <br><br> decrease in motility <br><br> $\uparrow$ water reabsorption <br><br> constipation, nausea<br> <br> reduced oesophageal tone and reflux oesophagitis (progesterone mediated) |                                                                                                  |
+| Haematology    | Decreased clot lysis (reduced protein S, APC resistance, increased plasminogen activator inhibitors)<br> Increased clot formation (increased factors I, V, VII, VIII, IX, X, XII)                                                         | Hb Ranges:<br>Booking bloods: >110 g/L<br>28 weeks gestation >105 g/L<br>Post partum >100 g/L    |
 
 ### Risk
 
@@ -63,7 +63,7 @@ Should always be a balance of risk - drugs different again in lactation
 | [[Pearls/Aspirin\|Aspirin]]                                                                                           | NSAIDs (1st & 3rd trimester)                                                                                                                                            |
 | Labetalol                                                                                                             | ACEi                                                                                                                                                                    |
 | Nifedipine                                                                                                            | ARA                                                                                                                                                                     |
-| Adenosine                                                                                                             | Mycophenolate                                                                                                                                                           |
+| [[Adenosine]]                                                                                                         | Mycophenolate                                                                                                                                                           |
 | [[Pearls/Prednisolone\|Prednisolone]]                                                                                 | [[Pearls/Warfarin\|Warfarin]]                                                                                                                                           |
 | Treatment for [[Full/asthma]]: [[Pearls/Salbutamol\|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella)                                                                                                                                     |
 | Paracetamol                                                                                                           | Thiazide-like diuretics                                                                                                                                                 |
@@ -91,7 +91,6 @@ Should always be a balance of risk - drugs different again in lactation
 | Warfarin                                      | [[Pearls/Amiodarone\|Amiodarone]]       |
 | Heparin                                       |                                         |
 | Digoxin                                       |                                         |
-
 
 
 ## Chronic Conditions

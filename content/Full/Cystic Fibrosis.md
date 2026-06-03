@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Cystic Fibrosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, March 27th 2026, 3:57:39 pm
+date modified: Monday, June 1st 2026, 6:43:22 pm
 date: 2023-09-18
 ---
 
@@ -50,3 +50,9 @@ Other features:
 - ~~Low prognosis - median ~41 years~~ 
 
 New modulators have increased the life-expectancy to almost normal - Kaftrio & Alyftrek
+
+#### Pseudomonas colonisation
+
+Attempts at _Pseudomonas aeruginosa_ eradication are important when first detected. Routine sputum cultures for this
+
+- Manage with nebulised colistin and oral ciprofloxacin

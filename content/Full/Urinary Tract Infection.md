@@ -2,7 +2,7 @@
 tags: [Urology, Nephrology]
 title: Urinary Tract Infection
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, March 27th 2026, 3:32:11 pm
+date modified: Monday, June 1st 2026, 11:48:47 am
 date: 2023-09-18
 aliases: [Pyelonephritis]
 ---
@@ -50,10 +50,9 @@ Do not rely on classical symptoms in a catharised patient
 - Fever
 - Abdominal or loin tenderness
 - Distended bladder
-
 ## Diagnostic Tests
 
-- [[Pearls/Urine Dipstick]] - use in non-pregnant women. Negative dip reduces probability of UTI to <20%. No diagnostic value in catheterised sample
+- [[Pearls/Urine Dipstick]] - use in non-pregnant women. Negative dip reduces probability of UTI to <20%. No diagnostic value in catheterised sample. **Do not dip in elderly patients, just MC&S**
 - Midstream specimen of urine (MSU) culture - use in pregnant women, men, children, and if fail to respond to empirical antibiotics. Catheterized sample only if septic
 - Blood tests - if systemically unwell: FBC , U&Es, CRP and culture. Consider fasting glucose
 - Imaging - USS and referral to urology for assessment in men with upper UTI; failure to respond to treatment; recurrent UTI; pyelonephritis; unusual organism; persistent haematuria
@@ -127,6 +126,8 @@ Hospital admission should be considered
 - **Children** >3 months with an upper UTI **should be considered for admission**. If not admitted, oral antibiotics for 7-10 days - cephalosporin or co-amoxiclav
 
 ## Complications/red Flags
+
+If the patient is taking methotrexate, should avoid trimethoprim
 
 **Renal abscesses**
 

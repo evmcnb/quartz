@@ -2,7 +2,7 @@
 tags: [Paediatrics, Urology]
 title: UTI in Children
 date: 2023-09-27
-date modified: Thursday, May 14th 2026, 10:10:45 am
+date modified: Tuesday, May 26th 2026, 2:19:19 pm
 date created: Wednesday, May 13th 2026, 5:38:05 pm
 ---
 More common in boys until 3 months of age.

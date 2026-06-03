@@ -1,7 +1,7 @@
 ---
 title: Blood transfusion
 date created: Sunday, January 21th 2024, 12:53:13 PM
-date modified: Saturday, May 2nd 2026, 10:26:23 am
+date modified: Thursday, May 28th 2026, 1:35:58 pm
 tags: ['Haematology']
 ---
 Transfuse blood when **Hb <70** or **massive haemorrhage**.
@@ -15,6 +15,7 @@ Red Blood Cells
 * 10-20ml/kg recipient
 * Stored at 4°C for up to 35 days
 * Over 2 hours in non-urgent cases
+* Has been shown to **increase serum potassium levels**
 
 Platelets
 

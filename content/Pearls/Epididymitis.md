@@ -1,7 +1,7 @@
 ---
 title: Epididymitis
 date created: Friday, January 2nd 2026, 12:39:24 pm
-date modified: Tuesday, April 28th 2026, 11:06:18 am
+date modified: Monday, June 1st 2026, 11:12:18 am
 tags: [Urology]
 date: 2023-09-27
 aliases: [Epididymo-orchitis]
@@ -18,6 +18,8 @@ Common caused by local spread of STIs.
 - Urethral discharge may be present 
 
 **Most important differential is [[Pearls/Testicular Torsion|Testicular Torsion]]**. This must be urgently excluded 
+- Elevation of the testes often relieves the pain (not the case torsion)
+- Persevered cremasteric reflex 
 - Assess for STIs
 - Send MSU for MC&S
 

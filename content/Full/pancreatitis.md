@@ -2,7 +2,7 @@
 tags: [Surgery, Endocrinology]
 title: pancreatitis
 date created: Wednesday, October 11th 2023, 2:06:18 pm
-date modified: Thursday, May 14th 2026, 7:05:59 pm
+date modified: Friday, May 29th 2026, 2:25:34 pm
 date: 2024-01-14
 ---
 Acute - gland reverts to normal if underlying cause removed 
@@ -107,7 +107,7 @@ Exclusionary tests:
 #### Acute
 - Resus ABCDE
 - IV fluids - aggressive early hydration, aim for a urine output of > 0.5mls/kg/hr
-- Enteral nutrition should be offered to anyone with moderate/severe presentations within 72 hours
+- Enteral nutrition (oral) should be offered to anyone with moderate/severe presentations within 72 hours
 - Treatment of gallstones (ERCP)
 - Antibiotics if abscess
 - **Analgesia**

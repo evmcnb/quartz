@@ -10,7 +10,7 @@ $AIG=[Na^+ + K^+] - [Cl^- + HCO_3^-]$
 * Tells what the body is doing - creating more acid eg DKA, lactic acidosis
 - The normal anion gap depends on serum phosphate and serum albumin concentrations
 - An elevated anion gap strongly suggests the presence of a metabolic acidosis
-- The normal anion gap varies with different assays, but is typically 4 to 12mmol/L (if measured by ion selective electrode; 8 to 16 if measured by older technique of flame photometry)
+- The normal anion gap varies with different assays, but is typically 8-14 mmol/L
 
 **HIGH ANION GAP METABOLIC ACIDOSIS (HAGMA)**
 - Lactate

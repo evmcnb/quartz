@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: "De Quervain's Thyroiditis"
 date created: Monday, March 11th 2024, 7:24:03 pm
-date modified: Thursday, May 7th 2026, 9:16:21 am
+date modified: Monday, June 1st 2026, 11:31:45 am
 date: 2024-03-11
 ---
 De Quervain $\rightarrow$ De QuerPAIN 
@@ -16,7 +16,7 @@ De Quervain $\rightarrow$ De QuerPAIN
 The initial **_thyrotoxic phase_** involves:
 
 - Excessive thyroid hormones
-- Thyroid swelling and tenderness
+- Painful goitre 
 - Flu-like illness (fever, aches and fatigue)
 - Raised inflammatory markers (CRP and ESR)
 - Globally reduced uptake of iodine-131

@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, May 15th 2026, 3:22:39 pm
+date modified: Monday, June 1st 2026, 2:25:49 pm
 date: 2023-11-12
 ---
 
@@ -109,11 +109,10 @@ Gold-standard if symptoms first started within the last 12 hours.
 
 - **Alteplase and fondaparinux** + ticagrelor after the procedure 
 - An ECG should be performed 90 minutes following thrombolysis to assess whether there has been a greater than 50% resolution in the ST elevation
-- if there has not been adequate resolution then **rescue PCI** is superior to repeat thrombolysis
+- if there has not been adequate resolution then **transfer patient for rescue PCI** (superior to repeat thrombolysis)
 
 ### NSTEMI
 
-Antithrombin therapy in **NSTEMI** with fondaparinux who are not a high bleeding risk
 
 Unstable patients immediately get an angio otherwise for NSTEMI calculate GRACE score:
 - **_3% or less_** is considered **_low risk_**
@@ -127,6 +126,14 @@ Factors in GRACE score is:
 - cardiac arrest on presentation
 - ECG findings
 - troponin levels
+
+Antithrombin therapy in **NSTEMI** with **fondaparinux** who are not a high bleeding risk
+
+NSTEMI (managed conservatively) antiplatelet choice  
+- aspirin, plus either:
+- ticagrelor, if not high bleeding risk
+- clopidogrel, if high bleeding risk
+
 
 Post MI 6A's:
 - [[Pearls/Aspirin|Aspirin]] 75mg indefinitely
@@ -147,15 +154,17 @@ Severe chest pain a few hours post-PCI suggests that procedure has failed and th
 
 >[!warning] Dressler’s Syndrome
 > - 2-3 weeks after an MI
-> - Localised immune reponse that causes a pericarditits
+> - Localised immune reponse that causes a [[Pearls/Pericarditis|Pericarditis]]
 > - Pleuritic chest pain, low-grade fever and pericardial rub on auscultation
 > - Global ST elevation and TWI, pericardial effusion and raised CRP and ESR
 > - Management is with NSAIDs and in severe cases steroids ± pericardiocentesis 
 
 - [[Full/Arrhythmias]] - most common complication (VF, AV block )
-- [[Pearls/Pericarditis]]
-- [[Cardiac Tamponade]]
+
 - LV/RV failure
+- **Rupture of the papillary muscle** 2-7 days after a MI $→$ acute mitral regurgitation $→$ widespread systolic murmur, hypotension, pulmonary oedema
+- **Left ventricular aneurysm** - saggy wall not pumping well, so poor cardiac output (CO).  
+- **Free wall rupture** - blood in the pericardial sac rather than getting pumped out. So poor CO, but more importantly tamponade and death.
 
 
 ### Prognostic factors

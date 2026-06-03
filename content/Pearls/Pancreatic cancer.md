@@ -1,7 +1,7 @@
 ---
 title: Pancreatic cancer
 date created: Sunday, January 21th 2024, 04:05:50 PM
-date modified: Friday, May 8th 2026, 7:16:23 pm
+date modified: Friday, May 29th 2026, 6:00:49 pm
 tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 ---
 
@@ -24,6 +24,7 @@ tags: ['Gastroenterology', 'Oncology', 'Endocrinology']
 * Steatorrhea
 * New onset diabetes or worsening of glycaemic control
 * "Double duct" sign - simultaneous dilatation of the common bile and pancreatic ducts
+* Migratory thrombophlebitis (Trousseau's syndrome) is more common with pancreatic cancer 
 
 
 The other presenting features for pancreatic cancer can be vague:

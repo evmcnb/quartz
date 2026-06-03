@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: asthma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, May 6th 2026, 3:58:35 pm
+date modified: Tuesday, May 26th 2026, 10:59:39 am
 aliases: [Asthma]
 date: 2024-01-14
 ---
@@ -30,6 +30,8 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 
 > [!warning] 
 > Beta-blockers, particularly non-selective beta-blockers (e.g., propranolol), and non-steroidal anti-inflammatory drugs (e.g., ibuprofen or naproxen), can worsen asthma.
+> 
+> This is because NSAIDs inhibit the COX pathway, which prevents _arachidonic acid_ from being converted to *prostaglandins*. _Arachidonic acid_ is also used to create leukotrienes (which cause bronchoconstriction). The extra arachidonic acid is used to make leukotrienes and cause bronchconstriction instead.
 
 
 ## Symptoms
@@ -50,17 +52,18 @@ Exact cause of asthma still unknown but autoimmune/mast cell basophil degranulat
 
 Adults and children over 16:
 
-- Initially **_FeNO_** or **_eosinophil count_**
-- Then **_reversibility testing with spirometry_**
-- Then **_peak flow diary twice daily for 2 weeks_**
+- Initially **_FeNO_** (>50) or **_eosinophil count_** (raised)
+- Then **_reversibility testing with spirometry_** (>12% increase from pre-bronchodilator or >10% above predicted $FEV_1$)
+- Then **_peak flow diary twice daily for 2 weeks_** (PEF variability (expressed as amplitude percentage mean) is ≥ 20%)
 - Then **_bronchial challenge test_**
 
 Children aged 5-16:
 
-- Initially **_FeNO_**
-- Then **_reversibility testing with spirometry_**
+- Initially **_FeNO_** (>35)
+- Then **_reversibility testing with spirometry_** (>12% increase from pre-bronchodilator or >10% above predicted $FEV_1$)
 - Then **_peak flow diary twice daily for 2 weeks_**
 - Then **_skin prick testing to house dust mite_** or **_bloods for total IgE and eosinophil count_**
+- Then **_bronchial challenge test_** (Opposite of reversibility testing. Inhaled histamine to stimulate bronchoconstriction)
 
 - ABG: $\downarrow PaO_2$ but also $\downarrow PaCO_2$ (hyperventilation)- \*\*if $\uparrow PaCO_2$ failing respiratory
 - Spirometry: decreased $FEV_1/FVC$ ratio

@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Asthma in Children
 date:
-date modified: Tuesday, May 19th 2026, 12:15:08 pm
+date modified: Tuesday, May 26th 2026, 11:40:08 am
 date created: Wednesday, December 3rd 2025, 11:01:02 am
 ---
 Re
@@ -47,23 +47,36 @@ Children aged 5-16:
 - Then **_reversibility testing with spirometry_**
 - Then **_peak flow diary twice daily for 2 weeks_**
 - Then **_skin prick testing to house dust mite_** or **_bloods for total IgE and eosinophil count_**
+- Refer to specialist and consider **_bronchial challenge test_**.
 
 Children under 5 with suspected asthma are treated until they are 5 years old, after which objective tests are performed. This involves an 8-12 week trial of a regular inhaled corticosteroid to see if symptoms resolve during this trial. Children in this age group often have [[Pearls/Pre-school wheeze in children]] rather than asthma.
 ## Management
 
 #### Children under 5
 
-Suspected asthma in children < 5: 8 to 12 week trial of twice-daily paediatric low-dose ICS as maintenance therapy + SABA as required
+Suspected asthma in children < 5: 8 to 12 week trial of twice-daily paediatric low-dose ICS as maintenance therapy + SABA as required. 
+Consider stopping ICS and SABA treatment after 8 to 12 weeks if symptoms are resolved. Review the symptoms after a further 3 months
 
-Treatment escalation: 
+Treatment escalation (with "trials" reviewed every 8-12 weeks or so):
 1. Regular moderate dose ICS
 2. Oral leukotriene receptor antagonist (montelukast, can cause nightmares in children)
 
+![[z_attachments/Pasted image 20260526111610.png]]
+
+
 #### Children 5-11
 
-Same initial management as above
 
-If asthma remains uncontrolled, assess for suitability for MART therapy (see [[Pearls/Asthma Pharmacology|here]]) then conventional pathway if not. 
+![[z_attachments/Pasted image 20260526110818.png]]
+
+
+> [!warning] Not suitable for MART
+> - **Inadequate Inspiratory Flow:** The child cannot breathe in hard and fast enough to activate a Dry Powder Inhaler (DPI). **Children under 5 are unlikely to be suitable**
+>- **Requires a Spacer:** The child's age or coordination requires them to use a standard Pressurised Metered-Dose Inhaler (pMDI) with a spacer and mask (MART options are predominantly DPIs).
+>- **Comprehension Barriers:** The family struggles to grasp the concept of using the _same_ inhaler for both daily prevention and emergency relief, increasing the risk of confusion during an asthma attack.  
+>- **Inability to Track Doses:** The parents or child cannot reliably monitor how many reliever puffs have been taken in a 24-hour period, risking formoterol toxicity.
+>- **Institutional Barriers:** The child's school or nursery has rigid policies and refuses to administer anything other than a standard "blue" (salbutamol) reliever during an emergency.
+
 
 #### Children 12+
 
@@ -77,7 +90,7 @@ Same as the treatment steps in [[Full/asthma|adults]]:
 
 
 > [!warning] Inhaled Corticosteroids and Growth 
-> Some evidence that steroids can very slightly reduce growth velocity which can cause a slight reduction in height. The effect is dose dependent 
+> Some evidence that steroids can very slightly reduce growth velocity which can cause a slight reduction in height. The effect is dose dependent. Studies suggest a loss of 1cm from use. 
 
 
 ### Inhaler Technique
@@ -100,7 +113,7 @@ MDI technique without a spacer:
 - *Rinse the mouth after using a steroid inhaler*
 
 MDI technique with a spacer:
-- Assemble the spacer
+- Assemble the spacer.
 - Shake the inhaler (depending on the type)
 - Attach the inhaler to the correct end
 - Sit or stand up straight
@@ -132,7 +145,6 @@ Bronchodilator therapy
 - give 1 puff every 30-60 seconds up to a maximum of 10 puffs
 - if symptoms are not controlled repeat beta-2 agonist and refer to hospital
 
-  
 Steroid therapy  
 - should be given to all children with an asthma exacerbation
 - treatment should be given for 3-5 days

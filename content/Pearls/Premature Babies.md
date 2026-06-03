@@ -2,7 +2,7 @@
 tags: [OBGYN, Neonatology]
 title: Premature Babies
 date: 2023-09-27
-date modified: Thursday, December 18th 2025, 3:32:55 pm
+date modified: Monday, June 1st 2026, 6:50:58 pm
 date created: Thursday, December 18th 2025, 2:45:09 pm
 ---
 
@@ -29,7 +29,7 @@ Where preterm labour is suspected or confirmed, there are several options for im
 - Poor feeding - immature reflexes
 - Apnoea and bradycardia - autonomic nervous system immaturity
 - [[Pearls/Neonatal Jaundice]]
-- Intraventricular haemorrhage
+- Intraventricular haemorrhage - worsening neurological function within the first 24 hours 
 - Retinopathy of prematurity
 - [[Pearls/Necrotising enterocolitis|Necrotising enterocolitis]]
 - Infections - immature immune system

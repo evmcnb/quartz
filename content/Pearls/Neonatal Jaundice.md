@@ -1,33 +1,42 @@
 ---
 title: Neonatal Jaundice
 date created: Thursday, December 18th 2025, 2:35:53 pm
-date modified: Wednesday, May 6th 2026, 1:03:42 pm
+date modified: Tuesday, May 26th 2026, 3:00:21 pm
 tags: [Paediatrics, Hepatology]
 date: 2023-09-27
 ---
+Caused by the breakdown of blood. There's either more blood to break down than normal (increased production) or the infant can't get rid of it fast enough (decreased clearance)
 
-Can be split into increased production and decreased clearance: 
-
-**Increased production**
+**Increased production** - more common within the first 24 hours
 - ABO incompatibility or Rh incompatibility 
 - Haemorrhage
 - Polycythaemia
 - [[Pearls/Neonate sepsis|Neonate sepsis]] and DIC
 - [[Pearls/G6PD deficiency|G6PD deficiency]]
 
-**Decreased clearance**
+**Decreased clearance** - causes prolonged jaundice (>14 days)
 - Prematurity
 - Breast milk jaundice
+- Biliary atresia
 - [[Neonatal cholestasis]]
-- Endocrine disorders
+- Endocrine disorders - congenital [[Pearls/Hypothyroidism in Children|Hypothyroidism]]
 - [[Pearls/Gilbert Syndrome|Gilbert Syndrome]]
+- [[Pearls/Congenital Conditions|Congenital Conditions]]
 
 
 > [!danger] Jaundice within 24 hours of life
 > Jaundice within 24 hours of life is pathological and requires urgent investigations and management. [[Pearls/Neonate sepsis|Neonate sepsis]] is a common cause
 
-### Rhesus hemolytic disease
+### Physiological jaundice
 
+Physiological jaundice is normal from 2-7 days. Its caused by the breakdown of RBCs releasing unconjugated bilirubin. It typically appears around day 2 or 3 of life, peaks around day 5, and fades away by day 10 to 14.
+
+#### Breast Milk Jaundice
+
+Breast-fed infants are more likely to have jaundice. Lots of different reasons but the benefits of breastfeeding outweight risks of jaundice. 
+
+### Rhesus hemolytic disease
+ 
 When the mother's immune system mistakenly attacks her fetus' RBC causing hemolysis. The mother has **Rh-negative** blood, but her baby has **Rh-positive** blood.
 
 Should be screened for in booking bloods, so no antenatal care risk factor
@@ -35,11 +44,7 @@ Should be screened for in booking bloods, so no antenatal care risk factor
 Triad: 
 - jaundice
 - normocytic anaemia
-- positive Coombs 
-
-### Breast Milk Jaundice
-
-Breast-fed infants are more likely to have jaundice. Lots of different reasons but the benefits of breastfeeding outweight risks of jaundice. 
+- positive Coombs (i.e. hemolytic in nature)
 
 ## Investigations
 

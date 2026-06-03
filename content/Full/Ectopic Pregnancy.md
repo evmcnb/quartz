@@ -14,6 +14,9 @@ Non-tubal
 - Caesarean section scar
 
 ![[z_attachments/Pasted image 20260415122823.png|542]]
+
+Location with highest rupture rate is the isthmus 
+
 ## Causes/Factors
 
 - Previous ectopic pregnancy

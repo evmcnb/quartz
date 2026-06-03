@@ -2,7 +2,7 @@
 title: Sarcoidosis
 tags: [Respiratory, Rheumatology, Dermatology]
 date created: Wednesday, August 16th 2023, 2:04:33 pm
-date modified: Monday, October 20th 2025, 9:06:21 am
+date modified: Friday, May 29th 2026, 5:45:18 pm
 date: 2024-02-09
 ---
 - Chronic granulomatous disorder.

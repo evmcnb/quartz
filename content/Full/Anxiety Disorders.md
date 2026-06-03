@@ -76,7 +76,7 @@ Recurrent panic attacks followed by ≥1 month of persistent concern about furth
 
 ## Management
 
-NICE recommend a step-wise approach
+Investigations to exclude organic causes (hyperthyroidism, cardiac disease and medication)
 
 1. Education about GAD + active monitoring
 2. Low-intensity psychological interventions (self-help or group activities)
@@ -89,7 +89,7 @@ NICE recommend a step-wise approach
 - If cannot tolerate SSRIs or SNRIs consider offering pregabalin
 - For patients under the age of 30 warn for increased risk of suicidal thinking and self-harm. 
 
-**Propranolol** is a non-selective beta blocker. Reduces the sympathetic nervous system overactivity. Does not treat the underlying anxiety and only has a short term effect. Contraindicated in asthma. 
+**Propranolol** is a *non-selective* beta blocker. Reduces the sympathetic nervous system overactivity. Does not treat the underlying anxiety and only has a short term effect. Contraindicated in asthma. 
 
 > [!danger] Benzodiazepines
 > Only to be used for a short duration during a crisis 

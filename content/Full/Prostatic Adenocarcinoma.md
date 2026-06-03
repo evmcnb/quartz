@@ -2,7 +2,7 @@
 tags: [Urology, Oncology]
 title: Prostatic Adenocarcinoma
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, May 8th 2026, 8:41:13 pm
+date modified: Friday, May 29th 2026, 6:44:02 pm
 date: 2024-03-11
 ---
 
@@ -96,10 +96,14 @@ Rare
 	- Can experience erectile dysfunction 
 - **Surgery** - Radical prostatectomy
 	- As well as the prostate the obturator nodes are also removed to complement the staging process. 
-	- Erectile dysfunction is a common side effect.
+	- Erectile dysfunction & incontinence are common side effects.
 - **Hormonal therapy** 
 	- testosterone stimulates the prostate tissue. 95% of testosterone is derived from the testis and bilateral orchidectomy may be used for this reason. 
-	- Pharmacological alternatives include LHRH analogues (goserelin) and anti androgens (cyproterone acetate) to prevent tumor flare. 
+	- synthetic GnRH agonist or antagonists (Goserelin) - can cause tumour flare and retention in first use
+	- bicalutamide - blocks the androgen receptor
+	- enzalutamide - second-generation androgen receptor inhibitor
+	- abiraterone - androgen synthesis inhibitor (CYP17 inhibitor)
+	- cyproterone acetate - steroidal anti-androgen
 
 NICE suggests that active surveillance is the preferred option for low risk men. It is particularly suitable for men with clinical stage T1c, Gleason score 3+3 and PSA density < 0.15 ng/ml/ml who have cancer in less than 50% of their biopsy cores, with < 10 mm of any core involved.
 

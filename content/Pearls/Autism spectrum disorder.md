@@ -2,7 +2,7 @@
 tags: [Paediatrics]
 title: Autism spectrum disorder
 date: 2023-09-27
-date modified: Wednesday, February 25th 2026, 9:07:47 am
+date modified: Tuesday, May 26th 2026, 3:07:54 pm
 date created: Thursday, January 22nd 2026, 5:15:06 pm
 ---
 Three core areas of difficulty:

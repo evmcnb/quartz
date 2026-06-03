@@ -2,7 +2,7 @@
 tags: [Respiratory, Cardiovascular]
 title: cor pulmonale
 date created: Sunday, November 12th 2023, 5:22:40 pm
-date modified: Saturday, May 2nd 2026, 2:23:40 pm
+date modified: Monday, June 1st 2026, 11:47:08 am
 date: 2023-11-12
 ---
 Cor Pulmonale right sided [[Full/Heart Failure]] caused by chronic pulmonary artery [[Full/Essential hypertension]].
@@ -31,7 +31,7 @@ Lack of perfusion
 - RV heave
 - Loud pan-systolic murmur [[Full/Tricuspid regurgitation]]
 - Early diastolic Graham Steell murmur
-- Hepatomegaly and oedema
+- Hepatomegaly and peripheral oedema - NO PULMONARY OEDEMA
 
 ## Diagnostic Tests
 

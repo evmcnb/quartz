@@ -2,7 +2,7 @@
 tags: [Respiratory, Acute]
 title: Non-Invasive Ventilation
 date: 2023-09-27
-date modified: Monday, November 3rd 2025, 4:26:03 pm
+date modified: Sunday, May 31st 2026, 12:42:26 pm
 date created: Monday, November 3rd 2025, 4:13:35 pm
 ---
 
@@ -28,7 +28,7 @@ Repeat an ABG 1 hour after every change and 4 hours after that until stable. The
 
 ### **CPAP**
 
-**_CPAP_** stands for **_continuous positive airway pressure_**. It provides continuous air being blown into the lungs that keeps the airways expanded so that air can more easily travel in and out. It is used to maintain the patient’s airway in conditions where it is prone to collapse.
+**_CPAP_** stands for **_continuous positive airway pressure_**. It provides continuous air being blown inxpanded so that air can more easily travel in and out. It is used to maintain the patient’s airway in conto the lungs that keeps the airways editions where it is prone to collapse.
 
 CPAP does not technically involve “**_ventilation_**”, as it provides constant pressure and the job of ventilation is still dependent on the respiratory muscles. Therefore, CPAP is **_not_** technically classed as **_non-invasive ventilation_** (NIV).
 
@@ -37,3 +37,5 @@ Indications for CPAP:
 - Obstructive sleep apnoea
 - Congestive cardiac failure
 - Acute pulmonary oedema
+
+The positive pressure decreases venous return to the heart which helps offload the fluid-overloaded left ventricle

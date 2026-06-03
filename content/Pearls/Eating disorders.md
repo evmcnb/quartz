@@ -72,6 +72,14 @@ Has the **highest mortality** of any psychiatric condition. Up to 5-20% of patie
 - 30% improve
 - 20% becomes chronic illness
 
+ 
+> [!warning] Referral to Secondary Care
+> - BMI < 13 (or something like that) (<70% of expected)
+> - HR < 40 (or other ECG findings like prolonged QT)
+> - Systolic <80
+> - Severe electrolyte abnormalities on bloods
+
+
 ### Bulimia nervosa
 
 Recurrent episodes of overeating (2+ per week for 3 months) followed by purging by inducing vomiting or taking laxatives to prevent the calories from being absorbed. Features:

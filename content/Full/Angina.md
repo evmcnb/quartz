@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Angina
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 19th 2026, 12:11:32 pm
+date modified: Monday, June 1st 2026, 12:08:55 pm
 date: 2023-11-12
 ---
 
@@ -65,12 +65,13 @@ All prescribed sublingual glyceryl trinitrate to abort angina attacks and aspiri
  Either a beta-blocker or CCB first line based on patient choice and contradictions
 -  If CCB used as monotherapy, should be verapamil or diltiazem. If used in combination with a beta-blocker then use a longer-acting dihydropyridine CCB (amlodipine, MR nifedipine)
 	- **Beta-blockers should not be prescribed concurrently with verapamil** - risk of complete heart block
-- If there is a poor response to initial treatment then medication should be increased to the max. tolerated dose
+- If there is a poor response to initial treatment then medication should be increased to the max tolerated dose
+- If cannot tolerate or not controlled with one agent switch to another (i.e. if on monotherapy with CCB, switch to beta blocker if not contraindicated) 
 
 If the patient is on monotherapy and cannot tolerate the addition of the alternative agent, consider:
 - a long acting nitrate
 - ivabradine
-- nicorandil
+- nicorandil - ulcers anywhere along the GI tract
 - ranolazine
 
 If they are on both a beta blocker and CCB only add a third agent whilst the patient is waiting for assessment for PCI/CABG

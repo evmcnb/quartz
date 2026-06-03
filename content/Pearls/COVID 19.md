@@ -1,7 +1,7 @@
 ---
-title: "COVID 19"
+title: COVID 19
 date created: Tuesday, March 19th 2024, 12:21:35 PM
-date modified: 2024-03-19 12:21:35.891511+00
+date modified: Friday, May 29th 2026, 2:33:02 pm
 tags: ['InfectiousDisease']
 ---
 
@@ -17,7 +17,7 @@ tags: ['InfectiousDisease']
 
 Complications:
 
-* ARDS - leading cause of death
+* [[ARDS]] - leading cause of death
 * VTE
 * Cardiovascular - [[Full/Heart Failure]], MI
 * AKI

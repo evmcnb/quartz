@@ -2,7 +2,7 @@
 tags: [Neurology, Genetics, Rheumatology, Respiratory]
 title: Myasthenia gravis
 date: 2023-09-27
-date modified: Friday, October 31st 2025, 4:25:20 pm
+date modified: Thursday, May 28th 2026, 1:54:51 pm
 date created: Friday, October 31st 2025, 1:07:54 pm
 ---
 
@@ -32,6 +32,8 @@ The key feature is muscle fatiguability - muscles become progressively **weake
 
 > [!info] Respiratory Function
 > Neuromuscular disorders result in a restrictive pattern on pulmonary function tests
+> 
+> Forced Vital Capacity (FVC) is crucial for monitoring respiratory effort in patients with myasthenia gravis and other neuromuscular disorders.
 
 ### Management
 

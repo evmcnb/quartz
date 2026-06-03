@@ -16,7 +16,7 @@ Patients become symptomatic 10 days to 21 days after exposure. Become contagious
 
 The virus can lie dormant in the sensory dorsal root ganglion cells and cranial nerves and reactivate later in life as **shingles** or **[[Pearls/Ramsay Hunt syndrome|Ramsay Hunt syndrome]]**
 
-* Conservative management - lotion and antihistamines for itching.
+* Conservative management - lotion (topical calamine) and antihistamines for itching.
 * Children should be kept off school until all the lesions are dry and have crusted over (5 days minimum from onset of rash)
 * Avoid pregnant women and immunocompromised people until not
 
@@ -32,7 +32,7 @@ Those who are known to be immune are not at risk.
 ## Complications
 
 Secondary bacterial infection of the lesions:
-- Invasive Group A strep - can result in [[Pearls/Necrotising fasciitis|Necrotising fasciitis]]
+- Invasive Group A strep - can result in [[Pearls/Necrotising fasciitis|Necrotising fasciitis]] (Strep pyogenes, or $\beta$-hemolytic Strep)
 - NSAIDs may increase this risk
 
 [[Pearls/Encephalitis|Encephalitis]]

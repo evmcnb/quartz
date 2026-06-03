@@ -1,7 +1,7 @@
 ---
 title: Acute lymphoblastic leukaemia
 date created: Sunday, January 21th 2024, 12:56:48 PM
-date modified: Wednesday, May 20th 2026, 12:21:02 pm
+date modified: Monday, June 1st 2026, 6:33:59 pm
 tags: ['Oncology', 'Haematology']
 ---
 
@@ -13,6 +13,7 @@ Rapid growth and accumulation of immature lymphocytes
 * Better survival rates in children aged 1-10 at diagnosis 
 - Risk factors: male
 * Similar symptoms to AML
+* Can cause [[Pearls/Acquired bleeding disorders#Disseminated Intravascular Coagulation|DIC]]
 
 Treatment philosophy:
 

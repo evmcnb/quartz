@@ -2,7 +2,7 @@
 tags: [Oncology, OBGYN]
 title: Cervical Cancer
 date: 
-date modified: Friday, January 9th 2026, 1:43:42 pm
+date modified: Friday, May 22nd 2026, 6:05:36 pm
 date created: Monday, September 22nd 2025, 5:08:59 pm
 ---
 Cancer of the cervix tends to affect younger women, peaking in the reproductive years.
@@ -61,9 +61,9 @@ Moved to a HPV first screen, if the cells test negative for HPV the smear is neg
 - HPV negative, continue routine screening
 - HPV positive with normal cytology - repeat the HPV test after 12 months
 - HPV positive with abnormal cytology - refer for colposcopy
-- Inadequate sample - repeat the smear after at least 3 months 
+- Inadequate sample - repeat the smear after at least 3 months. After 2 repeat inadequate samples $\rightarrow$ refer for colposcopy 
 
-- If **2 serial** positive HPV results but normal cytology - refer for colposcopy (patient not clearing HPV)
+- If **3 serial** positive HPV results but normal cytology - refer for colposcopy (patient not clearing HPV)
 
 There are some notable exceptions to the program:
 - Women with HIV are screened **annually**

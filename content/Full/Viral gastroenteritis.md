@@ -2,7 +2,7 @@
 tags: [InfectiousDisease, Gastroenterology]
 title: Viral gastroenteritis
 date created: Friday, February 23rd 2024, 12:11:52 pm
-date modified: Friday, March 6th 2026, 11:14:54 am
+date modified: Tuesday, May 26th 2026, 12:06:58 pm
 date: 2024-02-23
 ---
 Gastroenteritis is inflammation all the way from the stomach to the intestines
@@ -43,6 +43,15 @@ Prolonged diarrhoea - acute-onset diarrhoea that has persisted for over 14 days.
 - **Stool culture**
 - Blood tests if admitted 
 - Imaging if suspecting a [[Pearls/Bowel Obstruction|Bowel Obstruction]]
+
+
+> [!info] How to differentiate from [[Full/Appendicitis|Appendicitis]]
+> 1. **Movement** - in appendicitis the child will lie flat and still, may be restless in gastroenteritis trying to get comfortable. 
+> 2. **Pain** - pain will be constant and progressive. In GE may be colicy and cramping
+> 3. **Diarrhoea** - smaller volumes in appendicitis
+> 4. **Appetite** - total anorexia in appendicitis
+> 5. **Vomiting** - only a few times in appendicitis
+
 
 ## Management
 

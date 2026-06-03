@@ -2,7 +2,7 @@
 tags: [Oncology, Surgery, OBGYN]
 title: Breast carcinoma
 date created: Tuesday, February 20th 2024, 3:09:44 pm
-date modified: Sunday, May 17th 2026, 5:55:05 pm
+date modified: Friday, May 29th 2026, 5:27:30 pm
 date: 2024-02-23
 ---
 
@@ -135,6 +135,10 @@ All patients are discussed with the **_multidisciplinary team_** (**_MDT_**) f
 Typically either wide local excision or mastectomy
 
 In women with breast cancer and no palpable lymphadenopathy, if a pre-operative axillary ultrasound is negative then they should have a sentinel node biopsy to assess the nodal burden
+
+If USS positive or palpable and biopsy positive, they should have axillary node clearance
+
+If don't want surgery axillary radiotherapy provides equivalent oncological control with fewer side effects
 
 |**Mastectomy**|**Wide Local Excision**|
 |---|---|

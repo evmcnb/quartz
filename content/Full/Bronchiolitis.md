@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Bronchiolitis
 date: 2024-02-09
-date modified: Monday, May 18th 2026, 11:51:45 am
+date modified: Tuesday, May 26th 2026, 10:51:41 am
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Infection of the bronchioles
@@ -71,6 +71,16 @@ Typically patients only require supportive management
 - [[Pearls/Oxygen|Oxygen]] - titrate up to 92%
 - Ventilatory if required - step-wise progression
 Little evidence for nebulised [[Pearls/Salbutamol|Salbutamol]], bronchodilators, steroids or antibiotics 
+
+
+> [!info] Discharge criteria
+> For a baby to be considered for discharge after an admission for RSV they must:
+> - maintain SpO2 **>92%** on room air
+> - for at least **4 hours** 
+> - which includes a **period of sleep**
+> - no NG or IV requirements (feeding >75% of their normal)
+> - parents safety-netted and confident to manage at home
+
 
 ## Palivizumab
 - Monoclonal antibody that targets RSV

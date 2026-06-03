@@ -17,6 +17,6 @@ Presenting symptoms can be vague. These can be:
 - Restricted range of movement in the hip - **reduced internal rotation of the leg in flexion**
 - Painful limp
 
-XR to confirm, surgery to fix
+XR to confirm, internal fixation across the growth plate (surgery)
 
 ![[z_attachments/Pasted image 20260224092657.png]]

@@ -2,17 +2,18 @@
 tags: [Nephrology]
 title: Chronic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 7th 2026, 5:06:00 pm
+date modified: Monday, June 1st 2026, 11:52:26 am
 date: 2023-11-12
 ---
 
 - Abnormalities of kidney function or structure present on at least 2 occasions **>3 months apart**.
 - Unlikely to be reversible
-- Only diagnose stages 1 & 2 if supporting evidence to accompany eGFR
 
 To tell the difference between CKD and [[Full/Acute Kidney Injury|Acute Kidney Injury]] look at the calcium. Hypocalcaemia is an indication that kidney disease is chronic and not acute 
 
 5 Stages dependent upon eGFR and albumin/creatine ratio (ACR)
+
+**Only diagnose stages 1 & 2 if supporting evidence to accompany eGFR**
 
 ![](z_attachments/nS2PTtR.png)
 
@@ -101,11 +102,11 @@ Considered in those with:
 - Diabetes plus a urine ACR or 3-30 mg/mmol
 - Non-diabetics with an ACR of 22.6 mg/mmol or above
 
-### Other medications to consider
+### Other medications
 
-- [[Pearls/Statins|Atorvastatin 20mg]] - primary prevention of CVS risk
+- [[Pearls/Statins|Atorvastatin 20mg]] - primary prevention of CVS risk. **All patients with chronic kidney disease should be started on a statin**
 - Sodium bicarbonate to treat metabolic acidosis
-- Iron and EPO for anaemia
+- Correct iron deficiency before EPO for anaemia
 - Vitamin D, phosphate low diet +/- binders for bone disease
 
 

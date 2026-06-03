@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Depression
 date: 2024-02-09
-date modified: Tuesday, May 19th 2026, 1:09:10 pm
+date modified: Sunday, May 24th 2026, 4:53:50 pm
 date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
 Depression is a common **mood (affective) disorder** characterised by persistent low mood, low energy and loss of interest/enjoyment in everyday activities (anhedonia) for at least 2 weeks.
@@ -93,12 +93,13 @@ Management is based on the bio-psycho-social model.
 
 
 > [!warning] Electroconvulsive therapy (ECT)
-> For patients with severe/life-threatening depression refractory to medication. The only absolute contraindication is raised ICP. 
+> For patients with severe/life-threatening depression refractory to medication. The only absolute contraindication is raised ICP. Reduce sertraline beforehand as it decreases seizure threshold
 > 
 > Short term side effects:
 > - headache/nausea
-> - short term memory loss
+> - retrograde amnesia
 > - cardiac arrhythmias 
+
 
 ## Complications/red Flags
 

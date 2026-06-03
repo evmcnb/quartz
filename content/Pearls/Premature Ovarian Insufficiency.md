@@ -15,7 +15,7 @@ The onset of menopausal symptoms and elevated GnRH levels before the age of 40. 
 - Resistant ovary syndrome 
 
 Features are similar to normal climacteric but with: 
-- Raised FSH, LH levels. Elevated FSH should be demonstrated on 2 blood samples taken 4-6 weeks apart
+- **Raised FSH**, LH levels. Elevated FSH should be demonstrated on 2 blood samples taken 4-6 weeks apart
 - Low oestradiol
 
 Management with HRT/[[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]

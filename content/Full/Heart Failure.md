@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 19th 2026, 4:47:11 pm
+date modified: Tuesday, May 26th 2026, 12:13:16 pm
 date: 2024-01-31
 ---
 
@@ -35,7 +35,14 @@ Defined as when cardiac output is inadequate for the body's normal requirements.
 
 **High-output heart failure** - rare, normal or increase CO with demand
 
-![[Pasted image 20250811201656.png|375]]
+
+> [!tldr] NYHA Classification
+> 1. No limitation
+> 2. Slight limitation
+> 3. Marked limitation
+> 4. Unable to carry out physical activity. Symptoms at rest
+
+
 ## Causes/Factors
 
 Systolic and diastolic failure pathology often coexist
@@ -70,13 +77,13 @@ Diastolic:
 
 - Echo to assess ejection fraction, ventricle dilation and valves
 - ECG
-- Bloods: NT-proBNP (N-Terminal pro-Brain Natriuretic Peptide)
+- Bloods: ***NT-proBNP*** (N-Terminal pro-Brain Natriuretic Peptide) *apparently just 'BNP' has different reference ranges*
 - CXR - [[Full/Chest X-Ray Interpretation#Heart Failure|ABCDE of heart failure on CXR]]
 
 ## Management
 
 Initial:
-- Refer to cardiology and assessment with echo, [[Pearls/BNP|BNP]] 400-2000 $\rightarrow$ 6 week wait, 2000+ 2WW
+- Refer to cardiology and assessment with echo, [[Pearls/BNP|BNP]] 400-2000 $\rightarrow$ 6 week wait, **2000+** 2WW
 - Drug treatment
 - Lifestyle advice - annual flu vaccine, stop smoking, 
 
@@ -101,6 +108,7 @@ U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all 
 
 > [!warning] Diastolic Management
 > No concrete management for the management - need to **treat the underlying disorder**
+> - Diuretics for fluid overload and antihypertensive therapy if hypertensive.
 > - Some new evidence that MRA decreases hospitalisations but not mortality benefits
 > - SGLT2i $\downarrow$ cardiovascular death 
 

@@ -1,7 +1,7 @@
 ---
 title: Clostridium Difficile
 date created: Friday, March 15th 2024, 12:51:47 PM
-date modified: Tuesday, October 7th 2025, 12:27:23 pm
+date modified: Thursday, May 28th 2026, 4:03:04 pm
 tags: ['Gastroenterology']
 ---
 
@@ -87,7 +87,7 @@ flowchart TD
 
 ### Pseudomembranous colitis
 
-Inflammation in the large intestine with yellow/white plaques that form pseudomembranes on the inner surface of the bowel wall. Seen during a colonoscopy and confirmed with biopsies
+Inflammation in the large intestine with **yellow/white plaques** that form pseudomembranes on the inner surface of the bowel wall. Seen during a colonoscopy and confirmed with biopsies
 
 ### Toxic megacolon
 

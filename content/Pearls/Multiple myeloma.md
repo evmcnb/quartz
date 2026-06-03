@@ -1,7 +1,7 @@
 ---
 title: Multiple myeloma
 date created: Sunday, January 21th 2024, 12:57:54 PM
-date modified: Friday, May 8th 2026, 7:46:35 pm
+date modified: Friday, May 29th 2026, 6:46:23 pm
 tags: ['Oncology', 'Haematology']
 ---
 
@@ -13,6 +13,8 @@ Plasma cell proliferation usually in older people - incurable but very treatable
 
 Bone pain, renal impairment, high total protein
 
+
+$\uparrow$ ESR and osteoporosis $\rightarrow$ myeloma until proven otherwise 
 ### **CRAB** features:
 
 **C**alcium ↑ - increased osteoclast activity causes calcium reabsorption from the bone into the blood → hypercalcaemia

@@ -37,7 +37,7 @@ Second-line medications
 
 **Admission may be needed for IV hydration**
 - Normal saline with added potassium - hypokalaemia not uncommon
-- IV thiamine before or with any dextrose-containing fluids 
+- **IV thiamine** before or with any dextrose-containing fluids 
 
 ### Complications
 

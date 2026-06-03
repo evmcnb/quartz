@@ -2,7 +2,7 @@
 tags: [Respiratory, Paediatrics]
 title: Croup
 date: 2023-09-27
-date modified: Friday, March 20th 2026, 11:30:11 am
+date modified: Tuesday, May 26th 2026, 11:44:39 am
 date created: Wednesday, December 3rd 2025, 11:40:12 am
 ---
 
@@ -25,6 +25,7 @@ It usually resolves within two days and responds well to treatment with **_dexam
 - Fever
 - Coryzal symptoms
 - Increased work of breathing
+- Raspy/horase voice 
 
 | **Mild**                                                                                                                                                                             | **Moderate**                                                                                                                                                                                                                    | **Severe**                                                                                                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -40,9 +41,20 @@ It usually resolves within two days and responds well to treatment with **_dexam
 
 - Almost always clinically diagnosed
 - If a CXR is done a PA view will show subglottic narrowing (steeple sign)
+
+> [!info] Difference between croup and [[Full/Epiglottitis|Epiglottitis]]
+> 
+> |**Feature**|**Croup**|**Epiglottitis**|
+> |---|---|---|
+> |**Cough**|Harsh, barking (seal-like)|Absent|
+> |**Voice/Cry**|Hoarse and raspy|Muffled ("hot potato" voice)|
+> |**Drooling**|No|Yes (unable to swallow)|
+> |**Posture**|Can lie down, often restless|Sitting forward (tripod position), very still|
+> |**Stridor**|Loud and harsh|Softer lower pitch at rest| 
+> |**Overall Appearance**|Unwell, but usually interactive|Toxic, pale, highly distressed but quiet|
 ## Management
 
-Single dose of oral dexamethasone (0.15mg/kg) regardless of severity. Then don't annoy them 
+Single dose of oral dexamethasone (0.15mg/kg) regardless of severity. Then don't annoy them (no bloods)
 
 Emergency treatment: 
 - high flow oxygen

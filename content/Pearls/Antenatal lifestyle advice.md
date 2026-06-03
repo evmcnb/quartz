@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Antenatal lifestyle advice
 date: 2023-09-27
-date modified: Sunday, January 11th 2026, 5:55:16 pm
+date modified: Monday, June 1st 2026, 3:23:34 pm
 date created: Saturday, December 27th 2025, 12:08:05 pm
 ---
 
@@ -11,9 +11,10 @@ date created: Saturday, December 27th 2025, 12:08:05 pm
 - Some may require higher doses (women who take anti-epileptics or have [[Pearls/Sickle Cell Disease|Sickle Cell Disease]])
 - Those with a 25 < BMI < 30 can take 400 mcg **outside this range** 5mg
 - Women with folate deficiency are started on folic acid 5mg daily.
+- Vitamin D supplementation of 10 mcg (400 IU) per day should be advised.  Can be provided for free if eligible for the Healthy Start program. 
 - Iron supplementation should **not** be offered routinely
-- Vitamin A supplementation might be teratogenic (intake above 700 mcg). Liver is high in vitamina A so should be avoided
-- Vitamin D supplementation of 10 mcg per day should be advised.  Can be provided for free if eligible for the Healthy Start program. 
+- Vitamin A supplementation might be teratogenic (intake above 700 mcg). Liver is high in vitamin A so should be avoided
+
 
 ##### Alcohol 
 - Pregnant women should not drink at all 
@@ -46,7 +47,6 @@ After a threshold, air travel should be avoided for risk of labour.
 ##### Medications
 - Should be reviewed - [[Full/Pregnancy#Drugs|see here]]
 - Over the counter medications should be avoided as much as possible 
-
 ##### Complimentary therapies
 - Few complementary therapies have been established as safe or effective
 

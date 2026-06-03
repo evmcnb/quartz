@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: bronchiectasis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, May 20th 2026, 11:12:45 am
+date modified: Friday, May 29th 2026, 6:29:23 pm
 aliases: [Bronchiectasis]
 date: 2024-01-14
 ---
@@ -13,7 +13,7 @@ Chronic inflammation of bronchi and bronchioles leading to permanent dilation an
 
 - Congenital: [[Full/Cystic Fibrosis]], [[Young's Syndrome]], [[Pearls/Kartagener's Syndrome]], [[Full/Alpha-1 antitrypsin deficiency]]
 - Post-infection: measles, [[Pearls/Pertussis|Pertussis]], [[Full/pneumonia]], [[Full/Tuberculosis]], [[Full/HIV]]
-- Other: Immunodeficiencies
+- Other: Immunodeficiencies (hypogammaglobulinaemia)
 
 ## Symptoms
 

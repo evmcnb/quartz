@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: "Cushing's Syndrome"
 date created: Wednesday, November 1st 2023, 1:15:33 pm
-date modified: Friday, February 27th 2026, 11:17:44 am
+date modified: Friday, May 29th 2026, 5:21:14 pm
 date: 2023-11-10
 ---
 
@@ -13,6 +13,8 @@ Can cause a hypokalaemic metabolic alkalosis
 #### Cushing's Disease
 
 Pituitary adenoma releasing ACTH $\rightarrow \uparrow$ cortisol release
+
+Cortisol is not suppressed by low-dose dexamethasone but is suppressed by high-dose dexamethasone
 
 #### Cushing's Syndrome
 

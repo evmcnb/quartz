@@ -1,7 +1,7 @@
 ---
 title: Erythema infectiosum
 date created: Monday, March 9th 2026, 11:43:39 am
-date modified: Friday, March 20th 2026, 11:30:07 am
+date modified: Friday, May 29th 2026, 12:01:01 pm
 aliases: [Fifth disease, Slapped-cheek syndrome]
 ---
 Caused by parvovirus B19. It is spread by the respiratory route and a person is infectious 3 to 5 days before the appearance of the rash
@@ -17,4 +17,4 @@ The rose-red rash makes the cheeks appear bright red, hence the name 'slapped ch
 - Children can continue to go to school as by the time the rash appears they are no longer infectious
 - Can affect 20 week fetus 
 
-Parvovirus can cause aplastic anaemia.
+Parvovirus can cause aplastic anaemia. This leads to fever, rash and patients with predisposing haematological conditions (e.g. [[Pearls/Sickle Cell Disease|Sickle Cell Disease]]), pancytopenia

@@ -2,9 +2,14 @@
 tags: [Acute, OSCE, Anaesthetics]
 title: Pre-Operative Assessment and Care
 date: 2023-09-27
-date modified: Saturday, May 9th 2026, 3:49:12 pm
+date modified: Sunday, May 31st 2026, 10:10:07 am
 date created: Tuesday, November 4th 2025, 9:24:42 am
 ---
+Before induction = sign in  
+
+Before first incision = time out  
+
+Before patient leaves = sign out
 
 - Identify high risk factors - co-morbidity, acute pathology, expedite or postpone procedure
 - Optimise patient to minimise complications - medications, fluids, transfusion, weight loss, smoking cessation, exercise. 
@@ -139,7 +144,7 @@ Each trust have their own guidelines. Important for surgery and anaesthesia.
 - Clopidogrel - stop 7 days prior. If stroke/MI in past year seek expert advice
 - DOACs - stop 24-72 hours prior to surgery depending on surgery risk
 - Warfarin - stop 5 days prior. If high risk of thrombosis - bridge with LMWH
-- LMWH - last dose 12 hours prior (24 hours if on treatment dose for VTE)
+- LMWH - last dose 12 hours prior (24 hours if on treatment dose for VTE). Restart 6-12 hours after surgery for post-op prophylaxis
 
 If these timings cannot be achieved due to urgent surgery seek haem advice. 
 

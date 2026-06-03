@@ -5,7 +5,7 @@ date modified: Friday, March 6th 2026, 10:46:25 am
 tags: [Acute, Neonatology]
 ---
 
-Serious infection in the blood within the first 28 days of life. Categorised as:
+Serious infection in the blood within the first **28 days** of life. Categorised as:
 * Early onset first 72 hour - [[Pearls/Group B Strep]] most common (unless immunocompromised), E coli. next, colonised during delivery, prolonged SROM
 * Late onset after 72h - hospital acquired pathogens: _Staphylococcus epidermidis_ and _Staphylococcus aureus_
 

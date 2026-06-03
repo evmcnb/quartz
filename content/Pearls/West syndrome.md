@@ -1,7 +1,7 @@
 ---
 title: West syndrome
 date created: Friday, March 27th 2026, 1:49:42 pm
-date modified: Friday, March 27th 2026, 1:56:04 pm
+date modified: Tuesday, May 26th 2026, 3:17:55 pm
 aliases: [Infantile spasms]
 tags: [Paediatrics, Neurology]
 date: 2023-09-27
@@ -13,7 +13,7 @@ A severe epileptic encephalopathy of infancy
 - Poor prognosis 
 
 Features  
-- characteristic 'salaam' attacks: sudden flexion of the head, trunk and arms, sometimes followed by extension
+- characteristic 'salaam' attacks: sudden flexion of the head, trunk and arms, sometimes followed by extension (looks like colic)
 - spasms are brief (1–2 seconds) but occur in clusters, often dozens of episodes over several minutes
 - developmental arrest or regression is typical
 

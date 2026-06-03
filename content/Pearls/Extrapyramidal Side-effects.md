@@ -2,7 +2,7 @@
 tags: [Psychiatry, Symptom, Drug]
 title: Extrapyramidal Side-effects
 date: 2023-09-27
-date modified: Monday, April 20th 2026, 4:12:19 pm
+date modified: Thursday, May 28th 2026, 1:23:02 pm
 date created: Friday, February 6th 2026, 5:10:43 pm
 ---
 
@@ -17,7 +17,7 @@ date created: Friday, February 6th 2026, 5:10:43 pm
 
 #### Chronic EPSE 
 
-- tardive dyskinesia (late onset of choreoathetoid movements, abnormal, involuntary, may occur in 40% of patients, may be irreversible, most common is chewing and pouting of jaw) - managed with **tetrabenazine**
+- tardive dyskinesia (late onset of choreoathetoid movements, abnormal, involuntary, may occur in 40% of patients, may be irreversible, most common is chewing, excessive blinking and pouting of jaw) - managed with **tetrabenazine**
 
 
 > [!info] Choreoathetoid movements

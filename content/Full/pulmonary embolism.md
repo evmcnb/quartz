@@ -2,7 +2,7 @@
 tags: [Respiratory, Cardiovascular]
 title: pulmonary embolism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 14th 2026, 8:16:42 pm
+date modified: Monday, June 1st 2026, 11:30:59 am
 date: 2023-09-18
 ---
 
@@ -28,7 +28,7 @@ Where a clot breaks off and gets lodged in lungs. Most commonly from a [[Full/De
 - Pyrexia - usually low grade
 - Cyanosis
 - Sinus tachycardia ([[Pearls/PE ECG changes|PE ECG changes]])
-- Tachypnoea (may lead to resp alkalosis)
+- Tachypnoea (leading to a **respiratory alkalosis**)
 - Hypotension
 - Raised JVP
 
@@ -49,8 +49,8 @@ May also have signs and symptoms of [[Full/Deep Vein Thrombosis#Symptoms|DVT]]
 > 
 
 ### Wells score
-- 4+ perform a CTPA or alternative, if negative proximal leg scan
-- <4 perform a D-dimer and if positive get a CTPA
+- >4 perform a CTPA or alternative, if negative proximal leg scan
+- $\leq$ 4 perform a D-dimer and if positive get a CTPA
 
 - CTPA - 1st line diagnostic
 - V/Q scan - in those of childbearing age (to protect rapidly developing breasts from irradiation)
@@ -68,6 +68,7 @@ Anticoagulation for haemodynamically stable PEs:
 - May consider continuous infusion of unfractionated heparin
 
 
+The Pulmonary Embolism Severity Index (PESI) score is recommended by BTS guidelines to be used to help identify patients with a pulmonary embolism that can be managed as outpatients
 
 
 ## Long-Term Anticoagulation

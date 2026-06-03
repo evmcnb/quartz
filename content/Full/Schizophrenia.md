@@ -76,11 +76,21 @@ Delusional perceptions - a 2 stage process:
 
 ## Management
 
+Stop exacerbating factors (cannabis)
 1. Oral [[Pearls/Antipsychotics|atypical anti-psychotics]] e.g. olanzapine, risperidone. Clozapine for treatment resistant cases - monitor for [[Pearls/Agranulocytosis]]
 2. CBT should be offered to all patients
 3. Close attention to cardiovascular risk modification due to antipsychotic medication
 
 Early intervention with [[Pearls/Antipsychotics|Antipsychotics]] can reduce the risk of relapse by 1/3 
+
+#### Step-up/switching
+
+1. If first drug not tolerated, can switch to another as long as one of them is 2nd generation. Usually if for side effect reasons with good response otherwise, aripiprazole. 
+2. If the illness has not responded adequately despite the sequential use of adequate doses of at least two different antipsychotics, it is now officially "treatment-resistant." This is when you offer **clozapine**.
+3. If clozapine doesn't work can add a second antipsychotic 
+
+
+![[Pearls/Antipsychotics#Formulations|Antipsychotics]]
 
 ## Complications/red Flags
 

@@ -2,7 +2,7 @@
 tags: [Urology, InfectiousDisease]
 title: Genital herpes
 date: 2023-09-27
-date modified: Thursday, January 8th 2026, 12:16:18 pm
+date modified: Monday, June 1st 2026, 10:49:37 am
 date created: Thursday, January 8th 2026, 11:50:06 am
 ---
 
@@ -16,7 +16,7 @@ Features:
 - tender inguinal lymphadenopathy 
 
 Investigations:
-- NAAT gold standard 
+- **NAAT gold standard** 
 - HSV serology may be used in certain situations
 
 

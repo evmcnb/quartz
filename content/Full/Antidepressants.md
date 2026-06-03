@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Antidepressants
 date: 2023-09-27
-date modified: Wednesday, April 22nd 2026, 11:22:59 am
+date modified: Thursday, May 28th 2026, 2:26:54 pm
 date created: Monday, March 30th 2026, 2:49:33 pm
 ---
 Main types are:
@@ -114,6 +114,7 @@ As well as 5-HT (serotonin) and NA (norepinephrine) receptors, tricyclics intera
 - Sedative effect greatest at low doses (hits more norad receptors at higher doses so more alerting)
 - Less likely to cause sexual dysfunction than SSRIs
 - Can be combined with SSRIs (venlafaxine)
+- Preferred over SSRIs when taking [[Pearls/Warfarin|Warfarin]] (as SSRIs inhibit [[Pearls/Cytochrome P450 dependant drugs|Cytochrome P450]])
 
 ### Vortioxetine
 
@@ -128,24 +129,11 @@ As well as 5-HT (serotonin) and NA (norepinephrine) receptors, tricyclics intera
 - Avoid eating cheese (high tyramine $\rightarrow$ hypertensive crisis)
 ## Switching Antidepressants
 
-|**Current Medication (Switching From)**|**Target Medication (Switching To)**|**Recommended Switching Method**|
-|---|---|---|
-|**Citalopram, Escitalopram, Sertraline, or Paroxetine**|Another **SSRI**|Direct switch is possible.|
-|**Fluoxetine**|Another **SSRI**|Withdraw, leave a gap of 4–7 days (due to its long half-life), then start a low dose of the alternative SSRI.|
-|**Most SSRIs** _(excluding Fluoxetine)_|**Tricyclic Antidepressant (TCA)**|Cross-tapering is recommended (slowly reduce the current drug dose while slowly increasing the new drug dose).|
-|**Fluoxetine**|**Tricyclic Antidepressant (TCA)**|Withdraw, leave a gap of 4–7 days, then start the TCA at a low dose.|
-|**Citalopram, Escitalopram, Sertraline, or Paroxetine**|**Venlafaxine**|Direct switch is possible _(use caution if switching from paroxetine)_.|
-|**Fluoxetine**|**Venlafaxine**|Withdraw, leave a gap of 4–7 days, then start venlafaxine at a low dose.|
-
-
-| **Domain**                                                                                                                                                                                                                                                                                                                                                                    | **X** | **Y** | **Z** |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ----- | ----- |
-| Confirms patient name<br><br>  <br><br>Confirms patient’s ideas/concerns/expectations for this consultation                                                                                                                                                                                                                                                                   |       |       |       |
-| Establishes underlying condition of stage 4 squamous cell lung cancer, palliative care.<br><br>  <br><br>Establishes currently on ibuprofen and regular oramorph.                                                                                                                                                                                                             |       |       |       |
-| Establishes that oramorph is providing adequate analgesia, but is causing disruption to sleep having to wake through the night to take this every 4 hours.<br><br>  <br><br>Checks SE of ibuprofen (gastritis) and oramorph: nausea/vomiting/sedation/constipation                                                                                                            |       |       |       |
-| Establishes need to commence MST with oramorph as breakthrough analgesia                                                                                                                                                                                                                                                                                                      |       |       |       |
-| Establishes which medications the patient requires (no further oramorph/lactulose required, but needs ibuprofen and MST)                                                                                                                                                                                                                                                      |       |       |       |
-| Ibuprofen as tablet 400mg PO TDS, 48 tablets. Prescribes MST as tablet form (30mg BD – calculated as 6 x 10mg oramorph = 60mg/day, divided by 2) with the strength of tablets and number of tablets given in words and figures<br><br>Prescribes morphine sulphate solution (10mg/5ml), liquid form, 10mg when required, with the volume of liquid given in words and figures |       |       |       |
-| Explains to patient to take ibuprofen TDS after food, MST BD and PRN oramorph 10mg every 4 hourly as needed (The dose for break-through is calculated as a sixth of the 24 hour morphine dose).<br><br>  <br><br>Explains potential side effects of MST – need to watch for worsening constipation, sedation and nausea.                                                      |       |       |       |
-| Checks patient understands analgesia plan and allows/answers questions/actively listens to patient.                                                                                                                                                                                                                                                                           |       |       |       |
-| Plan to review in/before 2 weeks and offers contact advice (e.g. to call GP surgery, MacMillan nurse)                                                                                                                                                                                                                                                                         |       |       |       |
+| **Current Medication (Switching From)**                 | **Target Medication (Switching To)** | **Recommended Switching Method**                                                                               |
+| ------------------------------------------------------- | ------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Citalopram, Escitalopram, Sertraline, or Paroxetine** | Another **SSRI**                     | Direct switch is possible.                                                                                     |
+| **Fluoxetine**                                          | Another **SSRI**                     | Withdraw, leave a gap of 4–7 days (due to its long half-life), then start a low dose of the alternative SSRI.  |
+| **Most SSRIs** _(excluding Fluoxetine)_                 | **Tricyclic Antidepressant (TCA)**   | Cross-tapering is recommended (slowly reduce the current drug dose while slowly increasing the new drug dose). |
+| **Fluoxetine**                                          | **Tricyclic Antidepressant (TCA)**   | Withdraw, leave a gap of 4–7 days, then start the TCA at a low dose.                                           |
+| **Citalopram, Escitalopram, Sertraline, or Paroxetine** | **Venlafaxine**                      | Direct switch is possible _(use caution if switching from paroxetine)_.                                        |
+| **Fluoxetine**                                          | **Venlafaxine**                      | Withdraw, leave a gap of 4–7 days, then start venlafaxine at a low dose.                                       |

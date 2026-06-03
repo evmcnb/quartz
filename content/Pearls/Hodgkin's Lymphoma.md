@@ -27,7 +27,9 @@ Stage
 * III: nodes on both sides of the diaphragm
 * IV: spread beyond lymph nodes
 
-  
+
+**PET/СT is the mainstay of imaging for staging Hodgkin's lymphoma**
+
 
 Each stage may be subdivided into A or B
 

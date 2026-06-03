@@ -2,7 +2,7 @@
 tags: []
 title: Preterm prelabour rupture of membranes
 date: 2023-09-27
-date modified: Friday, February 6th 2026, 4:22:16 pm
+date modified: Monday, June 1st 2026, 8:50:11 pm
 date created: Tuesday, December 30th 2025, 11:52:00 am
 ---
 
@@ -19,10 +19,10 @@ Complications:
 
 **_Preterm prelabour rupture of membranes_** (**_P‑PROM_**): The amniotic sac has ruptured before the onset of labour and before 37 weeks gestation (preterm).
 
-
+Should avoid flights after 32 weeks for this reason
 ### Diagnosis
 
-By speculum revealing pooling of amniotic fluid in the vagina. 
+First line: **sterile speculum revealing pooling of amniotic fluid in the vagina**. 
 
 When there is doubt about the diagnosis, can test the fluid for: 
 - Insulin-like growth factor binding protein 1

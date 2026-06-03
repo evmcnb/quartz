@@ -1,7 +1,7 @@
 ---
 title: Pertussis
 date created: Sunday, January 21th 2024, 12:49:37 PM
-date modified: Monday, May 18th 2026, 9:28:56 am
+date modified: Sunday, May 24th 2026, 2:57:13 pm
 tags: ['Respiratory', 'Paediatrics']
 ---
 
@@ -31,7 +31,7 @@ Diagnosis
 **Management:**
 - Infants under 6 months should be admitted
 - A notifiable disease
-- **An oral macrolide (clarithromycin, azithromycin or erythromycin) is indicated if the onset of the cough is within the previous 21 days** to eradicate and reduce organism
+- **An oral macrolide (clarithromycin, azithromycin (5 days) or erythromycin) is indicated if the onset of the cough is within the previous 21 days** to eradicate and reduce organism
 - Co-trimoxazole second-line (not in those <6 weeks, increased risk of jaundice)
 - Household contacts should be offered prophylaxis
 - School exclusion: until 48 hours after starting antibiotics (or 21 days from symptom onset)

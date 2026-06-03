@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Atrial Fibrillation
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, September 27th 2025, 1:15:13 pm
+date modified: Monday, June 1st 2026, 10:56:59 am
 date: 2024-01-31
 ---
 
@@ -59,87 +59,141 @@ Atrial flutter is a right atrial process caused by a re-enterant loop around the
 
 ## Management
 
-Don't forget to check electrolytes! If potassium/magnesium very low, rate control agents won't do anything
+### Acute
 
+Before deciding on rate vs. rhythm control, you must assess clinical stability and how long the patient has been in AF.
 
-### Adverse features
-Atrial fibrillation in patients with the follow should be defibrillated using synchronised DC cardioversion:
-- Hemodynamically unstable
-- Heart failure
-- Myocardial ischaemia 
-- Shock
-- Syncope
+#### Adverse Features (Hemodynamic Instability)
 
-![[z_attachments/Pasted image 20240131141429.png]]
+If the patient has any of the following, they are unstable. The immediate treatment is **Emergency Synchronised DC Cardioversion** (often with amiodarone if unsuccessful initially).
 
-	IF IN AF FOR >48 HOURS A TTE MUST BE DONE TO RULE OUT CLOT FORMATION. 
+- Shock / severe hypotension
+- Syncope or severe altered mental status
+- Myocardial ischaemia (ischaemic chest pain/ECG changes)
+- Severe heart failure (e.g., pulmonary oedema)
 
-Flecainide **cannot be used** in those with any structural heart disease (eg [[Full/myocardial infarction|myocardial infarction]])
-## Paroxysmal AF
+#### The 48-Hour Rule
 
-For intermittent short duration AF, "pill-in-the-pocket" strategy can be used. Patient can take a pharmacological cardioversion only when they feel symptoms of AF begin. 
+If the patient is stable, the management depends on symptom onset:
 
-**Rate control** - slows down the heart rate to prevent symptom of palpitations and improve heart beat efficiency. Target heart rate is < 110 asymptomatic, < 85 if symptomatic
+- **< 48 hours:** Consider immediate pharmacological or electrical rhythm control.
+- **> 48 hours (or uncertain):** Do **NOT** cardiovert immediately due to stroke risk. Rate control first, start anticoagulation, and delay **electrical cardioversion** for at least 3 weeks.
+    
+If immediate cardioversion is absolutely necessary in someone >48 hours, a **TOE** must be done to rule out a Left Atrial Appendage (LAA) thrombus. A standard TTE cannot see the appendage clearly enough to rule out a clot.
 
-![[z_attachments/Pasted image 20240131141504.png]]
+### Long-Term Management
 
-- $\beta$ blocker - atenolol, bisoprolol, metaprolol (good in hyperthroid). Avoid in those with reactive airways
-- Calcium channel blockers (diltiazem, verapamil) - avoid in those with systolic [[Full/Heart Failure]]. Verapamil interacts with digoxin
-- Digoxin - good in hypotension and heart failure, but still digoxin
+NICE recommends **Rate Control** as the first-line strategy for most patients **unless there is an indication for rhythm control:**
+- first presentation
+- obvious reversible cause
+- heart failure worsened by AF
+- persistent symptoms despite rate control
+
+### Rate Control
+
+The goal is to slow conduction through the AV node. NICE recommends an initial resting heart rate target of **< 110 bpm**. If symptoms persist, a stricter target (< 85 bpm) can be adopted.
+
+- **First-line options:** Beta-blocker (e.g., bisoprolol) OR a rate-limiting Calcium Channel Blocker (diltiazem or verapamil).
+	- **Heart Failure (HFrEF):** Use Beta-blockers. **Avoid** rate-limiting CCBs (diltiazem/verapamil) as they reduce cardiac contractility and can worsen heart failure.
+	- **Asthma:** avoid beta-blockers, start with CCBs
+    
+- **Digoxin:** Usually reserved as a monotherapy only for non-paroxysmal AF in sedentary patients, or used as an add-on therapy when a single drug isn't enough.
+    
+If monotherapy fails, you can combine a Beta-blocker + Digoxin, or a CCB + Digoxin. (Never combine a Beta-blocker and a rate-limiting CCB due to the risk of severe bradycardia/heart block).
+
 
 > [!success] What is the definition of appropriate response to rate control?
-> - $\geq$ 20% reduction in HR
+> - ≥ 20% reduction in HR
 > - Conversion to normal sinus
 > - HR < 100
-> 
 
-**Rhythm control** - convert the hearth rhythm back into sinus rhythm. All anti-arrythmics are also pro-arrhythmics 
 
-- Amiodarone - if hypotensive, also exhibits rate control effects. Many side effects which are cumulative, so be more hesitant starting in the young. Requires massive loading dose
-- Electric (DC) cardioversion
+### Rhythm Control
 
->[!info]
->Most common combination of drugs in AF is bisoprolol + apixaban
+If the AF is due to a **reversible cause** or if rate control **fails to resolve symptoms**, or the patient is **highly symptomatic/young**, rhythm control is used. Remember: _all anti-arrhythmics are also pro-arrhythmics._
 
-  _No real difference in prognosis between rate or rhythm control but rate is more common as better symptomatic improvement_
+- **Pharmacological:** Flecainide or Amiodarone.
+    - _Flecainide:_ Strictly contraindicated in **structural heart disease** (e.g., previous MI, LV dysfunction).
+    - _Amiodarone:_ Used for patients with structural heart disease or heart failure. Requires a massive loading dose and has cumulative, long-term toxicities (thyroid, lung, liver, cornea).
+- **Electrical:** Elective DC Cardioversion.
+- **"Pill-in-the-pocket":** For patients with infrequent, symptomatic episodes of paroxysmal AF. 
+	- Oral flecainide only when they feel an episode starting. 
+	- Only appropriate for patients with no structural heart disease who can identify their symptoms reliably.
+    
 
-### Anti-coagulation
+### Anticoagulation
+	
+Do not withhold anticoagulation purely based on falls risk; the risk of a life-altering stroke almost always outweighs the risk of a bleeding event from a fall.
 
-Valvular AF (mechanical valve or rheumatic [[Mitral stenosis]]) - warfarin
-Non-valvular - DOAC
+#### Anticoagulation Choice
 
-Anticoagulation - CHA$_2$DS$_2$-VASc score to determine whether to anticoagulate in AF. Do not withhold anticoagulation just on the basis of falls risk. 
+- **Non-valvular AF**: **DOACs** (e.g., apixaban, rivaroxaban) are first-line.
+- **Valvular AF** (moderate/severe mitral stenosis or a mechanical heart valve): **Warfarin**.
 
-**C**ongestive cardiac failure (1 point)
-**H**ypertension (1)
-**A**ge 65-74 (1)
-**A**ge 74+ (2)
-**D**iabetes (1)
-**S**troke/TIA/thromboembolism (2)
-**Va**scular disease (1)
-**S**ex **C**ategory (1 if female)
+##### Stroke Risk: CHA₂DS₂-VASc Score
 
-A score of 2 = annual stroke risk of ~2-4%
-3 = 3-6% risk
+Calculates the annual risk of stroke.
 
-Increased chance of bleeding but bleeding is a better outcome than a stroke
+- **Threshold:** Offer anticoagulation if the score is **2 or more**. Consider it for men with a score of 1. (Because female sex automatically grants 1 point, a woman with a score of 1 essentially has no non-sex risk factors and doesn't need anticoagulation).
+    
 
-**ORBIT** score used to predict risk of bleeding in AF
+|**Condition**|**Points**|
+|---|---|
+|**C**ongestive heart failure|1|
+|**H**ypertension|1|
+|**A**ge 75 or older|2|
+|**D**iabetes|1|
+|**S**troke / TIA / Thromboembolism|2|
+|**V**ascular disease (MI, PAD, aortic plaque)|1|
+|**A**ge 65 - 74|1|
+|**S**ex category (Female)|1|
 
-| Variable                                     | Points |
-| -------------------------------------------- | ------ |
-| Haemoglobin <130 g/L (M) <120g/L for females | 2      |
-| Age >74 years                                | 1      |
-| Bleeding history                             | 2      |
-| Renal impairment (eGFR <60)                  | 1      |
-| Treatment with antiplatelet agents           | 1      |
-No formal rules on how to act on the ORBIT score but should be taken into account. 
+Patients who've had a catheter ablation for atrial fibrillation still require long-term anticoagulation as per their CHA2DS2-VASc score
 
-|ORBIT score|Risk group|Bleeds per 100 patient-years|
+##### Bleeding Risk: ORBIT Score
+
+NICE now recommends the ORBIT score over HAS-BLED for predicting bleeding risk. It does not dictate _whether_ to anticoagulate, but highlights modifiable risk factors (like adjusting antiplatelet use or optimizing blood pressure) and dictates how closely to monitor the patient.
+
+Your notes cut off halfway through the ORBIT score. Here is the complete table:
+
+|**Variable**|**Definition**|**Points**|
 |---|---|---|
-|0-2|Low|2.4|
-|3|Medium|4.7|
-|4-7|High|8.1|
+|**O**lder age|> 74 years|1|
+|**R**educed haemoglobin|< 130 g/L (Men) or < 120 g/L (Women)|2|
+|**B**leeding history|Any history of major GI, intracranial, etc.|2|
+|**I**nsufficient kidney function|eGFR < 60|1|
+|**T**reatment with antiplatelets|Current use of aspirin, clopidogrel, etc.|1|
+
+_(Interpretation: 0-2 = Low risk, 3 = Medium risk, 4-7 = High risk)_
+
+
+> [!info] Most common drug combination
+> Most common combination of drugs in AF is bisoprolol + apixaban
+
+### Catheter ablation
+
+Technical aspects  
+- the aim is to ablate the faulty electrical pathways that are resulting in atrial fibrillation. This is typically due to aberrant electrical activity between the pulmonary veins and left atrium
+- the procedure is performed percutaneously, typically via the groin
+- both radiofrequency (uses heat generated from medium frequency alternating current) and cryotherapy can be used to ablate the tissue
+
+  
+**Anticoagulation**  
+- should be used 4 weeks before and during the procedure
+- it should be remember that catheter ablation controls the rhythm but does not reduce the stroke risk, even if patients remain in sinus rhythm. Therefore, patients still require anticoagulation as per their CHA2DS2-VASc score
+    - if score = 0: 2 months anticoagulation recommended
+    - if score > 1: longterm anticoagulation recommended
+
+  
+**Outcome**  
+- notable complications include
+    - cardiac tamponade
+    - stroke
+    - pulmonary vein stenosis
+- success rate
+    - around **50%** of patients experience an early recurrence (within 3 months) of AF that often resolves spontaneously
+    - longer term, after 3 years, around 55% of patients who've had a single procedure remain in sinus rhythm. Of patients who've undergone multiple procedures around 80% are in sinus rhythm
+
 
 ## Complications
 

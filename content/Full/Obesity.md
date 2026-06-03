@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Endocrinology, Gastroenterology, MSK, Nephrology, Psychiatry, Ophthalmology, Oncology, OBGYN]
 title: Obesity
 date created: Saturday, January 13th 2024, 5:34:03 pm
-date modified: Thursday, October 2nd 2025, 5:34:22 pm
+date modified: Thursday, May 28th 2026, 2:13:16 pm
 date: 2024-01-14
 ---
 A BMI >$30 kg/m^3$ 
@@ -22,6 +22,13 @@ Obesity is a chronic condition characterized by the accumulation of excess body 
 - **Behavioural Therapy:** Addressing psychological factors influencing eating habits.
 - **Medications:** Some medications may be prescribed to aid weight loss.
 - **Bariatric Surgery:** For severe obesity, surgical interventions like gastric bypass may be considered.
+
+
+> [!warning] NICE Criteria for Bariatric Surgery
+> The criteria for a bariatric surgery assessment include:
+>- A BMI of 40 kg/m² or more.
+>- **A BMI of 35 to 39.9 kg/m² with a significant health condition that could be improved by weight loss** (such as type 2 diabetes or hypertension).
+
 
 
 ## Complications of Obesity:

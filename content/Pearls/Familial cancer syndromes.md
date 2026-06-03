@@ -1,7 +1,7 @@
 ---
 title: Familial cancer syndromes
 date created: Tuesday, January 23th 2024, 03:09:39 PM
-date modified: Friday, May 8th 2026, 6:23:56 pm
+date modified: Sunday, May 31st 2026, 9:13:55 am
 tags: ['Oncology', 'Genetics']
 ---
 
@@ -37,6 +37,7 @@ tags: ['Oncology', 'Genetics']
 * 80% risk of bowel adenoma/endometrial cancer
 * DNA mismatch reapir (microsatelites)
 * High risk individuals identified using Amsterdam criteria 
+* CEO of cancers: increased risk of colorectal, endometrial & ovarian (and pancreatic for males)  
 
 ## BRCA1/2 mutations
 

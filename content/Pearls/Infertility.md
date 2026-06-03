@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Infertility
 date: 2023-09-27
-date modified: Friday, January 9th 2026, 3:18:38 pm
+date modified: Thursday, May 28th 2026, 1:35:15 pm
 date created: Wednesday, December 31st 2025, 1:21:30 pm
 ---
 
@@ -21,7 +21,7 @@ Causes
 - tubal damage 15%
 - other causes 15%
 
- Investigations - starting routine progressing to rarer
+ Investigations - before referral
 - Semen analysis
 - Proof of ovulation: serum **progesterone** **7 days prior** to next period - to see if ovulation has occurred (day 21 for 28 day cycle)
 - Proof of normal uterus: pelvic scan

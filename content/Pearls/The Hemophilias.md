@@ -1,7 +1,7 @@
 ---
 title: The Hemophilias
 date created: Sunday, January 21th 2024, 12:59:51 PM
-date modified: 2024-01-21 12:59:51.623543+00
+date modified: Thursday, May 28th 2026, 2:10:50 pm
 tags: ['Haematology']
 ---
 
@@ -13,6 +13,12 @@ tags: ['Haematology']
 **Haemophilia A** - Factor VIII deficiency (aPTT)
 
 **Haemophilia B** - Factor IX deficiency
+
+
+> [!danger] Major trauma
+> In haemophilia patients undergoing major trauma or with suspected intracranial haemorrhage, the most important initial treatment is the replification of clotting factor VIII through recombinant factor VIII therapy.
+
+
 
 More severe bleeding than vWF
 

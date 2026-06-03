@@ -1,7 +1,7 @@
 ---
 title: Tricyclic antidepressant overdose
 date created: Sunday, January 21th 2024, 11:18:37 AM
-date modified: Saturday, May 2nd 2026, 10:05:26 am
+date modified: Friday, May 29th 2026, 12:42:36 pm
 tags: ['Acute', 'Psychiatry']
 ---
 
@@ -16,6 +16,9 @@ Overdose sign and symptoms:
 * widening QRS
 * dry hot skin
 * **dilated** pupils
+* ? metabolic acidosis 
 
-Give sodium bicarbonate - cardioprotective + lowers amount of active form of the drug
+Give sodium bicarbonate - cardioprotective + lowers amount of active form of the drug.
+
+No role of dialysis
 

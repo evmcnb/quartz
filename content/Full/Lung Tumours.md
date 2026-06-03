@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Lung Tumours
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, May 8th 2026, 6:44:26 pm
+date modified: Friday, May 29th 2026, 6:15:51 pm
 date: 2024-02-23
 aliases: [Lung cancer, Lung carcinoma]
 ---
@@ -139,10 +139,9 @@ SCLC (stage V)
 >- Loss of appetite
 
 
-
-- Made on histology (biopsy)
-- Can see tumour of CXR
-  ![|375](z_attachments/375-2.png)
+1. CXR is first-line 
+2. Contrast enhanced CT  
+3. Bronchoscopy for biopsy 
 
 ## Management
 

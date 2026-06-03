@@ -1,18 +1,20 @@
 ---
-title: "Acquired bleeding disorders"
+title: Acquired bleeding disorders
 date created: Sunday, January 21th 2024, 01:15:15 PM
-date modified: 2024-01-21 13:15:15.111964+00
+date modified: Monday, June 1st 2026, 6:38:24 pm
 tags: ['Haematology']
 ---
 
 
 ### Disseminated Intravascular Coagulation
 
-Excess clotting uses up all clotting factors which leads to excessive bleeding. Microvascular thrombosis $\rightarrow$ tissue ischaemia
+Excess clotting uses up all clotting factors (fibrin and platelets) which leads to excessive bleeding. Microvascular thrombosis $\rightarrow$ tissue ischaemia
 
 Many causes: trauma, fat necrosis, blood incompatability, liver disease, infection, [[Full/Sepsis]], cancer
 
-Treat underlying cause and give platelet transfusions
+Prolonged aPTT, PTT and PT. Raised D-dimer
+
+Treat underlying cause and give platelet transfusions.
 
 ### Liver disease
 

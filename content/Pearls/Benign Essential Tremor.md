@@ -1,7 +1,7 @@
 ---
 title: Benign Essential Tremor
 date created: Monday, October 6th 2025, 9:12:08 am
-date modified: Monday, October 6th 2025, 11:46:51 am
+date modified: Thursday, May 28th 2026, 3:22:09 pm
 tags: [Neurology, Geriatrics]
 ---
 
@@ -14,10 +14,11 @@ Most noticeable in the hands but also in the head, jaw and vocal cords.
 
 - Fine tremor
 - Symmetrical
-- More prominent with voluntary movement
+- More prominent with voluntary movement (out stretched arms)
 - Worse when tired, stressed or post caffeine
 - Improved by alcohol
 - Absent during sleep
+- May have a "soft, shaky, volume changing" voice
 
 ### Differentials
 

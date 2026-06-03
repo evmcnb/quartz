@@ -1,7 +1,7 @@
 ---
 title: NHS Screening Programs
 date created: Tuesday, March 19th 2024, 03:42:27 PM
-date modified: Thursday, May 14th 2026, 7:08:31 pm
+date modified: Friday, May 29th 2026, 5:38:30 pm
 tags: ['Examination']
 ---
 
@@ -45,6 +45,8 @@ Aim to pickup precancerous changes in the epithelial cells. Involves a cervical 
 ## Breast screening
 
 Offered to women aged 50-70 to detect early signs of breast cancer. Women over 70 can self-refer. Some areas are trialing 47 as the start of the screen.
+
+The NHS breast cancer screening program offers a **_mammogram_** every **3 years** to women aged **50 – 70 years**.
 
 ## Bowel cancer screening
 

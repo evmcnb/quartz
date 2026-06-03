@@ -2,7 +2,7 @@
 tags: [Acute, Paediatrics]
 title: pRRAPID
 date:
-date modified: Tuesday, May 5th 2026, 2:11:12 pm
+date modified: Sunday, May 31st 2026, 1:03:19 pm
 date created: Monday, February 23rd 2026, 10:11:04 am
 ---
 
@@ -41,6 +41,12 @@ date created: Monday, February 23rd 2026, 10:11:04 am
 > - Chest radiograph only if respiratory signs are present
 > - Stool culture, if diarrhoea is present
 
+Really Sick Babies Get Antibiotics (any age)
+1. Recessions (moderate or severe chest wall recessions)  
+2. Skin turgor reduced  
+3. Blue or mottled appearance  
+4. Grunting  
+5. Asleep (does not wake if aroused)
 
 ## Initial steps
 

@@ -2,13 +2,13 @@
 tags: [Gastroenterology]
 title: Ulcerative Colitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 19th 2026, 12:44:28 pm
+date modified: Monday, June 1st 2026, 2:43:39 pm
 date: 2023-09-18
 ---
 
 The inflammatory bowel diseases (IBD), ulcerative colitis and [[Full/Crohn's Disease]] are chronic autoimmune relapsing and remitting inflammation of the intestine.
 
-![[z_attachments/Pasted image 20260519122737.png]]
+![[z_attachments/Pasted image 20260519122737.png|639]]
 
 
 > [!success] Differentiating features of UC (**CLOSEUP**)
@@ -22,6 +22,11 @@ The inflammatory bowel diseases (IBD), ulcerative colitis and [[Full/Crohn's Dis
 
 
 Can only effect colon - "never" past ileocaecal value
+
+Most common sites: 
+- **Rectum**
+- It then extends proximally into the sigmoid colon 
+
 ![|650](z_attachments/650-1.png)
 
 Crypt abscesses on histology
@@ -78,10 +83,15 @@ Extraintestinal signs:
 - superficial ulceration ('psuedopolyps')
 - long standing disease: colon is narrow and short
 
-Severity can be determined by the Truelove and Witts' severity index:
+Severity can be determined by the **TRUE**love and Witts' severity index:
+
+- **T** - Temp > 37.8  
+- **R** - Rate > 90  
+- **U** - (Uh)naemia Hb < 105  
+- **E** - ESR >30
 
 ![[z_attachments/Pasted image 20260509205332.png]]
-
+(ignore CRP)
 ## Management
 
 ![|650](z_attachments/650.png)
@@ -92,7 +102,7 @@ Severity can be determined by the Truelove and Witts' severity index:
 ##### Mild to moderate acute
 
 - Rectal mesalazine - 1st line
-- If remission not achieved within 4 weeks: oral aminosalicylate 
+- If remission not achieved within 4 weeks: **add** oral aminosalicylate 
 - If remission still not achieved: corticosteroids (prednisolone)
 
 ##### Severe acute
@@ -112,9 +122,10 @@ Treated in hospital
 - oral azathioprine
 - or oral mercaptopurine
 
-
+Need to check **thiopurine methyltransferase (TPMT) activity*** before starting
 ## Complications/red Flags
 
 - toxic dilation of colon (perforation risk)
 - [[venous thromboembolism]]
 - colon cancer
+- Primary sclerosing cholangitis (4% develop) $\rightarrow$ cholangiocarcinoma (in 10%)

@@ -2,7 +2,8 @@
 title: Group B Strep
 tags: [OBGYN, InfectiousDisease]
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Monday, June 1st 2026, 9:00:13 pm
+date created: Thursday, April 23rd 2026, 8:43:16 pm
 ---
 Most common cause of early-onset [[Pearls/Neonate sepsis|Neonate sepsis]]. Screening not offered to all. Maternal request is not an indication for screening
 

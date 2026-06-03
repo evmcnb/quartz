@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Thursday, May 14th 2026, 8:00:02 pm
+date modified: Monday, June 1st 2026, 12:10:27 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -66,7 +66,13 @@ Main principles of management
 ![[z_attachments/Screenshot 2023-11-12 at 13.30.12.png|450]]
 
 
-**Fluid resuscitation in children is 10mL/kg in 10 mins**
+> [!info] Hyperkalaemia in DKA
+> Patients will often present in hyperkalaemia to begin with for a couple reasons:
+> - Lack of insulin - insulin normally drives potassium into cells
+> - Metabolic acidosis - ketones causes an acidosis in the blood. To buffer this H+ are taken into cell and K+ pumped out
+> - Hyperosmolarity - the high glucose draws water (and potassium) out of the cells
+> 
+> However when treatment is started the potassium rapidly falls, so need to replace it even if it looks normal/high
 
 ## Complications/red Flags
 
@@ -86,7 +92,8 @@ Main principles of management
 #### DKA in children
 
 ###### Fluids
-Dehydrated patients are given an initial fluid bolus of 10ml/kg over 30 minutes (without added potassium).
+
+Dehydrated patients are given an initial fluid bolus of 10ml/kg over 15-30 minutes (without added potassium).
 
 The remainder of the fluid deficit is corrected over 48 hours. The fluid deficit is approximately 5% of body weight in mild-moderate, 10% in severe DKA (e.g. 2L in a 20kg child). Children are prescribed maintenance fluids plus added fluids to correct it - with potassium 40 mmol/L. Potassium should be monitored closely
 
@@ -95,10 +102,18 @@ The remainder of the fluid deficit is corrected over 48 hours. The fluid deficit
 - 50 ml/kg for the second 10kg, plus
 - 20 ml/kg for the remaining weight (up to 75kg total)
 
+![[z_attachments/dka-overview-algorithm-v2.png|649]]
+
+When to add glucose to maintenance fluids (0.9% sodium chloride):
+- <14 mmol/L: +5% glucose 
+- <6 mmol/L: +10% glucose
+
 Children with DKA are at a higher risk of developing cerebral oedema - watch for fall in GCS/altered neuro. Consider slowing fluids & IV mannitol and IV hypertonic saline guided by an experienced paediatrician
 
 ###### Insulin
-A fixed rate insulin infusion (0.05-0.1 units/kg/hour) is started 1-2 hours after starting the IV fluids. 
+A fixed rate insulin infusion (0.05-0.1 units/kg/hour) is started **1-2 hours** after starting the IV fluids. 
+
+If the child is eating and drinking normally, with a pH >7.3 and ketones <0.6, IV insulin can be stopped
 
 #### Complications
 
@@ -107,7 +122,7 @@ A fixed rate insulin infusion (0.05-0.1 units/kg/hour) is started 1-2 hours afte
 - Hypo -kalacemia, -magnesaemia and -phosphataemia
 
 > [!warning] Senior escalation 
-> if the ketonaemia and acidosis have not been resolved within 24 hours then the patient should be reviewed by a senior endocrinologist
+> if the ketonaemia and acidosis have not been resolved within 24 hours (0.5 mmol/l/hr) then the patient should be reviewed by a senior endocrinologist
 
 - Plasma glucose is usually high but not always especially if [[Pearls/Insulin|Insulin]] continued
 - High WCC may be present without an infection 

@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: pneumonia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, May 20th 2026, 11:30:19 am
+date modified: Friday, May 29th 2026, 4:43:13 pm
 aliases: [Pneumonia]
 date: 2024-01-14
 ---
@@ -27,7 +27,7 @@ Chest infection only becomes pneumonia on **radiographic confirmation**. CURB on
 - **Community acquired** (CAP) - most common **streptococcus pneumoniae**. Occurring outside of hospital or within 48hr of admission
 - Haemophilus influenzae - common in older patients with [[Full/COPD]] 
 - Kleb**STELLA** pneumonia - more common in diabetics and patients with alcohol excess. Frequently caused by aspiration. Can cause "red jelly". Commonly affects upper lobes
-- Staphylococcus aureus pneumonia commonly occurs after influenza or as a complication of measles infection. CXR shows multi-lobar consolidation, cavitation or pneumothorax
+- Staphylococcus aureus pneumonia commonly occurs **after influenza** or as a complication of measles infection. CXR shows multi-lobar consolidation, **cavitation** or pneumothorax
 
 - Mycoplasma is a typical which classically presents with a gradual onset dry cough and other weird symptoms - autoimmune haemolytic anaemia and [[Pearls/Erythema multiforme]] (ring-shaped rashes on hands). **Need serology for antibodies**.
 
@@ -37,8 +37,8 @@ Chest infection only becomes pneumonia on **radiographic confirmation**. CURB on
 > VAP strictly defined by time: a new pneumonia that develops **≥48 hours** after endotracheal intubation, usually by hospital specific pathogens: _Pseudomonas aeruginosa_, MRSA, _Acinetobacter_, _Klebsiella_. Often diffuse/multilobar
 
 
-- Hospital acquired (HAP) - after 48hs from admission
-- Ventilator associated (VAP)
+- Hospital acquired (HAP) - after 48hs from admission. 
+- Ventilator associated (VAP) - **Piperacillin with tazobactam** for MSAA/MRSA & pseudomonas coverage 
 - Asp iration [[Pearls/Pneumonia|Pneumonia]]
 
 - Immunocompromised patient - patients recurrently coming with a CAP is an indicator of [[Full/HIV]] - esp if organism is weird
@@ -123,7 +123,7 @@ ABCDE
 - Antibiotics
 - Assisted ventilation
 
-
+Patients diagnosed with pneumonia who have [[Full/COPD|COPD]] should be given corticosteroids even if no evidence of the COPD being exacerbated
 ### Discharge
 
 Must **NOT** have 2 or more of the following:

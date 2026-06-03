@@ -2,7 +2,7 @@
 tags: [Neurology, Cardiovascular]
 title: Subarachnoid haemorrhage
 date created: Wednesday, October 4th 2023, 2:33:39 pm
-date modified: Friday, May 15th 2026, 4:53:30 pm
+date modified: Friday, May 29th 2026, 2:15:21 pm
 date: 2023-10-05
 ---
 Bleeding into the space between the arachnoid membrane and the pia mater - **subarachnoid**
@@ -30,8 +30,9 @@ Bleeding into the space between the arachnoid membrane and the pia mater - **sub
 
 ## Diagnostic Tests
 
-- Urgent CT - detects over 95% of SAH within 24h
-- LP if CT is -ve and history is very suggestive. Must be done 12+ hours after headache onset to allow for breakdown of RBCs
+- Urgent CT within 6 hours - detects over 95% of SAH 
+- LP if CT is -ve and history is very suggestive or if CT done after 6 hours and -ve. Must be done 12+ hours after headache onset to allow for breakdown of RBCs
+	
 ![[z_attachments/Pasted image 20231004153544.png|500]]
 _Starfish appearance on CT_
 ## Management
@@ -41,7 +42,7 @@ Refer all confirmed SAH to neurosurgery
 - Blood pressure control - <160mmHg
 - Nimodipine 60mg/4h for 3wks (Ca$^{2+}$ antagonist to prevent vasospasm)
 
-Surgery: endovascular coiling vs surgical clipping depends on location of [[Pearls/Aneurysm|Aneurysm]], but coiling is preferred
+Surgery: endovascular coiling vs surgical clipping depends on location of [[Pearls/Aneurysm|Aneurysm]], but **coiling is preferred**
 
 ## Complications/red Flags
 
@@ -49,6 +50,7 @@ Surgery: endovascular coiling vs surgical clipping depends on location of [[Pear
 > [!danger] Can cause SIADH
 > [[Pearls/Syndrome of Inappropriate Antidiuretic Hormone|Syndrome of Inappropriate Antidiuretic Hormone]] is a common consequence of subarachnoid haemorrhage
 
+- **Can cause to [[Torsades de pointes]]** 
 - Rebleeding is the commonest cause of death and occurs in 20% 
 - Vasospasm leading to cerebral ischaemia may cause permanent CNS deficit and commonest cause of morbidity
 - Hydrocephalus due to blockage of arachnoid granulations requires a shunt or drain

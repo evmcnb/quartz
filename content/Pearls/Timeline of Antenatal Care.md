@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Timeline of Antenatal Care
 date: 2023-09-27
-date modified: Wednesday, May 20th 2026, 10:23:28 am
+date modified: Monday, June 1st 2026, 3:25:45 pm
 date created: Saturday, December 27th 2025, 11:47:51 am
 ---
 
@@ -58,7 +58,7 @@ BP and urine dip and each appointment to screen for [[Full/Pre-eclampsia|Pre-ecl
 - 4ish scans for high risk 
 
 Scans look at generally:
-- Baby growth
+- Baby growth - fundal height growth of 1 cm per week.
 - Liqor volume
 - Location of placenta
 - Placental blood flow
@@ -97,5 +97,5 @@ Scans look at generally:
 
 #### Vaccines
 
-- Whooping cough (pertussis) from 16 weeks gestation
+- **Whooping cough** (pertussis) from 16-32 weeks gestation
 - Influenza when available in autumn or winter

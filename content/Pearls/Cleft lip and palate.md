@@ -2,7 +2,8 @@
 tags: [ENT, Paediatrics]
 title: Cleft lip and palate
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Monday, June 1st 2026, 6:41:27 pm
+date created: Saturday, January 31st 2026, 5:08:07 pm
 ---
 1:1,000 babies. Most common congenital deformity.
 - Isolated cleft lip (15%)

@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Tetralogy of Fallot
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, December 2nd 2025, 10:05:03 am
+date modified: Sunday, May 31st 2026, 1:26:23 pm
 date: 2023-09-18
 ---
 
@@ -18,7 +18,7 @@ Tetralogy features:
 ## Causes/Factors
 
 - Congenital (both environmental and genetic factors)
-- Severity of illness depends greatly on degree of pulmonary stenosis
+- **Severity of illness depends greatly on degree of pulmonary stenosis** (right ventricular outflow obstruction)
 
 - Increased maternal age
 - Alcohol consumption in pregnancy
@@ -39,6 +39,7 @@ Tetralogy features:
 - Children may squat during hypercyanotic spell as it increases systemic vascular resistance and temporary reversal of shunt
 - Pulmonary stenosis murmur - left sternal edge 2nd intercostal
 - VSD - pan-systolic murmur at lower mid sternal boarder 
+- 'TET spells' - cyanotic on increased venous pressure
 - 'Boot shaped heart'
 
 ![[z_attachments/Pasted image 20260327092643.png|540]]

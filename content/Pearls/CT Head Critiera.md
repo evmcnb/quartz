@@ -2,7 +2,7 @@
 tags: [Acute, Neurology, OSCE]
 title: CT Head Critiera
 date: 2023-09-27
-date modified: Friday, March 27th 2026, 4:29:52 pm
+date modified: Friday, May 29th 2026, 2:29:07 pm
 date created: Tuesday, November 4th 2025, 2:24:38 pm
 ---
  
@@ -41,3 +41,12 @@ Soft scoring items (only 1, observe for 4 hours, 2+ CT scan):
 - 3+ episodes of vomiting
 - Dangerous mechanism of injury (RTA, fall from >3 meters, high speed object)
 - Amnesia lasting 5+ mins
+
+## Non-traumatic
+
+For distinguishing sinister headaches. The main five you will see are:  
+- Vomiting more than once with no other cause.
+- New neurological deficit (motor or sensory).
+- Reduction in conscious level (as measured by the Glasgow coma score).
+- Valsalva (associated with coughing or sneezing) or positional headaches.
+- Progressive headache with a fever.

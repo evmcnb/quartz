@@ -2,7 +2,7 @@
 tags: [Neurology, Geriatrics]
 title: Delirium
 date: 2024-01-19
-date modified: Wednesday, April 29th 2026, 10:41:12 am
+date modified: Thursday, May 28th 2026, 2:29:05 pm
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 
@@ -64,12 +64,13 @@ Assessment of capacity is important
 
 ## Investigations
 
-- **Observations**: full set of obs, ECG, urine dip, glucose
+- **Observations**: full set of obs, ECG, glucose
 - **[[Full/Cognitive Assessment]]**:
 	- 4AT - Alertness, Cognition, Attention, Acute changes or fluctuating course
 	- MoCA - 
 
 
+- **Urine culture** - NICE advises against the use of urine dipstick tests in people over 65 years old
 - **Blood Tests**: FBC, U&Es, TFTs, LFTs, HbA1C, Coag screen, [[Pearls/Bone|Bone]] profile, Folate & B12, vitamin D
 - **Imaging**: CXR for [[Full/pneumonia]], CT head to rule out bleeds, bladder USS 
 

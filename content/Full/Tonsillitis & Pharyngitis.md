@@ -2,7 +2,7 @@
 tags: [Gastroenterology, ENT]
 title: Tonsillitis & Pharyngitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Thursday, May 28th 2026, 1:36:22 pm
 date: 2023-09-18
 ---
 
@@ -11,7 +11,7 @@ date: 2023-09-18
 Most commonly caused by [[Pearls/Viruses|Viruses]] - rhino, corona, [[Pearls/Influenza|Influenza]], adeno
 
 - **Viral Infections:** Common cold [[Pearls/Viruses|Viruses]] (rhino, corona, adeno), flu [[Pearls/Viruses|Viruses]], and others can cause tonsillitis and pharyngitis.
-- **Bacterial Infections:** Streptococcus bacteria (Group A Streptococcus) can cause strep throat, a type of tonsillitis/pharyngitis.
+- **Bacterial Infections:** Group A Streptococcus (Strep. pyogenes) can cause strep throat, a type of tonsillitis/pharyngitis.
 - **Environmental Factors:** Allergies, smoke, pollution, and dry air can irritate the throat.
 
 ## Symptoms

@@ -2,7 +2,7 @@
 tags: [Endocrinology, OBGYN]
 title: Gestational Diabetes
 date: 2023-09-27
-date modified: Wednesday, May 6th 2026, 3:24:34 pm
+date modified: Monday, June 1st 2026, 11:26:16 am
 date created: Monday, December 29th 2025, 3:46:50 pm
 ---
 
@@ -10,7 +10,7 @@ Complicates up to 1 in 20 pregnancies - 2nd most common after hypertension
 
 Most significant immediate complication is a large for date fetus and macrosomia. Has implications for birth, mostly shoulder dystocia. Also insulin, which is increased in diabetic mothers, inhibits surfactant production and maturation of the fetal lungs.
 
-Anyone with risk factors should be screen with an oral glucose tolerance test at 24-28 weeks gestation:
+Anyone with risk factors should be screen with an oral glucose tolerance test at **24-28 weeks gestation:**
 - **Unexplained stillbirth in a previous pregnancy**
 - BMI >30 
 - Previous gestational diabetes
@@ -20,6 +20,8 @@ Anyone with risk factors should be screen with an oral glucose tolerance test at
 Thresholds for diagnosis:
 - Fasting glucose $\geq$ 5.6 mmol/L
 - 2-hour glucose $\geq$ 7.8 mmol/L
+
+If they had gestational diabetes in a previous pregnancy they need an OGTT at **booking and 24-28 weeks**
 
 ### Management
 
