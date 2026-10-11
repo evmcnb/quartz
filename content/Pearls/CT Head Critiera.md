@@ -2,7 +2,7 @@
 tags: [Acute, Neurology, OSCE]
 title: CT Head Critiera
 date: 2023-09-27
-date modified: Friday, May 29th 2026, 2:29:07 pm
+date modified: Tuesday, June 2nd 2026, 12:52:57 pm
 date created: Tuesday, November 4th 2025, 2:24:38 pm
 ---
  
@@ -14,9 +14,9 @@ CT head within 1 hour
 - any sign of basal skull fracture (haemotympanum, 'panda' eyes, cerebrospinal fluid leakage from the ear or nose, Battle's sign).
 - post-traumatic seizure.
 - focal neurological deficit.
-- more than 1 episode of vomiting
+- >1 episode of vomiting
 
-CT head scan within 8 hours of the head injury - for adults with any of the following risk factors who have experienced some loss of consciousness or amnesia since the injury:  
+CT head scan within 8 hours of the head injury - for adults with any of the following risk factors who have experienced **some loss of consciousness** or amnesia since the injury:  
 - age 65 years or older
 - any history of bleeding or clotting disorders including anticogulants
 - dangerous mechanism of injury (a pedestrian or cyclist struck by a motor vehicle, an occupant ejected from a motor vehicle or a fall from a height of greater than 1 metre or 5 stairs)
@@ -38,7 +38,7 @@ Any of the following after a head injury:
 Soft scoring items (only 1, observe for 4 hours, 2+ CT scan):
 - Witnessed loss of consciousness for 5+ minutes
 - Abnormal drowsiness
-- 3+ episodes of vomiting
+- >2 episodes of vomiting
 - Dangerous mechanism of injury (RTA, fall from >3 meters, high speed object)
 - Amnesia lasting 5+ mins
 

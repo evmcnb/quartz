@@ -2,7 +2,8 @@
 tags: [Rheumatology]
 title: Ehlers-Danlos Syndrome
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Saturday, October 10th 2026, 4:14:21 pm
+date created: Friday, February 6th 2026, 1:47:16 pm
 ---
 Autosomal dominant connective tissue disorder that mostly affects type III collagen. 
 

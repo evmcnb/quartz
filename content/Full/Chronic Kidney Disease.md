@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Chronic Kidney Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 11:52:26 am
+date modified: Wednesday, June 3rd 2026, 12:30:24 pm
 date: 2023-11-12
 ---
 
@@ -16,6 +16,10 @@ To tell the difference between CKD and [[Full/Acute Kidney Injury|Acute Kidney I
 **Only diagnose stages 1 & 2 if supporting evidence to accompany eGFR**
 
 ![](z_attachments/nS2PTtR.png)
+
+#### CKD Clock
+
+![[z_attachments/CKD Clock.png|546]]
 
 ## Causes/Factors
 

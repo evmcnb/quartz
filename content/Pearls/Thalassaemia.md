@@ -12,7 +12,7 @@ Change in globin gene expression leads to reduced rate of synthesis of normal gl
 ### $\alpha$-thalassaemia
 
 * Recessive disorder - 4 genes in control. Pathology from excess $\beta$
-* Hb Barts (all 4 genes \(a^0\)) - [[Hydrops fetalis]] incompatible with life
+* Hb Barts (all 4 genes \(a^0\)) - [[Pearls/Hydrops fetalis]] incompatible with life
 
 ### $\beta$-thalassaemia
 

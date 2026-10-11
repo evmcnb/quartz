@@ -2,7 +2,7 @@
 tags: [Endocrinology, Acute]
 title: Diabetic ketoacidosis
 date created: Sunday, November 12th 2023, 12:59:52 pm
-date modified: Monday, June 1st 2026, 12:10:27 pm
+date modified: Monday, June 8th 2026, 8:56:58 pm
 date: 2023-11-12
 ---
 When the lack of [[Pearls/Insulin|Insulin]] or [[Pearls/Insulin|Insulin]] sensitivity causes a starvation state in the body despite excessive glucose. - the ketoacidosis pathway. 
@@ -52,6 +52,16 @@ Main principles of management
     - most patients with DKA are deplete around 5-8 litres
     - isotonic saline is used initially, even if the patient is severely acidotic (no potassium)
     - please see an example fluid regime below.
+
+| Fluid                                           | Volume                   |
+| ----------------------------------------------- | ------------------------ |
+| 0.9% sodium chloride 1L                         | 1000ml over 1st hour     |
+| 0.9% sodium chloride 1L with potassium chloride | 1000ml over next 2 hours |
+| 0.9% sodium chloride 1L with potassium chloride | 1000ml over next 2 hours |
+| 0.9% sodium chloride 1L with potassium chloride | 1000ml over next 4 hours |
+| 0.9% sodium chloride 1L with potassium chloride | 1000ml over next 4 hours |
+| 0.9% sodium chloride 1L with potassium chloride | 1000ml over next 6 hours |
+
 - insulin
     - an intravenous infusion should be started at 0.1 unit/kg/hour
     - once blood glucose is < 14 mmol/l an infusion of 10% dextrose should be started at 125 mls/hr _in addition_ to the 0.9% sodium chloride regime

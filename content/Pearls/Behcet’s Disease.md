@@ -2,7 +2,7 @@
 tags: [Rheumatology, Ophthalmology, Dermatology]
 title: Behcet’s Disease
 date: 2023-09-27
-date modified: Thursday, November 13th 2025, 6:07:29 pm
+date modified: Saturday, October 10th 2026, 4:13:15 pm
 date created: Thursday, November 13th 2025, 5:46:42 pm
 ---
  
@@ -36,3 +36,5 @@ Associated with HLA B51 gene.
 - no definitive test
 - diagnosis based on clinical findings
 - positive pathergy test is suggestive (puncture site following needle prick becomes inflamed with small pustule forming)
+
+Behcet’s disease is a clinical diagnosis. A specialist rheumatologist coordinates management. Other specialities may be involved depending on the affected areas, such as dermatology, ophthalmology and neurology.

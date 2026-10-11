@@ -2,7 +2,7 @@
 tags: [Paediatrics, OSCE]
 title: Safeguarding
 date: 2023-09-27
-date modified: Friday, March 27th 2026, 3:54:29 pm
+date modified: Tuesday, June 2nd 2026, 9:28:51 am
 date created: Saturday, December 20th 2025, 3:35:24 pm
 ---
 
@@ -44,5 +44,10 @@ Typically:
 - spiral long bone
 - spinal
 - skull
+
+The most common fractures associated with child abuse are:  
+- Radial  
+- Humeral  
+- Femoral
 
 Must always correlate with the history, e.g. spiral fracture without any history of a twisting injury. Suspicious if fractures of different ages 

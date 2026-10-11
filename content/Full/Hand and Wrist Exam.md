@@ -1,11 +1,9 @@
 ---
-tags:
-  - OSCE
-  - Examination
-  - MSK
-title: Wrist Exam
+tags: [OSCE, Examination, MSK]
+title: Hand and Wrist Exam
 date: 2024-04-30
-date modified: 2024-04-30
+date modified: Friday, September 11th 2026, 10:22:01 am
+date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
 
 ## Introduction
@@ -39,6 +37,7 @@ date modified: 2024-04-30
 - Skin thinning - steroids
 - Psoriatic plaques - increased risk of psoriatic arthritis
 - [[Full/Splinter haemorrhages]] - [[Full/Endocarditis|Infective endocarditis]], [[Full/Sepsis]], [[Vasculitis]]
+- Enlarged capillary beds - [[Pearls/Systemic Lupus Erythematosus|Systemic Lupus Erythematosus]]
 - Nail pitting and onycholysis 
 
 #### Palmar aspect of hand
@@ -50,6 +49,7 @@ date modified: 2024-04-30
 - Elbows
 - [[Full/Janeway lesions and Osler's nodes]]
 
++/- quick inspection of [[Full/Elbow Exam|Elbow ]]
 ## Feel
 
 ### Palms up - 5 in each
@@ -78,7 +78,6 @@ date modified: 2024-04-30
 - Assess over first dorsal webspace
 
 #### Temperature
-- Cause I'm sure it'll be really different on this side 
 
 #### MCP joint squeeze
 - Gently squeeze across MCP joints

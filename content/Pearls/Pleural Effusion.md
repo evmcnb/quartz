@@ -1,7 +1,7 @@
 ---
 title: "Light's Criteria"
 date created: Sunday, January 21th 2024, 11:53:35 AM
-date modified: Friday, December 5th 2025, 10:15:56 am
+date modified: Sunday, September 13th 2026, 3:14:44 pm
 tags: ['Respiratory', 'Cardiovascular']
 aliases: ["Light's Criteria"]
 linter-yaml-title-alias: "Light's Criteria"

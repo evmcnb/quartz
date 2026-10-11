@@ -2,7 +2,7 @@
 tags: [Nephrology]
 title: Acute Kidney Injury
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 19th 2026, 11:07:30 am
+date modified: Tuesday, June 2nd 2026, 2:31:13 pm
 date: 2023-09-18
 ---
 Any of the following define an AKI: 
@@ -108,7 +108,7 @@ Electrolyte abnormalities:
 - Calcium & phosphate
 - Creatine kinase
 - Urinalysis
-- Ultrasound if suspected obstruction
+- Ultrasound if suspected obstruction or if unknown aetiology
 - Biopsy
 
 

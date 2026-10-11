@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Gastroenterology, Respiratory, Haematology, Nephrology, OBGYN]
 title: Pregnancy
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 10:50:03 am
+date modified: Wednesday, June 3rd 2026, 12:20:31 pm
 date: 2023-09-18
 ---
 
@@ -62,8 +62,8 @@ Should always be a balance of risk - drugs different again in lactation
 | Low molecular weight heparin                                                                                          | [[Pearls/Trimethoprim\|Trimethoprim]] (in 1st trimester)<br>[[Pearls/Nitrofurantoin]] (in 3rd trimester)                                                                |
 | [[Pearls/Aspirin\|Aspirin]]                                                                                           | NSAIDs (1st & 3rd trimester)                                                                                                                                            |
 | Labetalol                                                                                                             | ACEi                                                                                                                                                                    |
-| Nifedipine                                                                                                            | ARA                                                                                                                                                                     |
-| [[Adenosine]]                                                                                                         | Mycophenolate                                                                                                                                                           |
+| Nifedipine (CCBs)                                                                                                     | ARA                                                                                                                                                                     |
+| [[Pearls/Adenosine]]                                                                                                         | Mycophenolate                                                                                                                                                           |
 | [[Pearls/Prednisolone\|Prednisolone]]                                                                                 | [[Pearls/Warfarin\|Warfarin]]                                                                                                                                           |
 | Treatment for [[Full/asthma]]: [[Pearls/Salbutamol\|Salbutamol]], ipratropium, aminophylline, leukotriene antagonists | Live vaccines (MMR, BCG, varicella)                                                                                                                                     |
 | Paracetamol                                                                                                           | Thiazide-like diuretics                                                                                                                                                 |

@@ -2,7 +2,7 @@
 tags: [Rheumatology]
 title: gout
 date: 2023-11-01
-date modified: Tuesday, May 19th 2026, 4:10:50 pm
+date modified: Friday, September 11th 2026, 10:41:44 am
 date created: Tuesday, November 25th 2025, 8:19:45 pm
 ---
 A form of [[Full/Inflammatory Arthritis|Inflammatory Arthritis]]/[[Full/Crystal Arthritis|Crystal Arthritis]]. Patients have episodes that last several days between returning to symptom free. During the episodes:
@@ -21,6 +21,7 @@ Caused by high uric acid
 - drugs - diuretics, high dose aspirin (>150mg)
 - [[Full/Chronic Kidney Disease|Chronic Kidney Disease]]
 - lead toxicity
+- Alcohol 
 
 **Increased production**
 - myelo/lymphoproliferative disorders ([[Pearls/Memorising the leukaemias|leukaemias]], [[Pearls/Multiple myeloma|Multiple myeloma]], [[Non-Hodgkin lymphoma]], chemo, [[Full/Tumour lysis syndrome|Tumour lysis syndrome]])
@@ -62,7 +63,7 @@ Essential to exclude [[Pearls/Septic Arthritis|Septic Arthritis]]. Fluid for gou
 
 - Maintained joint space
 - Lytic lesions
-- Punched out erosions $\pm$ sclerotic boarders
+- **Punched out erosions** $\pm$ sclerotic boarders
 
 ## Management
 

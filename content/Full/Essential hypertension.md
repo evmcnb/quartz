@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Essential hypertension
 date created: Tuesday, October 17th 2023, 4:07:47 pm
-date modified: Thursday, May 28th 2026, 3:36:11 pm
+date modified: Tuesday, June 2nd 2026, 10:08:14 pm
 aliases: [hypertension, Hypertension]
 date: 2024-01-14
 ---
@@ -37,9 +37,11 @@ _Secondary_ hypertension can be due to **ROPED**:
 
 ## Diagnostic Tests
 
-- ABPM
+
 - 24h BP monitoring 
 - Fasting glucose and cholesterol to check for CVD risk factors
+
+Clinic BP >=140/90 -> ABPM -> still raised? then medicate
 
 | **Stage**                | **Criteria**                                                                                    |
 | ------------------------ | ----------------------------------------------------------------------------------------------- |

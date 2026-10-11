@@ -2,11 +2,11 @@
 tags: [Endocrinology]
 title: Diabetes Mellitus
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 6:16:39 pm
+date modified: Saturday, June 13th 2026, 12:00:42 am
 date: 2024-01-14
 ---
 
-- type 1 diabetes – where the body's immune system attacks and destroys the cells that produce insulin (GAD antibodies) ^7f5ee9
+- type 1 diabetes – where the body's immune system attacks and destroys the cells that produce insulin (GAD antibodies)
   - Latent autoimmune diabetes in adults
 - type 2 – where the body does not produce enough insulin, or the body's cells do not react to insulin
   - Maturity onset DM of the young (MODY) - monogenic forms of diabetes that are characterized by early-onset diabetes. **Autosomal dominant**
@@ -84,7 +84,7 @@ The **_HbA1c_** is measured **_every 3 to 6 months_** until under control an
  -  **Metformin**: A biguanide - $\uparrow$ insulin sensitivity + decreases liver glucose production (may help weight). Should be started on modified release 
 	 - Avoid if eGFR is <36. 
 	 - *risk of lactic acidosis when in AKI*. 
-	 - Change dosing to one tablet before sunrise and 2 after sunset in Ramadan 
+	 - During Ramadan: one-third of the normal metformin dose should be taken before sunrise and two-thirds should be taken after sunset
 
 - **SGLT2i** - sodium glucose co-transpoter 2 inhibitor. Blocks the reabsorption of glucose in kidneys - wee out sugar. _eg Empagliflozin_
 	- Should be started once **metformin is at maximum tolerated dose**
@@ -143,7 +143,10 @@ Insulin is usually initiated and managed by diabetic specialist nurses
 >[!tip]
 >A common exam scenario involves discussing the possibility of starting [[Pearls/Insulin|Insulin]] with an HGV driver. Patients treated with [[Pearls/Insulin|Insulin]] must fulfil **very strict criteria to carry on driving**, so starting [[Pearls/Insulin|Insulin]] has enormous implications for professional drivers. This can be a motivating factor for improving diet, exercise and taking medications to improve diabetes control and avoid [[Pearls/Insulin|Insulin]].
 
-
+**DVLA**
+- > 2 hypogylcaemic events requiring intervention from a third party $\rightarrow$ surrender license for 1 year 
+- Insulin-dependent diabetics must check their blood glucose before driving and then every 2 hours whilst driving
+- The driver must have full hypoglycaemic awareness & the driver must demonstrate an understanding of the risks of hypoglycaemia
 ## Complications/red Flags
 
 [[Full/Diabetic Ketoacidosis|Diabetic Ketoacidosis]]

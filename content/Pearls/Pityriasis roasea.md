@@ -2,7 +2,8 @@
 tags: [Dermatology, Paediatrics]
 title: Pityriasis roasea
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Friday, October 9th 2026, 5:13:07 pm
+date created: Wednesday, February 4th 2026, 2:58:22 pm
 ---
 Acute self limiting rash which tends to affect young people. Herpes hominis virus 7 may play a role in the pathophysiology.
 - May be a history of a recent viral illness

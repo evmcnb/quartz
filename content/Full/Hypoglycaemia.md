@@ -10,6 +10,14 @@ Commonest endocrine emergency. Acute state of **excess** insulin
 Plasma glucose <3 mmol/L (but 4 is the floor to start treatment)
 
 
+> [!NOTE] 3 defences of hypoglycaemia
+> The three physiological defences against hypoglycaemia are a hierarchy of counter-regulatory responses, activated in order as blood glucose falls:
+> 
+> 1. **Decreased insulin secretion** — the _first_ defence. As glucose falls, pancreatic β-cells reduce insulin release. This begins at a glucose of roughly **4.4 mmol/L** and removes the brake on hepatic glucose output.
+> 2. **Increased glucagon secretion** — the _second_ defence. Pancreatic α-cells release glucagon, stimulating hepatic **glycogenolysis and gluconeogenesis** to raise glucose. Activated at around **3.6–3.8 mmol/L**. This is the primary rapid counter-regulatory hormone.
+> 3. **Increased adrenaline (epinephrine) secretion** — the _third_ defence, and critical when glucagon is deficient. It raises glucose (glycogenolysis, gluconeogenesis, reduced peripheral uptake) and also produces the **autonomic warning symptoms** (tremor, sweating, palpitations, anxiety) that prompt the person to eat.
+
+
 ## Causes/Factors
 
 [[Pearls/Insulin|Insulin]] or sulfonylurea treatment in a diabetic. Increased activity, missed meal or overdose can be a cause

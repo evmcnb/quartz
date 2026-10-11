@@ -1,7 +1,7 @@
 ---
 title: Ovarian Tumours
 date created: Sunday, January 21th 2024, 12:45:50 PM
-date modified: Monday, May 25th 2026, 7:40:08 pm
+date modified: Wednesday, June 3rd 2026, 12:06:00 pm
 tags: [Oncology, OBGYN]
 aliases: [Ovarian cysts, Ovarian cancer]
 ---
@@ -83,6 +83,11 @@ Ovarian tumours may be due to metastasis from cancer elsewhere;
 * [[Pearls/Combined oral contraceptive pill|Combined oral contraceptive pill]]
 * Breastfeeding
 * [[Full/Pregnancy]]
+
+
+> [!tldr] Risk Malignancy Index
+> Risk malignancy index (RMI) prognosis in ovarian cancer is based on US findings, menopausal status and CA125 levels
+
 
 ## Presentation
 

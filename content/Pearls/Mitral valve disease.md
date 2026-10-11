@@ -1,7 +1,7 @@
 ---
 title: Mitral valve disease
 date created: Monday, February 26th 2024, 02:17:12 PM
-date modified: Saturday, December 20th 2025, 4:49:15 pm
+date modified: Thursday, July 30th 2026, 1:10:28 pm
 tags: ['Cardiovascular']
 ---
 
@@ -16,7 +16,7 @@ Other signs:
 
 * ***Tapping apex beat***, which is a palpable, prominent S1
 * ***Malar flush***
-* ***[[Full/Atrial Fibrillation]]*** (irregularly irregular pulse)
+* ***[[Full/Atrial Fibrillation]]***
 
 Causes of mitral stenosis:
 
@@ -33,7 +33,7 @@ Other signs of mitral regurgitation:
 
 * ***Thrill*** in the mitral area on palpation
 * Signs of ***[[Full/Heart Failure]]*** and ***pulmonary oedema***
-* ***[[Full/Atrial Fibrillation]]*** (irregularly irregular pulse)
+* ***[[Full/Atrial Fibrillation]]*** in elderly individuals can be a presenting feature of chronic mitral regurgitation, causing symptoms of dyspnoea, poor exercise tolerance and palpitations.
 
 Causes of mitral regurgitation:
 

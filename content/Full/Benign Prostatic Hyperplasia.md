@@ -2,7 +2,7 @@
 tags: [Urology]
 title: Benign Prostatic Hyperplasia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, May 8th 2026, 6:51:57 pm
+date modified: Wednesday, June 3rd 2026, 4:33:35 pm
 date: 2024-03-11
 ---
 
@@ -73,5 +73,5 @@ Benign Prostatic Hyperplasia (BPH) is a non-cancerous enlargement of the prostat
 
 ## Complications/red Flags
 
-- **Urinary Retention:** Inability to urinate due to severe prostate enlargement.
+- **Urinary Retention:** Inability to urinate due to severe prostate enlargement. Do not prescribe/stop [[Pearls/Anticholinergic drugs|Anticholinergic drugs]].
 - **[[Pearls/Urinary Tract Infections|Urinary Tract Infections]]:** Stagnant urine in the bladder can lead to infections.

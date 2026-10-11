@@ -1,7 +1,7 @@
 ---
 title: Unstable Patients
 date created: Sunday, January 21th 2024, 11:38:59 AM
-date modified: Monday, June 1st 2026, 12:36:05 pm
+date modified: Tuesday, June 2nd 2026, 3:13:37 pm
 tags: [Acute, Cardiovascular]
 aliases: [Unstable Patients, Advanced Life Support, Intermediate Life Support, Ventricular Arrhythmias]
 linter-yaml-title-alias: Unstable Patients
@@ -74,3 +74,22 @@ If one step is unsuccessful move onto the next
 
 
 `If either of the regular complex arrythmia's treatments are unsucessful move to synchronised cardioversion`
+
+
+## Bradycardias
+
+  
+The following factors indicate haemodynamic compromise and hence the need for treatment:  
+
+- shock: hypotension (systolic blood pressure < 90 mmHg), pallor, sweating, cold, clammy extremities, confusion or impaired consciousness
+- syncope
+- myocardial ischaemia
+- heart failure
+
+
+Peri-arrest Brady (<50 bpm + HI/AE):  
+1. Atropine 500mg  
+2. Atropine up to 3g (5 further doses)  
+3. Trancutaneous pacing  
+4. Adrenaline/ Isoprenaline/ Dopamine  
+5. Specialist advice; Transvenous Pacing

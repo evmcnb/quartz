@@ -1,10 +1,8 @@
 ---
 title: Pleural Effusion
-tags:
-  - Respiratory
+tags: [Respiratory]
 date created: Wednesday, August 16th 2023, 1:49:49 pm
-date modified: Sunday, August 24th 2025, 4:30:50 pm
-aliases: 
+date modified: Sunday, September 13th 2026, 3:12:53 pm
 date: 2024-01-14
 ---
 

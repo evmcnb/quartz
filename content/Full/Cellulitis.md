@@ -1,9 +1,8 @@
 ---
-tags:
-  - Dermatology
+tags: [Dermatology]
 title: Cellulitis
 date created: Thursday, November 30th 2023, 12:35:16 pm
-date modified: 2024-03-11
+date modified: Sunday, September 13th 2026, 3:34:13 pm
 date: 2024-01-14
 ---
 Cellulitis is a common bacterial skin infection that affects the deeper layers of the skin and the subcutaneous tissues. It typically occurs when bacteria enter the skin through a break or crack, causing redness, swelling, and pain. Cellulitis can occur anywhere on the body and may spread rapidly if left untreated.
@@ -39,6 +38,7 @@ Diagnosing Cellulitis is primarily based on clinical evaluation, but additional 
 
 - Elevate affected limb
 - Antibiotics (PO/IV dependant on severity) - commonly [[Pearls/Amoxicillin|Amoxicillin]] / ben pen + flucloxacillin. If penicillin allergic - [[Pearls/Clindamycin|Clindamycin]] and ceftriaxone. 10 day course PO but up to 14 days IV if systemic. 
+- Erythromycin in pregnancy if penicillin allergic
  
 ## Complications/red Flags
 

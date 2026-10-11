@@ -2,7 +2,7 @@
 tags: [Paediatrics, Psychiatry]
 title: Eating disorders
 date: 2023-09-27
-date modified: Wednesday, April 22nd 2026, 12:54:50 pm
+date modified: Wednesday, June 3rd 2026, 5:24:29 pm
 date created: Wednesday, February 4th 2026, 10:57:02 am
 ---
 
@@ -123,3 +123,7 @@ Severe cases may require admission and observed refeeding
 
 
 If risks are low, BED, BN and ARFID can be managed in primary care
+
+### PICA 
+
+Pica - the consumption of non-nutritive substances, is often associated with iron deficiency anaemia; a full blood count is essential for diagnosis.

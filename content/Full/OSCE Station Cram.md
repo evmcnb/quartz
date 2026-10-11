@@ -266,7 +266,7 @@ Old ones the medical school thought was a good idea to tell us wasn't in the exa
 *   Only internal and external rotation against resistance
 *   **Special tests**: Empty can test, painful arc, scarf test
 
-### [[Full/Wrist Exam]]
+### [[Full/Hand and Wrist Exam]]
 
 - Loads of strange shit - basically a neuro exam  
 - Inspect the hand well - esp thenar/hypothenar

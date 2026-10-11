@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Atrial Fibrillation
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 10:56:59 am
+date modified: Wednesday, July 29th 2026, 12:36:45 pm
 date: 2024-01-31
 ---
 
@@ -76,7 +76,7 @@ If the patient has any of the following, they are unstable. The immediate treatm
 
 If the patient is stable, the management depends on symptom onset:
 
-- **< 48 hours:** Consider immediate pharmacological or electrical rhythm control.
+- **< 48 hours:** Consider immediate pharmacological (flecanide) or electrical rhythm control.
 - **> 48 hours (or uncertain):** Do **NOT** cardiovert immediately due to stroke risk. Rate control first, start anticoagulation, and delay **electrical cardioversion** for at least 3 weeks.
     
 If immediate cardioversion is absolutely necessary in someone >48 hours, a **TOE** must be done to rule out a Left Atrial Appendage (LAA) thrombus. A standard TTE cannot see the appendage clearly enough to rule out a clot.
@@ -153,8 +153,6 @@ Patients who've had a catheter ablation for atrial fibrillation still require lo
 ##### Bleeding Risk: ORBIT Score
 
 NICE now recommends the ORBIT score over HAS-BLED for predicting bleeding risk. It does not dictate _whether_ to anticoagulate, but highlights modifiable risk factors (like adjusting antiplatelet use or optimizing blood pressure) and dictates how closely to monitor the patient.
-
-Your notes cut off halfway through the ORBIT score. Here is the complete table:
 
 |**Variable**|**Definition**|**Points**|
 |---|---|---|

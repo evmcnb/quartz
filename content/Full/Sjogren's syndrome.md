@@ -2,7 +2,7 @@
 tags: [Rheumatology, ENT]
 title: "Sjogren's syndrome"
 date created: Saturday, October 7th 2023, 4:44:55 pm
-date modified: Friday, May 29th 2026, 6:18:19 pm
+date modified: Saturday, October 10th 2026, 4:08:18 pm
 date: 2023-10-12
 ---
 Chronic autoimmune disorder - inflammation and dysfunction of the exocrine glands, primarily the salivary and lacrimal glands. 
@@ -38,14 +38,22 @@ Diagnosing Sjögren's Syndrome may involve several tests:
 
 - **Schirmer's Test:** Measures tear production to assess dry eyes.
 - **Salivary Flow Rate:** Measures saliva production to assess dry mouth.
-- **Blood Tests:** To check for specific antibodies associated with Sjögren's, such as anti-SSA (Ro) and anti-SSB (La) antibodies.
+- **Blood Tests:**
+	- rheumatoid factor (RF) positive in nearly 50% of patients
+	- ANA positive in 70%
+	- anti-Ro (SSA) antibodies in 70% of patients with PSS
+	- anti-La (SSB) antibodies in 30% of patients with PSS
+	- Schirmer's test: filter paper near conjunctival sac to measure tear formation
+	- histology: focal lymphocytic infiltration
+	- also: hypergammaglobulinaemia, low C4
+
 - **Biopsy:** Removal and examination of a minor salivary gland to confirm autoimmune changes.
 
 ## Management
 
 Treatment of Sjögren's Syndrome aims to relieve symptoms and prevent complications:
 
-1. **Symptom Management:** Artificial tears and saliva substitutes to manage dry eyes and dry mouth.
+1. **Symptom Management:** Artificial tears and saliva substitutes to manage dry eyes and dry mouth. Pilocarpine may be helpful to stimulate saliva production
 2. **Medications:** Anti-inflammatory drugs, immunosuppressants, and medications to stimulate saliva production.
 3. **Dental Care:** Regular dental check-ups to prevent dental problems.
 4. **Pain Management:** For joint pain and fatigue.

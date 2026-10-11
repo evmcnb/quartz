@@ -1,7 +1,7 @@
 ---
 title: Osteomalacia
-date created: Monday, March 04th 2024, 02:41:28 PM
-date modified: 2024-03-04 14:41:28.685512+00
+date created: Tuesday, November 25th 2025, 8:19:54 pm
+date modified: Sunday, October 11th 2026, 5:04:50 pm
 tags: ['Rheumatology', 'Nephrology', 'Geriatrics', 'Orthopaedics']
 ---
 
@@ -24,9 +24,10 @@ Risks for low vitamin D
 
 ***Treatment***
 
-*Symptomatic patients:*
+*Symptomatic patients (300,000 IU total):*
 
 * 50,000 IU once weekly for 6 weeks
+* 20,000 IU twice weekly for 7 weeks
 * 4000 IU daily for 10 weeks
 
 Maintenance dose of 800-2000 IU per day in continued

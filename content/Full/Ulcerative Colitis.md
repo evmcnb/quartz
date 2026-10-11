@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Ulcerative Colitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 2:43:39 pm
+date modified: Tuesday, June 2nd 2026, 10:19:03 pm
 date: 2023-09-18
 ---
 
@@ -116,7 +116,7 @@ Treated in hospital
 #### Maintaining Remission
 
 **Mild-Moderate**
-- rectal mesalazine 
+- rectal mesalazine (add a high-dose oral aminosalicylate if extensive disease)
 
 **Severe or $\geq$ 2 exacerbations in the past year**
 - oral azathioprine

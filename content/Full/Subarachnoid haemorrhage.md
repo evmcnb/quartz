@@ -2,7 +2,7 @@
 tags: [Neurology, Cardiovascular]
 title: Subarachnoid haemorrhage
 date created: Wednesday, October 4th 2023, 2:33:39 pm
-date modified: Friday, May 29th 2026, 2:15:21 pm
+date modified: Tuesday, June 2nd 2026, 1:00:53 pm
 date: 2023-10-05
 ---
 Bleeding into the space between the arachnoid membrane and the pia mater - **subarachnoid**
@@ -31,7 +31,8 @@ Bleeding into the space between the arachnoid membrane and the pia mater - **sub
 ## Diagnostic Tests
 
 - Urgent CT within 6 hours - detects over 95% of SAH 
-- LP if CT is -ve and history is very suggestive or if CT done after 6 hours and -ve. Must be done 12+ hours after headache onset to allow for breakdown of RBCs
+- if CT head is done within 6 hours of symptom onset and is normal new guidelines suggest **not** doing a lumbar puncture
+- if CT head is done more than 6 hours after symptom onset and is normal, do a LP. Must be done 12+ hours after headache onset to allow for breakdown of RBCs (xanthochromia)
 	
 ![[z_attachments/Pasted image 20231004153544.png|500]]
 _Starfish appearance on CT_
@@ -50,7 +51,7 @@ Surgery: endovascular coiling vs surgical clipping depends on location of [[Pear
 > [!danger] Can cause SIADH
 > [[Pearls/Syndrome of Inappropriate Antidiuretic Hormone|Syndrome of Inappropriate Antidiuretic Hormone]] is a common consequence of subarachnoid haemorrhage
 
-- **Can cause to [[Torsades de pointes]]** 
+- **Can cause to [[Pearls/Torsades de pointes]]** 
 - Rebleeding is the commonest cause of death and occurs in 20% 
 - Vasospasm leading to cerebral ischaemia may cause permanent CNS deficit and commonest cause of morbidity
 - Hydrocephalus due to blockage of arachnoid granulations requires a shunt or drain

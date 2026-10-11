@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: myocardial infarction
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 2:25:49 pm
+date modified: Friday, June 5th 2026, 12:12:00 pm
 date: 2023-11-12
 ---
 
@@ -91,7 +91,7 @@ A rising or high troponin indicates a NSTEMI in the context of [[Full/Acute Coro
 Acute:
 - Aspirin 300 mg
 - Ticagrelor 180mg. [[Pearls/Clopidogrel|Clopidogrel]]/prasugrel if high bleeding risk, or prasugrel if having angiography.
-- Unfractinated heparin usually given for patients who are going to have a PCI. Alternative with LMWH
+- Unfractinated heparin usually given for patients who are going to have a  PCI. Alternative with LMWH
 - Nitrates - GNT spray
 - Morphine (IV) $\pm$ [[Pearls/Metoclopramide|Metoclopramide]] for pain and nausea
 

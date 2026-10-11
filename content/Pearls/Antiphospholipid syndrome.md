@@ -2,13 +2,13 @@
 tags: [Rheumatology, OBGYN]
 title: Antiphospholipid syndrome
 date: 2023-09-27
-date modified: Wednesday, January 7th 2026, 9:44:15 am
+date modified: Saturday, October 10th 2026, 3:58:35 pm
 date created: Tuesday, January 6th 2026, 10:03:23 am
 ---
 
 Just as it states, antibodies against phospholipids. Causes a **pre-disposition to both venous and arterial thromboses**. May occur as a primary disorder or secondary to other conditions.
 
-Causes a paradoxical raise in the APTT  
+Causes a paradoxical rise in the APTT  
 
 **Associated conditions**
 - [[Pearls/Systemic Lupus Erythematosus|Systemic Lupus Erythematosus]] - 30% of patients with SLE have APL antibodies
@@ -18,11 +18,12 @@ Causes a paradoxical raise in the APTT
 - Venous/arterial thrombosis
 - Recurrent miscarriages
 - Other: [[Full/Pre-eclampsia|Pre-eclampsia]], [[Full/cor pulmonale|cor pulmonale]]
+- livedo reticularis
 
 **Investigations**
 - anticardilolipin antibody positive
 - FBC - thrombocytopenic
-- Clotting - pro-longed APTT
+- Clotting - pro-longed APTT (as the test requires phospholipids to bind to clot)
 
 
 > [!warning] NICE Diagnostic criteria

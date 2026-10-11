@@ -2,7 +2,7 @@
 tags: [Acute, OSCE]
 title: ACC Counselling
 date: 2023-09-27
-date modified: Wednesday, April 29th 2026, 10:03:33 pm
+date modified: Sunday, October 11th 2026, 7:05:59 pm
 date created: Wednesday, April 29th 2026, 11:46:34 am
 ---
 
@@ -47,7 +47,3 @@ date created: Wednesday, April 29th 2026, 11:46:34 am
 - Awareness is 'a never event' and is extremely rare. We have monitors and measures to measure and prevent it (EEG monitors depending on the anaesthetic)
 - Will prescribe anti-sickness medications throughout 
 - Can use a guard for capped teeth
-
-### Epidural
-
-- 

@@ -2,7 +2,7 @@
 tags: [Anaesthetics, Acute]
 title: Airway Management
 date: 2023-09-27
-date modified: Sunday, May 31st 2026, 11:34:34 am
+date modified: Sunday, October 11th 2026, 7:06:24 pm
 date created: Sunday, May 31st 2026, 11:10:10 am
 ---
 Start off with positional changes: 

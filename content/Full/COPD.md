@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: COPD
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Wednesday, May 20th 2026, 12:01:30 pm
+date modified: Sunday, September 13th 2026, 3:32:15 pm
 date: 2023-11-16
 ---
 
@@ -76,7 +76,7 @@ Measuring peak flow is not useful.
 **Bronchodilators**
 - **Initial treatment**: short acting $\beta_2$ agonist (SABA) ([[Pearls/Salbutamol|Salbutamol]]) or short acting muscarinic antagonist (SAMA) ([[Pearls/Ipratropium Bromide|Ipratropium Bromide]]) - as necessary 
 
-Step up if **no** [[Full/asthma]] features: LABA (salmetrol) + LAMA (tiatropium)
+Step up if **no** [[Full/asthma]] features: LABA (salmetrol) + LAMA (tiatropium) (stop SAMA if begining LABA)
 
 Step up treatment when symptoms and exacerbations are still a problem with **[[Full/asthma]]/steroid responsive features**:
 - Inhaled corticosteroids
@@ -147,8 +147,6 @@ Phosphodiesterase-4 (PDE-4) inhibitors
 - NICE recommend if:
     - the disease is severe, defined as a forced expiratory volume in 1 second (FEV1) after a bronchodilator of less than 50% of predicted normal, and
     - the person has had 2 or more exacerbations in the previous 12 months despite triple inhaled therapy with a long-acting muscarinic antagonist, a long-acting beta-2 agonist and an inhaled corticosteroid
-
-
 
 
 ### Complications

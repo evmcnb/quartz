@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Breech presentation
 date: 2023-09-27
-date modified: Tuesday, December 30th 2025, 4:56:29 pm
+date modified: Wednesday, June 3rd 2026, 11:59:46 am
 date created: Monday, December 29th 2025, 4:39:27 pm
 ---
 
@@ -26,7 +26,9 @@ Most babies at breech before 36 weeks turn spontaneously so no intervention is o
 
 ### External cephalic version
 
-Can be used at term (37 weeks) to attempt to turn the fetus **using pressure on the pregnant abdomen**. Its about 50% successful.
+Can be used at term to attempt to turn the fetus **using pressure on the pregnant abdomen**. Its about 50% successful.
+
+The RCOG recommend ECV should be offered from 36 weeks in nulliparous women and from 37 weeks in multiparous women
 
 Women are given **_tocolysis_** to relax the uterus before the procedure. Tocolysis is with **_subcutaneous terbutaline_**. Terbutaline is a **_beta-agonist_** similar to salbutamol. It reduces the **_contractility_** of the **_myometrium_**, making it easier for the baby to turn.
 

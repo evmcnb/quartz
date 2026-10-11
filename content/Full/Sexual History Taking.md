@@ -2,7 +2,7 @@
 tags: []
 title: Sexual History Taking
 date: ""
-date modified: Thursday, January 8th 2026, 2:11:05 pm
+date modified: Tuesday, June 2nd 2026, 3:22:34 pm
 date created: Thursday, January 8th 2026, 9:06:42 am
 ---
 
@@ -128,7 +128,7 @@ Need to ask when their last sexual health screen was.
 - **H**IV/Hepatitis - sex with someone living with HIV/hepatitis
 - **I**VDU - current or past use of injecting drugs
 - **M**SM - cisgender men or transgender woman
-- **V**accination (HPV, Hep B)
+- **V**accination (HPV, Hep B, Hep A in MSM)
 - **A**broad - from countries where HIV and hepatitis viruses have a high prevalence
 - **S**ex-worker or sex with more than >10 partners in 12 months
 

@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Schizophrenia
 date:
-date modified: Sunday, May 17th 2026, 4:08:16 pm
+date modified: Saturday, June 6th 2026, 5:51:47 pm
 date created: Friday, February 6th 2026, 4:57:46 pm
 ---
 
@@ -62,6 +62,14 @@ Delusional perceptions - a 2 stage process:
 2. Sudden intense delusional insight into the objects meaning for the individual
 - e.g. 'The traffic light is green therefore I am the King'
 
+
+> [!tldr] How to remember first rank symptoms
+> - **A**uditory hallucinations
+> - **B**roadcasting (and all the other thought stuff)
+> - **C**ontrol - passivity
+> - **D**elusional perseptions
+
+
 #### Other features 
 
 - Impaired insight
@@ -100,3 +108,4 @@ Early intervention with [[Pearls/Antipsychotics|Antipsychotics]] can reduce the 
 
 
 - Approx 10% complete suicide
+- No driving until stable for 3 months

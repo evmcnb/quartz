@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 26th 2026, 12:13:16 pm
+date modified: Tuesday, June 2nd 2026, 5:24:35 pm
 date: 2024-01-31
 ---
 
@@ -55,7 +55,7 @@ Systolic:
 Diastolic:
 
 - Long standing uncontrolled [[Full/Essential hypertension|hypertension]]
-- Infiltrative diseases - [[Pearls/Amyloidosis]], [[Full/Sarcoidosis|Sarcoidosis]], [[Scleroderma]]
+- Infiltrative diseases - [[Pearls/Amyloidosis]], [[Full/Sarcoidosis|Sarcoidosis]], [[Pearls/Scleroderma]]
 - Restrictive cardiomyopathies
 - Contributing diseases ([[Full/Obesity]], [[Full/Diabetes Mellitus]], [[Full/COPD]], [[Full/Chronic Kidney Disease]], [[Full/Obstructive Sleep Apnoea]])
 ## Symptoms
@@ -103,7 +103,7 @@ U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all 
 **Other mortality benefits**:
 - **IV Iron** replacement -  FAIR-HF trial if ferritin <100 or ferritin <300 & transferrin sat <20%
 - ICD if <35% after 3 months therapy for ischemic, 6 for non-ischaemic
-- Cardiac resynchronisation therapy - sync both chambers back to increase EF 
+- Cardiac resynchronisation therapy if in a BBB - sync both chambers back to increase EF 
 
 
 > [!warning] Diastolic Management

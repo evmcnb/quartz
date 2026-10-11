@@ -1,7 +1,7 @@
 ---
 title: Hyperkalaemia
 date created: Sunday, January 21th 2024, 11:12:38 AM
-date modified: Thursday, May 14th 2026, 7:42:19 pm
+date modified: Saturday, June 6th 2026, 12:55:45 pm
 tags: ['Acute', 'Cardiovascular']
 ---
 - mild: 5.5 - 5.9 mmol/L
@@ -33,8 +33,9 @@ The following changes are associated with hyperkalaemia:
 * Treat if 6.5 mmol/L or if any ECG changes
 
 
-1. Calcium gluconate - stabilize the cardiac membrane
-2. [[Pearls/Insulin|Insulin]]/Dextrose infusion - drives potassium from extracellular space in (insulin) , dextrose to prevent [[Full/Hypoglycaemia]] when [[Pearls/Insulin|Insulin]] is given. Consider nebulised salbutamol
-3. Calcium resonium - remove potassium from the body (enemas are better than oral). Dialysis in persistent hyperkalaemia in AKI
+1. Calcium gluconate 10ml of 10% over 10 mins - stabilize the cardiac membrane. Repeat dose after 5-10
+2. [[Pearls/Insulin|Insulin]] 10 unit in 50 ml in 50% dextrose infusion - drives potassium from extracellular space in (insulin) , dextrose to prevent [[Full/Hypoglycaemia]] when [[Pearls/Insulin|Insulin]] is given. Consider nebulised salbutamol
+3. Calcium resonium 15g orally - remove potassium from the body (enemas are better than oral), co-prescribe with **lactulose**. Dialysis in persistent hyperkalaemia in AKI
 4. Stop exacerbating drugs e.g. ACE inhibitors, loop diruetics
+
 

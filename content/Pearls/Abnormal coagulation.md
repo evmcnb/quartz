@@ -1,7 +1,7 @@
 ---
-title: "Abnormal coagulation"
-date created: 2024-04-09 12:31:20.241345+01
-date modified: 2024-04-09 12:31:20.245955+01
+title: Abnormal coagulation
+date created: Friday, February 28th 2025, 4:35:22 pm
+date modified: Saturday, June 13th 2026, 10:55:01 am
 tags: ['Haematology']
 ---
 

@@ -2,7 +2,7 @@
 tags: [Rheumatology, Paediatrics]
 title: Juvenile idiopathic arthritis
 date: 2023-09-27
-date modified: Tuesday, March 3rd 2026, 6:14:44 pm
+date modified: Friday, September 11th 2026, 10:48:03 am
 date created: Monday, March 2nd 2026, 5:10:03 pm
 ---
 An arthritis without any cause lasting >6 weeks in a patient <16 years old. 
@@ -42,7 +42,7 @@ An idiopathic inflammatory condition.
 - Raised platelets 
 - Raised serum ferritin
 
-Risk of **Macrophage Activation Syndrome (MAS)**, a life-threatening complication marked by falling ESR, cytopenias, and liver dysfunction.
+Risk of **[[Pearls/Macrophage Activation Syndrome]] (MAS)**, a life-threatening complication marked by falling ESR, cytopenias, and liver dysfunction.
 ### Polyarticular 
 
 The equivalent of [[Pearls/Rheumatoid Arthritis|Rheumatoid Arthritis]]. Inflammatory arthritis in 5 joints or more.

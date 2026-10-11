@@ -2,7 +2,7 @@
 tags: [OBGYN, OSCE]
 title: Obs & Gynae Counselling
 date: 2023-09-27
-date modified: Wednesday, April 29th 2026, 9:51:44 am
+date modified: Tuesday, June 9th 2026, 10:07:57 am
 date created: Monday, April 20th 2026, 8:48:24 am
 ---
 ## [[Pearls/Gestational Diabetes|Gestational Diabetes]]
@@ -36,7 +36,7 @@ Thresholds for diagnosis:
 
 ## [[Pearls/Breech presentation|Breech presentation]] & ECV
 
-- If your baby is breech at 36 weeks of pregnancy, it is unlikely that they will turn into a head-down position on their own.
+- If your baby is breech at 36 weeks of pregnancy (nullparous) or 37 weeks otherwise, it is unlikely that they will turn into a head-down position on their own.
 - 2 out of 3 ECVs are successful at Leeds. 1 in 20 risk that the baby may turn back into breech
 - There are very few reasons an ECV should not be offered. Safe in past LSCS, micro/macrosomic babies, oligo or polyhydramnios
 - While you lie on the bed, the specially trained doctor or midwife puts their hands on your tummy, under the baby’s bottom. Gently but firmly, they move your baby in a forwards or sometimes a backwards roll. The procedure takes about 10 minutes. We monitor your baby’s heartbeat closely. **An ECV can be uncomfortable. Please tell the doctor or midwife to stop if you are in pain. If this happens, they may be able to move their hands to a more comfortable position for you. An ECV can be stopped at any time, if needed.**

@@ -1,15 +1,14 @@
 ---
 title: Liver failure
 date created: Friday, March 08th 2024, 05:10:26 PM
-date modified: Saturday, May 2nd 2026, 10:36:16 am
+date modified: Sunday, September 13th 2026, 3:55:33 pm
 tags: ['Hepatology']
 ---
 
 
-
-* Development of coagulopathy INR >1.5
+* Jaundice
+* Coagulopathy - synthetic function so INR >1.5 (prolonged PT as well but slower to change in acute illness) 
 * Encephalopathy
-* May occur suddenly in the previously healthy liver
 
 | Hyper Acute | <7 day onset |
 | --- | --- |

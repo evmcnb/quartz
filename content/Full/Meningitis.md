@@ -2,7 +2,7 @@
 tags: [Neurology]
 title: Meningitis
 date:
-date modified: Monday, June 1st 2026, 10:58:24 am
+date modified: Tuesday, June 9th 2026, 10:06:57 am
 date created: Thursday, November 20th 2025, 8:37:07 pm
 ---
 
@@ -75,7 +75,9 @@ Bacterial causes - medical emergency. See guidelines for specifics:
 - IM Benpen in GP
 - When in hospital - if <3 months or >60 years = IV ceftriaxone + amox (for listeria cover)
 - Otherwise in **hospital** IV ceftriaxone
+###### Neonatal 
 
+Most likely cause is GBS ([[Pearls/Neonate sepsis|Neonate sepsis]]) so use **IV benzylpenicillin + gentamicin**
 
 | Organism                                      | Management                                  |
 | --------------------------------------------- | ------------------------------------------- |

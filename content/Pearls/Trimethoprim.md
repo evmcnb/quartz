@@ -1,7 +1,7 @@
 ---
-title: "Trimethoprim"
-date created: 2024-04-13 16:55:33.0531+01
-date modified: 2024-04-13 16:55:33.05814+01
+title: Trimethoprim
+date created: Tuesday, November 25th 2025, 8:19:49 pm
+date modified: Tuesday, June 2nd 2026, 6:26:52 pm
 tags: ['Antibiotic', 'Drug']
 ---
 
@@ -18,3 +18,4 @@ tags: ['Antibiotic', 'Drug']
 | **Elimination** |  |
 | **Additional Notes** | Resistance is common |
 
+Can cause a convincing pseudo-AKI via inhibiting tubular secretion of creatinine in the proximal tubule → rise in creatinine without true renal injury/decline in eGFR **and** causes a hyperkalaemia

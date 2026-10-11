@@ -16,7 +16,7 @@ hypoxia ($PaO_2 < 8kPa$) with a normal or low $PaCO_2$. Its caused primarily by 
 - [[Full/asthma]]
 - [[Full/emphysema]]
 - [[Full/Pulmonary Fibrosis]]
-- [[ARDS]]
+- [[Pearls/ARDS]]
 
 #### Type II
 

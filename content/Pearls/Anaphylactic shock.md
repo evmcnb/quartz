@@ -1,7 +1,7 @@
 ---
 title: Anaphylactic shock
 date created: Monday, February 26th 2024, 05:06:49 PM
-date modified: Friday, May 29th 2026, 2:31:37 pm
+date modified: Tuesday, June 2nd 2026, 3:24:24 pm
 tags: ['Acute']
 ---
 
@@ -41,6 +41,11 @@ Management
 7. If still hypotensive admission to ICU and expert help need
 
 Can additional stuff (steroids + antihistamine but adjuncts rather than treatment)
+
+Refractory anaphylaxis  
+- defined as respiratory and/or cardiovascular problems persist despite **2 doses of IM adrenaline**
+- IV fluids should be given for shock
+- expert help should be sought for consideration of an IV adrenaline infusion
 
 
 ### Discharge

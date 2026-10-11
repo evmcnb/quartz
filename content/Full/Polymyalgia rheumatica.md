@@ -2,13 +2,13 @@
 tags: [Rheumatology]
 title: Polymyalgia rheumatica
 date: 
-date modified: Tuesday, October 14th 2025, 5:23:14 pm
+date modified: Saturday, October 10th 2026, 3:17:48 pm
 date created: Tuesday, October 14th 2025, 5:15:04 pm
 ---
 **_Inflammatory_** condition that causes pain and stiffness in the shoulders, pelvic girdle and neck.
 ## Causes/Factors
 
-- Strong associated with [[Full/Giant cell arteritis|Giant cell arteritis]]
+- Strong associated with [[Full/Giant cell arteritis|Giant cell arteritis]] - need to safety net patients
 - Older white patients 
 ## Symptoms
 
@@ -26,10 +26,16 @@ Associated features include:
 - Carpel tunnel syndrome
 - Peripheral oedema
 
+
+> [!warning] 
+> There should be no true weakness. Any weakness should be due to myalgia 
+
 ## Investigations
 
 
 Diagnosis is based on **_clinical presentation_**, **_response to steroids_** and **_excluding differentials_**.
+
+CRP and ESR may be raised or normal
 
 
 Differentials:
@@ -37,7 +43,7 @@ Differentials:
 - [[Pearls/Rheumatoid Arthritis|Rheumatoid Arthritis]]
 - [[Full/Systemic Lupus Erythematosus|Systemic Lupus Erythematosus]]
 - [[Pearls/Statins|Statin]]-induced myopathy
-- Myositis (e.g., polymyositis)
+- [[Full/Myositis]] (e.g., polymyositis)
 - Cervical spondylosis
 - Adhesive capsulitis (frozen shoulder)
 - [[Full/Hyperthyroidism|Hyperthyroidism]] or [[Full/Hypothyroidism|Hypothyroidism]]
@@ -51,9 +57,9 @@ Differentials:
 
 Treatment of PMR is with steroids:
 - **_15mg prednisolone_** daily initially
-- **_Follow up after 1 week_**
+- **_Follow up after 1 week_**. 
 
-Patients with PMR usually have a dramatic improvement in symptoms within one week. Inflammatory markers normal within one month. Poor response to steroids suggests another diagnosis
+Patients with PMR usually have a **dramatic improvement** in symptoms within one week. Inflammatory markers normal within one month. Poor response to steroids suggests another diagnosis. 
 
 Treatment with steroids typically lasts 1-2 years:
 - 15mg until the symptoms are fully controlled, then

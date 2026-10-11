@@ -1,7 +1,7 @@
 ---
-title: "Osteoporosis"
-date created: Sunday, January 21th 2024, 01:32:57 PM
-date modified: 2024-01-21 13:32:57.186331+00
+title: Osteoporosis
+date created: Tuesday, November 25th 2025, 8:19:39 pm
+date modified: Saturday, October 10th 2026, 4:20:51 pm
 tags: ['Geriatrics', 'Orthopaedics']
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Lithium
 date created: Tuesday, November 25th 2025, 8:19:41 pm
-date modified: Friday, May 29th 2026, 1:53:24 pm
+date modified: Sunday, June 7th 2026, 6:44:41 pm
 tags: ['Drug']
 ---
 Mood stabiliser used in [[Full/Bipolar disorder|Bipolar disorder]]. Has a very narrow therapeutic range (0.4-1.0 mmol/L) and a long plasma half-life being excreted primarily by the kidneys.
@@ -12,9 +12,10 @@ Mood stabiliser used in [[Full/Bipolar disorder|Bipolar disorder]]. Has a very n
 
 Common:
 - Nausea/vomiting, diarrhoea
-- Polyuria and polydipsia (Nephrogenic [[Diabetes insipidus]])
+- Polyuria and polydipsia (Nephrogenic [[Pearls/Diabetes insipidus]])
 - Weight gain
 - Fine tremour in chronic treatment
+- Sedation when starting medication
 
 Serious:
 * Can cause visual disturbances
@@ -44,6 +45,9 @@ Serious:
 - Once stable 3 monthly levels bloods
 - Body weight, calcium, TFTs and U&Es 6 monthly. 
 
+$<$ 6 take the dose 
+$>$ 6 skip
+Never take 2 doses on the same day
 ### Toxicity
 
 **Need to counsel patients around this**

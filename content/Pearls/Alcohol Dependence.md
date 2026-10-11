@@ -2,7 +2,7 @@
 tags: [Psychiatry]
 title: Alcohol Dependence
 date: 2023-09-27
-date modified: Friday, February 6th 2026, 4:57:39 pm
+date modified: Saturday, June 6th 2026, 2:36:09 pm
 date created: Friday, February 6th 2026, 4:38:55 pm
 ---
 
@@ -21,8 +21,10 @@ Long term alcohol use results in the GABA system becoming down-regulated and the
 > - Not more than 5 units in a single day
 
 
-**Binge drinking** is defined as a single session involving more than 6-8 units of alcohol (different for men and women)
+**Binge drinking** is defined as a single session involving more than 6-8 units of 
+alcohol (different for men and women)
 
+**Dependence syndrome** - compulsion (to drink), tolerance (drinking increasing amounts), withdrawal symptoms, drinking alone, persistence
 ### Blood test results
 
 Chornic alcohol excess changes blood tests:
@@ -30,3 +32,11 @@ Chornic alcohol excess changes blood tests:
 - Raised ALT and AST
 - **AST:ALT ratio above 1.5** suggests alcohol related liver disease
 - Raised gGT 
+
+### Screening
+
+**CAGE** questionnaire
+1. **Consumption** - have you felt the need to cut down? 
+2. **Annoyed** - have people annoyed you by criticizing your drinking? 
+3. **Guilty** - have you ever felt guilty about your drinking
+4. **Eye-opener** - have you ever felt the need to drink first thing in the morning

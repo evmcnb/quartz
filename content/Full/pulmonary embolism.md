@@ -2,7 +2,7 @@
 tags: [Respiratory, Cardiovascular]
 title: pulmonary embolism
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 11:30:59 am
+date modified: Wednesday, June 3rd 2026, 9:38:23 am
 date: 2023-09-18
 ---
 
@@ -55,6 +55,7 @@ May also have signs and symptoms of [[Full/Deep Vein Thrombosis#Symptoms|DVT]]
 - CTPA - 1st line diagnostic
 - V/Q scan - in those of childbearing age (to protect rapidly developing breasts from irradiation)
 
+Any delay in getting the scan with a strong suspicion $\rightarrow$  treatment dose apix
 ## Management
 
 - [[Pearls/Oxygen|Oxygen]] & analgesia PRN

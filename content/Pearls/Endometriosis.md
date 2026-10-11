@@ -1,7 +1,7 @@
 ---
 title: Endometriosis
 date created: Sunday, January 21th 2024, 12:40:21 PM
-date modified: Monday, May 25th 2026, 7:14:11 pm
+date modified: Wednesday, June 3rd 2026, 12:21:57 pm
 tags: ['OBGYN']
 ---
 
@@ -18,6 +18,7 @@ tags: ['OBGYN']
 - Deep dyspareunia
 - Non-gynaecological: urinary symptoms, dysuria, urgency, haematuria, dyschezia
 - IBS like symptoms
+- On pelvic examination reduced organ mobility, tender nodularity in the posterior vaginal fornix and visible vaginal endometriotic lesions may be seen
 
 **Sites**
 - Peritoneum

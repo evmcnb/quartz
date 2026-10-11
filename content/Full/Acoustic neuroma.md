@@ -1,13 +1,9 @@
 ---
-tags:
-  - ENT
-  - Surgery
+tags: [ENT, Surgery]
 title: Acoustic neuroma
 date created: Monday, February 19th 2024, 7:49:07 pm
-date modified: 2024-03-11
-aliases:
-  - Vestibular schwannoma
-  - Cerebellopontine angle tumours
+date modified: Saturday, June 13th 2026, 10:50:40 am
+aliases: [Vestibular schwannoma, Cerebellopontine angle tumours]
 date: 2024-02-23
 ---
 Benign tumours of the Schwann cells surrounding the auditory nerve - also called vestibular schwannoma

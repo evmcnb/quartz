@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Cystic Fibrosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 6:43:22 pm
+date modified: Tuesday, June 2nd 2026, 10:54:47 am
 date: 2023-09-18
 ---
 
@@ -45,6 +45,7 @@ Other features:
 - Minimise contact with other CF patients to prevent cross infection with _Burkholderia cepacia_ complex and _Pseudomonas aeruginosa_
 - Pancreatic supplements taken with meals (Creon). 
 - Lung transplantation - chronic infection with _Burkholderia cepacia_ is a contraindication
+- Lumacaftor/Ivacaftor used for thos homozygous with the mutation. Ivacaftor is a **CFTR potentiator** that corrects the underlying protein defect
 ## Complications/red Flags
 
 - ~~Low prognosis - median ~41 years~~ 

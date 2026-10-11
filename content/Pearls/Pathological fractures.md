@@ -1,7 +1,7 @@
 ---
 title: Pathological fractures
-date created: Monday, February 26th 2024, 03:48:08 PM
-date modified: Friday, September 26th 2025, 5:00:34 pm
+date created: Tuesday, November 25th 2025, 8:20:08 pm
+date modified: Sunday, October 11th 2026, 6:48:26 pm
 tags: ['Oncology', 'Orthopaedics']
 ---
 

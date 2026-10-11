@@ -1,7 +1,7 @@
 ---
 title: Glasgow Coma Scale
 date created: Wednesday, October 4th 2023, 4:35:16 pm
-date modified: Friday, March 6th 2026, 9:41:47 am
+date modified: Tuesday, June 2nd 2026, 12:01:10 pm
 tags: [OSCE, Examination]
 date: 2023-10-05
 ---
@@ -10,26 +10,26 @@ The **Glasgow Coma Scale (GCS)** is a neurological assessment tool used to evalu
 The GCS consists of three components: eye opening, verbal response, and motor response, with each component being assigned a score. The scores from these three components are then added together to obtain the total GCS score, which can range from 3 to 15. A higher score indicates a higher level of consciousness and neurological function. 
 ## GCS Components and Scoring
 
-|Component|Score|Description|
-|---|---|---|
-|**Eye Opening**|||
-|Spontaneous|4|The patient opens their eyes without stimulation.|
-|To voice|3|The patient opens their eyes in response to verbal commands.|
-|To pain|2|The patient opens their eyes in response to painful stimuli, such as a pinch.|
-|None|1|The patient does not open their eyes in response to any stimuli.|
-|**Verbal Response**|||
-|Oriented|5|The patient responds coherently and appropriately to questions.|
-|Confused conversation|4|The patient responds but is disoriented and may have a conversation that does not make sense.|
-|Inappropriate words|3|The patient uses words, but they are unrelated or inappropriate.|
-|Incomprehensible|2|The patient makes sounds, but they are not recognizable as words.|
-|None|1|The patient does not produce any verbal response.|
-|**Motor Response**|||
-|Obeys commands|6|The patient follows commands, such as "squeeze my hand" or "raise your arm."|
-|Localizes pain|5|The patient withdraws or localizes in response to pain, such as moving the arm away from a painful stimulus.|
-|Flexion withdrawal|4|The patient flexes their limbs in response to pain but does not localize it.|
-|Abnormal flexion|3|The patient exhibits abnormal flexion in response to pain (decorticate posturing).|
-|Extension|2|The patient displays extension of limbs in response to pain (decerebrate posturing).|
-|None|1|The patient does not exhibit any motor response.|
+| Component           | Score | Description                                                                                          |
+| ------------------- | ----- | ---------------------------------------------------------------------------------------------------- |
+| **Eye Opening**     |       |                                                                                                      |
+| Spontaneous         | 4     | The patient opens their eyes without stimulation.                                                    |
+| To voice            | 3     | The patient opens their eyes in response to verbal commands.                                         |
+| To pain             | 2     | The patient opens their eyes in response to painful stimuli, such as a pinch.                        |
+| None                | 1     | The patient does not open their eyes in response to any stimuli.                                     |
+| **Verbal Response** |       |                                                                                                      |
+| Oriented            | 5     | The patient responds coherently and appropriately to questions.                                      |
+| Confused            | 4     | The patient responds but is disoriented and may have a conversation that does not make sense.        |
+| Inappropriate words | 3     | The patient uses words, but they are unrelated or inappropriate.                                     |
+| Incomprehensible    | 2     | The patient makes sounds, but they are not recognizable as words.                                    |
+| None                | 1     | The patient does not produce any verbal response.                                                    |
+| **Motor Response**  |       |                                                                                                      |
+| Obeys commands      | 6     | The patient follows commands, such as "squeeze my hand" or "raise your arm."                         |
+| Localizes pain      | 5     | The patient withdraws or localizes in response to pain, must reach to the clavicle in a trap squeeze |
+| Withdraws from pain | 4     | The patient flexes their limbs in response to pain but does not localize it.                         |
+| Flexion to pain     | 3     | The patient exhibits abnormal flexion in response to pain (decorticate posturing).                   |
+| Extension to pain   | 2     | The patient displays extension of limbs in response to pain (decerebrate posturing).                 |
+| None                | 1     | The patient does not exhibit any motor response.                                                     |
 
 ## Assessing the Glasgow Coma Scale
 

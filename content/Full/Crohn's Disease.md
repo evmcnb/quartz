@@ -2,13 +2,13 @@
 tags: [Gastroenterology]
 title: "Crohn's Disease"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, May 19th 2026, 1:35:39 pm
+date modified: Tuesday, June 2nd 2026, 4:52:13 pm
 date: 2023-09-18
 ---
 
 The inflammatory bowel diseases (IBD), [[Full/Ulcerative Colitis]] and Crohn's disease are chronic autoimmune relapsing and remitting inflammation of the intestine.
 
-Can effect any part of GI tract from mouth to anus, most common in terminal ileum
+Can effect any part of GI tract from mouth to anus, most common in terminal ileum (**abdominal mass palpable in the right iliac fossa**)
 Crohn’s is also associated with **_strictures_** and **_fistulas_**.
 More difficult to manage due to this
 

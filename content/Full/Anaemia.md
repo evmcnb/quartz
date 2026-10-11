@@ -2,7 +2,7 @@
 tags: [Haematology]
 title: Anaemia
 date created: Friday, November 10th 2023, 1:52:37 pm
-date modified: Saturday, May 2nd 2026, 2:21:13 pm
+date modified: Tuesday, June 2nd 2026, 4:47:46 pm
 date: 2023-11-10
 ---
 
@@ -27,6 +27,7 @@ Can be caused by low red cell mass or increased plasma volume
 5. [[Full/Hypothyroidism]]
 6. Haemolysis (or $\uparrow$ MCV)
 7. [[Full/Pregnancy]]
+8. [[Full/Coeliac Disease|Coeliac Disease]] - iron deficiency + folate + B12 deficiency = normocytic (everything cancels out) 
 
 > [!Info] Note
 > If $\downarrow$ WCC or $\downarrow$ platelet in normocytic anaemia suspect bone marrow failure

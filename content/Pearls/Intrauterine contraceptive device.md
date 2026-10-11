@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Intrauterine contraceptive device
 date: 2023-09-27
-date modified: Wednesday, December 31st 2025, 3:31:04 pm
+date modified: Wednesday, June 3rd 2026, 12:22:45 pm
 date created: Wednesday, December 31st 2025, 3:23:22 pm
 ---
 
@@ -26,7 +26,7 @@ Risk of expulsion around 1 in 20 and most likely to occur within the first 3 mon
 
 - Prevents endometrial proliferation and causes cervical mucous thickening
 - Can be relied upon after **7 days**
-- Most common IUS is effective for 8 years or until 55 years old
+- Most common IUS is effective for 8 years or 10 years if >45 years old
 - Associated with inital frequent uterine bleeding and splotting
 
 NSAIDs may be used to help with discomfort after the procedure. Women need to be seen 3 to 6 weeks after insertion to check the threads

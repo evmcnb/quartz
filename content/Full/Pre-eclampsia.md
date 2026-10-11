@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Pre-eclampsia
 date: 2023-09-27
-date modified: Sunday, May 17th 2026, 5:54:56 pm
+date modified: Friday, June 12th 2026, 9:13:43 pm
 date created: Monday, December 29th 2025, 2:24:17 pm
 aliases: [Gestational hypertension]
 ---
@@ -42,7 +42,7 @@ Hypertension in pregnancy in usually defined as:
 |---|---|
 |- hypertensive disease in a previous pregnancy<br>- chronic kidney disease<br>- autoimmune disease, such as systemic lupus erythematosus or antiphospholipid syndrome<br>- type 1 or type 2 diabetes<br>- chronic hypertension|- first pregnancy<br>- age 40 years or older<br>- pregnancy interval of more than 10 years<br>- body mass index (BMI) of 35 kg/m² or more at first visit<br>- family history of pre-eclampsia<br>- multiple pregnancy|
 
-75-150mg aspirin is used for prophylaxis against the development of pre-eclampsia. It is given from 12 weeks gestation until birth to women with:
+75-150mg aspirin is used for prophylaxis against the development of pre-eclampsia. It is given from 12-36 weeks to women with:
 - A single **high-risk** factor
 - Two or more **moderate-risk** factors
 
@@ -96,8 +96,6 @@ Further management:
 - Delivery of the baby is the most important definitive management step via any route
 
 
-
-
 #### Gestational hypertension
 
 When hypertension is identified without proteinuria, general management involves: 
@@ -106,3 +104,11 @@ When hypertension is identified without proteinuria, general management involves
 - Monitoring of blood tests weekly (FBC, liver enzymes and renal profile)
 - Monitor of feal growth by serial growth scans
 - PlGF testing on one occasion
+
+## Complications
+
+- Intracerebral hemorrhage - leading cause of maternal mortality in pre-eclampsia
+- [[pulmonary oedema]]
+- Fetal prematurity 
+- [[Pearls/Fetal Growth Restriction|Intrauterine growth restriction]] - due to placental insufficiency 
+

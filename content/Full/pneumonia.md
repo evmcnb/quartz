@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: pneumonia
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Friday, May 29th 2026, 4:43:13 pm
+date modified: Tuesday, June 2nd 2026, 3:40:03 pm
 aliases: [Pneumonia]
 date: 2024-01-14
 ---
@@ -25,7 +25,7 @@ Chest infection only becomes pneumonia on **radiographic confirmation**. CURB on
 ## Causes/Factors
 
 - **Community acquired** (CAP) - most common **streptococcus pneumoniae**. Occurring outside of hospital or within 48hr of admission
-- Haemophilus influenzae - common in older patients with [[Full/COPD]] 
+- Haemophilus influenzae - common in older patients with [[Full/COPD]] or [[Full/bronchiectasis|Bronchiectasis]]
 - Kleb**STELLA** pneumonia - more common in diabetics and patients with alcohol excess. Frequently caused by aspiration. Can cause "red jelly". Commonly affects upper lobes
 - Staphylococcus aureus pneumonia commonly occurs **after influenza** or as a complication of measles infection. CXR shows multi-lobar consolidation, **cavitation** or pneumothorax
 
@@ -46,6 +46,8 @@ Chest infection only becomes pneumonia on **radiographic confirmation**. CURB on
 ---
 
 ### **CURB-65** - one point for each
+
+Need to use clinical judgement as where the best place of management is, just a guide. 
 - Confusion - AMTS $\leq$ 8 
 - Urea - >7 mmol/L
 - RR - $\geq$ 30
@@ -53,7 +55,9 @@ Chest infection only becomes pneumonia on **radiographic confirmation**. CURB on
 - Age $\geq$ 65 (soft score)
 
 0-1 - low risk home management - 500mg amoxicillin TDS for 5 days
+
 2 - intermediate risk - short in-patient stay + dual abx therapy
+
 $\geq$ 3 - high risk - severe pneumonia
 
 #### Risk of death with CURB-65

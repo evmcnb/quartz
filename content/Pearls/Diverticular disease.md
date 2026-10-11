@@ -1,7 +1,7 @@
 ---
 title: Diverticular disease
 date created: Sunday, January 21th 2024, 03:51:11 PM
-date modified: Thursday, May 28th 2026, 3:00:21 pm
+date modified: Tuesday, June 2nd 2026, 6:41:27 pm
 tags: ['Gastroenterology', 'Surgery']
 ---
 
@@ -25,6 +25,7 @@ Bulk-forming laxatives should be used. Stimulant laxatives should be avoided.
 * Diarrhoea, n&v,
 * Rectal bleeding
 * Raised CRP
+* **CT with contrast is the first-line imaging for suspected diverticulitis**
 * mural thickening of the colon and pericolic fat stranding in the sigmoid colon seen on CT 
 
 

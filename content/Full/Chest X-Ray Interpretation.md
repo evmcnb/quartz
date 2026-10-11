@@ -2,7 +2,7 @@
 tags: [Radiology, OSCE, Respiratory, Cardiovascular]
 title: Chest X-Ray Interpretation
 date created: Tuesday, October 10th 2023, 10:10:52 am
-date modified: Tuesday, February 24th 2026, 12:07:28 pm
+date modified: Friday, October 9th 2026, 6:14:52 pm
 date: 2024-02-17
 ---
 > [!info] Note for this page
@@ -89,7 +89,7 @@ Lung opacities are described as **nodular**, **reticular** (network of fine line
 **Reticular opacification** - lung parenchymal changes
 - Acute interstitial oedema
 - Infection: acute (viral, bacterial), chronic (TB, histoplasmosis)
-- Fibrosis: interstitial [[Full/pneumonia]], drugs (methotrexate, [[Pearls/Bleomycin|Bleomycin]], crack cocaine), connective tissue disorders, systemic sclerosis, [[Full/Industrial dust diseases]], [[Full/interstitial lung disease]]
+- Fibrosis: interstitial [[Full/pneumonia]], drugs (methotrexate, [[Pearls/Bleomycin|Bleomycin]], crack cocaine), connective tissue disorders, [[Systemic sclerosis]], [[Full/Industrial dust diseases]], [[Full/interstitial lung disease]]
 
 ![[z_attachments/Pasted image 20231010120103.png|325]]
 

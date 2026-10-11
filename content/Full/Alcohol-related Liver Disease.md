@@ -2,7 +2,7 @@
 tags: [Gastroenterology]
 title: Alcohol-related Liver Disease
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Saturday, May 2nd 2026, 10:36:36 am
+date modified: Monday, September 14th 2026, 8:35:58 am
 date: 2023-09-18
 ---
 
@@ -41,9 +41,24 @@ Alcohol-related liver disease (ARLD) refers to liver damage caused by excess alc
 
 - Stop drinking
 - Good diet and nutrition
-- Corticosteroids ([[Pearls/Prednisolone|Prednisolone]]) reduces mortality
+- Corticosteroids ([[Pearls/Prednisolone|Prednisolone]]) reduces mortality (Maddrey's discriminant score)
 - Liver transplant if [[Pearls/Liver failure|Liver failure]] occurs
 
+> [!NOTE] Maddrey's Discriminant Score
+>
+> Prognostic score for **alcoholic (alcohol-associated) hepatitis** - identifies severe disease and guides corticosteroid use.
+>
+> | Score | Meaning |
+> |---|---|
+> | **< 32** | Mild–moderate disease; good short-term prognosis |
+> | **≥ 32** | **Severe** alcoholic hepatitis; high 28–90 day mortality (~30–50% untreated) |
+>
+> - A score **≥ 32** is the threshold to consider **corticosteroids** (e.g. prednisolone 40 mg/day), provided no contraindication (active infection, GI bleed, uncontrolled sepsis).
+> - Reassess steroid response at day 7 using the **Lille score** — stop steroids if non-responder.
+>
+> ### Limitations
+> - Relies on PT, which varies with lab reagents/control values (INR not interchangeable in the original formula).
+> - Largely superseded or supplemented by **GAHS** (Glasgow Alcoholic Hepatitis Score) and **MELD**, which some find more reproducible.
 ## Complications/red Flags
 - Hepatic encephalopathy - reduce ammonia by giving lactulose (excreted in stool)
 

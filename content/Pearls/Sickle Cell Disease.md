@@ -1,7 +1,7 @@
 ---
 title: Sickle Cell Disease
-date created: Sunday, January 21th 2024, 01:00:56 PM
-date modified: Tuesday, January 27th 2026, 5:20:14 pm
+date created: Tuesday, November 25th 2025, 8:19:38 pm
+date modified: Friday, September 11th 2026, 10:08:29 am
 tags: ['Haematology']
 ---
 Autosomal recessive, more common in those of African descent (heterozygous condition offers protection against [[Malaria]])
@@ -16,6 +16,25 @@ Sickle cells are fragile and haemolyse, occluding small blood vessels causing in
 **Chronic** - hyposplenism, renal disease, avascular necrosis
 
 
+#### Vaso-occlusive crisis
+
+- Extreme pain
+- Distal ischaemia 
+- Can cause priapism
+
+#### Splanchnic crisis 
+
+Blood getting trapped in the spleen.
+- Severe pain
+- Hypovolaemic shock 
+- Recurrent crsis can lead to the hyposplenism and infections with encapsulated bacteria (Strep pneumo, Haem influ)
+
+#### Aplastic crisis 
+
+-  Temporary absence of RBC production
+- May be triggered by parvovirus B19
+- Significant anaemia - transfusions often required
+- Usually resolves spontaneously after a week
 ### Management
 
 ![[Pearls/Sickle Cell Crisis|Sickle Cell Crisis]]

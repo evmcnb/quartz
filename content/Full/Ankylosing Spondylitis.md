@@ -2,7 +2,7 @@
 tags: [Rheumatology, MSK]
 title: Ankylosing Spondylitis
 date: 
-date modified: Monday, October 13th 2025, 7:15:14 pm
+date modified: Friday, September 11th 2026, 10:37:36 am
 date created: Monday, October 13th 2025, 6:54:39 pm
 ---
  Inflammatory condition affecting the axial skeleton (mainly spine and sacroiliac joint) causing stiffness and pain
@@ -29,7 +29,8 @@ Additional symptoms and problems include:
 
 ## Associated Conditions
 
-- [[Full/Uveitis|Uveitis]]
+All begin with A 
+- [[Full/Uveitis| Anterior Uveitis]]
 - [[Full/Aortic regurgitation|Aortic regurgitation]]
 - Atrioventricular block
 - Apical lung fibrosis

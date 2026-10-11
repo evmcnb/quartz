@@ -17,7 +17,7 @@ tags: ['InfectiousDisease']
 
 Complications:
 
-* [[ARDS]] - leading cause of death
+* [[Pearls/ARDS]] - leading cause of death
 * VTE
 * Cardiovascular - [[Full/Heart Failure]], MI
 * AKI

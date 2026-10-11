@@ -2,7 +2,7 @@
 tags: [Cardiovascular, Haematology]
 title: Deep Vein Thrombosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 14th 2026, 8:45:20 pm
+date modified: Sunday, September 13th 2026, 3:12:42 pm
 date: 2024-01-14
 ---
 	
@@ -87,7 +87,6 @@ Perform a **D-dimer** with 4 hours. If unable, give therapeutic anticoagulation 
 
 ![[z_attachments/Pasted image 20260514202412.png]]
 ## Management
-
 
 ### Acute DOAC Rules
 

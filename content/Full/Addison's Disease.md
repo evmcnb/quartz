@@ -2,7 +2,7 @@
 tags: [Endocrinology, Rheumatology]
 title: "Addison's Disease"
 date created: Wednesday, November 1st 2023, 1:06:22 pm
-date modified: Wednesday, May 20th 2026, 10:25:31 am
+date modified: Tuesday, June 2nd 2026, 5:49:00 pm
 date: 2023-11-01
 ---
 
@@ -13,7 +13,7 @@ Primary adrenal cortical insufficiency - not enough steroid hormones
 
 Triad of **hyperpigmentation**, **postural hypotension** and **hyponatraemia**
 
-Plus [[Pearls/Hyperkalaemia|Hyperkalaemia]], metabolic acidosis
+Plus [[Pearls/Hyperkalaemia|Hyperkalaemia]], normal anion gap metabolic acidosis
 
 ##### Secondary and tertiary causes of adrenal insufficiency:
 More common than Addison's  

@@ -2,7 +2,7 @@
 tags: [OBGYN]
 title: Abnormal Uterine Bleeding
 date: 2023-09-27
-date modified: Wednesday, January 7th 2026, 3:39:39 pm
+date modified: Saturday, June 13th 2026, 10:55:15 am
 date created: Wednesday, January 7th 2026, 3:16:22 pm
 ---
 
