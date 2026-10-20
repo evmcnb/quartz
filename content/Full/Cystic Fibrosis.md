@@ -2,7 +2,7 @@
 tags: [Respiratory]
 title: Cystic Fibrosis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, June 2nd 2026, 10:54:47 am
+date modified: Saturday, October 17th 2026, 5:40:24 pm
 date: 2023-09-18
 ---
 
@@ -31,7 +31,7 @@ Other features:
 - Short stature
 - Delayed puberty
 - Rectal prolapse
-- Nasal polyps
+- [[Nasal polyps]]
 ## Diagnostic Tests
 
 - [[Pearls/Newborn Blood Spot Screening Test|Newborn Blood Spot Screening Test]] looking for raised immunoreactive trypsin

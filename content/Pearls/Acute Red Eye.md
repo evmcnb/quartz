@@ -1,7 +1,7 @@
 ---
 title: Acute Red Eye
-date created: Thursday, January 25th 2024, 01:20:11 PM
-date modified: Saturday, June 13th 2026, 10:55:38 am
+date created: Tuesday, November 25th 2025, 8:19:47 pm
+date modified: Sunday, October 18th 2026, 3:44:48 pm
 tags: ['Acute', 'Ophthalmology']
 ---
 

@@ -2,7 +2,7 @@
 tags: [Endocrinology]
 title: "Grave's disease"
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, October 16th 2025, 6:09:05 pm
+date modified: Sunday, October 18th 2026, 4:26:29 pm
 date: 2023-09-27
 ---
 ## Brief Overview
@@ -15,9 +15,17 @@ Grave's disease is an **autoimmune** disorder and the most common cause of [[Ful
 - **_Pretibial myxoedema_**
 - **_Thyroid acropachy_** (**_hand swelling_** and **_finger clubbing_**)
 
+
+## Graves' eye disease
+
+In patients with thyroid eye disease, radioactive iodine ablation therapy should be avoided due to the risk of worsening symptoms.
+
+**Smoking** is the biggest modifiable risk factor
 ## Grave's orbitopathy
 
 - Proptosis
 - Lid lag
 - Pterygium
 - Photophobia
+
+ 

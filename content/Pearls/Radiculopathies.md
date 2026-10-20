@@ -1,7 +1,7 @@
 ---
-title: "Radiculopathies"
-date created: Friday, February 23th 2024, 01:30:00 PM
-date modified: 2024-02-23 13:30:00.220853+00
+title: Radiculopathies
+date created: Friday, February 28th 2025, 4:35:22 pm
+date modified: Monday, October 12th 2026, 6:10:06 pm
 tags: ['Neurology', 'Surgery', 'Orthopaedics']
 ---
 
@@ -17,7 +17,7 @@ Spinal roots are compressed or inflamed
 Commonly due to:
 
 * Disc herniation
-* Spinal stenosis
+* [[Spinal stenosis]]
 * Degenerative changes in spine
 
 Symptoms radiate from the spine to the limbs in a specific pattern corresponding to the affected nerve root

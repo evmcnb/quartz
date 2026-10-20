@@ -1,10 +1,8 @@
 ---
-tags:
-  - Surgery
-  - Gastroenterology
+tags: [Surgery, Gastroenterology]
 title: Ileus
 date created: Friday, February 16th 2024, 4:12:01 pm
-date modified: 2024-03-11
+date modified: Monday, October 19th 2026, 6:23:36 pm
 date: 2024-02-16
 ---
 Affects small bowel where normal peristalsis temporally stops - paralytic  or adynamic ileus
@@ -43,4 +41,5 @@ Supportive care involves:
 - **_IV fluids_** to prevent dehydration and correct the electrolyte imbalances
 - **_Mobilisation_** to helps stimulate peristalsis
 - **_Total parenteral nutrition_** (TPN) may be required whilst waiting for the bowel to regain function
+- **Electrolyte monitoring** - abnormal fluid shifts can occur cuasing derangement of potassium and magnesium 
 

@@ -1,11 +1,9 @@
 ---
-tags:
-  - Ophthalmology
+tags: [Ophthalmology]
 title: Macular degeneration
 date created: Friday, February 9th 2024, 12:29:47 pm
-date modified: 2024-03-11
-aliases:
-  - Age-related macular degeneration
+date modified: Sunday, October 18th 2026, 3:38:50 pm
+aliases: [Age-related macular degeneration]
 date: 2024-02-09
 ---
 **Age related macular degeneration** (AMD)
@@ -22,7 +20,7 @@ date: 2024-02-09
 
 ## Symptoms
 
-- Distortion of vision, where straight lines appear crooked or wavy.
+- Distortion of vision, where straight lines appear crooked or wavy (metamorphosis).
 - Painless loss, or blurring, of central or near-central vision.
 - A black or grey patch affecting the central field of vision (scotoma).
 - Difficulty reading, driving, or seeing fine detail (such as facial features). 
@@ -50,7 +48,7 @@ date: 2024-02-09
 Dry AMD
 - Not much is usually done 
 - Lifestyle factors stop smoking & controlling blood pressure
-- Some studies have shown vitamin supplementation to be effective
+- Vitamins C and E, beta-carotene, and zinc supplementation have been shown to reduce its' progression.
 
 Wet AMD
 - To try and prevent neovascularization, anti-VEGF (vascular endothelial growth factor) can be injected in the vitreous about once a month 

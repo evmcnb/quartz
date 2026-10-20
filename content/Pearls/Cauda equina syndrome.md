@@ -2,7 +2,8 @@
 tags: [MSK, Orthopaedics, Acute, Neurology]
 title: Cauda equina syndrome
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Monday, October 12th 2026, 6:10:02 pm
+date created: Wednesday, September 10th 2025, 2:24:33 pm
 ---
 Where the lumbosacral nerve roots that extend below the spinal cord are compressed
 
@@ -19,7 +20,7 @@ Need to consider in any patient who presents with new/worsening lower back pain.
 
 No one symptom/sign to include/exclude CES. Features include:
 - low back pain
-- bilateral sciatica (present in 50% of cases)
+- **bilateral** sciatica (present in 50% of cases)
 - altered sensation in perianal area
 - decreased anal tone
 - urinary dysfunction 

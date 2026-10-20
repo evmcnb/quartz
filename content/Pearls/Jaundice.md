@@ -1,7 +1,7 @@
 ---
-title: "Jaundice"
-date created: Saturday, March 09th 2024, 04:33:19 PM
-date modified: 2024-03-09 16:33:19.055441+00
+title: Jaundice
+date created: Friday, February 28th 2025, 4:35:22 pm
+date modified: Monday, October 19th 2026, 6:12:07 pm
 tags: ['Hepatology']
 ---
 
@@ -23,3 +23,8 @@ Or by the type of circulating bilirubin - conjugated or unconjugated
 
 * Water soluble - excreted in urine making it darker
 * Failure of conjugated bilirubin to be excreted by the gall bladder into the intestines can cause pale stools
+
+
+## Localising the lesion
+
+![[z_attachments/biliary-obstruction-sites.svg]]

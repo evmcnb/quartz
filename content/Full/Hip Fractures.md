@@ -2,7 +2,7 @@
 tags: [Orthopaedics, Surgery, Geriatrics]
 title: Hip Fractures
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: 2024-03-11
+date modified: Monday, October 12th 2026, 5:44:43 pm
 date: 2023-11-10
 ---
 
@@ -48,6 +48,13 @@ Get a full history
 - pevlic & hip XR
 
 - MRI/CT if no obvious fracture seen
+
+
+The Garden system is one classification system in common use.  
+- Type I: Stable fracture with impaction in valgus
+- Type II: Complete fracture but undisplaced
+- Type III: Displaced fracture, usually rotated and angulated, but still has boney contact
+- Type IV: Complete boney disruption
 
 ## Management
 

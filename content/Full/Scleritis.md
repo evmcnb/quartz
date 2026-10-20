@@ -1,9 +1,8 @@
 ---
-tags:
-  - Ophthalmology
+tags: [Ophthalmology]
 title: Scleritis
 date created: Friday, February 9th 2024, 1:57:42 pm
-date modified: 2024-03-11
+date modified: Sunday, October 18th 2026, 3:36:15 pm
 date: 2024-02-09
 ---
 A severe sight threatening inflammatory conditions characterised by inflammation of the sclera 
@@ -21,12 +20,12 @@ Posterior scleritis
 > Is inflammation of the superficial episcleral later of the eye. It is relatively common benign and self-limiting. Not that painful - only a segment of the eye may be red
 > Episcleritis **does not** progress to scleritis 
 
-|                 | Scleritis                                                                                       | Episcleritis                                    |
-| --------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| Pathophysiology | Autoimmune dysregulation                                                                        | Idiopathic inflammation                         |
-| Symptoms        | Subacute<br>Severe pain<br>Pain with eye movement <br>Blurred vision/vision loss<br>Photophobia | Acute onset<br>Mild pain<br>Redness, irritation |
-| Physical exam   | Adherent vessels<br>Does not blanch with phenylephrine drops <br>Bluish hue<br>Slit lamp may reveal nodules scleral thining and corneal changes<br>Systemic inflammation (joint pain [[snippets/Rashes|Rashes]])                      | Mobile vessels<br>Blanch with phenylephrine drops<br>Reddish hue                                                |
-| Treatment       | Systemic steroid/NSAIDs $\pm$ topical antibiotics                                                                                                | Self-limited<br>Consider topical steroids in refractory cases                                                |
+|                 | Scleritis                                                                                                                                                                                                      | Episcleritis                                                     |
+| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Pathophysiology | Autoimmune dysregulation                                                                                                                                                                                       | Idiopathic inflammation                                          |
+| Symptoms        | Subacute<br>Severe pain<br>Pain with eye movement <br>Blurred vision/vision loss<br>Photophobia                                                                                                                | Acute onset<br>Mild pain<br>Redness, irritation                  |
+| Physical exam   | Adherent vessels<br>Does not blanch with phenylephrine drops <br>Bluish hue<br>Slit lamp may reveal nodules scleral thining and corneal changes<br>Systemic inflammation (joint pain [[Pearls/Rashes\|Rashes]] | Mobile vessels<br>Blanch with phenylephrine drops<br>Reddish hue |
+| Treatment       | Systemic steroid/NSAIDs $\pm$ topical antibiotics                                                                                                                                                              | Self-limited<br>Consider topical steroids in refractory cases    |
 
 ## Causes/Factors
 

@@ -1,7 +1,7 @@
 ---
 title: "Bell's Palsy"
-date created: Friday, February 23th 2024, 01:33:04 PM
-date modified: Wednesday, November 5th 2025, 2:55:44 pm
+date created: Tuesday, November 25th 2025, 8:20:18 pm
+date modified: Sunday, October 18th 2026, 6:41:50 pm
 tags: ['Neurology']
 ---
 
@@ -19,5 +19,5 @@ Associated with viral infections
 
 Most resolve spontaneously within weeks to months but **corticosteroids** may be prescribed
 
-Eye protection is essential to prevent corneal damage due to blinking
+Eye protection is essential to prevent corneal damage due to blinking (exposure keratopathy)
 

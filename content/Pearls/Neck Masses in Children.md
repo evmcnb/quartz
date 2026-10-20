@@ -2,7 +2,8 @@
 tags: [ENT, Paediatrics]
 title: Neck Masses in Children
 date: 2023-09-27
-date modified: 2025-04-23
+date modified: Saturday, October 17th 2026, 5:55:06 pm
+date created: Wednesday, February 4th 2026, 10:57:04 am
 ---
 
 | **Thyroglossal cyst**       | - Located in the anterior triangle, usually in the midline and below the hyoid (65% cases)<br>- Derived from remnants of the thyroglossal duct<br>- Thin walled and anechoic on USS (echogenicity suggests infection of cyst)                                                                                                                                                                                            |

@@ -2,7 +2,7 @@
 tags: [Rheumatology]
 title: Polymyalgia rheumatica
 date: 
-date modified: Saturday, October 10th 2026, 3:17:48 pm
+date modified: Friday, October 16th 2026, 12:20:14 pm
 date created: Tuesday, October 14th 2025, 5:15:04 pm
 ---
 **_Inflammatory_** condition that causes pain and stiffness in the shoulders, pelvic girdle and neck.
@@ -45,7 +45,7 @@ Differentials:
 - [[Pearls/Statins|Statin]]-induced myopathy
 - [[Full/Myositis]] (e.g., polymyositis)
 - Cervical spondylosis
-- Adhesive capsulitis (frozen shoulder)
+- [[Adhesive capsulitis]] (frozen shoulder)
 - [[Full/Hyperthyroidism|Hyperthyroidism]] or [[Full/Hypothyroidism|Hypothyroidism]]
 - [[Pearls/Osteomalacia|Osteomalacia]]
 - [[Pearls/Fibromyalgia|Fibromyalgia]]

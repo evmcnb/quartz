@@ -2,7 +2,7 @@
 tags: [Ophthalmology, Acute]
 title: Acute Angle Closure Glaucoma
 date created: Thursday, January 25th 2024, 1:36:50 pm
-date modified: Tuesday, October 14th 2025, 4:58:08 pm
+date modified: Sunday, October 18th 2026, 3:44:43 pm
 date: 2024-01-25
 ---
 ![[z_attachments/Pasted image 20240125141057.png]]
@@ -39,6 +39,8 @@ Trabecular meshwork physically blocked
 - Associated headache nausea and vomiting 
 
 ## Investigations
+
+**Gonioscopy** - involves using a slit-lamp examination and a specific lens to view the angle of the eye
 
 Clinical examination:
 - **_Red eye_**

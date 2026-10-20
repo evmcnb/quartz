@@ -2,7 +2,7 @@
 tags: [Ophthalmology]
 title: Conjunctivitis
 date created: Wednesday, January 24th 2024, 1:26:03 pm
-date modified: 2024-03-11
+date modified: Sunday, October 18th 2026, 4:23:14 pm
 date: 2024-02-09
 ---
 Inflammation of the conjunctiva
@@ -59,7 +59,7 @@ Causes of an acute **_painless red eye_** include:
 - Hygiene measures can reduce spreading
 - Cleaning eyes with cooled boiled water and cotton wool
 
-- Chloramphenicol or fusidic acid eye drops if necessary 
+- Chloramphenicol (1) then fusidic acid (2) eye drops if suspect bacterial  
 - Antihistamines for allergic cause can be helpful 
 
 ## Complications/red Flags

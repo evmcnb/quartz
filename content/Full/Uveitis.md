@@ -1,11 +1,9 @@
 ---
-tags:
-  - Ophthalmology
+tags: [Ophthalmology]
 title: Uveitis
 date created: Friday, February 9th 2024, 11:49:47 am
-date modified: 2024-03-11
-aliases:
-  - Iritis
+date modified: Sunday, October 18th 2026, 3:45:24 pm
+aliases: [Iritis]
 date: 2024-02-09
 ---
 > [!info] Classification and terms

@@ -1,10 +1,9 @@
 ---
-tags:
-  - OSCE
-  - Examination
+tags: [OSCE, Examination]
 title: Elbow Exam
 date: 2024-04-30
-date modified: 2024-04-30
+date modified: Friday, October 16th 2026, 1:16:13 pm
+date created: Tuesday, November 25th 2025, 8:19:59 pm
 ---
 
 ## Introduction

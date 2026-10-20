@@ -2,7 +2,7 @@
 tags: [Urology, Nephrology]
 title: Urinary Tract Infection
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Monday, June 1st 2026, 11:48:47 am
+date modified: Tuesday, October 20th 2026, 4:23:59 pm
 date: 2023-09-18
 aliases: [Pyelonephritis]
 ---
@@ -89,6 +89,12 @@ Do not rely on classical symptoms in a catharised patient
 - *Trimethoprim* OR *nitrofurantoin* for **3 days** 
 - Send a urine culture if >65 or haematuria
 
+###### Recurrent Symptoms
+
+1. Vaginal oestrogen if perimenopause or menopause and other self-care measures in-effective
+2. If not effective single-dose antibiotic when identifiable trigger
+3. Methenamine hippurate (6 month review)
+4. Trial of daily antibiotics (6 months review)
 ##### Pregnant women
 
 **Treat even if asymptomatic**

@@ -2,7 +2,7 @@
 title: Otitis media
 tags: [Dermatology, Paediatrics]
 date: 2023-09-27
-date modified: Wednesday, May 20th 2026, 12:53:44 pm
+date modified: Sunday, October 18th 2026, 3:33:55 pm
 date created: Friday, February 6th 2026, 1:47:15 pm
 ---
 
@@ -80,6 +80,6 @@ For children a surgical option may be grommets and myringotomy
 ###### Mastoiditis
 
 - Most common complication - inflammation of the mastoid [[Pearls/Bone|Bone]] and air cells
-- CT scan always required
+- **CT scan always required**
 - Analgesia, IV antibiotics +/- mastoidectomy
 - Risks [[Full/Meningitis|Meningitis]] if left untreated

@@ -2,7 +2,7 @@
 tags: [Paediatrics, Neonatology, OSCE, Examination]
 title: Newborn infant physical examination
 date: ""
-date modified: Tuesday, June 2nd 2026, 9:15:24 am
+date modified: Sunday, October 18th 2026, 4:41:40 pm
 date created: Thursday, December 18th 2025, 11:19:41 am
 ---
 
@@ -113,7 +113,7 @@ Very important to document any birthmarks or bruising/lacerations from birth tra
 1. Look through the ophthalmoscope, shining the light towards the patient’s eye at a distance of approximately one arm’s length.
 2. Observe for a reddish/orange reflection in each pupil, caused by light reflecting back from the vascularised retina.
 
-An absent fundal reflex or the presence of a white reflex requires **immediate ophthalmology referral** (congenital [[Full/Cataracts|Cataracts]], [[Full/Retinal detachment|Retinal detachment]], vitreous haemorrhage and [[Pearls/Retinoblastoma]]
+An absent fundal reflex or the presence of a white reflex requires **immediate ophthalmology referral** (congenital [[Full/Cataracts|Cataracts]], [[Full/Retinal detachment|Retinal detachment]], [[Vitreous haemorrhage]] and [[Pearls/Retinoblastoma]]
 
 ## Ears
 

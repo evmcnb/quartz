@@ -2,7 +2,7 @@
 tags: [Gastroenterology, ENT]
 title: Tonsillitis & Pharyngitis
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Thursday, May 28th 2026, 1:36:22 pm
+date modified: Saturday, October 17th 2026, 6:13:17 pm
 date: 2023-09-18
 ---
 
@@ -56,6 +56,9 @@ If needed:
 3. **Hydration:** Drinking fluids to stay hydrated.
 4. **Saltwater Gargle:** Warm saltwater gargles for soothing the throat.
 
+
+> [!warning] Amoxicillin in tonsillitis 
+> In cases where [[Full/Infectious Mononucleosis|Infectious Mononucleosis]] is suspected, amoxicillin could result in a drug rash reaction. 
 
 ### Tonsillectomy
 

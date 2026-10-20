@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="716" viewBox="0 0 680 716" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <title>Biliary obstruction sites and jaundice</title>
+  <rect x="0" y="0" width="680" height="716" rx="12" fill="#ffffff"/>
+  <text x="30" y="38" font-size="18" font-weight="600" fill="#2C2C2A">Biliary obstruction: which sites cause jaundice?</text>
+
+  <g transform="translate(0,40)">
+    <!-- Liver -->
+    <path d="M110 40 Q340 10 570 40 Q600 80 540 120 L140 120 Q90 90 110 40Z" fill="#FAECE7" stroke="#D85A30" stroke-width="1"/>
+    <text x="340" y="76" font-size="14" fill="#712B13" text-anchor="middle">Liver</text>
+
+    <!-- Pancreas head -->
+    <ellipse cx="285" cy="420" rx="62" ry="38" fill="#FAEEDA" stroke="#BA7517" stroke-width="1"/>
+    <!-- Duodenum -->
+    <rect x="352" y="300" width="56" height="170" rx="24" fill="#FBEAF0" stroke="#D4537E" stroke-width="1"/>
+    <!-- Pancreatic duct -->
+    <path d="M228 432 Q290 418 320 397" fill="none" stroke="#BA7517" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Bile ducts -->
+    <g fill="none" stroke="#639922" stroke-width="7" stroke-linecap="round">
+      <path d="M260 105 L320 150"/>
+      <path d="M400 105 L320 150"/>
+      <path d="M320 150 L320 228"/>
+      <path d="M200 222 Q250 200 316 228"/>
+      <path d="M320 228 L320 396"/>
+      <path d="M320 396 L350 396"/>
+    </g>
+    <!-- Gallbladder -->
+    <ellipse cx="175" cy="275" rx="38" ry="58" fill="#C0DD97" stroke="#3B6D11" stroke-width="1"/>
+
+    <!-- Structure labels -->
+    <g font-size="13" fill="#444441">
+      <line x1="372" y1="118" x2="436" y2="130" stroke="#888780" stroke-width="0.75" stroke-dasharray="3 3"/>
+      <text x="442" y="134">Right / left hepatic ducts</text>
+      <line x1="324" y1="168" x2="436" y2="168" stroke="#888780" stroke-width="0.75" stroke-dasharray="3 3"/>
+      <text x="442" y="172">Common hepatic duct</text>
+      <line x1="324" y1="252" x2="436" y2="252" stroke="#888780" stroke-width="0.75" stroke-dasharray="3 3"/>
+      <text x="442" y="256">Common bile duct</text>
+      <line x1="408" y1="396" x2="436" y2="396" stroke="#888780" stroke-width="0.75" stroke-dasharray="3 3"/>
+      <text x="442" y="392">Ampulla of Vater /</text>
+      <text x="442" y="408">sphincter of Oddi</text>
+      <line x1="408" y1="452" x2="436" y2="452" stroke="#888780" stroke-width="0.75" stroke-dasharray="3 3"/>
+      <text x="442" y="456">Duodenum</text>
+      <text x="226" y="252">Cystic duct</text>
+      <text x="175" y="356" text-anchor="middle">Gallbladder</text>
+      <text x="200" y="482" text-anchor="middle">Pancreas (head)</text>
+    </g>
+
+    <!-- Site markers -->
+    <g font-size="13" font-weight="600" text-anchor="middle">
+      <circle cx="252" cy="194" r="13" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.5"/>
+      <text x="252" y="199" fill="#27500A">1</text>
+      <circle cx="342" cy="196" r="13" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+      <text x="342" y="201" fill="#633806">2</text>
+      <circle cx="298" cy="310" r="13" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+      <text x="298" y="315" fill="#633806">3</text>
+      <circle cx="330" cy="424" r="13" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+      <text x="330" y="429" fill="#633806">4</text>
+      <circle cx="378" cy="396" r="13" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+      <text x="378" y="401" fill="#633806">5</text>
+    </g>
+  </g>
+
+  <!-- Key -->
+  <line x1="30" y1="540" x2="650" y2="540" stroke="#D3D1C7" stroke-width="1"/>
+  <g font-size="13">
+    <circle cx="44" cy="566" r="10" fill="#EAF3DE" stroke="#3B6D11" stroke-width="1.5"/>
+    <text x="44" y="570" fill="#27500A" font-weight="600" text-anchor="middle">1</text>
+    <text x="64" y="570" fill="#2C2C2A"><tspan font-weight="600">Cystic duct: no jaundice.</tspan> Only the gallbladder is cut off; bile still flows to the duodenum.</text>
+
+    <circle cx="44" cy="596" r="10" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+    <text x="44" y="600" fill="#633806" font-weight="600" text-anchor="middle">2</text>
+    <text x="64" y="600" fill="#2C2C2A">Common hepatic duct</text>
+    <circle cx="244" cy="596" r="10" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+    <text x="244" y="600" fill="#633806" font-weight="600" text-anchor="middle">3</text>
+    <text x="264" y="600" fill="#2C2C2A">Common bile duct</text>
+    <circle cx="424" cy="596" r="10" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+    <text x="424" y="600" fill="#633806" font-weight="600" text-anchor="middle">4</text>
+    <text x="444" y="600" fill="#2C2C2A">Ampulla of Vater</text>
+    <circle cx="44" cy="626" r="10" fill="#FAEEDA" stroke="#854F0B" stroke-width="1.5"/>
+    <text x="44" y="630" fill="#633806" font-weight="600" text-anchor="middle">5</text>
+    <text x="64" y="630" fill="#2C2C2A">Sphincter of Oddi</text>
+    <text x="64" y="660" fill="#2C2C2A"><tspan font-weight="600">2–5: obstructive jaundice.</tspan> Bile can't reach the duodenum → conjugated bilirubin backs up</text>
+    <text x="64" y="678" fill="#5F5E5A">(dark urine, pale stools). Ampulla lesion, e.g. pancreatic head cancer →</text>
+    <text x="64" y="696" fill="#5F5E5A">painless jaundice with a palpable gallbladder (Courvoisier's sign).</text>
+  </g>
+</svg>

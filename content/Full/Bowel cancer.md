@@ -2,7 +2,7 @@
 tags: [Gastroenterology, Oncology]
 title: Bowel cancer
 date: 2024-04-21
-date modified: Friday, May 29th 2026, 6:32:14 pm
+date modified: Tuesday, October 20th 2026, 4:17:59 pm
 date created: Tuesday, September 3rd 2024, 10:43:49 pm
 ---
 Bowel cancer usually refers to cancer of the colon or rectum. Small bowel and anal cancers are less common.

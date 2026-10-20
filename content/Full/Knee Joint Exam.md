@@ -2,7 +2,7 @@
 tags: [MSK, OSCE, Examination]
 title: Knee Joint Exam
 date created: Saturday, November 4th 2023, 5:03:20 pm
-date modified: Friday, September 11th 2026, 10:18:01 am
+date modified: Friday, October 16th 2026, 11:57:20 am
 date: 2024-01-11
 ---
 
@@ -54,7 +54,7 @@ Walk to the end of the room and turn back
 
 #### Joint lines
 - Palpate for tenderness along the joint line and patella
-- Feel behind the knee for popliteal (Baker's) cyst
+- Feel behind the knee for popliteal ([[Baker's cyst|Baker's]]) cyst 
 
 #### Patella Tap
 - Assess for effusion by performing patella tap

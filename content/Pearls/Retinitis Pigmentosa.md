@@ -1,7 +1,7 @@
 ---
-title: "Retinitis Pigmentosa"
-date created: 2024-04-16 10:42:56.746182+01
-date modified: 2024-04-16 10:42:56.751548+01
+title: Retinitis Pigmentosa
+date created: Tuesday, November 25th 2025, 8:19:37 pm
+date modified: Sunday, October 18th 2026, 4:01:10 pm
 tags: ['Ophthalmology']
 ---
 
@@ -13,3 +13,4 @@ Loss of **night vision**, tunnel vision, loss of central vision, loss of colour 
 
 ***Fundoscopy*** shows ***pigmentation*** described as “***[[Pearls/Bone|Bone]]-spicule***”
 
+![[z_attachments/Pasted image 20261018154935.png]]

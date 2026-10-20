@@ -2,7 +2,7 @@
 tags: [Orthopaedics]
 title: Fractures
 date: 2023-09-27
-date modified: Sunday, October 11th 2026, 7:05:01 pm
+date modified: Monday, October 12th 2026, 5:44:23 pm
 date created: Sunday, October 11th 2026, 5:14:52 pm
 ---
 A compound fracture is when the skin is broken and the broken bone is exposed to the air. The broken bone can puncture through the skin.
@@ -23,10 +23,21 @@ A pathological fracture refers to when a bone breaks due to an abnormality withi
 | Greenstick                            | ![[z_attachments/Pasted image 20261011174200.png\|260]] |
 | Buckle (torus)                        | ![[z_attachments/Pasted image 20261011174356.png\|245]] |
 | Salter-Harris (growth plate fracture) | ![[z_attachments/Pasted image 20261011174746.png\|268]] |
+|                                       |                                                         |
 
 
 > [!tldr] Interpretation of Plain Films MSK XRs
-> 
+> **CAB WWAAD**
+> - **C**orrect view: "This is an AP & lateral view of..."
+> - **A**natomy: which bone(s)
+> - **B**roken? 
+>   
+>   
+> - **W**here on the bone (proximal, midshaft distal) 
+> - **W**hat type of fracture: normal, transverse, spiral, commuted etc
+> - **A**rticular involvement?
+> - **A**ngulated?
+> - **D**isplaced? 
 
 
 ## Hand Fractures

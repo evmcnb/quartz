@@ -2,7 +2,7 @@
 tags: [OSCE, Examination, MSK]
 title: Hand and Wrist Exam
 date: 2024-04-30
-date modified: Friday, September 11th 2026, 10:22:01 am
+date modified: Friday, October 16th 2026, 1:32:28 pm
 date created: Tuesday, November 25th 2025, 8:20:03 pm
 ---
 
@@ -44,8 +44,8 @@ date created: Tuesday, November 25th 2025, 8:20:03 pm
 - Hand posture
 - Scars
 - Swelling
-- Dupuytren's contracture - thickening of the palmar fascia 
-- Thenar/hypothenar wasting. Isolated wasting of the **thenar eminence** is suggestive of **median** nerve damage - **carpal tunnel syndrome** 
+- [[Dupuytren's contracture]] - thickening of the palmar fascia 
+- Thenar/hypothenar wasting. Isolated wasting of the **thenar eminence** is suggestive of **median** nerve damage - **[[Carpal tunnel syndrome]]** 
 - Elbows
 - [[Full/Janeway lesions and Osler's nodes]]
 

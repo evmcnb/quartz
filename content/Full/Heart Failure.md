@@ -2,7 +2,7 @@
 tags: [Cardiovascular]
 title: Heart Failure
 date created: Tuesday, August 1st 2023, 5:40:21 pm
-date modified: Tuesday, June 2nd 2026, 5:24:35 pm
+date modified: Tuesday, October 20th 2026, 5:41:50 pm
 date: 2024-01-31
 ---
 
@@ -22,7 +22,6 @@ Defined as when cardiac output is inadequate for the body's normal requirements.
 
 
 ![[Excalidraw/Drawing 2025-08-11 19.44.33.excalidraw.png|500]]
-
 
 **Acute heart failure** - new-onset acute or decompensation of chronic heart failure with pulmonary and peripheral oedema without peripheral hypoperfusion
 
@@ -88,15 +87,17 @@ Initial:
 - Lifestyle advice - annual flu vaccine, stop smoking, 
 
 
-> [!success] 5 Key Pillars of Systolic Management
+> [!success] 4 Key Pillars of Systolic Management
 > ACEi and Beta blockers first line for HFrEF.
->- **A** – **A**CE/ARB inhibitor (e.g., **_ramipril_**, losartan) titrated as high as tolerated - removal of excess fluid (ARB if ACEi not tolerated, e.g. dry cough). Need appropriate eGFR and K+ levels 
->- **M** – **M**ineralcorticoid receptor antagonist (aldosterone antagonist) when symptoms are not controlled with ACE and $\beta$-blockers (e.g., **_spironolactone_** or **_eplerenone_**). Can also cause hyperkalaemia
->- **B** – **B**eta blocker (e.g., **_bisoprolol_** (good for reactive airways), metoprolol succinate, carvedilol ($\alpha$ & $\beta$ effects)) titrated as high as tolerated - decreases heart rate and increases force of contraction 
->- **L** – **L**oop diuretics (e.g., **_furosemide_** or **_bumetanide_**) - no **prognostic** benefit only symptomatic 
+>- **A**CE/ARB inhibitor (e.g., **_ramipril_**, losartan) titrated as high as tolerated - removal of excess fluid (angiotensin receptor-neprilysin inhibitor (ARNI) if ACEi not tolerated, e.g. dry cough then ARB if ARNI not tolerated (angioedema)). Need appropriate eGFR and K+ levels 
+>- **B**eta blocker (e.g., **_bisoprolol_** (good for reactive airways), metoprolol succinate, carvedilol ($\alpha$ & $\beta$ effects)) titrated as high as tolerated - decreases heart rate and increases force of 
+>-  **M**ineralcorticoid receptor antagonist (aldosterone antagonist) when symptoms are not controlled with ACE and $\beta$-blockers (e.g., **_spironolactone_** or **_eplerenone_**). Can also cause hyperkalaemia contraction 
+>-  **S**GLT2i (causes peeing out glucose) eg forxiga, dapagliflozin. eGFR >20 to give. Critical for both systolic and diastolic failure
 >
->Newly added but also essential:
->- SGLT2i (causes peeing out glucose) eg forxiga, dapagliflozin. eGFR >20 to give. Critical for both systolic and diastolic failure
+>If patients on the above combination of 4 medications continue to have symptoms **switch ACE-inhibitor for an angiotensin receptor-neprilysin inhibitor**
+
+
+Loop diuretics no longer mainstay - (e.g., **_furosemide_** or **_bumetanide_**) - no **prognostic** benefit only symptomatic 
 
 U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all cause electrolyte disturbances. ACEi and aldosterone antagonists can cause [[Pearls/Hyperkalaemia|Hyperkalaemia]]
 
@@ -108,18 +109,23 @@ U&Es should be monitored as ACEi, diuretics and aldosterone antagonists can all 
 
 > [!warning] Diastolic Management
 > No concrete management for the management - need to **treat the underlying disorder**
-> - Diuretics for fluid overload and antihypertensive therapy if hypertensive.
-> - Some new evidence that MRA decreases hospitalisations but not mortality benefits
+> - MRA
 > - SGLT2i $\downarrow$ cardiovascular death 
 
 
 ### Acute management
 
-In acute heart failure with hypotension, inotropes (e.g. dobutamine) be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock
+- IV loop diuretics. Higher dose than which the person was admitted.
+- Maintain oxygen targets
+- Vasodilators - IV GTN isosorbide dinitrate (reduce preload and afterload). Should not be given in systolic < 100. Have a role if concomitant myocardial ischaemia, severe hypertension or regurgitant aortic or mitral valve disease
 
+In acute heart failure with hypotension, inotropes (e.g. dobutamine) be considered for patients with severe left ventricular dysfunction who have potentially reversible cardiogenic shock
 
 Surgical - heart transplant can be considered
 
+CPAP with [[Pearls/Pulmonary oedema due to HF exacerbation|Pulmonary oedema due to HF exacerbation]]
+
+Only stop beta blockers if HR <50, 2nd or 3rd degree AV block or shock. 
 ## Complications/red Flags
 
 - Arrythmias

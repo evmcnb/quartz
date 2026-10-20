@@ -1,12 +1,10 @@
 ---
-tags:
-  - Ophthalmology
+tags: [Ophthalmology]
 title: Infective Keratitis
 date created: Wednesday, February 7th 2024, 12:58:38 pm
-date modified: 2024-03-11
+date modified: Sunday, October 18th 2026, 4:41:33 pm
 date: 2024-02-07
-aliases:
-  - Corneal ulcer
+aliases: [Corneal ulcer]
 ---
 [[Full/Corneal abrasion]] + bacteria/infective element $\rightarrow$ corneal abrasion (infective keratitis)
 
@@ -16,12 +14,12 @@ aliases:
 > - Bacterial and viral are the most common - rarely fungal or protozoan
 
 
-|               | **Pathogens**                                                       | **Clinical features**                                                                                                                                             | **Management**                                                                  |
-| ------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| **Bacterial** | - Pseudomonas spp.<br>- Staphylococcus spp.<br>- Streptococcus spp. | - Mucopurulent discharge<br>- Yellow-white infiltrate with clearly defined margins<br>- Hypopyon +                                                                | - Topical antibiotics (chloramphenicol), and steroids<br>- +/- oral antibiotics |
-| **Viral**     | - Herpes Simplex Virus<br>- [[snippets/Varicella zoster virus|Varicella zoster virus]]                  | - Clear discharge / epiphora<br>- Epithelial defect with linear branching and terminal bulbs (**dendritic ulcer**)<br>- Reduced corneal sensation<br>- Hypopyon – | - Topical antivirals (acyclovir) and cycloplegics                               |
-| **Fungal**    | - Aspergillus spp.<br>- Fusarium spp.<br>- Candida spp.             | - Mucopurulent discharge (less than bacterial)<br>- Grey-white infiltrate with fluffy margins and satellite lesions<br>- Hypopyon +                               | - Topical antifungals<br>- +/ topical antibiotics<br>- +/- systemic antifungals |
-| **Protozoan** | - Acanthamoeba spp.                                                 | - Clear discharge / epiphora<br>- Ring-shaped infiltrate<br>- Reduced corneal sensation<br>- Hypopyon +/-                                                         | - Topical PHMB and chlorhexidine                                                |
+|               | **Pathogens**                                                                                                   | **Clinical features**                                                                                                                                             | **Management**                                                                  |
+| ------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **Bacterial** | - Pseudomonas spp. (contact lens users)<br>- Staphylococcus spp.<br>- Streptococcus spp.                        | - Mucopurulent discharge<br>- Yellow-white infiltrate with clearly defined margins<br>- Hypopyon                                                                  | - Topical antibiotics (chloramphenicol), and steroids<br>- +/- oral antibiotics |
+| **Viral**     | - Herpes Simplex Virus (dendritic ulcers)<br>- [[Pearls/Varicella zoster virus\|Varicella zoster virus]]        | - Clear discharge / epiphora<br>- Epithelial defect with linear branching and terminal bulbs (**dendritic ulcer**)<br>- Reduced corneal sensation<br>- Hypopyon – | - Topical antivirals (acyclovir) and cycloplegics                               |
+| **Fungal**    | - Aspergillus spp. (usually related to trauma or foreign bodies)<br>- Candida spp. (immunocompromised patients) | - Mucopurulent discharge (less than bacterial)<br>- Grey-white infiltrate with fluffy margins and satellite lesions<br>- Hypopyon +                               | - Topical antifungals<br>- +/ topical antibiotics<br>- +/- systemic antifungals |
+| **Protozoan** | - Acanthamoeba spp.(contact lens washed in sink/non-sterile water)                                              | - Clear discharge / epiphora<br>- Ring-shaped infiltrate<br>- Reduced corneal sensation<br>- Hypopyon +/-                                                         | - Topical PHMB and chlorhexidine                                                |
 
 ## Bacterial
 

@@ -27,7 +27,7 @@ Differentiation between [[Full/Periorbital cellulitis]] and orbital [[Full/Cellu
 
 - Erythema and swelling around the eye
 - <mark style="background: #FF5582A6;">Painful eye movements</mark>
-- <mark style="background: #FF5582A6;">Change in colour vision</mark>
+- <mark style="background: #FF5582A6;">Change in colour vision</mark> - late sign shows advanced disease
 - <mark style="background: #FF5582A6;">Change in visual acuity/fields</mark>
 - <mark style="background: #FF5582A6;">Proptosis</mark>
 - <mark style="background: #FF5582A6;">Chemosis (swelling on conjunctiva)</mark>

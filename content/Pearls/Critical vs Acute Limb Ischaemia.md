@@ -7,7 +7,7 @@ tags: ['Cardiovascular']
 
 
 
-Acute limb ischaemia - limb MI  
+Acute limb ischaemia - limb MI. LMWH, analgesia, urgent doppler, emergency vascular surgery referral 
 
 Critical limb ischaemia - unstable [[Full/Angina]]   
 
